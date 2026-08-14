@@ -1,0 +1,5 @@
+- `[x]` Update `libs.versions.toml` with latest stable versions
+- `[x]` Refactor `app/build.gradle.kts` to use Version Catalog references
+- `[x]` Perform Gradle Sync
+- `[x]` Verify build success with `./gradlew assembleDebug`
+- `[x]` Migrate to AGP 9.0 Built-in Kotlin (removed redundant plugin)

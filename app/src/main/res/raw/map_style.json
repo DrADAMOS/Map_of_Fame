@@ -1,0 +1,20 @@
+[
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry.border",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.province",
+    "elementType": "geometry.border",
+    "stylers": [
+      {
+        "visibility": "off"
+      }
+    ]
+  }
+]

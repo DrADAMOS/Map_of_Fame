@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>خريطة العظماء</title>
+
+    <!-- Local Libraries -->
+    <link rel="stylesheet" href="lib/leaflet.css" />
+    <script src="lib/leaflet.js"></script>
+    <script src="lib/tailwind.js"></script>
+    <script src="lib/confetti.js"></script>
+    <link rel="stylesheet" href="lib/fontawesome.css" />
+
+    <!-- Local Styles -->
+    <link rel="stylesheet" href="css/style.css" />
+
+    <script>
+        tailwind.config = { theme: { extend: { fontFamily: { cairo: ['Cairo', 'sans-serif'] } } } }
+    </script>
+</head>
+<body onclick="Music.unlock()" class="rtl">
+    <div class="signature">ADAMOS Ninurta</div>
+    <div id="safe-spacer"></div>
+
+    <div id="hud-bar">
+        <div class="stat-badge cursor-pointer active:scale-90 transition-transform" onclick="exitToHome()">
+            <i class="fa-solid fa-house text-yellow-500"></i>
+        </div>
+        <div class="stat-badge"><i class="fa-solid fa-star text-yellow-500 mr-1"></i> <span id="scoreTxt">0</span></div>
+        <div class="stat-badge text-red-500 border-red-500" id="timer">30</div>
+        <div class="stat-badge" id="qCounter">1 / 10</div>
+    </div>
+
+    <div id="map-area"><div id="map"></div></div>
+
+    <div id="game-ui">
+        <div class="flex justify-between items-center bg-white/5 p-4 rounded-2xl mb-4 border border-white/10">
+            <div class="text-center">
+                <div class="text-[10px] text-gray-400 font-bold uppercase" id="lblBirth">الميلاد</div>
+                <div id="birthYear" class="text-xl font-black text-yellow-500">—</div>
+            </div>
+            <button onclick="doHint()" id="hintBtn" class="bg-yellow-500 text-black text-xs font-black px-6 py-2 rounded-full shadow-xl active:scale-90 transition-transform">تلميح</button>
+            <div class="text-center">
+                <div class="text-[10px] text-gray-400 font-bold uppercase" id="lblDeath">الوفاة</div>
+                <div id="deathYear" class="text-xl font-black text-red-500">—</div>
+            </div>
+        </div>
+        <div id="optsGrid" class="opts-grid"></div>
+        <div id="hintTxt" class="text-[11px] text-yellow-500 text-center mt-3 h-4 italic font-bold"></div>
+    </div>
+
+    <!-- Start Screen -->
+    <div id="startScreen" class="overlay">
+        <div class="absolute top-14 left-6 flex flex-col gap-3">
+            <button onclick="toggleLanguage()" id="langToggle" class="lang-btn">AR</button>
+            <button onclick="AchievementUI.openDashboard()" class="lang-btn" style="color: var(--accent); border-color: var(--accent);">
+                <i class="fa-solid fa-trophy"></i>
+            </button>
+        </div>
+
+        <h1 class="text-4xl font-black mb-2 text-yellow-500 tracking-tighter" id="mainTitle">خريطة العظماء</h1>
+        <p class="text-gray-400 text-sm mb-10 font-bold" id="totalCap">استكشف رحلة التاريخ</p>
+
+        <div class="w-full max-w-xs mb-6 text-right" id="startForm">
+            <label class="block text-xs font-black text-gray-500 mb-3 mr-2" id="lblMode">1. نمط اللعب:</label>
+            <div class="grid grid-cols-2 gap-3 mb-6">
+                <button onclick="setMode('all', this)" class="mode-btn active" id="btnModeAll">الكل</button>
+                <button onclick="setMode('arab', this)" class="mode-btn" id="btnModeArab">عظماء العرب</button>
+                <button onclick="setMode('islamic', this)" class="mode-btn" id="btnModeIslamic">العصر الإسلامي</button>
+                <button onclick="setMode('modern', this)" class="mode-btn" id="btnModeModern">العصر الحديث</button>
+            </div>
+
+            <label class="block text-xs font-black text-gray-500 mb-3 mr-2" id="lblQCount">2. عدد الأسئلة:</label>
+            <select id="qCountSelect" class="w-full bg-[#1a2235] border-2 border-accent/30 text-white p-4 rounded-2xl font-black outline-none mb-6 focus:border-accent">
+                <option value="5" id="opt5">5 أسئلة</option>
+                <option value="10" selected id="opt10">10 أسئلة</option>
+                <option value="20" id="opt20">20 سؤال</option>
+                <option value="50" id="opt50">50 سؤال</option>
+                <option value="1000" id="optAll">كل الشخصيات</option>
+            </select>
+
+            <label class="block text-xs font-black text-gray-500 mb-3 mr-2" id="lblDiff">3. درجة الصعوبة:</label>
+            <div class="space-y-3">
+                <button id="btnDiffEasy" onclick="startGame('easy')" class="w-full py-4 rounded-2xl font-black bg-emerald-500/10 text-emerald-400 border-2 border-emerald-500/30 hover:bg-emerald-500/20">سهل</button>
+                <button id="btnDiffMed" onclick="startGame('med')" class="w-full py-4 rounded-2xl font-black bg-yellow-500/10 text-yellow-400 border-2 border-yellow-500/30 hover:bg-yellow-500/20">متوسط</button>
+                <button id="btnDiffHard" onclick="startGame('hard')" class="w-full py-4 rounded-2xl font-black bg-red-500/10 text-red-400 border-2 border-red-500/30 hover:bg-red-500/20">صعب</button>
+            </div>
+        </div>
+        <div class="mt-8 text-[11px] text-gray-500 font-bold uppercase tracking-widest">
+            <span id="lblHighScore">أعلى نتيجة:</span> <span id="highScoreTxt" class="text-yellow-500">0</span>
+        </div>
+    </div>
+
+    <!-- Redesigned Info Card (Glassmorphism) -->
+    <div id="info-card">
+        <div class="info-header text-center">
+            <h3 id="infoName" class="text-2xl font-black text-yellow-500 mb-1">اسم الشخصية</h3>
+            <p id="infoYears" class="text-xs text-gray-400 font-bold">سنة الميلاد - الوفاة</p>
+        </div>
+
+        <div class="info-grid">
+            <div class="info-item">
+                <div class="info-label" id="lblCountry">الدولة</div>
+                <div id="infoCountry" class="info-val">—</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label" id="lblEra">العصر</div>
+                <div id="infoEra" class="info-val">—</div>
+            </div>
+        </div>
+
+        <p id="infoBio" class="text-sm text-gray-200 leading-relaxed mb-8 text-center px-2 font-medium"></p>
+
+        <div class="flex gap-3">
+            <button onclick="openWiki()" class="flex-1 py-4 bg-white/5 border border-white/10 text-white font-black rounded-2xl active:bg-white/10">
+                <i class="fa-brands fa-wikipedia-w mr-2"></i> <span id="btnWiki">ويكيبيديا</span>
+            </button>
+            <button onclick="closeInfo()" class="flex-[2] py-4 bg-yellow-500 text-black font-black rounded-2xl shadow-xl shadow-yellow-500/20" id="btnNext">التالي</button>
+        </div>
+    </div>
+
+    <!-- End Screen -->
+    <div id="endScreen" class="overlay" style="display:none;">
+        <i class="fa-solid fa-trophy text-6xl text-yellow-500 mb-6 drop-shadow-2xl"></i>
+        <h2 class="text-2xl font-black mb-2 uppercase tracking-tighter" id="lblFinalTitle">النتيجة النهائية</h2>
+        <div id="finalScore" class="text-8xl font-black text-yellow-500 mb-6">0</div>
+
+        <button onclick="shareScore()" class="share-btn mb-10 px-10 py-4 rounded-2xl">
+            <i class="fa-solid fa-share-nodes"></i> <span id="lblShare">مشاركة النتيجة</span>
+        </button>
+
+        <div id="newBest" class="text-emerald-400 font-black mb-10 text-xl hidden animate-bounce">رقم قياسي جديد! 🎉</div>
+
+        <div class="flex gap-4 mb-10">
+            <button onclick="location.reload()" class="flex-1 bg-yellow-500 text-black px-8 py-4 rounded-2xl font-black text-lg shadow-2xl active:scale-95" id="btnReplay">إعادة اللعب</button>
+            <button onclick="exitToHomeDirect()" class="bg-white/10 text-white px-8 py-4 rounded-2xl font-black text-lg border border-white/10 active:scale-95">
+                <i class="fa-solid fa-house"></i>
+            </button>
+        </div>
+
+        <div class="w-full max-w-xs mb-10 text-right" id="reviewArea">
+            <h4 class="text-xs font-black text-gray-500 mb-4 mr-2 uppercase tracking-widest" id="lblReview">مراجعة الشخصيات:</h4>
+            <div id="reviewList" class="bg-white/5 rounded-2xl p-4 max-h-48 overflow-y-auto space-y-3 border border-white/10"></div>
+        </div>
+    </div>
+
+    <!-- Exit Confirmation Modal -->
+    <div id="exitModal" class="overlay" style="display:none; background: rgba(8,11,18,0.9);">
+        <div class="bg-[#1a2235] border-2 border-accent/20 p-8 rounded-3xl max-w-xs w-full shadow-2xl">
+            <i class="fa-solid fa-circle-question text-5xl text-yellow-500 mb-4"></i>
+            <h3 id="lblExitTitle" class="text-xl font-black text-white mb-6">هل تريد العودة للرئيسية؟</h3>
+            <div class="flex gap-3">
+                <button onclick="confirmExit(true)" class="flex-1 py-4 bg-red-500 text-white font-black rounded-2xl shadow-lg" id="btnExitYes">نعم</button>
+                <button onclick="confirmExit(false)" class="flex-1 py-4 bg-white/5 border border-white/10 text-white font-black rounded-2xl" id="btnExitNo">إلغاء</button>
+            </div>
+        </div>
+    </div>
+
+    <button id="musicBtn" class="music-btn" onclick="Music.toggle()"><i class="fa-solid fa-music"></i></button>
+
+    <!-- Modular JS Scripts - Order Matters! -->
+    <script src="js/constants.js"></script>
+    <script src="js/achievements/achievement_events.js"></script>
+    <script src="js/achievements/achievement_data.js"></script>
+    <script src="js/achievements/achievement_storage.js"></script>
+    <script src="js/achievements/achievement_ui.js"></script>
+    <script src="js/achievements/achievement_engine.js"></script>
+    <script src="js/achievements/stats.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/animation.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/quiz.js"></script>
+
+    <script>
+        window.onload = () => {
+            console.log("Game assets initialized.");
+            console.log("Constants:", typeof I18N !== 'undefined');
+            console.log("Quiz Logic:", typeof startGame === 'function');
+            console.log("Map Logic:", typeof initMap === 'function');
+
+            const settings = Storage.getSettings();
+            document.getElementById('highScoreTxt').textContent = Storage.getHighScore();
+
+            // Set initial language from storage
+            if (typeof setLanguage === 'function') {
+                setLanguage(settings.lang || 'ar');
+            }
+
+            // Notify Android that game is ready after a small delay to ensure UI is stable
+            setTimeout(() => {
+                if (window.Android && Android.gameReady) {
+                    Android.gameReady();
+                    if (Android.showBanner) Android.showBanner();
+                    console.log("Notified Android: Game Ready");
+                }
+            }, 800);
+        };
+
+        function openWiki() {
+            const p = curQ[idx];
+            const pName = currentLang === 'en' ? (p.name_en || p.name) : p.name;
+            window.open(`https://${currentLang}.wikipedia.org/wiki/${pName}`, '_blank');
+        }
+    </script>
+</body>
+</html>

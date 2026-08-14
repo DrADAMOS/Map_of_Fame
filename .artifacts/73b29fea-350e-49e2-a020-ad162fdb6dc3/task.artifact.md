@@ -1,0 +1,22 @@
+# Tasks - Event-Driven Achievement System
+
+- [ ] **1. Architecture Setup**
+    - [ ] Create `assets/js/achievements/` directory
+    - [ ] Implement `achievement_events.js`
+- [ ] **2. Data Layer**
+    - [ ] Implement `achievement_data.js` (JSON-like definitions)
+    - [ ] Implement `stats.js` (Metric tracking)
+    - [ ] Implement `achievement_storage.js` (Save/Load logic)
+- [ ] **3. Logic Layer**
+    - [ ] Implement `achievement_engine.js` (Check conditions)
+    - [ ] Implement `achievement_rewards.js` (XP & Leveling)
+- [ ] **4. UI & Visuals**
+    - [ ] Implement `achievement_ui.js` (Toast & Dashboard)
+    - [ ] Update `style.css` with progress bars and rarity glows
+- [ ] **5. Integration**
+    - [ ] Update `quiz.js` with event emitters
+    - [ ] Update `game.html` with script loading and navigation
+- [ ] **6. Verification**
+    - [ ] Verify XP gain
+    - [ ] Verify animated unlock sequence
+    - [ ] Verify Dashboard data accuracy
