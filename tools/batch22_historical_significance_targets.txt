@@ -1,0 +1,851 @@
+Repeated historical_significance groups: 98
+====================================================================================================
+
+[001] 10x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ موسيقي في عصر العصر الحديث.
+PEOPLE:
+  - Gustav Mahler
+  - Sergei Rachmaninoff
+  - Sergei Prokofiev
+  - Dmitri Shostakovich
+  - Elvis Presley
+  - John Lennon
+  - Jim Morrison
+  - Bob Marley
+  - Freddie Mercury
+  - Michael Jackson
+
+[002] 10x | lang=en
+VALUE: Remembered for shaping historical developments in physician.
+PEOPLE:
+  - Ibn al-Nafis
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[003] 10x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como político.
+PEOPLE:
+  - Thomas Jefferson
+  - Alexander Hamilton
+  - Joseph Stalin
+  - Mustafa Kemal Atatürk
+  - Franklin D. Roosevelt
+  - Harry S. Truman
+  - Adolf Hitler
+  - Jawaharlal Nehru
+  - Charles de Gaulle
+  - Malcolm X
+
+[004] 10x | lang=fr
+VALUE: Mémorable pour avoir marqué les développements historiques en tant que médecin.
+PEOPLE:
+  - Ibn al-Nafis
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[005] 10x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве политика.
+PEOPLE:
+  - Thomas Jefferson
+  - Alexander Hamilton
+  - Joseph Stalin
+  - Mustafa Kemal Atatürk
+  - Franklin D. Roosevelt
+  - Harry S. Truman
+  - Adolf Hitler
+  - Jawaharlal Nehru
+  - Charles de Gaulle
+  - Malcolm X
+
+[006] 10x | lang=tr
+VALUE: Bilim insanı olarak tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - James Watt
+  - Georg Ohm
+  - Michael Faraday
+  - James Prescott Joule
+  - Gregor Mendel
+  - James Clerk Maxwell
+  - Alfred Nobel
+  - Dmitri Mendeleev
+  - Ernest Rutherford
+  - Edwin Hubble
+
+[007] 9x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ طبيب في عصر العصر الحديث.
+PEOPLE:
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[008] 9x | lang=ja
+VALUE: 作家として歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Ernest Hemingway
+  - Jorge Luis Borges
+  - George Orwell
+  - Pablo Neruda
+  - Albert Camus
+  - Nazik al-Malaika
+  - Badr Shakir al-Sayyab
+  - Gabriel García Márquez
+  - Mahmoud Darwish
+
+[009] 9x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como político.
+PEOPLE:
+  - Thomas Jefferson
+  - Alexander Hamilton
+  - Joseph Stalin
+  - Mustafa Kemal Atatürk
+  - Franklin D. Roosevelt
+  - Harry S. Truman
+  - Adolf Hitler
+  - Jawaharlal Nehru
+  - Charles de Gaulle
+
+[010] 9x | lang=tr
+VALUE: Askeri liderlik alanındaki tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - Alexander Suvorov
+  - José de San Martín
+  - Robert E. Lee
+  - Ulysses S. Grant
+  - Horatio Kitchener
+  - Douglas MacArthur
+  - George S. Patton
+  - T. E. Lawrence
+  - Dwight D. Eisenhower
+
+[011] 9x | lang=tr
+VALUE: Tıp alanındaki tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[012] 9x | lang=zh
+VALUE: 因作为作家塑造了近代历史发展进程而被世人铭记。
+PEOPLE:
+  - Ernest Hemingway
+  - Jorge Luis Borges
+  - George Orwell
+  - Pablo Neruda
+  - Albert Camus
+  - Nazik al-Malaika
+  - Badr Shakir al-Sayyab
+  - Gabriel García Márquez
+  - Mahmoud Darwish
+
+[013] 8x | lang=en
+VALUE: Remembered for shaping historical developments in explorer.
+PEOPLE:
+  - Ibn Battuta
+  - Christopher Columbus
+  - Amerigo Vespucci
+  - Vasco da Gama
+  - Ferdinand Magellan
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[014] 8x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como explorador.
+PEOPLE:
+  - Ibn Battuta
+  - Christopher Columbus
+  - Amerigo Vespucci
+  - Vasco da Gama
+  - Ferdinand Magellan
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[015] 8x | lang=fr
+VALUE: Mémorable pour avoir marqué les développements historiques en tant qu'explorateur.
+PEOPLE:
+  - Ibn Battuta
+  - Christopher Columbus
+  - Amerigo Vespucci
+  - Vasco da Gama
+  - Ferdinand Magellan
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[016] 8x | lang=ja
+VALUE: 政治家としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Thomas Jefferson
+  - Alexander Hamilton
+  - Joseph Stalin
+  - Mustafa Kemal Atatürk
+  - Franklin D. Roosevelt
+  - Harry S. Truman
+  - Adolf Hitler
+  - Jawaharlal Nehru
+
+[017] 8x | lang=ja
+VALUE: 音楽家としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Joseph Haydn
+  - Wolfgang Amadeus Mozart
+  - Ludwig van Beethoven
+  - Johannes Brahms
+  - Pyotr Tchaikovsky
+  - Gustav Mahler
+  - Sergei Rachmaninoff
+  - Igor Stravinsky
+
+[018] 8x | lang=ja
+VALUE: 音楽家として歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Sergei Prokofiev
+  - Dmitri Shostakovich
+  - Elvis Presley
+  - John Lennon
+  - Jim Morrison
+  - Bob Marley
+  - Freddie Mercury
+  - Michael Jackson
+
+[019] 8x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве исследователя.
+PEOPLE:
+  - Ibn Battuta
+  - Christopher Columbus
+  - Amerigo Vespucci
+  - Vasco da Gama
+  - Ferdinand Magellan
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[020] 8x | lang=zh
+VALUE: 因作为音乐家塑造了近代历史发展进程而被世人铭记。
+PEOPLE:
+  - Sergei Prokofiev
+  - Dmitri Shostakovich
+  - Elvis Presley
+  - John Lennon
+  - Jim Morrison
+  - Bob Marley
+  - Freddie Mercury
+  - Michael Jackson
+
+[021] 7x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ تقني في عصر العصر الحديث.
+PEOPLE:
+  - James Hargreaves
+  - George Stephenson
+  - Alexander Graham Bell
+  - Guglielmo Marconi
+  - Grace Hopper
+  - Alan Turing
+  - Dennis Ritchie
+
+[022] 7x | lang=en
+VALUE: Remembered for shaping historical developments in technologist.
+PEOPLE:
+  - James Hargreaves
+  - George Stephenson
+  - Alexander Graham Bell
+  - Guglielmo Marconi
+  - Grace Hopper
+  - Alan Turing
+  - Dennis Ritchie
+
+[023] 7x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como médico.
+PEOPLE:
+  - Ibn al-Nafis
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[024] 7x | lang=ja
+VALUE: 軍事指導者としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Alexander Suvorov
+  - Robert E. Lee
+  - Horatio Kitchener
+  - Douglas MacArthur
+  - George S. Patton
+  - T. E. Lawrence
+  - Dwight D. Eisenhower
+
+[025] 7x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве врача.
+PEOPLE:
+  - Ibn al-Nafis
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[026] 7x | lang=tr
+VALUE: Siyasetçi olarak tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - Thomas Jefferson
+  - Alexander Hamilton
+  - Joseph Stalin
+  - Franklin D. Roosevelt
+  - Harry S. Truman
+  - Adolf Hitler
+  - Jawaharlal Nehru
+
+[027] 6x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ حاكم في عصر العصر الحديث.
+PEOPLE:
+  - Catherine the Great
+  - Marie Antoinette
+  - Muhammad Ali Pasha
+  - Otto von Bismarck
+  - Queen Victoria
+  - Ibn Saud
+
+[028] 6x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ فيلسوف في عصر العصر الحديث.
+PEOPLE:
+  - Jean-Jacques Rousseau
+  - Auguste Comte
+  - Karl Marx
+  - Friedrich Nietzsche
+  - Bertrand Russell
+  - Malek Bennabi
+
+[029] 6x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ موسيقي في عصر العصر الرومانسي.
+PEOPLE:
+  - Gioachino Rossini
+  - Frédéric Chopin
+  - Richard Wagner
+  - Giuseppe Verdi
+  - Johannes Brahms
+  - Pyotr Tchaikovsky
+
+[030] 6x | lang=fr
+VALUE: Mémorable pour avoir marqué les développements historiques en tant que technologue.
+PEOPLE:
+  - James Hargreaves
+  - George Stephenson
+  - Alexander Graham Bell
+  - Grace Hopper
+  - Alan Turing
+  - Dennis Ritchie
+
+[031] 6x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como médico.
+PEOPLE:
+  - Joseph Lister
+  - Robert Koch
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[032] 6x | lang=tr
+VALUE: Hükümdarlık alanındaki tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - Catherine the Great
+  - Marie Antoinette
+  - Muhammad Ali Pasha
+  - Otto von Bismarck
+  - Queen Victoria
+  - Ibn Saud
+
+[033] 5x | lang=es
+VALUE: Recordada por impulsar el desarrollo histórico como gobernante.
+PEOPLE:
+  - Isabella I
+  - Elizabeth I
+  - Catherine the Great
+  - Marie Antoinette
+  - Queen Victoria
+
+[034] 5x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como tecnólogo.
+PEOPLE:
+  - James Hargreaves
+  - George Stephenson
+  - Alexander Graham Bell
+  - Alan Turing
+  - Dennis Ritchie
+
+[035] 5x | lang=ja
+VALUE: 科学者として歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Enrico Fermi
+  - John von Neumann
+  - Richard Feynman
+  - Carl Sagan
+  - Stephen Hawking
+
+[036] 5x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como filósofo.
+PEOPLE:
+  - Auguste Comte
+  - Karl Marx
+  - Friedrich Nietzsche
+  - Bertrand Russell
+  - Malek Bennabi
+
+[037] 5x | lang=ru
+VALUE: Запомнилась тем, что оказала значительное влияние на историческое развитие в качестве правителя.
+PEOPLE:
+  - Isabella I
+  - Elizabeth I
+  - Catherine the Great
+  - Marie Antoinette
+  - Queen Victoria
+
+[038] 5x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве технолога.
+PEOPLE:
+  - James Hargreaves
+  - George Stephenson
+  - Alexander Graham Bell
+  - Alan Turing
+  - Dennis Ritchie
+
+[039] 5x | lang=zh
+VALUE: 因作为科学家塑造了近代历史发展进程而被世人铭记。
+PEOPLE:
+  - Enrico Fermi
+  - John von Neumann
+  - Richard Feynman
+  - Carl Sagan
+  - Stephen Hawking
+
+[040] 4x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ مصلح في عصر العصر الحديث.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[041] 4x | lang=en
+VALUE: Remembered for shaping historical developments in reformer.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[042] 4x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como reformador.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[043] 4x | lang=fr
+VALUE: Mémorable pour avoir marqué les développements historiques en tant que réformateur.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[044] 4x | lang=ja
+VALUE: 医師としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Paul Ehrlich
+  - Sigmund Freud
+  - Alexis Carrel
+  - Alexander Fleming
+
+[045] 4x | lang=ja
+VALUE: 政治家として歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Charles de Gaulle
+  - Rosa Parks
+  - Eva Perón
+  - Malcolm X
+
+[046] 4x | lang=pt
+VALUE: Lembrada por moldar desenvolvimentos históricos como escritora.
+PEOPLE:
+  - Jane Austen
+  - Virginia Woolf
+  - May Ziadeh
+  - Nazik al-Malaika
+
+[047] 4x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como reformador.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[048] 4x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве реформатора.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[049] 4x | lang=tr
+VALUE: Filozof olarak tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - Auguste Comte
+  - Karl Marx
+  - Friedrich Nietzsche
+  - Bertrand Russell
+
+[050] 4x | lang=tr
+VALUE: Reformcu olarak tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - Jamal al-Din al-Afghani
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[051] 3x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ رياضي في عصر العصر الحديث.
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[052] 3x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ مستكشف في عصر العصر الحديث.
+PEOPLE:
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[053] 3x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ موسيقي في عصر العصر الباروكي.
+PEOPLE:
+  - Antonio Vivaldi
+  - Johann Sebastian Bach
+  - George Frideric Handel
+
+[054] 3x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ موسيقي في عصر العصر الكلاسيكي.
+PEOPLE:
+  - Joseph Haydn
+  - Wolfgang Amadeus Mozart
+  - Ludwig van Beethoven
+
+[055] 3x | lang=en
+VALUE: Remembered for shaping historical developments in athlete.
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[056] 3x | lang=es
+VALUE: Recordada por impulsar el desarrollo histórico como médica.
+PEOPLE:
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+
+[057] 3x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como atleta.
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[058] 3x | lang=fr
+VALUE: Mémorable pour avoir marqué les développements historiques en tant qu'athlète.
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[059] 3x | lang=ja
+VALUE: アスリートとして歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[060] 3x | lang=ja
+VALUE: 技術者として歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Grace Hopper
+  - Alan Turing
+  - Dennis Ritchie
+
+[061] 3x | lang=ja
+VALUE: 探検家としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[062] 3x | lang=ja
+VALUE: 改革者としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Muhammad Abduh
+  - Abd al-Rahman al-Kawakibi
+  - Rashid Rida
+
+[063] 3x | lang=ja
+VALUE: 科学者としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Michael Faraday
+  - Ernest Rutherford
+  - Edwin Hubble
+
+[064] 3x | lang=pt
+VALUE: Lembrada por moldar desenvolvimentos históricos como governante.
+PEOPLE:
+  - Catherine the Great
+  - Marie Antoinette
+  - Queen Victoria
+
+[065] 3x | lang=pt
+VALUE: Lembrada por moldar desenvolvimentos históricos como médica.
+PEOPLE:
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+
+[066] 3x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como atleta.
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[067] 3x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como explorador.
+PEOPLE:
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[068] 3x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como governante.
+PEOPLE:
+  - Muhammad Ali Pasha
+  - Otto von Bismarck
+  - Ibn Saud
+
+[069] 3x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como tecnologista.
+PEOPLE:
+  - Guglielmo Marconi
+  - Alan Turing
+  - Dennis Ritchie
+
+[070] 3x | lang=ru
+VALUE: Запомнилась тем, что оказала значительное влияние на историческое развитие в качестве врача.
+PEOPLE:
+  - Florence Nightingale
+  - Elizabeth Blackwell
+  - Clara Barton
+
+[071] 3x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве спортсмена.
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[072] 3x | lang=tr
+VALUE: Kâşiflik alanındaki tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - James Cook
+  - Robert Falcon Scott
+  - Ernest Shackleton
+
+[073] 3x | lang=tr
+VALUE: Teknoloji uzmanı olarak tarihsel gelişmelere yön vermesiyle hatırlanmaktadır.
+PEOPLE:
+  - George Stephenson
+  - Alexander Graham Bell
+  - Guglielmo Marconi
+
+[074] 3x | lang=zh
+VALUE: 因作为体育运动员塑造了近代历史发展进程而被世人铭记。
+PEOPLE:
+  - Pelé
+  - Ayrton Senna
+  - Diego Maradona
+
+[075] 3x | lang=zh
+VALUE: 因作为技术专家塑造了近代历史发展进程而被世人铭记。
+PEOPLE:
+  - Grace Hopper
+  - Alan Turing
+  - Dennis Ritchie
+
+[076] 2x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ ثوري في عصر العصر الحديث.
+PEOPLE:
+  - Emiliano Zapata
+  - Che Guevara
+
+[077] 2x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ حاكم في عصر العصر الحديث المبكر.
+PEOPLE:
+  - Louis XIV
+  - Peter the Great
+
+[078] 2x | lang=ar
+VALUE: تركت أثراً تاريخياً كـ فنان في عصر العصر الباروكي.
+PEOPLE:
+  - Diego Velázquez
+  - Rembrandt
+
+[079] 2x | lang=de
+VALUE: In Erinnerung geblieben für seine prägenden historischen Beiträge als Dichter und Schriftsteller.
+PEOPLE:
+  - Johann Wolfgang von Goethe
+  - Victor Hugo
+
+[080] 2x | lang=de
+VALUE: In Erinnerung geblieben für seine prägenden historischen Beiträge als Komponist der Romantik.
+PEOPLE:
+  - Johannes Brahms
+  - Pyotr Tchaikovsky
+
+[081] 2x | lang=de
+VALUE: In Erinnerung geblieben für seine prägenden historischen Beiträge als Komponist und Musiker.
+PEOPLE:
+  - Joseph Haydn
+  - Wolfgang Amadeus Mozart
+
+[082] 2x | lang=de
+VALUE: In Erinnerung geblieben für seine prägenden historischen Beiträge als Opernkomponist.
+PEOPLE:
+  - Gioachino Rossini
+  - Giuseppe Verdi
+
+[083] 2x | lang=en
+VALUE: Remembered for shaping historical developments in revolutionary.
+PEOPLE:
+  - Emiliano Zapata
+  - Che Guevara
+
+[084] 2x | lang=es
+VALUE: Recordada por impulsar el desarrollo histórico como política.
+PEOPLE:
+  - Rosa Parks
+  - Eva Perón
+
+[085] 2x | lang=es
+VALUE: Recordado por impulsar el desarrollo histórico como revolucionario.
+PEOPLE:
+  - Emiliano Zapata
+  - Che Guevara
+
+[086] 2x | lang=fa
+VALUE: با نقش‌آفرینی برجسته خود در تحولات تاریخی به عنوان موسیقیدان و آهنگساز در یادها مانده است.
+PEOPLE:
+  - Sergei Prokofiev
+  - Dmitri Shostakovich
+
+[087] 2x | lang=fr
+VALUE: Mémorable pour avoir marqué les développements historiques en tant que révolutionnaire.
+PEOPLE:
+  - Emiliano Zapata
+  - Che Guevara
+
+[088] 2x | lang=id
+VALUE: Dikenang atas kontribusinya dalam membentuk perkembangan sejarah seni rupa modern.
+PEOPLE:
+  - Henri Matisse
+  - Joan Miró
+
+[089] 2x | lang=ja
+VALUE: オペラおよび音楽の歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Gioachino Rossini
+  - Giuseppe Verdi
+
+[090] 2x | lang=ja
+VALUE: 作家・思想家としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Fyodor Dostoevsky
+  - Leo Tolstoy
+
+[091] 2x | lang=ja
+VALUE: 哲学者・思想家としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Karl Marx
+  - Friedrich Nietzsche
+
+[092] 2x | lang=ja
+VALUE: 物理学者・科学者としての歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Georg Ohm
+  - James Clerk Maxwell
+
+[093] 2x | lang=ja
+VALUE: 軍事指導者として歴史的発展に大きく貢献した人物として記憶されている。
+PEOPLE:
+  - Erwin Rommel
+  - Georgy Zhukov
+
+[094] 2x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como revolucionário.
+PEOPLE:
+  - Emiliano Zapata
+  - Che Guevara
+
+[095] 2x | lang=pt
+VALUE: Lembrado por moldar desenvolvimentos históricos como tecnólogo.
+PEOPLE:
+  - George Stephenson
+  - Alexander Graham Bell
+
+[096] 2x | lang=ru
+VALUE: Запомнилась тем, что оказала значительное влияние на историческое развитие в качестве политика.
+PEOPLE:
+  - Rosa Parks
+  - Eva Perón
+
+[097] 2x | lang=ru
+VALUE: Запомнился тем, что оказал значительное влияние на историческое развитие в качестве революционера.
+PEOPLE:
+  - Emiliano Zapata
+  - Che Guevara
+
+[098] 2x | lang=zh
+VALUE: 因作为军事领袖塑造了近代历史发展进程而被世人铭记。
+PEOPLE:
+  - Erwin Rommel
+  - Georgy Zhukov
+

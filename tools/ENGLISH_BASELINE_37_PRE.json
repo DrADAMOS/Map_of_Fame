@@ -1,0 +1,852 @@
+{
+  "Alexis Carrel": {
+    "name": "Alexis Carrel",
+    "hint": "Renowned Physician",
+    "bio": "Born in Sainte-Foy-lès-Lyon, Rhône, Carrel was raised in a devout Catholic family and was educated by Jesuits, though he had become an agnostic by the time he became a university student. He studied medicine at the University of Lyon. Working as an intern at a Lyon hospital, he developed a technique for suturing small blood vessels using extremely fine needles.",
+    "birth_city": "Sainte-Foy-lès-Lyon",
+    "birth_country": "France",
+    "death_city": "Paris",
+    "death_country": "France",
+    "role": "Physician",
+    "era": "Modern",
+    "achievements": [
+      "Carrel was a young surgeon who was deeply affected by the 1894 assassination of the French president, Sadi Carnot, who died from a severed portal vein that surgeons believed was irreparable.",
+      "This tragedy inspired Carrel to develop new techniques for suturing blood vessels, such as the \"triangulation\" technique using three stay-sutures to minimize damage to the vascular wall during suturing."
+    ],
+    "key_facts": [
+      "Carrel was elected to the American Philosophical Society in 1909 and the American Academy of Arts and Sciences in 1914.",
+      "Carrel was a member of learned societies in the U.S., Spain, Russia, Sweden, the Netherlands, Belgium, France, Vatican City, Germany, Italy, and Greece, and was elected twice, in 1924 and 1927, as an honorary member of the Academy of Sciences of the USSR.",
+      "He also received honorary doctorates from Queen's University of Belfast, Princeton University, Brown University, and Columbia University."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Anwar Sadat": {
+    "name": "Anwar Sadat",
+    "hint": "Led Egypt in the October War.",
+    "bio": "Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970. In his 11 years as president, he changed Egypt's trajectory, departing from many political and economic tenets of Nasserism, reinstituting a multi-party system, and launching the Infitah economic policy.",
+    "birth_city": "Mit Abu al-Kum",
+    "birth_country": "Egypt",
+    "death_city": "Cairo",
+    "death_country": "Egypt",
+    "role": "Politician",
+    "era": "Modern Era",
+    "achievements": [
+      "in the title role."
+    ],
+    "key_facts": [
+      "Anwar Sadat was born on 25 December 1918 in Mit Abu El Kom, part of Monufia Governorate in what was then the Sultanate of Egypt, to a poor family.",
+      "He had 14 siblings.",
+      "One of his brothers, Atef Sadat, later became a pilot and was killed in action in 1973 during the Yom Kippur War."
+    ],
+    "wars": [
+      "On 6 October 1973, in conjunction with Hafez al-Assad of Syria , Sadat launched the October War , also known as the Yom Kippur War (and less commonly as the Ramadan War), a surprise attack against the Israeli forces occupying the Egyptian Sinai Peninsula , and the Syrian Golan Heights in an attempt to retake these respective Egyptian and Syrian territories that had been occupied by Israel since the Six Day War six years earlier.",
+      "The Egyptian and Syrian performance in the initial stages of the war astonished both Israel, and the Arab World.",
+      "The most striking achievement ( Operation Badr , also known as The Crossing) was the Egyptian military's advance approximately 15 km into the occupied Sinai Peninsula after penetrating and largely destroying the Bar Lev Line .",
+      "This line was popularly thought to have been an impregnable defensive chain.",
+      "As the war progressed, three divisions of the Israeli army led by General Ariel Sharon had crossed the Suez Canal , trying to encircle first the Egyptian Second Army."
+    ],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Auguste Comte": {
+    "name": "Auguste Comte",
+    "hint": "French philosopher and founder of positivism",
+    "bio": "Isidore Auguste Marie François Xavier Comte (; French: [oɡyst(ə) kɔ̃t] ; 19 January 1798 – 5 September 1857) was a French philosopher and writer who formulated the doctrine of positivism. He is often regarded as the first philosopher of science in the modern sense of the term. Comte's ideas were fundamental to the development of sociology, as he coined the term and treated the discipline as the crowning achievement of the sciences.",
+    "birth_city": "Montpellier",
+    "birth_country": "France",
+    "death_city": "Paris",
+    "death_country": "France",
+    "role": "Philosopher",
+    "era": "Modern",
+    "achievements": [
+      "Comte first described the epistemological perspective of positivism in The Course in Positive Philosophy, a series of texts published between 1830 and 1842.",
+      "These texts were followed by the 1848 work, A General View of Positivism (published in English in 1865)."
+    ],
+    "key_facts": [
+      "Born in Montpellier, France",
+      "Active during the Modern period.",
+      "Lived from 1798 to 1857 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Bob Marley": {
+    "name": "Bob Marley",
+    "hint": "Key figure associated with Exodus and the international spread of reggae.",
+    "bio": "Marley was born on 6 February 1945 at the farm of his maternal grandfather in Nine Mile, Saint Ann Parish, Colony of Jamaica, to Norval Sinclair Marley and Cedella Malcolm. Norval was a white Jamaican of Welsh ancestry born in Clarendon Parish. His cousins claimed that the Marley surname had Syrian-Jewish origins, however this is speculative and not conclusive, and was refuted by Marley's biographer.",
+    "birth_city": "Nine Mile",
+    "birth_country": "Jamaica",
+    "death_city": "Miami",
+    "death_country": "USA",
+    "role": "Musician",
+    "era": "Modern",
+    "achievements": [
+      "In February 1962, Marley recorded four songs, \"Judge Not\", \"One Cup of Coffee\", \"Do You Still Love Me?\" and \"Terror\", at Federal Studios for local music producer Leslie Kong.",
+      "Three of the songs were released on Beverley's with \"One Cup of Coffee\" being released under the pseudonym Bobby Martell."
+    ],
+    "key_facts": [
+      "Born in Nine Mile, Jamaica",
+      "Active during the Modern period.",
+      "Lived from 1945 to 1981 CE."
+    ],
+    "wars": [],
+    "historical_significance": "=== Awards and honours ===. 1976: Rolling Stone magazine's \"Band of the Year\"."
+  },
+  "Caravaggio": {
+    "name": "Caravaggio",
+    "hint": "Baroque master of dramatic light",
+    "bio": "=== Early life (1571–1592) ===. Caravaggio (Michelangelo Merisi or Amerighi) was born in Milan, where his father, Fermo (Fermo Merixio), was a household administrator and architect-decorator to the marquess of Caravaggio, a town 35 km (22 mi) to the east of Milan and south of Bergamo. It was previously assumed that he had been born in Caravaggio.",
+    "birth_city": "Milan",
+    "birth_country": "Italy",
+    "death_city": "Porto Ercole",
+    "death_country": "Italy",
+    "role": "Artist",
+    "era": "Baroque",
+    "achievements": [
+      "Pioneered major historical developments in artist."
+    ],
+    "key_facts": [
+      "Born in Milan, Italy",
+      "Active during the Baroque period.",
+      "Lived from 1571 to 1610 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Clara Barton": {
+    "name": "Clara Barton",
+    "hint": "Renowned Physician",
+    "bio": "Barton was born in Oxford, Massachusetts, a small farming community. She was named after her father's sister, Clarissa Harlow Barton. Her father was Captain Stephen Barton, a member of the local militia and a selectman who influenced his daughter's patriotism and humanitarianism.",
+    "birth_city": "Oxford",
+    "birth_country": "USA",
+    "death_city": "Glen Echo",
+    "death_country": "USA",
+    "role": "Physician",
+    "era": "Modern",
+    "achievements": [
+      "On April 19, 1861, the Baltimore Riot resulted in the first bloodshed of the American Civil War.",
+      "The victims, members of the 6th Massachusetts Militia, were transported after the violence to the unfinished Capitol Building in Washington, D.C., where Barton lived at the time.",
+      "Wanting to serve her country, Barton went to the railroad station when the victims arrived and nursed 40 men."
+    ],
+    "key_facts": [
+      "Born in Oxford, USA",
+      "Active during the Modern period.",
+      "Lived from 1821 to 1912 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Constantine the Great": {
+    "name": "Constantine the Great",
+    "hint": "Roman emperor who reunited the empire and transformed imperial policy toward Christianity during the early fourth centur",
+    "bio": "Constantine was born on 27 February 272. While his official birthday is recorded in sources, his year of birth is not, and scholars have given several estimates between 271 and 280, with most leaning for 272 or 273. However, the evidence points to 272 being the correct year.",
+    "birth_city": "Naissus",
+    "birth_country": "Roman Empire",
+    "death_city": "Nicomedia",
+    "death_country": "Roman Empire",
+    "role": "Ruler",
+    "era": "Ancient",
+    "achievements": [
+      "Won the Battle of the Milvian Bridge in 312 and became sole ruler of the western Roman Empire before reunifying the empire.",
+      "Issued the settlement associated with the Edict of Milan in 313, ending official persecution of Christians.",
+      "Convened the First Council of Nicaea in 325 and founded Constantinople as a new imperial capital."
+    ],
+    "key_facts": [
+      "Born in Naissus, Roman Empire",
+      "Active during the Ancient period.",
+      "Lived from 272 to 337 CE."
+    ],
+    "wars": [
+      "Civil wars of the Tetrarchy; Battle of the Milvian Bridge; campaigns against Licinius."
+    ],
+    "historical_significance": "By 336, he had reoccupied most of the long-lost province of Dacia which Aurelian had been forced to abandon in 271."
+  },
+  "Dmitri Mendeleev": {
+    "name": "Dmitri Mendeleev",
+    "hint": "Scientist associated with the periodic table and prediction of undiscovered elements.",
+    "bio": "Mendeleev was born in the village of Verkhnie Aremzyani, near Tobolsk in Siberia, to Ivan Pavlovich Mendeleev (1783–1847) and Maria Dmitrievna Mendeleeva (née Kornilieva) (1793–1850). Ivan worked as a school principal and a teacher of fine arts, politics and philosophy at the Tambov and Saratov gymnasiums. Ivan's father, Pavel Maximovich Sokolov, was a Russian Orthodox priest from the Tver region.",
+    "birth_city": "Tobolsk",
+    "birth_country": "Russia",
+    "death_city": "Saint Petersburg",
+    "death_country": "Russia",
+    "role": "Scientist",
+    "era": "Modern",
+    "achievements": [
+      "Периодический закон (DjVu).",
+      "// Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers.",
+      "Периодический закон."
+    ],
+    "key_facts": [
+      "Born in Tobolsk, Russia",
+      "Active during the Modern period.",
+      "Lived from 1834 to 1907 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Emperor Meiji": {
+    "name": "Emperor Meiji",
+    "hint": "Emperor Meiji ruled during the transformation of Japan into a modern industrial and national state.",
+    "bio": "Prince Mutsuhito was born on 3 November 1852 in a small house on his maternal grandfather's property at the north end of the Gosho. At the time, birth was culturally believed to be a source of pollution, so the imperial prince was not born in the Palace. Instead, it was common for members of the Imperial Family to be born in a structure, often temporary, near the pregnant woman's father's house.",
+    "birth_city": "Kyoto",
+    "birth_country": "Japan",
+    "death_city": "Tokyo",
+    "death_country": "Japan",
+    "role": "Ruler",
+    "era": "Modern Era",
+    "achievements": [
+      "By the early 1860s, the shogunate was under several threats.",
+      "Representatives of foreign powers sought to increase their influence in Japan."
+    ],
+    "key_facts": [
+      "Born in Kyoto, Japan",
+      "Active during the Modern Era period.",
+      "Key historical figure of Modern Era."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Francisco Goya": {
+    "name": "Francisco Goya",
+    "hint": "Spanish painter of court and war",
+    "bio": "Francisco José de Goya y Lucientes (; Spanish: [fɾanˈθisko xoˈse ðe ˈɣoʝa i luˈθjentes]; 30 March 1746 – 16 April 1828) was a Spanish romantic painter and printmaker. He is considered the most important Spanish artist of the late 18th and early 19th centuries. His paintings, drawings, and engravings reflected contemporary historical upheavals and influenced important 19th- and 20th-century painters.",
+    "birth_city": "Fuendetodos",
+    "birth_country": "Spain",
+    "death_city": "Bordeaux",
+    "death_country": "France",
+    "role": "Artist",
+    "era": "Modern",
+    "achievements": [
+      "The French army invaded Spain in 1808, leading to the Peninsular War of 1808–1814.",
+      "The extent of Goya's involvement with the court of the \"intruder king\", Joseph I, the brother of Napoleon Bonaparte, is not known; he painted works for French patrons and sympathisers, but kept neutral during the fighting.",
+      "After the restoration of the Spanish King Ferdinand VII in 1814, Goya denied any involvement with the French."
+    ],
+    "key_facts": [
+      "Born in Fuendetodos, Spain",
+      "Active during the Modern period.",
+      "Lived from 1746 to 1828 CE."
+    ],
+    "wars": [],
+    "historical_significance": "Goya is often referred to as the last of the Old Masters and the first of the moderns. Among the 20th-century painters influenced by Goya are the Spanish masters Pablo Picasso and Salvador Dalí who drew influence from Los caprichos and the Black Paintings of Goya."
+  },
+  "Giuseppe Verdi": {
+    "name": "Giuseppe Verdi",
+    "hint": "Key figure associated with La traviata, Aida and Otello.",
+    "bio": "Giuseppe Fortunino Francesco Verdi ( VAIR-dee; Italian: [dʒuˈzɛppe ˈverdi]; 9 or 10 October 1813 – 27 January 1901) was an Italian composer best known for his operas. He was born near Busseto, a small town in the modern province of Parma, to a family of moderate means, receiving a musical education with the help of a local patron named Antonio Barezzi. Verdi came to dominate the Italian opera scene after the era of Gioachino Rossini, Vincenzo Bellini, and Gaetano Donizetti, whose works significantly influenced him.",
+    "birth_city": "Le Roncole",
+    "birth_country": "Duchy of Parma",
+    "death_city": "Milan",
+    "death_country": "Italy",
+    "role": "Musician",
+    "era": "Romantic",
+    "achievements": [
+      "Pioneered major historical developments in musician."
+    ],
+    "key_facts": [
+      "Born in Le Roncole, Duchy of Parma",
+      "Active during the Romantic period.",
+      "Lived from 1813 to 1901 CE."
+    ],
+    "wars": [],
+    "historical_significance": "=== Reception ===. Although Verdi's operas brought him a popular following, not all contemporary critics approved of his work."
+  },
+  "Grace Hopper": {
+    "name": "Grace Hopper",
+    "hint": "Renowned Technologist",
+    "bio": "Grace Brewster Murray was born in New York City. She was the eldest of three children. Her parents, Walter Fletcher Murray and Mary Campbell Van Horne, were of Scottish and Dutch descent, and attended West End Collegiate Church.",
+    "birth_city": "New York City",
+    "birth_country": "USA",
+    "death_city": "Arlington",
+    "death_country": "USA",
+    "role": "Technologist",
+    "era": "Modern",
+    "achievements": [
+      "Hopper tried to be commissioned in the Navy early in World War II, however she was turned down.",
+      "At age 34, she was too old to enlist and her weight-to-height ratio was too low."
+    ],
+    "key_facts": [
+      "Born in New York City, USA",
+      "Active during the Modern period.",
+      "Lived from 1906 to 1992 CE."
+    ],
+    "wars": [],
+    "historical_significance": "Grace Hopper was awarded 40 honorary degrees from universities worldwide during her lifetime. Nvidia has named their 2024 CPU generation Grace and GPU generation Hopper after Grace Hopper."
+  },
+  "Gustav Mahler": {
+    "name": "Gustav Mahler",
+    "hint": "Key figure associated with his large-scale symphonies and Das Lied von der Erde.",
+    "bio": "=== Family background ===. The Mahler family came from eastern Bohemia, now in the Czech Republic, and were of humble circumstances—the composer's grandmother had been a street pedlar. Bohemia was then part of the Austrian Empire; the Mahler family belonged to a German-speaking minority among Bohemians, and was also Jewish.",
+    "birth_city": "Kaliště",
+    "birth_country": "Austrian Empire",
+    "death_city": "Vienna",
+    "death_country": "Austria-Hungary",
+    "role": "Musician",
+    "era": "Modern",
+    "achievements": [
+      "From June to August 1880, Mahler took his first professional conducting job, in a small wooden theatre in the spa town of Bad Hall, south of Linz.",
+      "The repertory was exclusively operetta; it was, in Carr's words \"a dismal little job\", which Mahler accepted only after Julius Epstein told him he would soon work his way up."
+    ],
+    "key_facts": [
+      "Born in Kaliště, Austrian Empire",
+      "Active during the Modern period.",
+      "Lived from 1860 to 1911 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Hadrian": {
+    "name": "Hadrian",
+    "hint": "Roman emperor known for consolidating the empire and for the frontier wall named after him in Britain.",
+    "bio": "Publius Aelius Hadrianus was born on 24 January 76, in Italica (modern Santiponce, near Seville), a Roman town founded by Italic settlers in the province of Hispania Baetica during the Second Punic War at the initiative of Scipio Africanus; Hadrian's branch of the Aelia gens  came from Hadria (modern Atri), an ancient town in the Picenum region of Italia, the source of the name Hadrianus. One Roman biographer claims instead that Hadrian was born in Rome, but this view is held by a minority of scholars. Hadrian's father was Publius Aelius Hadrianus Afer, a senator of praetorian rank, born and raised in Italica.",
+    "birth_city": "Italica",
+    "birth_country": "Roman Empire",
+    "death_city": "Baiae",
+    "death_country": "Roman Empire",
+    "role": "Ruler",
+    "era": "Ancient",
+    "achievements": [
+      "Consolidated Roman frontiers and strengthened defensive installations across the empire.",
+      "Ordered the construction of Hadrian's Wall in Britain.",
+      "Sponsored major architectural projects, including the rebuilding of the Pantheon and his vast villa at Tivoli."
+    ],
+    "key_facts": [
+      "Born in Italica, Roman Empire",
+      "Active during the Ancient period.",
+      "Lived from 76 to 138 CE."
+    ],
+    "wars": [
+      "Bar Kokhba revolt"
+    ],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Hannibal Barca": {
+    "name": "Hannibal Barca",
+    "hint": "Carthaginian general and statesman who carried the Second Punic War into Italy and repeatedly defeated larger Roman armi",
+    "bio": "Hannibal (; Punic: 𐤇𐤍𐤁𐤏𐤋; 247 – between 183 and 181 BC) was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War. Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War. Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\".",
+    "birth_city": "Carthage",
+    "birth_country": "Carthage",
+    "death_city": "Libyssa",
+    "death_country": "Bithynia",
+    "role": "Military Leader",
+    "era": "Ancient",
+    "achievements": [
+      "He was most likely born in Carthage, one of many Mediterranean regions colonised by the Canaanites from their homeland in Phoenicia.",
+      "He had several sisters whose names are unknown and two brothers, Hasdrubal and Mago."
+    ],
+    "key_facts": [
+      "Born in Carthage, Carthage",
+      "Active during the Ancient period.",
+      "Lived from 247 to 183 CE."
+    ],
+    "wars": [
+      "Second Punic War; battles of Trebia, Lake Trasimene, Cannae, and Zama."
+    ],
+    "historical_significance": "=== Ancient world ===. Hannibal caused great distress to many in Roman society."
+  },
+  "Igor Stravinsky": {
+    "name": "Igor Stravinsky",
+    "hint": "Key figure associated with The Firebird, Petrushka and The Rite of Spring.",
+    "bio": "Igor Fyodorovich Stravinsky (17 June [O.S. 5 June] 1882 – 6 April 1971) was a Russian composer and conductor with French (from 1934) and American citizenship (from 1945). He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
+    "birth_city": "Oranienbaum",
+    "birth_country": "Russian Empire",
+    "death_city": "New York City",
+    "death_country": "USA",
+    "role": "Musician",
+    "era": "Modern",
+    "achievements": [
+      "Stravinsky's time before meeting Diaghilev was spent learning from Rimsky-Korsakov and his collaborators.",
+      "Only three works survive from before Stravinsky met Rimsky-Korsakov in August 1902: \" Tarantella \" (1898), Scherzo in G minor (1902), and The Storm Cloud , the first two being works for piano, and the last being works for voice and piano.",
+      "Stravinsky's first assignment from Rimsky-Korsakov was the four-movement Piano Sonata in F-sharp minor , which was also his first work to be performed in public."
+    ],
+    "key_facts": [
+      "Born in Oranienbaum, Russian Empire",
+      "Active during the Modern period.",
+      "Lived from 1882 to 1971 CE."
+    ],
+    "wars": [],
+    "historical_significance": "Stravinsky worked with some of the most famous artists of his time, many of whom he met after achieving international success with The Firebird. Diaghilev was one of Stravinsky's most prominent artistic influences, having introduced him to composing for the stage and bringing him international fame with his first three ballets."
+  },
+  "James Clerk Maxwell": {
+    "name": "James Clerk Maxwell",
+    "hint": "Scientist associated with Maxwell's equations and the electromagnetic theory of light.",
+    "bio": "James Clerk Maxwell  (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician who was responsible for the classical theory of electromagnetic radiation, which was the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon. Maxwell's equations for electromagnetism achieved the second great unification in physics, where the first one had been realised by Isaac Newton. Maxwell was also key in the creation of statistical mechanics.",
+    "birth_city": "Edinburgh",
+    "birth_country": "Scotland",
+    "death_city": "Cambridge",
+    "death_country": "England",
+    "role": "Scientist",
+    "era": "Modern",
+    "achievements": [
+      "Pioneered major historical developments in scientist."
+    ],
+    "key_facts": [
+      "Born in Edinburgh, Scotland",
+      "Active during the Modern period.",
+      "Lived from 1831 to 1879 CE."
+    ],
+    "wars": [],
+    "historical_significance": "=== Recognition ===. In a survey of the 100 most prominent physicists conducted by Physics World, Maxwell was voted the third greatest physicist of all time, behind only Isaac Newton and Albert Einstein."
+  },
+  "James Prescott Joule": {
+    "name": "James Prescott Joule",
+    "hint": "Scientist associated with the mechanical equivalent of heat and the quantitative study of energy.",
+    "bio": "James Prescott Joule (; 24 December 1818 –  11 October 1889) was an English physicist. Joule studied the nature of heat and discovered its relationship to mechanical work. This led to the law of conservation of energy, which in turn led to the development of the first law of thermodynamics.",
+    "birth_city": "Salford",
+    "birth_country": "England",
+    "death_city": "Sale",
+    "death_country": "England",
+    "role": "Scientist",
+    "era": "Modern",
+    "achievements": [
+      "Pioneered major historical developments in scientist."
+    ],
+    "key_facts": [
+      "Born in Salford, England",
+      "Active during the Modern period.",
+      "Lived from 1818 to 1889 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Jane Austen": {
+    "name": "Jane Austen",
+    "hint": "Novelist of Regency society",
+    "bio": "Jane Austen ( OST-in, AW-stin; 16 December 1775 – 18 July 1817) was an English writer known primarily for her six novels, which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage for the pursuit of favourable social standing and economic security. Her works are implicit critiques of the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism.",
+    "birth_city": "Steventon",
+    "birth_country": "England",
+    "death_city": "Winchester",
+    "death_country": "England",
+    "role": "Writer",
+    "era": "Modern",
+    "achievements": [
+      "Pioneered major historical developments in writer."
+    ],
+    "key_facts": [
+      "Born in Steventon, England",
+      "Active during the Modern period.",
+      "Lived from 1775 to 1817 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Joseph Haydn": {
+    "name": "Joseph Haydn",
+    "hint": "Key figure associated with his London Symphonies and string quartets.",
+    "bio": "Franz Joseph Haydn ( HY-dən; German: [ˈfʁants ˈjoːzɛf ˈhaɪdn̩] ; 31 March 1732 – 31 May 1809) was an Austrian composer of the Classical period. He was pivotal in the evolution of chamber music forms such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\", \"Father of the String quartet\" and \"Father of Sonata Form\".",
+    "birth_city": "Rohrau",
+    "birth_country": "Austria",
+    "death_city": "Vienna",
+    "death_country": "Austria",
+    "role": "Musician",
+    "era": "Classical",
+    "achievements": [
+      "Joseph Haydn was born in Rohrau, Austria, a village that at that time stood on the border with Hungary.",
+      "His father was Mathias Haydn, a wheelwright who also served as \"Marktrichter\", or marketplace supervisor."
+    ],
+    "key_facts": [
+      "Born in Rohrau, Austria",
+      "Active during the Classical period.",
+      "Lived from 1732 to 1809 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Louis IX": {
+    "name": "Louis IX",
+    "hint": "Key ruler associated with the Seventh and Eighth Crusades and royal justice.",
+    "bio": "Louis was born on 25 April 1214 at Poissy, near Paris, the son of then-Prince Louis \"the Lion\" (later Louis VIII of France) and Blanche of Castile, during the reign of his paternal grandfather, Philip II \"Augustus\" of France, and was baptized in Poissy in La Collégiale Notre-Dame church. His maternal grandfather was King Alfonso VIII of Castile. Tutors of Blanche's choosing taught him Latin, public speaking, writing, military arts, and government.",
+    "birth_city": "Poissy",
+    "birth_country": "France",
+    "death_city": "Tunis",
+    "death_country": "Ifriqiya",
+    "role": "Ruler",
+    "era": "Medieval",
+    "achievements": [
+      "The construction of Sainte-Chapelle was inspired by earlier Carolingian royal chapels, most notably the Palatine Chapel of Charlemagne at Aix-la-Chapelle (modern-day Aachen).",
+      "Before embarking on this ambitious project, Louis had already built a royal chapel at the Château de Saint-Germain-en-Laye in 1238."
+    ],
+    "key_facts": [
+      "Born in Poissy, France",
+      "Active during the Medieval period.",
+      "Lived from 1214 to 1270 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Ludwig van Beethoven": {
+    "name": "Ludwig van Beethoven",
+    "hint": "Key figure associated with his Fifth and Ninth Symphonies.",
+    "bio": "Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) was a German composer, conductor, and pianist. Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period, and his musical style was a key driver of the transition to Romantic music, and the expansion of instrumental forms such as the symphony, the piano sonata and the string quartet. His compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world.",
+    "birth_city": "Bonn",
+    "birth_country": "Electorate of Cologne",
+    "death_city": "Vienna",
+    "death_country": "Austria",
+    "role": "Musician",
+    "era": "Classical",
+    "achievements": [
+      "Beethoven was the grandson of Ludwig van Beethoven, a musician from the city of Mechelen in Austrian Netherlands (now Belgium), who moved to Bonn at the age of 21.",
+      "Ludwig was employed as a bass singer at the court of Clemens August, Archbishop-Elector of Cologne, eventually rising to become, in 1761, Kapellmeister (music director) and hence a preeminent musician in Bonn."
+    ],
+    "key_facts": [
+      "Born in Bonn, Electorate of Cologne",
+      "Active during the Classical period.",
+      "Lived from 1770 to 1827 CE."
+    ],
+    "wars": [],
+    "historical_significance": "Alex Ross writes \"He not only left his mark on all subsequent composers but also molded entire institutions. The professional orchestra arose, in large measure, as a vehicle for the incessant performance of Beethoven's symphonies."
+  },
+  "Malek Bennabi": {
+    "name": "Malek Bennabi",
+    "hint": "Algerian thinker on civilization and society",
+    "bio": "Malek Bennabi (1 January 1905 – 31 October 1973) (Arabic: مالك بن نبي, romanized: Malik ibn Nabī) was an Algerian writer and philosopher, of Islamic, Salafist and Wahhabi inspiration who wrote about human society, particularly Muslim society with a focus on the reasons behind the fall of Muslim civilization and the keys for Renaissance. According to Malek Bennabi, the lack of new ideas in Islamic thought emerged what he coined civilizational bankruptcy. He argued that in order to recover its former magnificence, Islamic society had to become an environment in which individuals felt empowered.",
+    "birth_city": "Constantine",
+    "birth_country": "French Algeria",
+    "death_city": "Algiers",
+    "death_country": "Algeria",
+    "role": "Philosopher",
+    "era": "Modern",
+    "achievements": [
+      "From one of his works, Les Conditions de la Renaissance (1948), he defined culture as the mode of being and becoming of a people.",
+      "This included aesthetic, ethical, pragmatic, and technical values.",
+      "When these contents had been clearly defined, only then could various formulations of ideas be born."
+    ],
+    "key_facts": [
+      "Born in Constantine, French Algeria",
+      "Active during the Modern period.",
+      "Lived from 1905 to 1973 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Marcel Proust": {
+    "name": "Marcel Proust",
+    "hint": "French author of In Search of Lost Time",
+    "bio": "Proust was born on 10 July 1871 at the home of his great-uncle in the Paris Borough of Auteuil (the south-western sector of the then-rustic 16th arrondissement), two months after the Treaty of Frankfurt formally ended the Franco-Prussian War. His birth coincided with the beginning of the French Third Republic, during the violence that surrounded the suppression of the Paris Commune, and his childhood corresponded with the consolidation of the Republic. Much of In Search of Lost Time concerns the vast changes, most particularly the decline of the aristocracy and the rise of the middle classes, that occurred in France during the fin de siècle.",
+    "birth_city": "Auteuil",
+    "birth_country": "France",
+    "death_city": "Paris",
+    "death_country": "France",
+    "role": "Writer",
+    "era": "Modern",
+    "achievements": [
+      "Pioneered major historical developments in writer."
+    ],
+    "key_facts": [
+      "Born in Auteuil, France",
+      "Active during the Modern period.",
+      "Lived from 1871 to 1922 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Marcus Aurelius": {
+    "name": "Marcus Aurelius",
+    "hint": "Key ruler associated with Meditations and the Marcomannic Wars.",
+    "bio": "Marcus was born in Rome on 26 April 121. His birth name is sometimes given as Marcus Annius Verus, but sources assign this name to him upon his father's death and unofficial adoption by his grandfather, upon his coming of age. He may have been known as \"Marcus Annius Catilius Severus\", at birth or some point in his youth, or \"Marcus Catilius Severus Annius Verus\".",
+    "birth_city": "Rome",
+    "birth_country": "Roman Empire",
+    "death_city": "Vindobona",
+    "death_country": "Roman Empire",
+    "role": "Ruler",
+    "era": "Ancient",
+    "achievements": [
+      "Pioneered major historical developments in ruler."
+    ],
+    "key_facts": [
+      "Born in Rome, Roman Empire",
+      "Active during the Ancient period.",
+      "Lived from 121 to 180 CE."
+    ],
+    "wars": [],
+    "historical_significance": "=== Equestrian statue ===. The equestrian statue of Marcus Aurelius in Rome is the only Roman equestrian statue which has survived into the modern period."
+  },
+  "Martin Luther King": {
+    "name": "Martin Luther King",
+    "hint": "Martin Luther King Jr.",
+    "bio": "was born on January 15, 1929, in Atlanta, the second of three children of Michael King and Alberta King (née Williams). Alberta's father, Adam Daniel Williams, was a minister in rural Georgia, moved to Atlanta in 1893, and became pastor of the Ebenezer Baptist Church in the following year. Williams married Jennie Celeste Parks.",
+    "birth_city": "Atlanta",
+    "birth_country": "USA",
+    "death_city": "Memphis",
+    "death_country": "USA",
+    "role": "Politician",
+    "era": "Modern Era",
+    "achievements": [
+      "King was awarded at least fifty honorary degrees from colleges and universities.",
+      "On October 14, 1964, King became the youngest winner of the Nobel Peace Prize, which was awarded to him for leading nonviolent resistance to racial prejudice in the U.S.",
+      "In 1965, he was awarded the American Liberties Medallion by the American Jewish Committee for his \"exceptional advancement of the principles of human liberty.\" In his acceptance remarks, King said, \"Freedom is one thing."
+    ],
+    "key_facts": [
+      "Born in Atlanta, USA",
+      "Active during the Modern Era period.",
+      "Lived from 1929 to 1968 CE."
+    ],
+    "wars": [],
+    "historical_significance": "=== South Africa ===. King's legacy includes influences on the Black Consciousness Movement and civil rights movement in South Africa."
+  },
+  "Michael Faraday": {
+    "name": "Michael Faraday",
+    "hint": "Scientist associated with electromagnetic induction and the foundations of electric motor and generator technology.",
+    "bio": "=== Early life ===. Michael Faraday was born on 22 September 1791 in Newington Butts, Surrey, which is now part of the London Borough of Southwark. His family was not well off.",
+    "birth_city": "Newington",
+    "birth_country": "England",
+    "death_city": "Hampton Court",
+    "death_country": "England",
+    "role": "Scientist",
+    "era": "Modern",
+    "achievements": [
+      "Faraday's earliest chemical work was as an assistant to Humphry Davy.",
+      "Faraday was involved in the study of chlorine; he discovered two new compounds of chlorine and carbon:  hexachloroethane which he made via the chlorination of ethylene and tetrachloroethylene from the decomposition of the former."
+    ],
+    "key_facts": [
+      "In honor and remembrance of his great scientific contributions, several institutions have created prizes and awards in his name.",
+      "The IET Faraday Medal.",
+      "The Royal Society of London Michael Faraday Prize."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Muhammad Abduh": {
+    "name": "Muhammad Abduh",
+    "hint": "Renowned Reformer",
+    "bio": "Muḥammad ʿAbduh was born in 1849 to a father with Turkish ancestry and an Egyptian mother in the Nile Delta. His family was part of the Ottoman Egyptian elite: his father was part of the Umad, or the local ruling elite, while his mother was part of the Ashraf. He was educated in Tanta at a private school.",
+    "birth_city": "Mahallat Nasr",
+    "birth_country": "Egypt",
+    "death_city": "Alexandria",
+    "death_country": "Egypt",
+    "role": "Reformer",
+    "era": "Modern",
+    "achievements": [
+      "Comments on Peak of Eloquence.",
+      "Al-Urwah al-Wuthqa.",
+      "Other works by Muhammad `Abduh."
+    ],
+    "key_facts": [
+      "Born in Mahallat Nasr, Egypt",
+      "Active during the Modern period.",
+      "Lived from 1849 to 1905 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Nicolaus Copernicus": {
+    "name": "Nicolaus Copernicus",
+    "hint": "Scientist associated with the heliocentric model presented in De revolutionibus.",
+    "bio": "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center. The publication of Copernicus's model in his book De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres), just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution. Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos, an ancient Greek astronomer, Copernicus likely arrived at his model independently.",
+    "birth_city": "Torun",
+    "birth_country": "Poland",
+    "death_city": "Frombork",
+    "death_country": "Poland",
+    "role": "Scientist",
+    "era": "Early Modern",
+    "achievements": [
+      "Pioneered major historical developments in scientist."
+    ],
+    "key_facts": [
+      "Born in Torun, Poland",
+      "Active during the Early Modern period.",
+      "Lived from 1473 to 1543 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Nur ad-Din": {
+    "name": "Nur ad-Din",
+    "hint": "Zengid ruler who consolidated Muslim Syria.",
+    "bio": "Al-Malik al-Adil Abu al-Qasim Nūr al-Dīn Maḥmūd  bin Imad al-Dīn Zengī (Arabic: الملكُ العادلُ أبو القاسمِ نور الدين محمود بن عمادِ الدِّين زَنْكِي; February 1118 – 15 May 1174), commonly known as Nur ad-Din or Nureddin (lit. 'Light of the Faith' in Arabic), and al-Malik al-Adil (lit. 'the Just King' in Arabic), was a Turkoman member of the Zengid dynasty, who ruled the Syrian province (Bilad al-Sham) of the Seljuk Empire.",
+    "birth_city": "Aleppo",
+    "birth_country": "Syria",
+    "death_city": "Damascus",
+    "death_country": "Syria",
+    "role": "Military Leader",
+    "era": "Medieval",
+    "achievements": [
+      "After the assassination of his father in 1146, Nur ad-Din and his older brother Saif ad-Din Ghazi I divided the kingdom between themselves, with Nur ad-Din governing Aleppo and Saif ad-Din Ghazi establishing himself in Mosul.",
+      "The border between the two new kingdoms was formed by the Khabur River."
+    ],
+    "key_facts": [
+      "During this time Nur ad-Din was busy in the north, fighting the Artuqids, and in 1170 he had to settle a dispute between his nephews when his brother Qutb ad-Din died.",
+      "With Egypt conquered in his name, Nur ad-Din believed that he had accomplished his goal of uniting the Arab states of the Levant.",
+      "However, near the end of his life, especially after the death of Saladin's father Najm al-Din Ayyub, Nur ad-Din believed he could no longer trust anyone in Saladin's court to maintain the young ruler's fealty to him."
+    ],
+    "wars": [],
+    "historical_significance": "According to William of Tyre, although Nur ad-Din was \"a mighty persecutor of the Christian name and faith,\" he was also \"a just prince, valiant and wise, and according to the traditions of his race, a religious man.\" His sense of justice was never denied to anyone, regardless of their creed or origins. As a result of his justice, a Christian foreigner was said to have settled into Damascus, which was under Nur ad-Din's reign."
+  },
+  "Oscar Wilde": {
+    "name": "Oscar Wilde",
+    "hint": "Irish author of The Picture of Dorian Gray",
+    "bio": "Oscar Wilde was born on 16 October 1854 at 21 Westland Row, Dublin (now home of the Oscar Wilde Centre, Trinity College), the second of three children born to an Anglo-Irish couple: Jane, née Elgee, and Sir William Wilde. Oscar was two years younger than his brother, William (Willie) Wilde. Jane Wilde was a niece (by marriage) of the novelist, playwright and clergyman Charles Maturin, who may have influenced her own literary career.",
+    "birth_city": "Dublin",
+    "birth_country": "Ireland",
+    "death_city": "Paris",
+    "death_country": "France",
+    "role": "Writer",
+    "era": "Modern",
+    "achievements": [
+      "Not content with being better known than ever in London, though, he returned to Paris in October 1891, this time as a respected writer.",
+      "He was received at the salons littéraires, including the famous mardis of Stéphane Mallarmé, a renowned symbolist poet of the time."
+    ],
+    "key_facts": [
+      "Born in Dublin, Ireland",
+      "Active during the Modern period.",
+      "Lived from 1854 to 1900 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Qutuz": {
+    "name": "Qutuz",
+    "hint": "Mamluk Sultan who defeated the Mongols.",
+    "bio": "Sayf ad-Din Qutuz (Arabic: سيف الدين قطز; died 24 October 1260), also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz (الملك المظفر سيف الدين قطز lit. 'The Victorious King, Sword of the Faith Qutuz'), was the Mamluk Sultan of Egypt. He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades.",
+    "birth_city": "Khwarazm",
+    "birth_country": "Khwarazm",
+    "death_city": "Ain Jalut",
+    "death_country": "Mamluk Sultanate",
+    "role": "Military Leader",
+    "era": "Mamluk Era",
+    "achievements": [
+      "Pioneered major historical developments in military leader."
+    ],
+    "key_facts": [
+      "Born in Khwarazm, Khwarazm",
+      "Active during the Mamluk Era period.",
+      "Lived from 1211 to 1260 CE."
+    ],
+    "wars": [
+      "The Battle of Ain Jalut was fought on 3 September 1260, and was one of the most important battles and a turning point in history.",
+      "In 1250, only ten years before the battle, the Bahariyya Mamluks (Qutuz, Baibars and Qalawun) led Egypt against the Seventh Crusade of King Louis IX of France .",
+      "The Mongol army at Ain Jalut was led by Kitbuqa , a Nestorian Christian Naiman Mongol , and accompanied by the Christian king of Cilician Armenia and also by the Christian prince of Antioch .",
+      "After the fall of Khawarezm , Baghdad and Syria, Egypt was the last citadel of Islam in the Middle East, and the existence of crusade beach-heads along the coast of the Levant presented a serious menace to the Islamic world.",
+      "Therefore, the future of Islam and the Christian west as well depended on the outcome of that battle."
+    ],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Rosa Parks": {
+    "name": "Rosa Parks",
+    "hint": "Renowned Politician",
+    "bio": "Rosa Parks was born Rosa Louise McCauley on February 4, 1913, in Tuskegee, Alabama. Her mother, Leona (née Edwards), was a teacher from Pine Level, Alabama. Her father, James McCauley, was a carpenter and mason from Abbeville, Alabama.",
+    "birth_city": "Tuskegee",
+    "birth_country": "USA",
+    "death_city": "Detroit",
+    "death_country": "USA",
+    "role": "Politician",
+    "era": "Modern",
+    "achievements": [
+      "Pioneered major historical developments in politician."
+    ],
+    "key_facts": [
+      "Born in Tuskegee, USA",
+      "Active during the Modern period.",
+      "Lived from 1913 to 2005 CE."
+    ],
+    "wars": [],
+    "historical_significance": "Parks received several awards as a result of her contributions to the civil rights movement. The SCLC established the Rosa Parks Freedom Award in 1963, though Parks herself did not receive it until 1972."
+  },
+  "Saladin": {
+    "name": "Saladin",
+    "hint": "Founder of the Ayyubid dynasty.",
+    "bio": "Saladin was born in Tikrit in present-day Iraq. His personal name was \"Yusuf\"; \"Salah ad-Din\" is a laqab, an honorific epithet, meaning \"Righteousness of the Faith\". His parents were of Kurdish ancestry, and had originated from the village of Ajdanakan near the city of Dvin in central Armenia.",
+    "birth_city": "Tikrit",
+    "birth_country": "Iraq",
+    "death_city": "Damascus",
+    "death_country": "Syria",
+    "role": "Military Leader",
+    "era": "Middle Ages",
+    "achievements": [
+      "Crusader attacks provoked further responses by Saladin.",
+      "Raynald of Châtillon, in particular, harassed Muslim trading and pilgrimage routes with a fleet on the Red Sea, a water route that Saladin needed to keep open.",
+      "Raynald threatened to attack the holy cities of Mecca and Medina."
+    ],
+    "key_facts": [
+      "Born in Tikrit, Iraq",
+      "Active during the Middle Ages period.",
+      "Lived from 1137 to 1193 CE."
+    ],
+    "wars": [
+      "Saladin's military career began under the tutelage of his paternal uncle Shirkuh, a prominent military commander under Nur ad-Din, the Zengid emir of Damascus and Aleppo and the most influential teacher of Saladin.",
+      "In 1163, Shawar, the vizier to al-Adid, who was the Fatimid caliph at the time, had been driven out of Egypt by his rival Dirgham , a member of the powerful Banu Ruzzaik tribe.",
+      "He asked for military backing from Nur ad-Din, who complied, and in 1164, sent Shirkuh to aid Shawar in his expedition against Dirgham.",
+      "Saladin, at age 26, went along with them.",
+      "After Shawar was successfully reinstated as vizier, he demanded that Shirkuh withdraw his army from Egypt for a sum of 30,000 gold dinars , but he refused, insisting it was Nur ad-Din's will that he remain."
+    ],
+    "historical_significance": "=== Muslim world ===. Saladin has become a prominent figure in Muslim, Arab, Turkish and Kurdish culture, and he has been described as the most famous Kurd in history."
+  },
+  "Steve Jobs": {
+    "name": "Steve Jobs",
+    "hint": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor.",
+    "bio": "Steven Paul Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Dr. Abdulfattah \"John\" Jandali (Arabic: عبد الفتاح الجندلي). Abdulfattah Jandali was born in a Muslim household to wealthy Syrian parents, the youngest of nine siblings.",
+    "birth_city": "San Francisco",
+    "birth_country": "USA",
+    "death_city": "Palo Alto",
+    "death_country": "USA",
+    "role": "Technologist",
+    "era": "Digital Age",
+    "achievements": [
+      "Pioneered major historical developments in technologist."
+    ],
+    "key_facts": [
+      "Born in San Francisco, USA",
+      "Active during the Digital Age period.",
+      "Lived from 1955 to 2011 CE."
+    ],
+    "wars": [],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  },
+  "Sun Yat-sen": {
+    "name": "Sun Yat-sen",
+    "hint": "Sun Yat-sen was a Chinese revolutionary and political leader widely regarded as a founder of republican China.",
+    "bio": "Sun Yat-sen (; 12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary and political philosopher who founded the Republic of China (ROC) and the Kuomintang (KMT). Sun is credited with leading the 1911 Revolution and overthrowing the Qing dynasty. He served as the first president of the Provisional Government of the Republic of China (1912) and as the inaugural premier of the Kuomintang.",
+    "birth_city": "Cuiheng",
+    "birth_country": "Qing dynasty",
+    "death_city": "Beijing",
+    "death_country": "Republic of China",
+    "role": "Politician",
+    "era": "Modern Era",
+    "achievements": [
+      "Kidnapped in London (1897).",
+      "The Outline of National Reconstruction/Chien Kuo Ta Kang (1918).",
+      "The Fundamentals of National Reconstruction/Chien Kuo Fang Lueh (1924)."
+    ],
+    "key_facts": [
+      "Born in Cuiheng, Qing dynasty",
+      "Active during the Modern Era period.",
+      "Key historical figure of Modern Era."
+    ],
+    "wars": [
+      "In 1895, China suffered a serious defeat during the First Sino-Japanese War .",
+      "One group of intellectuals contended that the Manchu Qing government could restore its legitimacy by successfully modernizing.",
+      "Stressing that overthrowing the Manchu would result in chaos and would lead to China being carved up by imperialists, intellectuals like Kang Youwei and Liang Qichao supported responding with initiatives like the Hundred Days' Reform .",
+      "In another faction, Sun Yat-sen and others like Zou Rong wanted a revolution to replace the dynastic system with a modern nation-state in the form of a republic.",
+      "The Hundred Days' reform turned out to be a failure by 1898."
+    ],
+    "historical_significance": "=== Power struggle ===. After Sun's death, Wang Jingwei became the first president of the Nationalist government, which soon fragmented into three competing factions: the center-right Nanjing government led by Chiang Kai-shek, the leftist Wuhan government led by Wang Jingwei, and the far-right Western Hills Group, originally convened in Beijing, which maintained its own Central Executive Committee in Shanghai."
+  },
+  "T. E. Lawrence": {
+    "name": "T. E. Lawrence",
+    "hint": "British officer associated with the Arab Revolt.",
+    "bio": "Thomas Edward Lawrence was born on 16 August 1888 in Tremadog, Carnarvonshire, in a house named Gorphwysfa, now known as Snowdon Lodge. His Anglo-Irish father Thomas Chapman had left his wife Edith, after he fathered his first son with Lawrence's mother Sarah Junner, who had been governess to Chapman's daughters. Sarah was herself an illegitimate child, born in Sunderland to Elizabeth Junner, a servant employed by a family named Lawrence.",
+    "birth_city": "Tremadog",
+    "birth_country": "United Kingdom",
+    "death_city": "Dorset",
+    "death_country": "United Kingdom",
+    "role": "Military Leader",
+    "era": "Modern",
+    "achievements": [
+      "Lawrence returned to the United Kingdom as a full colonel.",
+      "Immediately after the war, he worked for the Foreign Office, attending the Paris Peace Conference between January and May as a member of Faisal's delegation.",
+      "On 17 May 1919, a Handley Page Type O/400 taking Lawrence to Egypt crashed at the airport of Roma-Centocelle."
+    ],
+    "key_facts": [
+      "Born in Tremadog, United Kingdom",
+      "Active during the Modern period.",
+      "Lived from 1888 to 1935 CE."
+    ],
+    "wars": [
+      "Following the outbreak of hostilities in August 1914, Lawrence did not immediately enlist in the British Army.",
+      "He held back until October on the advice of S.",
+      "Newcombe , when he was commissioned on the General List as temporary second lieutenant-interpreter.",
+      "Before the end of the year, he was summoned by renowned archaeologist and historian Lieutenant Commander David Hogarth , his mentor at Carchemish, to the new Arab Bureau intelligence unit in Cairo, and he arrived in Cairo on 15 December 1914.",
+      "The Bureau's chief was Brigadier-General Gilbert Clayton who reported to Egyptian High Commissioner Henry McMahon ."
+    ],
+    "historical_significance": "INSUFFICIENT_SOURCE"
+  }
+}

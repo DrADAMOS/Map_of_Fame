@@ -1,0 +1,807 @@
+{
+  "read_only": true,
+  "files_modified": 0,
+  "summary": {
+    "TOTAL_PEOPLE": 289,
+    "EXPECTED_LANGUAGES": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "tr",
+      "ru",
+      "ja",
+      "zh",
+      "hi",
+      "id",
+      "fa"
+    ],
+    "ACTUAL_LANGUAGES": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fa",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ],
+    "TOTAL_PERSON_LANGUAGE_RECORDS": 4046,
+    "EXACT_DUPLICATES": 48,
+    "REAL_DUPLICATES": 48,
+    "LEGITIMATE_OVERLAPS": 0,
+    "UNCERTAIN_DUPLICATES": 0,
+    "SEMANTIC_SAME_FACT": 6,
+    "SEMANTIC_RELATED": 0,
+    "SEMANTIC_DIFFERENT": 0,
+    "SEMANTIC_UNCERTAIN": 0,
+    "CROSS_PERSON_ISSUES": 24,
+    "WIKIPEDIA_ARTIFACTS": 11,
+    "REAL_LANGUAGE_CONTAMINATION": 1,
+    "IDENTITY_ISSUES": 0,
+    "COMPLETENESS_ISSUES": 0,
+    "QUIZ_ISSUES": 12,
+    "JS_MIRROR_ISSUES": 37,
+    "PROVENANCE_ISSUES": 0,
+    "REPAIR_MISMATCHES": 0,
+    "CRITICAL": 0,
+    "HIGH": 38,
+    "MEDIUM": 35,
+    "LOW": 0,
+    "INFO": 15,
+    "FINAL_STATUS": "FAIL"
+  },
+  "identity_integrity": {
+    "identity_review_schema_keys": [
+      "NONE"
+    ],
+    "total_review_entries": 0,
+    "verified_entries": 0,
+    "mapped_aliases": 0,
+    "unresolved_entries": 0,
+    "unresolved_list": [],
+    "missing_review_entries": 0,
+    "extra_review_entries": 0
+  },
+  "cross_person_contamination": {
+    "total_cases": 24,
+    "cases": [
+      {
+        "current_person": "Christopher Columbus",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Christopher Columbus' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "Amerigo Vespucci",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Amerigo Vespucci' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "Vasco da Gama",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Vasco da Gama' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "Ferdinand Magellan",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Ferdinand Magellan' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "James Cook",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'James Cook' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "George Stephenson",
+        "suspected_person": "James Hargreaves",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in technologist.",
+        "suspected_full_text": "Remembered for shaping historical developments in technologist.",
+        "shared_phrase": "Remembered for shaping historical developments in technologist.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'George Stephenson' and 'James Hargreaves'."
+      },
+      {
+        "current_person": "Florence Nightingale",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Florence Nightingale' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Elizabeth Blackwell",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Elizabeth Blackwell' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Joseph Lister",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Joseph Lister' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Robert Koch",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Robert Koch' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Alexander Graham Bell",
+        "suspected_person": "James Hargreaves",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in technologist.",
+        "suspected_full_text": "Remembered for shaping historical developments in technologist.",
+        "shared_phrase": "Remembered for shaping historical developments in technologist.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Alexander Graham Bell' and 'James Hargreaves'."
+      },
+      {
+        "current_person": "Paul Ehrlich",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Paul Ehrlich' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Abd al-Rahman al-Kawakibi",
+        "suspected_person": "Jamal al-Din al-Afghani",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in reformer.",
+        "suspected_full_text": "Remembered for shaping historical developments in reformer.",
+        "shared_phrase": "Remembered for shaping historical developments in reformer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Abd al-Rahman al-Kawakibi' and 'Jamal al-Din al-Afghani'."
+      },
+      {
+        "current_person": "Sigmund Freud",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Sigmund Freud' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Rashid Rida",
+        "suspected_person": "Jamal al-Din al-Afghani",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in reformer.",
+        "suspected_full_text": "Remembered for shaping historical developments in reformer.",
+        "shared_phrase": "Remembered for shaping historical developments in reformer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Rashid Rida' and 'Jamal al-Din al-Afghani'."
+      },
+      {
+        "current_person": "Robert Falcon Scott",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Robert Falcon Scott' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "Ernest Shackleton",
+        "suspected_person": "Ibn Battuta",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in explorer.",
+        "suspected_full_text": "Remembered for shaping historical developments in explorer.",
+        "shared_phrase": "Remembered for shaping historical developments in explorer.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Ernest Shackleton' and 'Ibn Battuta'."
+      },
+      {
+        "current_person": "Guglielmo Marconi",
+        "suspected_person": "James Hargreaves",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in technologist.",
+        "suspected_full_text": "Remembered for shaping historical developments in technologist.",
+        "shared_phrase": "Remembered for shaping historical developments in technologist.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Guglielmo Marconi' and 'James Hargreaves'."
+      },
+      {
+        "current_person": "Alexander Fleming",
+        "suspected_person": "Ibn al-Nafis",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in physician.",
+        "suspected_full_text": "Remembered for shaping historical developments in physician.",
+        "shared_phrase": "Remembered for shaping historical developments in physician.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Alexander Fleming' and 'Ibn al-Nafis'."
+      },
+      {
+        "current_person": "Alan Turing",
+        "suspected_person": "James Hargreaves",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in technologist.",
+        "suspected_full_text": "Remembered for shaping historical developments in technologist.",
+        "shared_phrase": "Remembered for shaping historical developments in technologist.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Alan Turing' and 'James Hargreaves'."
+      },
+      {
+        "current_person": "Che Guevara",
+        "suspected_person": "Emiliano Zapata",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in revolutionary.",
+        "suspected_full_text": "Remembered for shaping historical developments in revolutionary.",
+        "shared_phrase": "Remembered for shaping historical developments in revolutionary.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Che Guevara' and 'Emiliano Zapata'."
+      },
+      {
+        "current_person": "Dennis Ritchie",
+        "suspected_person": "James Hargreaves",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in technologist.",
+        "suspected_full_text": "Remembered for shaping historical developments in technologist.",
+        "shared_phrase": "Remembered for shaping historical developments in technologist.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Dennis Ritchie' and 'James Hargreaves'."
+      },
+      {
+        "current_person": "Ayrton Senna",
+        "suspected_person": "Pelé",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in athlete.",
+        "suspected_full_text": "Remembered for shaping historical developments in athlete.",
+        "shared_phrase": "Remembered for shaping historical developments in athlete.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Ayrton Senna' and 'Pelé'."
+      },
+      {
+        "current_person": "Diego Maradona",
+        "suspected_person": "Pelé",
+        "field": "historical_significance",
+        "current_full_text": "Remembered for shaping historical developments in athlete.",
+        "suspected_full_text": "Remembered for shaping historical developments in athlete.",
+        "shared_phrase": "Remembered for shaping historical developments in athlete.",
+        "classification": "CONFIRMED_CONTAMINATION",
+        "reason": "Identical historical_significance text shared between 'Diego Maradona' and 'Pelé'."
+      }
+    ]
+  },
+  "semantic_duplicates": {
+    "same_fact_cnt": 6,
+    "cases": [
+      {
+        "person": "Frederick Barbarossa",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "claim_a": "frederick barbarossa (december 1122 – 10 june 1190), also known as frederick i ( german: friedrich ; italian: federico )",
+        "claim_b": "frederick barbarossa (december 1122 – 10 june 1190), also known as frederick i ( german: friedrich ; italian: federico )",
+        "classification": "CONFIRMED_SAME_FACT"
+      },
+      {
+        "person": "Frederick II",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "claim_a": "frederick ii , frederik ii or friedrich ii may refer to:",
+        "claim_b": "frederick ii , frederik ii or friedrich ii may refer to:",
+        "classification": "CONFIRMED_SAME_FACT"
+      },
+      {
+        "person": "Oda Nobunaga",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "claim_a": "oda nobunaga ( 織田 信長 ; ; 23 june 1534 – 21 june 1582) was a japanese samurai and daimyō and one of the leading figures o",
+        "claim_b": "oda nobunaga ( 織田 信長 ; ; 23 june 1534 – 21 june 1582) was a japanese samurai and daimyō and one of the leading figures o",
+        "classification": "CONFIRMED_SAME_FACT"
+      },
+      {
+        "person": "El Greco",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "claim_a": "doménikos theotokópoulos ( greek : δομήνικος θεοτοκόπουλος , pronounced ; 1 october 1541 – 7 april 1614), most widely kn",
+        "claim_b": "doménikos theotokópoulos ( greek : δομήνικος θεοτοκόπουλος , pronounced ; 1 october 1541 – 7 april 1614), most widely kn",
+        "classification": "CONFIRMED_SAME_FACT"
+      },
+      {
+        "person": "Tokugawa Ieyasu",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "claim_a": "tokugawa ieyasu (born matsudaira takechiyo ; january 31, 1543 – june 1, 1616) was a japanese samurai , daimyo and the fo",
+        "claim_b": "tokugawa ieyasu (born matsudaira takechiyo ; january 31, 1543 – june 1, 1616) was a japanese samurai , daimyo and the fo",
+        "classification": "CONFIRMED_SAME_FACT"
+      },
+      {
+        "person": "Wassily Kandinsky",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "claim_a": "4 december ] 1866 – 13 december 1944) was a russian painter and art theorist active in germany during the late belle épo",
+        "claim_b": "4 december ] 1866 – 13 december 1944) was a russian painter and art theorist active in germany during the late belle épo",
+        "classification": "CONFIRMED_SAME_FACT"
+      }
+    ]
+  },
+  "wikipedia_artifacts": {
+    "total_artifacts": 11,
+    "artifacts": [
+      {
+        "person": "Marcus Aurelius",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Equestrian statue ==="
+        ],
+        "complete_sentence": "=== Equestrian statue ===. The equestrian statue of Marcus Aurelius in Rome is the only Roman equestrian statue which has survived into the modern period.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Hannibal Barca",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Ancient world ==="
+        ],
+        "complete_sentence": "=== Ancient world ===. Hannibal caused great distress to many in Roman society.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Saladin",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Muslim world ==="
+        ],
+        "complete_sentence": "=== Muslim world ===. Saladin has become a prominent figure in Muslim, Arab, Turkish and Kurdish culture, and he has been described as the most famous Kurd in history.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Caravaggio",
+        "language": "en",
+        "field": "bio",
+        "offending_artifact": [
+          "=== Early life (1571–1592) ==="
+        ],
+        "complete_sentence": "=== Early life (1571–1592) ===. Caravaggio (Michelangelo Merisi or Amerighi) was born in Milan, where his father, Fermo (Fermo Merixio), was a household administrator and architect-decorator to the marquess of Caravaggio, a town 35 km (22 mi) to the east of Milan and south of Bergamo. It was previously assumed that he had been born in Caravaggio.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Michael Faraday",
+        "language": "en",
+        "field": "bio",
+        "offending_artifact": [
+          "=== Early life ==="
+        ],
+        "complete_sentence": "=== Early life ===. Michael Faraday was born on 22 September 1791 in Newington Butts, Surrey, which is now part of the London Borough of Southwark. His family was not well off.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Giuseppe Verdi",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Reception ==="
+        ],
+        "complete_sentence": "=== Reception ===. Although Verdi's operas brought him a popular following, not all contemporary critics approved of his work.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "James Clerk Maxwell",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Recognition ==="
+        ],
+        "complete_sentence": "=== Recognition ===. In a survey of the 100 most prominent physicists conducted by Physics World, Maxwell was voted the third greatest physicist of all time, behind only Isaac Newton and Albert Einstein.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Gustav Mahler",
+        "language": "en",
+        "field": "bio",
+        "offending_artifact": [
+          "=== Family background ==="
+        ],
+        "complete_sentence": "=== Family background ===. The Mahler family came from eastern Bohemia, now in the Czech Republic, and were of humble circumstances—the composer's grandmother had been a street pedlar. Bohemia was then part of the Austrian Empire; the Mahler family belonged to a German-speaking minority among Bohemians, and was also Jewish.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Sun Yat-sen",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Power struggle ==="
+        ],
+        "complete_sentence": "=== Power struggle ===. After Sun's death, Wang Jingwei became the first president of the Nationalist government, which soon fragmented into three competing factions: the center-right Nanjing government led by Chiang Kai-shek, the leftist Wuhan government led by Wang Jingwei, and the far-right Western Hills Group, originally convened in Beijing, which maintained its own Central Executive Committee in Shanghai.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Martin Luther King",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== South Africa ==="
+        ],
+        "complete_sentence": "=== South Africa ===. King's legacy includes influences on the Black Consciousness Movement and civil rights movement in South Africa.",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      },
+      {
+        "person": "Bob Marley",
+        "language": "en",
+        "field": "historical_significance",
+        "offending_artifact": [
+          "=== Awards and honours ==="
+        ],
+        "complete_sentence": "=== Awards and honours ===. 1976: Rolling Stone magazine's \"Band of the Year\".",
+        "artifact_type": "HEADING_OR_CITATION_MARKUP"
+      }
+    ]
+  },
+  "mendeleev_contamination": {
+    "current_achievements": [
+      "Периодический закон (DjVu).",
+      "// Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers.",
+      "Периодический закон."
+    ],
+    "items_classified": [
+      {
+        "item": "Периодический закон (DjVu).",
+        "classification": "citation artifact"
+      },
+      {
+        "item": "// Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers.",
+        "classification": "citation artifact"
+      },
+      {
+        "item": "Периодический закон.",
+        "classification": "citation artifact"
+      }
+    ]
+  },
+  "js_mirror_audit": {
+    "js_exists": true,
+    "js_people_cnt": 289,
+    "js_mismatches_cnt": 37,
+    "js_mismatches": [
+      {
+        "person": "Hadrian",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Built Hadrian's Wall to mark the northern limit of Britannia and sponsored major Roman architectural works including the rebuilt Pantheon.",
+        "js_val": "Hadrian is important for the consolidation of the Roman Empire and for the physical landscape his building program left behind. His reign illustrates a shift from territorial expansion toward managing and defending an already vast imperial system."
+      },
+      {
+        "person": "Marcus Aurelius",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Equestrian statue ===. The equestrian statue of Marcus Aurelius in Rome is the only Roman equestrian statue which has survived into the modern period.",
+        "js_val": "Combined Stoic philosophy with imperial rule during prolonged frontier wars, leaving the Meditations as a major work of ancient philosophy."
+      },
+      {
+        "person": "Hannibal Barca",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Ancient world ===. Hannibal caused great distress to many in Roman society.",
+        "js_val": "Carthaginian general and statesman who carried the Second Punic War into Italy and repeatedly defeated larger Roman armies before being defeated by Scipio at Zama."
+      },
+      {
+        "person": "Constantine the Great",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "By 336, he had reoccupied most of the long-lost province of Dacia which Aurelian had been forced to abandon in 271.",
+        "js_val": "Roman emperor who reunited the empire and transformed imperial policy toward Christianity during the early fourth century."
+      },
+      {
+        "person": "Nur ad-Din",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "According to William of Tyre, although Nur ad-Din was \"a mighty persecutor of the Christian name and faith,\" he was also \"a just prince, valiant and wise, and according to the traditions of his race, a religious man.\" His sense of justice was never denied to anyone, regardless of their creed or origins. As a result of his justice, a Christian foreigner was said to have settled into Damascus, which was under Nur ad-Din's reign.",
+        "js_val": "Nur ad-Din left a lasting mark on military history through consolidation of Muslim Syria and the campaigns that preceded Saladin's rise."
+      },
+      {
+        "person": "Saladin",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Muslim world ===. Saladin has become a prominent figure in Muslim, Arab, Turkish and Kurdish culture, and he has been described as the most famous Kurd in history.",
+        "js_val": "Founder of the Ayyubid dynasty."
+      },
+      {
+        "person": "Qutuz",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Halted the westward expansion of the Mongol Empire at the Battle of Ain Jalut in 1260, preserving Islamic civilization in Egypt and the Levant.",
+        "js_val": "Mamluk Sultan who defeated the Mongols."
+      },
+      {
+        "person": "Louis IX",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Consolidated French royal authority, reformed medieval judicial institutions, and was canonized as a Catholic saint in 1297.",
+        "js_val": "Strengthened French royal administration and personally led two crusades, becoming the only French king canonized in the Middle Ages."
+      },
+      {
+        "person": "Nicolaus Copernicus",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Published De revolutionibus orbium coelestium in 1543, triggering the Copernican Revolution and contributing fundamentally to the Scientific Revolution.",
+        "js_val": "Nicolaus Copernicus left a lasting mark on science through the heliocentric model presented in De revolutionibus."
+      },
+      {
+        "person": "Caravaggio",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Revolutionized Western European painting through intense realism and a dramatic, high-contrast use of chiaroscuro and tenebrism, profoundly shaping the emergence of Baroque art.",
+        "js_val": "Caravaggio revolutionized European painting with stark chiaroscuro, naturalistic figures, and emotionally charged biblical scenes."
+      },
+      {
+        "person": "Joseph Haydn",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Instrumental in developing classical chamber music, earning the epithets 'Father of the Symphony' and 'Father of the String Quartet'.",
+        "js_val": "Joseph Haydn left a lasting mark on music through his London Symphonies and string quartets."
+      },
+      {
+        "person": "Francisco Goya",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Goya is often referred to as the last of the Old Masters and the first of the moderns. Among the 20th-century painters influenced by Goya are the Spanish masters Pablo Picasso and Salvador Dalí who drew influence from Los caprichos and the Black Paintings of Goya.",
+        "js_val": "Goya bridged the Old Masters and modern art through court portraits, The Third of May 1808, and the dark imagery of the Black Paintings."
+      },
+      {
+        "person": "Ludwig van Beethoven",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Alex Ross writes \"He not only left his mark on all subsequent composers but also molded entire institutions. The professional orchestra arose, in large measure, as a vehicle for the incessant performance of Beethoven's symphonies.",
+        "js_val": "Ludwig van Beethoven left a lasting mark on music through his Fifth and Ninth Symphonies."
+      },
+      {
+        "person": "Jane Austen",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Critiqued 18th-century novels of sensibility through her fiction and formed part of the transition toward 19th-century literary realism.",
+        "js_val": "Jane Austen transformed the English novel through precise social observation, irony, and works such as Pride and Prejudice."
+      },
+      {
+        "person": "Michael Faraday",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Discovered electromagnetic induction, laws of electrolysis, and diamagnetism, laying the physical foundations for electromagnetic field theory and modern electrical power technology.",
+        "js_val": "Michael Faraday left a lasting mark on science through electromagnetic induction and the foundations of electric motor and generator technology."
+      },
+      {
+        "person": "Auguste Comte",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Formulated the philosophical doctrine of positivism and established sociology as a systematic science, seeking to create a scientific framework for social order following the French Revolution.",
+        "js_val": "Auguste Comte formulated positivism and argued that society could be studied systematically, helping establish sociology as a distinct field of inquiry."
+      },
+      {
+        "person": "Giuseppe Verdi",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Reception ===. Although Verdi's operas brought him a popular following, not all contemporary critics approved of his work.",
+        "js_val": "Giuseppe Verdi left a lasting mark on music through La traviata, Aida and Otello."
+      },
+      {
+        "person": "James Prescott Joule",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Discovered the relationship between heat and mechanical work, establishing energy principles that led to the First Law of Thermodynamics.",
+        "js_val": "James Prescott Joule left a lasting mark on science through the mechanical equivalent of heat and the quantitative study of energy."
+      },
+      {
+        "person": "Clara Barton",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Founded the American Red Cross and directed its humanitarian relief operations during wars and natural disasters for twenty-three years.",
+        "js_val": "Remembered for shaping historical developments in physician."
+      },
+      {
+        "person": "James Clerk Maxwell",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Recognition ===. In a survey of the 100 most prominent physicists conducted by Physics World, Maxwell was voted the third greatest physicist of all time, behind only Isaac Newton and Albert Einstein.",
+        "js_val": "James Clerk Maxwell left a lasting mark on science through Maxwell's equations and the electromagnetic theory of light."
+      },
+      {
+        "person": "Dmitri Mendeleev",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Formulated the Periodic Law and created a predictive periodic table of elements used to correct known properties and anticipate undiscovered elements.",
+        "js_val": "Dmitri Mendeleev left a lasting mark on science through the periodic table and prediction of undiscovered elements."
+      },
+      {
+        "person": "Muhammad Abduh",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Served as Grand Mufti of Egypt and a central figure of Islamic Modernism, reforming religious thought through rationalist interpretation.",
+        "js_val": "Remembered for shaping historical developments in reformer."
+      },
+      {
+        "person": "Emperor Meiji",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Served as the imperial symbol of the Meiji Restoration, presiding over Japan's rapid historic transformation from an isolated feudal shogunate into a modern, industrialized world power.",
+        "js_val": "Emperor Meiji ruled during the transformation of Japan into a modern industrial and national state."
+      },
+      {
+        "person": "Oscar Wilde",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Remembered as a leading figure of the 19th-century Aestheticism movement and a master of late Victorian theatrical comedy.",
+        "js_val": "Wilde became a major figure of aestheticism through witty drama, criticism, and The Picture of Dorian Gray."
+      },
+      {
+        "person": "Gustav Mahler",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Exerted a profound and wide-ranging influence on succeeding generations of 20th-century classical composers.",
+        "js_val": "Gustav Mahler left a lasting mark on music through his large-scale symphonies and Das Lied von der Erde."
+      },
+      {
+        "person": "Sun Yat-sen",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Power struggle ===. After Sun's death, Wang Jingwei became the first president of the Nationalist government, which soon fragmented into three competing factions: the center-right Nanjing government led by Chiang Kai-shek, the leftist Wuhan government led by Wang Jingwei, and the far-right Western Hills Group, originally convened in Beijing, which maintained its own Central Executive Committee in Shanghai.",
+        "js_val": "Sun Yat-sen was a Chinese revolutionary and political leader widely regarded as a founder of republican China."
+      },
+      {
+        "person": "Marcel Proust",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Authored the monumental seven-volume novel In Search of Lost Time, widely considered a masterpiece of 20th-century literature.",
+        "js_val": "Proust transformed modern fiction through In Search of Lost Time and its exploration of memory, time, and consciousness."
+      },
+      {
+        "person": "Alexis Carrel",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Pioneered concepts in tissue culture, transplantology, and thoracic surgery that laid foundational principles for modern organ transplantation.",
+        "js_val": "Remembered for shaping historical developments in physician."
+      },
+      {
+        "person": "Igor Stravinsky",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Stravinsky worked with some of the most famous artists of his time, many of whom he met after achieving international success with The Firebird. Diaghilev was one of Stravinsky's most prominent artistic influences, having introduced him to composing for the stage and bringing him international fame with his first three ballets.",
+        "js_val": "Igor Stravinsky left a lasting mark on music through The Firebird, Petrushka and The Rite of Spring."
+      },
+      {
+        "person": "T. E. Lawrence",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Played a key historical role in the Arab Revolt through his military strategy and liaison with British Armed Forces.",
+        "js_val": "T. E. Lawrence left a lasting mark on military history through his role in the Arab Revolt and guerrilla strategy during the First World War."
+      },
+      {
+        "person": "Malek Bennabi",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Developed an influential civilizational philosophy analyzing the decline and renewal of Muslim societies, introducing the key concept of 'colonisability' in post-colonial studies.",
+        "js_val": "Malek Bennabi developed a distinctive analysis of civilization, cultural renewal, and the conditions he believed were necessary for societies to overcome decline and regain creative capacity."
+      },
+      {
+        "person": "Grace Hopper",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Grace Hopper was awarded 40 honorary degrees from universities worldwide during her lifetime. Nvidia has named their 2024 CPU generation Grace and GPU generation Hopper after Grace Hopper.",
+        "js_val": "Remembered for shaping historical developments in technologist."
+      },
+      {
+        "person": "Rosa Parks",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Parks received several awards as a result of her contributions to the civil rights movement. The SCLC established the Rosa Parks Freedom Award in 1963, though Parks herself did not receive it until 1972.",
+        "js_val": "Parks became a major symbol of the U.S. civil rights movement after her 1955 refusal to surrender her bus seat helped trigger the Montgomery Bus Boycott."
+      },
+      {
+        "person": "Anwar Sadat",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Reoriented Egyptian policy by leading the 1978 Camp David Accords and Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel.",
+        "js_val": "Led Egypt in the October War."
+      },
+      {
+        "person": "Martin Luther King",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== South Africa ===. King's legacy includes influences on the Black Consciousness Movement and civil rights movement in South Africa.",
+        "js_val": "Martin Luther King Jr."
+      },
+      {
+        "person": "Bob Marley",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "=== Awards and honours ===. 1976: Rolling Stone magazine's \"Band of the Year\".",
+        "js_val": "Bob Marley left a lasting mark on music through Exodus and the international spread of reggae."
+      },
+      {
+        "person": "Steve Jobs",
+        "language": "en",
+        "field": "historical_significance",
+        "json_val": "Pioneered the personal computer revolution of the 1970s and 1980s as a leading inventor and entrepreneur.",
+        "js_val": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor."
+      }
+    ]
+  },
+  "quiz_data_audit": {
+    "quiz_exists": true,
+    "quiz_entries_cnt": 297,
+    "quiz_unique_names_cnt": 297,
+    "resolved_known_aliases": [
+      "Martin Luther King Jr. -> Martin Luther King",
+      "Napoleon Bonaparte -> Napoleon",
+      "Omar Mukhtar -> Omar al-Mukhtar"
+    ],
+    "unresolved_quiz_only_names": [
+      "Umar ibn Abd al-Aziz",
+      "Gabriele D'Annunzio",
+      "Rifa'a al-Tahtawi",
+      "Gamal Abdel Nasser",
+      "David Livingstone",
+      "Al-Ma'mun",
+      "Al-Mu'izz li-Din Allah",
+      "Al-Shafi'i",
+      "Sa'd ibn Abi Waqqas",
+      "Umm Kulthum",
+      "Al-Mu'tamid",
+      "Al-Mu'tasim"
+    ]
+  },
+  "provenance_verification": {
+    "total_items_audited": 60,
+    "supported_cnt": 60,
+    "mismatches_cnt": 0,
+    "mismatches": []
+  },
+  "application_data_modified": false,
+  "status": "TARGETED_DIAGNOSTIC_COMPLETE"
+}

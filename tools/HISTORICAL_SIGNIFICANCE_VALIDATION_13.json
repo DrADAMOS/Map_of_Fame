@@ -1,0 +1,302 @@
+{
+  "TARGET_COUNT": 13,
+  "FULLY_SUPPORTED": 13,
+  "PARTIALLY_SUPPORTED": 0,
+  "UNSUPPORTED": 0,
+  "SEMANTIC_DUPLICATES": 0,
+  "PEOPLE_WITH_APPROVED_WORDING": 13,
+  "FILES_MODIFIED": 0,
+  "STATUS": "VALIDATION_COMPLETE",
+  "details": [
+    {
+      "person": "Alexis Carrel",
+      "source_section": "Scientific legacy",
+      "exact_source_passage": "Carrel was a pioneer in tissue culture, transplantology and thoracic surgery, laying foundational concepts for modern organ transplantation.",
+      "final_conservative_wording": "Pioneered concepts in tissue culture, transplantology, and thoracic surgery that laid foundational principles for modern organ transplantation.",
+      "claims_verification": [
+        {
+          "claim_keyword": "tissue culture",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "transplantology",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "thoracic surgery",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "modern organ transplantation",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Anwar Sadat",
+      "source_section": "Lead",
+      "exact_source_passage": "In his eleven years as president, he changed Egypt's trajectory, departing from the political tenets of Nasserism, leading the 1978 Camp David Accords and the Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel.",
+      "final_conservative_wording": "Reoriented Egyptian policy by leading the 1978 Camp David Accords and Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel.",
+      "claims_verification": [
+        {
+          "claim_keyword": "camp david accords",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "egypt–israel peace treaty",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "first arab state to recognize israel",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Clara Barton",
+      "source_section": "Lead",
+      "exact_source_passage": "Clarissa Harlowe Barton was an American nurse who founded the American Red Cross. She led the organization for 23 years, conducting humanitarian relief operations during wars and natural disasters.",
+      "final_conservative_wording": "Founded the American Red Cross and directed its humanitarian relief operations during wars and natural disasters for twenty-three years.",
+      "claims_verification": [
+        {
+          "claim_keyword": "founded the american red cross",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "23 years",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "humanitarian relief operations",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "source_section": "Lead",
+      "exact_source_passage": "Formulated the Periodic Law and created a farsighted version of the periodic table of elements, using it to correct the properties of some already discovered elements and also to predict the properties of eight elements yet to be discovered.",
+      "final_conservative_wording": "Formulated the Periodic Law and created a predictive periodic table of elements used to correct known properties and anticipate undiscovered elements.",
+      "claims_verification": [
+        {
+          "claim_keyword": "periodic law",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "periodic table of elements",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "predict",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "to be discovered",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Hadrian",
+      "source_section": "Lead",
+      "exact_source_passage": "Hadrian is known for building Hadrian's Wall, which marked the northern limit of Britannia... He rebuilt the Pantheon and constructed the vast Temple of Venus and Roma. Recognized for his philhellenism, he sought to make Athens the cultural capital of the empire.",
+      "final_conservative_wording": "Built Hadrian's Wall to mark the northern limit of Britannia and sponsored major Roman architectural works including the rebuilt Pantheon.",
+      "claims_verification": [
+        {
+          "claim_keyword": "hadrian's wall",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "northern limit of britannia",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "rebuilt the pantheon",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "James Prescott Joule",
+      "source_section": "Lead",
+      "exact_source_passage": "Joule studied the nature of heat, and discovered its relationship to mechanical work. This led to the law of conservation of energy, which in turn led to the development of the first law of thermodynamics.",
+      "final_conservative_wording": "Discovered the relationship between heat and mechanical work, establishing energy principles that led to the First Law of Thermodynamics.",
+      "claims_verification": [
+        {
+          "claim_keyword": "relationship to mechanical work",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "conservation of energy",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "first law of thermodynamics",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Jane Austen",
+      "source_section": "Lead",
+      "exact_source_passage": "Austen's works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism.",
+      "final_conservative_wording": "Critiqued 18th-century novels of sensibility through her fiction and formed part of the transition toward 19th-century literary realism.",
+      "claims_verification": [
+        {
+          "claim_keyword": "critique the novels of sensibility",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "transition to 19th-century literary realism",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Joseph Haydn",
+      "source_section": "Lead",
+      "exact_source_passage": "Haydn was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have earned him the epithets 'Father of the Symphony' and 'Father of the String Quartet'.",
+      "final_conservative_wording": "Instrumental in developing classical chamber music, earning the epithets 'Father of the Symphony' and 'Father of the String Quartet'.",
+      "claims_verification": [
+        {
+          "claim_keyword": "development of chamber music",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "father of the symphony",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "father of the string quartet",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Louis IX",
+      "source_section": "Lead",
+      "exact_source_passage": "Louis IX consolidated French royal authority, reformed medieval judicial institutions by introducing legal presumption of innocence, and was canonized as a Catholic saint in 1297.",
+      "final_conservative_wording": "Consolidated French royal authority, reformed medieval judicial institutions, and was canonized as a Catholic saint in 1297.",
+      "claims_verification": [
+        {
+          "claim_keyword": "consolidated french royal authority",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "reformed medieval judicial institutions",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "canonized as a catholic saint in 1297",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Muhammad Abduh",
+      "source_section": "Lead",
+      "exact_source_passage": "Muhammad Abduh was an Egyptian Islamic scholar, jurist, and liberal reformer who served as Grand Mufti of Egypt. He was a central figure of Islamic Modernism, seeking to break rigid religious orthodoxies through rationalist interpretation.",
+      "final_conservative_wording": "Served as Grand Mufti of Egypt and a central figure of Islamic Modernism, reforming religious thought through rationalist interpretation.",
+      "claims_verification": [
+        {
+          "claim_keyword": "grand mufti of egypt",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "islamic modernism",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "rationalist interpretation",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "source_section": "Lead",
+      "exact_source_passage": "The publication of Copernicus's model in De revolutionibus orbium coelestium in 1543 was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution.",
+      "final_conservative_wording": "Published De revolutionibus orbium coelestium in 1543, triggering the Copernican Revolution and contributing fundamentally to the Scientific Revolution.",
+      "claims_verification": [
+        {
+          "claim_keyword": "de revolutionibus orbium coelestium",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "1543",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "copernican revolution",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "scientific revolution",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Oscar Wilde",
+      "source_section": "Lead",
+      "exact_source_passage": "Wilde became one of the best-known personalities of his day in London... He is remembered as a leading figure of the Aestheticism movement and a master of late Victorian theatrical comedy.",
+      "final_conservative_wording": "Remembered as a leading figure of the 19th-century Aestheticism movement and a master of late Victorian theatrical comedy.",
+      "claims_verification": [
+        {
+          "claim_keyword": "aestheticism movement",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "late victorian theatrical comedy",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    },
+    {
+      "person": "Qutuz",
+      "source_section": "Lead",
+      "exact_source_passage": "Qutuz was the Mamluk sultan of Egypt whose victory at the Battle of Ain Jalut in 1260 halted the westward expansion of the Mongol Empire and preserved Islamic civilization in Egypt and the Levant.",
+      "final_conservative_wording": "Halted the westward expansion of the Mongol Empire at the Battle of Ain Jalut in 1260, preserving Islamic civilization in Egypt and the Levant.",
+      "claims_verification": [
+        {
+          "claim_keyword": "battle of ain jalut in 1260",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "halted the westward expansion of the mongol empire",
+          "status": "SUPPORTED"
+        },
+        {
+          "claim_keyword": "preserved islamic civilization",
+          "status": "SUPPORTED"
+        }
+      ],
+      "dynamic_classification": "FULLY_SUPPORTED",
+      "duplicate_check": "NO_DUPLICATES"
+    }
+  ]
+}

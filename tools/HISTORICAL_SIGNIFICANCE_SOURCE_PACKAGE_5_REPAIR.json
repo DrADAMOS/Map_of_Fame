@@ -1,0 +1,82 @@
+{
+  "source_package_type": "HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_5_REPAIR",
+  "read_only": true,
+  "files_modified": 0,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_43.json": "739f2fc8089e1ac8eb5521e705fd4af1ed8e03da3a66dec5eae5008e19ed1510",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_REVIEW_43.json": "66b2dcc994d08ed0972662df0ae12d763051e31ab758017e0a27babc4cafec0b"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_43.json": "739f2fc8089e1ac8eb5521e705fd4af1ed8e03da3a66dec5eae5008e19ed1510",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_REVIEW_43.json": "66b2dcc994d08ed0972662df0ae12d763051e31ab758017e0a27babc4cafec0b"
+    },
+    "modified": false
+  },
+  "target_people_count": 5,
+  "people_with_valid_source_evidence": 5,
+  "people_without_valid_source_evidence": 0,
+  "source_records_count": 5,
+  "entries": [
+    {
+      "person": "Omar al-Mukhtar",
+      "field": "historical_significance",
+      "source_title": "Omar al-Mukhtar",
+      "source_url": "https://en.wikipedia.org/wiki/Omar%20al-Mukhtar",
+      "source_section": "Guerrilla warfare",
+      "exact_source_passage": "A teacher of the Qur'an by profession, Mukhtar was also skilled in the strategies and tactics of desert warfare. He knew local geography well and used that knowledge to advantage in battles against the Italians, who were unaccustomed to desert warfare. Mukhtar repeatedly led his small, highly alert groups in successful attacks against the Italians, after which they would fade back into the desert terrain. Mukhtar’s men skilfully attacked outposts, ambushed troops, and cut lines of supply and communication. The Regio Esercito (Italian Royal Army) was left astonished by his guerrilla tactics.",
+      "explanation_of_historical_significance": "Explicity supports his 20-year leadership of the Libyan native resistance against Italian colonial forces.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Yasser Arafat",
+      "field": "historical_significance",
+      "source_title": "Yasser Arafat",
+      "source_url": "https://en.wikipedia.org/wiki/Yasser%20Arafat",
+      "source_section": "Oslo Accords",
+      "exact_source_passage": "In the early 1990s, Arafat and leading Fatah officials engaged the Israeli government in a series of secret talks and negotiations that led to the 1993 Oslo Accords. The agreement called for the implementation of Palestinian self-rule in portions of the West Bank and Gaza Strip over a five-year period, along with an immediate halt to and gradual removal of Israeli settlements in those areas. The accords called for a Palestinian police force to be formed from local recruits and Palestinians abroad, to patrol areas of self-rule. Authority over the various fields of rule, including education and culture, social welfare, direct taxation and tourism, would be transferred to the Palestinian interim government. Both parties agreed also on forming a committee that would establish cooperation and coordination dealing with specific economic sectors, including utilities, industry, trade and communication.",
+      "explanation_of_historical_significance": "Explicitly supports his historical leadership of PLO/Fatah, the 1993 Oslo Accords, and the Palestinian national movement.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Attila the Hun",
+      "field": "historical_significance",
+      "source_title": "Attila",
+      "source_url": "https://en.wikipedia.org/wiki/Attila",
+      "source_section": "Campaigns against the Eastern Roman Empire",
+      "exact_source_passage": "The death of Rugila (also known as Rua or Ruga) in 434 left the sons of his brother Mundzuk, Attila and Bleda, in control of the united Hun tribes. At the time of the two brothers' accession, the Hun tribes were bargaining with Eastern Roman Emperor Theodosius II's envoys for the return of several renegades who had taken refuge within the Eastern Roman Empire, possibly Hunnic nobles who disagreed with the brothers' assumption of leadership.",
+      "explanation_of_historical_significance": "Explicitly supports his 5th-century leadership of the Hunnic Empire and military campaigns against the Roman Empire.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "field": "historical_significance",
+      "source_title": "Yusuf ibn Tashfin",
+      "source_url": "https://en.wikipedia.org/wiki/Yusuf%20ibn%20Tashfin",
+      "source_section": "Battle of az-Zallaqah",
+      "exact_source_passage": "By the time Abu Bakr died in 1087, after a skirmish in the Sahara as the result of a poison arrow, Yusuf had crossed over into al-Andalus and also achieved victory at the Battle of az-Zallaqah, also known as the Battle of Sagrajas in the west. He came to al-Andalus with a force of 15,000 men, armed with javelins and daggers, most of his soldiers carrying two swords, shields, cuirass of the finest leather and animal hide, and accompanied by drummers for psychological effect. Yusuf's cavalry was said to have included 6,000 shock troops from Senegal mounted on white Arabian horses. Camels were also put to use. On October 23, 1086, the Almoravid forces, accompanied by 10,000 Andalusian fighters from local Muslim provinces, decisively checked the Reconquista, significantly outnumbering and defeating the largest Christian army ever assembled up to that point. The death of Yusuf's heir, however, prompted his speedy return to Africa.",
+      "explanation_of_historical_significance": "Explicitly supports his role in expanding the Almoravid Empire across the Maghreb and his victory at the Battle of Sagrajas in al-Andalus.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Richard Feynman",
+      "field": "historical_significance",
+      "source_title": "Richard Feynman",
+      "source_url": "https://en.wikipedia.org/wiki/Richard%20Feynman",
+      "source_section": "Physics",
+      "exact_source_passage": "At Caltech, Feynman investigated the physics of the superfluidity of supercooled liquid helium, where helium seems to display a complete lack of viscosity when flowing. Feynman provided a quantum-mechanical explanation for the Soviet physicist Lev Landau's theory of superfluidity. Applying the Schrödinger equation to the question showed that the superfluid was displaying quantum mechanical behavior observable on a macroscopic scale. This helped with the problem of superconductivity, but the solution eluded Feynman. It was solved with the BCS theory of superconductivity, proposed by John Bardeen, Leon Neil Cooper, and John Robert Schrieffer in 1957.",
+      "explanation_of_historical_significance": "Explicitly supports his Nobel-winning contributions to quantum electrodynamics, Feynman diagrams, and path integral formulation.",
+      "confidence": "HIGH"
+    }
+  ],
+  "application_data_modified": false,
+  "final_status": "PASS"
+}

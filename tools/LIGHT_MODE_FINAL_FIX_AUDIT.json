@@ -1,0 +1,33 @@
+{
+  "LIGHT_MODE_ONLY": true,
+  "INFO_CARD_TEXT_FIX": true,
+  "COORDINATE_AUDIT": {
+    "Pyrrhus of Epirus birth": [
+      39.155,
+      20.9899
+    ],
+    "Horatio Kitchener death": [
+      59.11706,
+      -3.39566
+    ],
+    "EXPECTED": {
+      "Pyrrhus of Epirus": {
+        "bc": [
+          39.155,
+          20.9899
+        ]
+      },
+      "Horatio Kitchener": {
+        "dc": [
+          59.11706,
+          -3.39566
+        ]
+      }
+    },
+    "PASS": true
+  },
+  "DARK_MODE_CHANGED_BY_THIS_PASS": false,
+  "DATA_CHANGED_BY_THIS_PASS": false,
+  "COORDINATES_CHANGED_BY_THIS_PASS": false,
+  "NOTE": "The screenshots show the previous pass still rendered pale learning-extra-row text; the actual selector was not covered by the earlier ach-card opacity fix. This pass targets the actual information-card learning rows."
+}

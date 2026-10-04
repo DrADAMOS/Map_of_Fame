@@ -1,0 +1,34 @@
+{
+  "changed_records_count": 2,
+  "changes": [
+    {
+      "person": "Pyrrhus of Epirus",
+      "event": "Birth",
+      "old": [
+        38.3,
+        21.1
+      ],
+      "new": [
+        39.155,
+        20.9899
+      ]
+    },
+    {
+      "person": "Horatio Kitchener",
+      "event": "Death",
+      "old": [
+        56.0,
+        3.0
+      ],
+      "new": [
+        59.11706,
+        -3.39566
+      ]
+    }
+  ],
+  "unexpected_changes": 0,
+  "runtime_files_changed": [
+    "quiz_data.json",
+    "js/constants.js"
+  ]
+}

@@ -1,0 +1,442 @@
+{
+  "Alexis Carrel": [
+    {
+      "person": "Alexis Carrel",
+      "candidate_number": 1,
+      "source_title": "Alexis Carrel",
+      "source_url": "https://en.wikipedia.org/wiki/Alexis%20Carrel",
+      "source_passage": "Alexis Carrel (French: [alɛksi kaʁɛl]; 28 June 1873 – 5 November 1944) was a French surgeon and biologist who spent most of his scientific career in the United States. He was awarded the Nobel Prize in Physiology or Medicine in 1912 for pioneering vascular suturing techniques. He invented the first perfusion pump with Charles Lindbergh opening the way to organ transplantation. In later time however, it was acknowledged that Carrel and Lindbergh's version of the perfusion pump, which initially had media prominence, was impractical and difficult to use, and would lose influence by the 1940s. Carrel was also a pioneer in tissue culture, transplantology and thoracic surgery. He is known for his leading role in implementing eugenic policies in Vichy France.",
+      "classification": "SEMANTIC_DUPLICATE_OF_ACHIEVEMENT",
+      "reason": "1912 Nobel Prize for vascular suturing duplicates achievements field."
+    },
+    {
+      "person": "Alexis Carrel",
+      "candidate_number": 2,
+      "source_title": "Alexis Carrel",
+      "source_url": "https://en.wikipedia.org/wiki/Alexis%20Carrel",
+      "source_passage": "In 1902, Carrel underwent a transformative experience that led him from being a skeptic of the reported visions and miracles at Lourdes to a believer in spiritual cures. This conversion came about after he witnessed the inexplicable healing of Marie Bailly, who then identified Carrel as the principal witness of her cure. Despite facing opposition from his peers in the medical community, Carrel refused to dismiss a supernatural explanation for the event. His beliefs proved to be a hindrance to his career and reputation in academic medicine in France, and as a result he left France for Canada. Carrel would write a book about the case The Voyage to Lourdes, which was released four years after his death.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes 1902 Lourdes pilgrimage experience rather than scientific impact."
+    }
+  ],
+  "Anwar Sadat": [
+    {
+      "person": "Anwar Sadat",
+      "candidate_number": 1,
+      "source_title": "Anwar Sadat",
+      "source_url": "https://en.wikipedia.org/wiki/Anwar%20Sadat",
+      "source_passage": "Anwar Sadat was born on 25 December 1918 in Mit Abu El Kom, part of Monufia Governorate in what was then the Sultanate of Egypt, to a poor family. He had 14 siblings. One of his brothers, Atef Sadat, later became a pilot and was killed in action in 1973 during the Yom Kippur War. His mother, Sit Al-Berain, was born to an Egyptian mother and a Sudanese father. His father, Anwar Mohammed El Sadat, met Al-Berain while he was posted in Sudan as a medical officer, and returned with her to his hometown of El Kom. His father named him after Enver Pasha, who was lauded as the \"Hero of Freedom\" by the peoples of the Ottoman Empire for his role in the Young Turk Revolution.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes birth, poor family background, and siblings rather than historical significance."
+    },
+    {
+      "person": "Anwar Sadat",
+      "candidate_number": 2,
+      "source_title": "Anwar Sadat",
+      "source_url": "https://en.wikipedia.org/wiki/Anwar%20Sadat",
+      "source_passage": "While in Qarmidan prison, Sadat faced solitary confinement. However, despite being the first accused in the Hussein Tawfiq case, Sadat escaped without leaving behind any evidence of criminality. Salah Zulfikar, then a young police officer, at that time was the officer in charge in the prison. He believed in his heart of Sadat's heroism and that he played a patriotic role towards his country and that he was convicted and imprisoned because of his love for his country. Zulfikar brought with him food, newspapers and cigarettes and helped his family a lot in obtaining visitor permits to check on him. Anwar Sadat was active in many political movements, including the Muslim Brotherhood, the fascist Young Egypt Party, the pro-Axis and pro-Royalist Iron Guard of Egypt, and the secret military group called the Free Officers. Along with his fellow Free Officers, Sadat participated in the military coup that launched the Egyptian Revolution of 1952, which overthrew King Farouk I on 23 July of that year. Sadat gave the first statement of the revolution over the radio to the Egyptian people.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Auguste Comte": [
+    {
+      "person": "Auguste Comte",
+      "candidate_number": 1,
+      "source_title": "Auguste Comte",
+      "source_url": "https://en.wikipedia.org/wiki/Auguste%20Comte",
+      "source_passage": "Comte was also influenced by counter-revolutionary critics of the French Revolution, including Joseph de Maistre. with whom he shared the concerns that \"moral anarchy\" was both a \"scourge\" of the nineteenth century and came from the lack of a unifying doctrine, although Comte rejected Maistre's Catholicism and royalism. Scholars have noted that Comte secularised some themes associated with Maistre, particularly the idea that social cohesion depends on shared beliefs and institutions rather than individual reason alone.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes intellectual influence of Joseph de Maistre rather than Comte's legacy."
+    },
+    {
+      "person": "Auguste Comte",
+      "candidate_number": 2,
+      "source_title": "Auguste Comte",
+      "source_url": "https://en.wikipedia.org/wiki/Auguste%20Comte",
+      "source_passage": "Influenced by Henri de Saint-Simon, Comte's work attempted to remedy the social disorder caused by the French Revolution, which he believed indicated an imminent transition to a new form of society. He sought to establish a new social doctrine based on science, which he labeled positivism. He had a major impact on 19th-century thought, influencing the work of social thinkers such as John Stuart Mill and George Eliot. His concept of Sociology and social evolutionism set the tone for early social theorists and anthropologists such as Harriet Martineau and Herbert Spencer, evolving into modern academic sociology presented by Émile Durkheim as practical and objective social research.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Caravaggio": [
+    {
+      "person": "Caravaggio",
+      "candidate_number": 1,
+      "source_title": "Caravaggio",
+      "source_url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "source_passage": "Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio; 29 September 1571 – 18 July 1610), known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life. He began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples, Malta, and Sicily. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Caravaggio",
+      "candidate_number": 2,
+      "source_title": "Caravaggio",
+      "source_url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "source_passage": "Caravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, transfixing subjects in bright shafts of light and darkening shadows. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture, and death. He worked rapidly with live models, preferring to forgo drawings and work directly on the canvas. His effect on the new Baroque style that emerged from Mannerism was profound. His influence can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, Velázquez and Rembrandt, as well as many lesser-known artists. Artists most deeply influenced by him were called the \"Caravaggisti\" (or \"Caravagesques\"), as well as tenebrists or tenebrosi (\"shadowists\").",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Clara Barton": [
+    {
+      "person": "Clara Barton",
+      "candidate_number": 1,
+      "source_title": "Clara Barton",
+      "source_url": "https://en.wikipedia.org/wiki/Clara%20Barton",
+      "source_passage": "In 1896, responding to the humanitarian crisis in the Ottoman Empire of the Hamidian massacres, Barton arrived in  Constantinople February 15. Barton along with Minister Terrell spoke with Tewfik Pasha, the Turkish Minister of Foreign Affairs, to procure the right to enter the interior.  Barton herself stayed in Constantinople to conduct the business of the expedition. Her General Field Agent, J. B. Hubbell, M.D.; two Special Field Agents, E. M. Wistar and C. K. Wood; and Ira Harris M. D., Physician in Charge of Medical Relief in Zeitoun and Marash, traveled to the Armenian provinces in the spring of 1896, providing relief and humanitarian aid to the Armenian population who were victims of the massacres done in 1894–1896 by Ottoman Empire. Barton also worked in hospitals in Cuba in 1898 at the age of 77. Barton's last field operation as President of the American Red Cross was helping victims of the Galveston hurricane in 1900. The operation established an orphanage for children.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Clara Barton",
+      "candidate_number": 2,
+      "source_title": "Clara Barton",
+      "source_url": "https://en.wikipedia.org/wiki/Clara%20Barton",
+      "source_passage": "In 1975, the Clara Barton National Historic Site, located at 5801 Oxford Road, Glen Echo, Maryland, was established as a unit of the National Park Service at Barton's home, where she spent the last 15 years of her life. As the first National Historic Site dedicated to the accomplishments of a woman, it preserves the early history of the American Red Cross, since the home also served as an early headquarters of the organization.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Dmitri Mendeleev": [
+    {
+      "person": "Dmitri Mendeleev",
+      "candidate_number": 1,
+      "source_title": "Dmitri Mendeleev",
+      "source_url": "https://en.wikipedia.org/wiki/Dmitri%20Mendeleev",
+      "source_passage": "Mendeleev became a professor at the Saint Petersburg Technological Institute and Saint Petersburg State University in 1864, and 1865, respectively. In 1865, he became a Doctor of Science for his dissertation \"On the Combinations of Water with Alcohol\". He achieved tenure in 1867 at St. Petersburg University and started to teach inorganic chemistry while succeeding Voskresenskii to this post; by 1871, he had transformed Saint Petersburg into an internationally recognized center for chemistry research.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "candidate_number": 2,
+      "source_title": "Dmitri Mendeleev",
+      "source_url": "https://en.wikipedia.org/wiki/Dmitri%20Mendeleev",
+      "source_passage": "Dmitri Mendeleev is often referred to as the Father of the Periodic Table. He called his table or matrix, \"the Periodic System\".",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes courtship and divorce dispute with Anna Popova rather than historical significance."
+    }
+  ],
+  "Emperor Meiji": [
+    {
+      "person": "Emperor Meiji",
+      "candidate_number": 1,
+      "source_title": "Emperor Meiji",
+      "source_url": "https://en.wikipedia.org/wiki/Emperor%20Meiji",
+      "source_passage": "Emperor Meiji (personal name (imina) Mutsuhito); 3 November 1852 – 29 July 1912) was Emperor of Japan from 30 January 1867 until his death in 1912. The Meiji Restoration proclaimed the Empire of Japan in 1868, beginning the Meiji era. During his reign, Japan transformed from a feudal state under the Tokugawa shogunate into a major imperial power.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes 1860s shogunate unrest background rather than Emperor Meiji's legacy."
+    },
+    {
+      "person": "Emperor Meiji",
+      "candidate_number": 2,
+      "source_title": "Emperor Meiji",
+      "source_url": "https://en.wikipedia.org/wiki/Emperor%20Meiji",
+      "source_passage": "The Tokugawa shogunate had established itself in the early 17th century. Under its rule, the shōgun governed Japan. About 180 lords, known as daimyōs, ruled autonomous realms under the shōgun, and occasionally the shōgun called upon the daimyōs for gifts but did not tax them. The shōgun controlled the daimyōs in other ways too; only the shōgun could approve daimyōs marriages, and the shōgun could divest a daimyō of his lands.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Gustav Mahler": [
+    {
+      "person": "Gustav Mahler",
+      "candidate_number": 1,
+      "source_title": "Gustav Mahler",
+      "source_url": "https://en.wikipedia.org/wiki/Gustav%20Mahler",
+      "source_passage": "Donald Mitchell writes that Mahler's influence on succeeding generations of composers is \"a complete subject in itself\". Mahler's first disciples included Arnold Schoenberg and his pupils Alban Berg and Anton Webern, who together founded the Second Viennese School. Mahler's music influenced the trio's move from progressive tonalism to atonality (music without a key); although Mahler rejected atonality, he became a fierce defender of the bold originality of Schoenberg's work. At the premiere of the latter's First String Quartet in February 1907, Mahler reportedly was held back from physically attacking the hecklers. Schoenberg's Serenade, Op. 24 (1923), Berg's Three Pieces for Orchestra (1915) and Webern's Six Pieces (1928) all carry echoes of Mahler's Seventh Symphony. Mahler has also influenced the film scores of John Williams and other Hollywood composers.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Gustav Mahler",
+      "candidate_number": 2,
+      "source_title": "Gustav Mahler",
+      "source_url": "https://en.wikipedia.org/wiki/Gustav%20Mahler",
+      "source_passage": "Among other composers whose work carries the influence of Mahler, Mitchell lists America's Aaron Copland, the German song and stage composer Kurt Weill, Italy's Luciano Berio, Russia's Dmitri Shostakovich and England's Benjamin Britten. The American composers Leonard Bernstein and Samuel Barber were also influenced by Mahler's work. In a 1989 interview the pianist-conductor Vladimir Ashkenazy said that the connection between Mahler and Shostakovich was \"very strong and obvious\"; their music represented \"the individual versus the vices of the world.\" Mitchell highlights Britten's \"marvellously keen, spare and independent writing for the wind in ... the first movement of the Cello Symphony of 1963 [which] clearly belongs to that order of dazzling transparency and instrumental emancipation which Mahler did so much to establish.\" Mitchell concludes with the statement: \"Even were his own music not to survive, Mahler would still enjoy a substantial immortality in the music of these pre-eminent successors who have embraced his art and assimilated his techniques.\" A 2016 BBC Music Magazine survey of 151 conductors ranked three of his symphonies in the top ten symphonies of all time.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Hadrian": [
+    {
+      "person": "Hadrian",
+      "candidate_number": 1,
+      "source_title": "Hadrian",
+      "source_url": "https://en.wikipedia.org/wiki/Hadrian",
+      "source_passage": "Around the time of his quaestorship, in 100 or 101, Hadrian had married Trajan's seventeen- or eighteen-year-old grandniece, Vibia Sabina, his second cousin once removed. Trajan himself seems to have been less than enthusiastic about the marriage, and with good reason, as the couple's relationship would prove to be scandalously poor. The marriage might have been arranged by Trajan's empress, Plotina. This highly cultured, influential woman shared many of Hadrian's values and interests, including the idea of the Roman Empire as a commonwealth with an underlying Hellenic culture. If Hadrian were to be appointed Trajan's successor, Plotina and her extended family could retain their social profile and political influence after Trajan's death. Hadrian could also count on the support of his mother-in-law, Salonia Matidia, who was the daughter of Trajan's beloved sister Ulpia Marciana. When Ulpia Marciana died in 112, Trajan had her deified, and made Salonia Matidia an Augusta.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Hadrian",
+      "candidate_number": 2,
+      "source_title": "Hadrian",
+      "source_url": "https://en.wikipedia.org/wiki/Hadrian",
+      "source_passage": "Hadrian's personal relationship with Trajan was complex and may have been difficult. Hadrian seems to have sought influence over Trajan, or Trajan's decisions, through cultivation of the latter's boy favourites; this gave rise to some unexplained quarrel, around the time of Hadrian's marriage to Sabina. Late in Trajan's reign, Hadrian failed to achieve a senior consulship, being only suffect consul for 108; this gave him parity of status with other members of the senatorial nobility, but no particular distinction befitting an heir designate. Had Trajan wished it, he could have promoted his protege to patrician rank and its privileges, which included opportunities for a fast track to consulship without prior experience as tribune; he chose not to. While Hadrian seems to have been granted the office of tribune of the plebs a year or so younger than was customary, he had to leave Dacia, and Trajan, to take up the appointment; Trajan might simply have wanted him out of the way. The Historia Augusta describes Trajan's gift to Hadrian of a diamond ring that Trajan himself had received from Nerva, which \"encouraged [Hadrian's] hopes of succeeding to the throne\". While Trajan actively promoted Hadrian's advancement, he did so with caution.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes parental background (Afer and Paulina) rather than historical significance."
+    }
+  ],
+  "James Prescott Joule": [
+    {
+      "person": "James Prescott Joule",
+      "candidate_number": 1,
+      "source_title": "James Prescott Joule",
+      "source_url": "https://en.wikipedia.org/wiki/James%20Prescott%20Joule",
+      "source_passage": "James Joule was born in 1818, the son of Benjamin Joule, a wealthy brewer, and his wife, Alice Prescott, on New Bailey Street in Salford. Joule was tutored as a young man by the famous scientist John Dalton and was strongly influenced by chemist William Henry and Manchester engineers Peter Ewart and Eaton Hodgkinson. He was fascinated by electricity, and he and his brother experimented by giving electric shocks to each other and to the family's servants.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "James Prescott Joule",
+      "candidate_number": 2,
+      "source_title": "James Prescott Joule",
+      "source_url": "https://en.wikipedia.org/wiki/James%20Prescott%20Joule",
+      "source_passage": "As an adult, Joule managed the brewery. Science was merely a serious hobby. Sometime around 1840, he started to investigate the feasibility of replacing the brewery's steam engines with the newly invented electric motor. His first scientific papers on the subject were contributed to William Sturgeon's Annals of Electricity. Joule was a member of the London Electrical Society, established by Sturgeon and others.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Jane Austen": [
+    {
+      "person": "Jane Austen",
+      "candidate_number": 1,
+      "source_title": "Jane Austen",
+      "source_url": "https://en.wikipedia.org/wiki/Jane%20Austen",
+      "source_passage": "The family relied on the patronage of their kin and hosted visits from numerous family members. The elder Cassandra spent the summer of 1770 in London with George's sister, Philadelphia, and her daughter Eliza, accompanied by his other sister, Mrs Walter, and her daughter Philly. Philadelphia and Eliza Hancock were, according to Le Faye, \"the bright comets flashing into an otherwise placid solar system of clerical life in rural Hampshire, and the news of their foreign travels and fashionable London life, together with their sudden descents upon the Steventon household in between times, all helped to widen Jane's youthful horizon and influence her later life and works.\"",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Jane Austen",
+      "candidate_number": 2,
+      "source_title": "Jane Austen",
+      "source_url": "https://en.wikipedia.org/wiki/Jane%20Austen",
+      "source_passage": "In August 1792, aged seventeen, Austen started Catharine or the Bower, which presaged her mature work, especially Northanger Abbey, but was left unfinished until picked up in Lady Susan, which Todd describes as less prefiguring than Catharine. A year later she began, but abandoned, a short play, later titled Sir Charles Grandison or the happy Man, a comedy in 6 acts, which she returned to and completed around 1800. This was a short parody of various school textbook abridgements of Austen's favourite contemporary novel, The History of Sir Charles Grandison (1753) by Samuel Richardson.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Joseph Haydn": [
+    {
+      "person": "Joseph Haydn",
+      "candidate_number": 1,
+      "source_title": "Joseph Haydn",
+      "source_url": "https://en.wikipedia.org/wiki/Joseph%20Haydn",
+      "source_passage": "Haydn rose from humble origins as the child of working people in a rural village. He established his career firstly by serving as a chorister at St. Stephen's Cathedral, Vienna, then through an arduous period as a freelance musician. Eventually he found career success, spending much of his working life as music director for the wealthy Esterházy family at their palace of Eszterháza in rural Hungary. Though he had his own orchestra there, it isolated him from other composers and trends in music so that he was, as he put it, \"forced to become original\". During this period his music circulated widely in publication, eventually making him the most celebrated composer in Europe. Notable works include the Paris and London symphonies. With the death of his patron Nikolaus Esterházy in 1790, Haydn became free to travel, and augmented his fame as a performer before the public in both London and Vienna. Late in life, he composed the oratorios The Creation (1798) and The Seasons (1801). The last years of his life (1803–1809) were spent in a state of debility, unable to compose due to poor health. He died in Vienna in 1809 at the age of 77.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Joseph Haydn",
+      "candidate_number": 2,
+      "source_title": "Joseph Haydn",
+      "source_url": "https://en.wikipedia.org/wiki/Joseph%20Haydn",
+      "source_passage": "While a chorister, Haydn had not received any systematic training in music theory and composition. As a remedy, he worked his way through the counterpoint exercises in the text Gradus ad Parnassum by Johann Joseph Fux and carefully studied the work of Carl Philipp Emanuel Bach, whom he later acknowledged as an important influence. He said of C. P. E. Bach's first six keyboard sonatas, \"I did not leave my clavier till I played them through, and whoever knows me thoroughly must discover that I owe a great deal to Emanuel Bach, that I understood him and have studied him with diligence.\" According to Griesinger and Dies, in the 1750s Haydn studied an encyclopedic treatise by Johann Mattheson, a German composer.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes chorister counterpoint self-study rather than historical significance."
+    }
+  ],
+  "Louis IX": [
+    {
+      "person": "Louis IX",
+      "candidate_number": 1,
+      "source_title": "Louis IX of France",
+      "source_url": "https://en.wikipedia.org/wiki/Louis%20IX%20of%20France",
+      "source_passage": "During his formative years, Blanche successfully confronted rebellious vassals and championed the Capetian cause in the Albigensian Crusade, which had been ongoing for the past two decades.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Louis IX",
+      "candidate_number": 2,
+      "source_title": "Louis IX of France",
+      "source_url": "https://en.wikipedia.org/wiki/Louis%20IX%20of%20France",
+      "source_passage": "Louis instigated significant reforms in the French legal system, creating a royal justice mechanism that allowed petitioners to appeal judgments directly to the monarch. He abolished trials by ordeal, endeavored to terminate private wars, and incorporated the presumption of innocence into criminal proceedings. To implement his new legal framework, he established the offices of provosts and bailiffs. Louis IX's reign is often marked as an economic and political zenith for medieval France, and he held immense respect throughout Christendom. His reputation as a fair and judicious ruler led to his being solicited to mediate disputes beyond his own kingdom. Louis IX expanded upon the work of his predecessors, especially his grandfather Philip II of France, and reformed the administrative institutions of the French crown. He re-introduced, and expanded the scope of, the enquêtes commissioned to investigate governmental abuses and provide monetary restitutions for the crown.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes Jean de Joinville's biography chronicle rather than Louis IX's historical legacy."
+    }
+  ],
+  "Malek Bennabi": [
+    {
+      "person": "Malek Bennabi",
+      "candidate_number": 1,
+      "source_title": "Malek Bennabi",
+      "source_url": "https://en.wikipedia.org/wiki/Malek%20Bennabi",
+      "source_passage": "Following his return to Algeria, Bennabi helped establish El Qiyam al-Islamiyya (\"Islamic Values\"), an association dedicated to promoting Islamic values in post-independence Algerian society. The movement advocated a greater role for Islam in public life and brought together religious scholars and reformist intellectuals. Although historians differ on the extent of its influence, El Qiyam is generally regarded as an important precursor of later Algerian Islamist movements. The association was banned by the Algerian authorities in 1966 and formally dissolved in 1970 .",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Malek Bennabi",
+      "candidate_number": 2,
+      "source_title": "Malek Bennabi",
+      "source_url": "https://en.wikipedia.org/wiki/Malek%20Bennabi",
+      "source_passage": "He said that in the nineteenth century, the relations among nations were based on power for the position of a nation was dependent on the number of its factories, cannons, fleets and gold reserves. However, the twentieth century introduced a new development in which ideas were held in high esteem as national and international values. This development has not been strongly felt in many underdeveloped countries, for their inferiority complex created a warped infatuation with the criteria of power that was based on material things. Muslims living in an underdeveloped country often felt that they were inferior to people living in a developed country. As a result of this inferiority, Muslims ascribed this distance to the field of objects. They assessed their situation as an abomination caused by the lack of weapons, aeroplanes and banks. Thus, their inferiority complex, based on social efficacy, would lead only to pessimism on the psychological level. On the social level, it would lead to what we have elsewhere called takdis (heaping-up). To turn this feeling into an effective driving-force, Muslims needed to ascribe their backwardness to the level of ideas, not to that of \"objects\", for the development of the new world depended increasingly on ideas and other such intellectual criteria. In underdeveloped countries, which were still within the sphere of influence of the superpowers, arms and oil revenues were no longer sufficient to support that influence. The world had, therefore, entered a stage at which most of its problems could be solved only by certain systems of ideas. Therefore, the Arabs and other Muslim countries, especially those that did not possess a great deal of material power, should give more weight to the issue of ideas.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Marcel Proust": [
+    {
+      "person": "Marcel Proust",
+      "candidate_number": 1,
+      "source_title": "Marcel Proust",
+      "source_url": "https://en.wikipedia.org/wiki/Marcel%20Proust",
+      "source_passage": "In 1908, Proust began work on À la recherche du temps perdu when he was 38. The novel was partially published in his lifetime, with the initial sections appearing in 1913. The first volume was translated into English by C. K. Scott Moncrieff in 1922 shortly before Proust's death. The remaining volumes were revised and published posthumously by his brother Robert based on Proust's drafts and proofs. La Recherche helped pioneer the stream of consciousness literary technique. The novel's length, complexity and meditation on themes such as desire, artistic creativity, sexuality, and class rendered it a significant work in the development of literary modernism.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Marcel Proust",
+      "candidate_number": 2,
+      "source_title": "Marcel Proust",
+      "source_url": "https://en.wikipedia.org/wiki/Marcel%20Proust",
+      "source_passage": "The exact influence of Proust's sexuality on his writing is a topic of debate. However, In Search of Lost Time discusses homosexuality at length and features several principal characters, both men and women, who are either homosexual or bisexual: the Baron de Charlus, Robert de Saint-Loup, Odette de Crécy, and Albertine Simonet. Homosexuality also appears as a theme in Les plaisirs et les jours and his unfinished novel, Jean Santeuil.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes personal sexuality debate and early writings rather than overarching literary significance."
+    }
+  ],
+  "Michael Faraday": [
+    {
+      "person": "Michael Faraday",
+      "candidate_number": 1,
+      "source_title": "Michael Faraday",
+      "source_url": "https://en.wikipedia.org/wiki/Michael%20Faraday",
+      "source_passage": "Michael Faraday (22 September 1791 – 25 August 1867) was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism. His main discoveries include the principles underlying electromagnetic induction, diamagnetism, and electrolysis. Although Faraday received little formal education, as a self-made man, he was one of the most influential scientists in history. It was by his research on the magnetic field around a conductor carrying a direct current that Faraday established the concept of the electromagnetic field in physics. Faraday also established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena. He similarly discovered the principles of electromagnetic induction, diamagnetism, and the laws of electrolysis. His inventions of electromagnetic rotary devices formed the foundation of electric motor technology, and it was largely due to his efforts that electricity became practical for use in technology. The SI unit of capacitance, the farad, is named after him.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Michael Faraday",
+      "candidate_number": 2,
+      "source_title": "Michael Faraday",
+      "source_url": "https://en.wikipedia.org/wiki/Michael%20Faraday",
+      "source_passage": "Faraday was an experimentalist who conveyed his ideas in clear and simple language, and thought and sensed the physical world in a visual manner, rather than in words or symbols. His mathematical abilities did not extend as far as trigonometry and were limited to the simplest algebra. Physicist and mathematician James Clerk Maxwell took the work of Faraday and others and summarised it in a set of equations which is accepted as the basis of all modern theories of electromagnetic phenomena. On Faraday's uses of lines of force, Maxwell wrote that they show Faraday \"to have been in reality a mathematician of a very high order – one from whom the mathematicians of the future may derive valuable and fertile methods.\"",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ],
+  "Muhammad Abduh": [
+    {
+      "person": "Muhammad Abduh",
+      "candidate_number": 1,
+      "source_title": "Muhammad Abduh",
+      "source_url": "https://en.wikipedia.org/wiki/Muhammad%20Abduh",
+      "source_passage": "ʿAbduh suffered from acute spiritual crises in his youth, similar to those experienced by the medieval Muslim scholar and Sufi mystic al-Ghazali. He was heavily dissatisfied with the traditional education and representatives of mainstream ulama of his time. Under the influence of Shaykh Dārwīsh al-Khadīr, Tasawwuf provided an alternative form of religiosity which would profoundly shape ʿAbduh's spiritual and intellectual formation. As ʿAbduh would subsequently emerge as a towering scholarly intellectual in Egypt, he concurrently assumed his role as a traditional Sufi Muslim. Tasawwuf as taught to ʿAbduh by Shaykh Dārwīsh transcended the perceived limitations and superficialities of traditional Islamic learning, and was based on an Islamic religiosity led by an intellectual, charismatic authority. For ʿAbduh, Shaykh Dārwīsh and his teachings represented orthodox Sufism, which was different from the Sufi folklore and the charlatans prevalent in rural Egypt during the early modern era. Explaining his conversion to Sufism under the training of Shaykh Dārwīsh, 'Abduh wrote: \"On the seventh day, I asked the shaykh: What is your tarîqâh? He replied: Islam is my tarıqa. I asked: But are not all these people Muslims? He said: If they were Muslims, you would not see them contending over trivial matters and would not hear them swearing by God while they are lying with or without a reason. These words were like fire which burned away all that I held dear of the baggage from the past.\"",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes youthful spiritual crisis / Al-Azhar student years rather than historical significance."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "candidate_number": 2,
+      "source_title": "Muhammad Abduh",
+      "source_url": "https://en.wikipedia.org/wiki/Muhammad%20Abduh",
+      "source_passage": "In 1866, ʿAbduh enrolled at al-Azhar University in Cairo, where he studied logic, Islamic philosophy, theology, and Sufism. He was a student of Jamāl al-Dīn al-Afghānī, a Muslim philosopher and religious reformer who advocated Pan-Islamism to resist European colonialism. During his studies in al-Azhar, ʿAbduh had continued to express his critiques of the traditional curriculum and traditional modes of repetition. For him, al-Afghānī combined personal charisma with a fresh intellectual approach which the ulama of al-Azhar couldn't provide. As a young 22 year-old Sufi mystic seeking a charismatic guide and alternative modes of learning and religiosity, ʿAbduh chose al-Afghānī as his murshid. Their murid–murshid relationship would last for eight years and al-Afghānī was able to meet the expectations of his young disciple. Under al-Afghani's influence, ʿAbduh combined journalism, politics, and his own fascination with Islamic mystical spirituality. Al-Afghānī enriched ʿAbduh's mysticism with a philosophical underpinning and thereby drew him to a rationalist interpretations of Islam. Al-Afghānī's lessons merged his Sufi mysticism with the esoteric and theosophic tradition of Persian Shīʿīsm. He also taught ʿAbduh about the problems of Egypt and the Islamic world, and about the technological achievements of the Western civilization.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes youthful spiritual crisis / Al-Azhar student years rather than historical significance."
+    }
+  ],
+  "Nicolaus Copernicus": [
+    {
+      "person": "Nicolaus Copernicus",
+      "candidate_number": 1,
+      "source_title": "Nicolaus Copernicus",
+      "source_url": "https://en.wikipedia.org/wiki/Nicolaus%20Copernicus",
+      "source_passage": "Lucas Watzenrode the Younger, the astronomer's maternal uncle and patron, was educated at the University of Kraków and at the universities of Cologne and Bologna. He was a bitter opponent of the Teutonic Order, and its Grand Master once referred to him as \"the devil incarnate\". In 1489 Watzenrode was elected Bishop of Warmia (Ermeland, Ermland) against the preference of King Casimir IV, who had hoped to install his own son in that seat. As a result, Watzenrode quarreled with the king until Casimir IV's death three years later. Watzenrode was then able to form close relations with three successive Polish monarchs: John I Albert, Alexander Jagiellon, and Sigismund I the Old. He was a friend and key advisor to each ruler, and his influence greatly strengthened the ties between Warmia and Poland proper. Watzenrode came to be considered the most powerful man in Warmia, and his wealth, connections and influence allowed him to secure Copernicus's education and career as a canon at Frombork Cathedral.",
+      "classification": "WRONG_PERSON",
+      "reason": "Passage is primarily about Lucas Watzenrode rather than Copernicus's historical significance."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "candidate_number": 2,
+      "source_title": "Nicolaus Copernicus",
+      "source_url": "https://en.wikipedia.org/wiki/Nicolaus%20Copernicus",
+      "source_passage": "In the winter semester of 1491–92 Copernicus, as \"Nicolaus Nicolai de Thuronia\", matriculated together with his brother Andrew at the University of Kraków. Copernicus began his studies in the Department of Arts (from the fall of 1491, presumably until the summer or fall of 1495) in the heyday of the Kraków astronomical-mathematical school, acquiring the foundations for his subsequent mathematical achievements. According to a later but credible tradition (Jan Brożek), Copernicus was a pupil of Albert Brudzewski, who by then (from 1491) was a professor of Aristotelian philosophy but taught astronomy privately outside the university; Copernicus became familiar with Brudzewski's widely read commentary to Georg von Peuerbach's Theoricæ novæ planetarum and almost certainly attended the lectures of Bernard of Biskupie and Wojciech Krypa of Szamotuły, and probably other astronomical lectures by Jan of Głogów, Michał of Wrocław (Breslau), Wojciech of Pniewy, and Marcin Bylica of Olkusz.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes Kraków university matriculation and student life rather than historical significance."
+    }
+  ],
+  "Oscar Wilde": [
+    {
+      "person": "Oscar Wilde",
+      "candidate_number": 1,
+      "source_title": "Oscar Wilde",
+      "source_url": "https://en.wikipedia.org/wiki/Oscar%20Wilde",
+      "source_passage": "At the height of his fame and success, while An Ideal Husband (1895) and The Importance of Being Earnest (1895) were still being performed in London, Wilde issued a civil writ against John Sholto Douglas, the 9th Marquess of Queensberry for criminal libel. The Marquess was the father of Wilde's lover, Lord Alfred Douglas. The libel hearings unearthed evidence that caused Wilde to drop his charges and led to his own arrest and criminal prosecution for gross indecency with other males. The jury was unable to reach a verdict and so, a retrial was ordered. In the second trial, however, Wilde was convicted and sentenced to two years' hard labour, the maximum penalty, and jailed from 1895 to 1897. During his last year in prison he wrote De Profundis (published posthumously in abridged form in 1905, and in full in 1962 in his Complete Letters), a long letter that discusses his spiritual journey through his trials and is a dark counterpoint to his earlier philosophy of pleasure. On the day of his release, he caught the overnight steamer to France, never to return to Britain or Ireland. In France and Italy, he wrote his last work, The Ballad of Reading Gaol (1898), a long poem commemorating the harsh rhythms of prison life.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Oscar Wilde",
+      "candidate_number": 2,
+      "source_title": "Oscar Wilde",
+      "source_url": "https://en.wikipedia.org/wiki/Oscar%20Wilde",
+      "source_passage": "The University Philosophical Society also provided an education, as members discussed intellectual and artistic subjects such as the work of Dante Gabriel Rossetti and Algernon Charles Swinburne weekly. Wilde quickly became an established member – the members' suggestion book for 1874 contains two pages of banter sportingly mocking Wilde's emergent aestheticism. He presented a paper titled Aesthetic Morality. At Trinity, Wilde established himself as an outstanding student: he came first in his class in his first year, won a scholarship by competitive examination in his second and, in his finals, won the Berkeley Gold Medal in Greek, the university's highest academic award. He was encouraged to compete for a demyship, a half-scholarship worth £95 per year (equivalent to £9,300 in 2025), at Magdalen College, Oxford, which he won easily.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes Trinity College Dublin and Oxford student society debates rather than historical significance."
+    }
+  ],
+  "Qutuz": [
+    {
+      "person": "Qutuz",
+      "candidate_number": 1,
+      "source_title": "Qutuz",
+      "source_url": "https://en.wikipedia.org/wiki/Qutuz",
+      "source_passage": "Amitai-Preiss, Reuven (1995). Mongols and Mamluks: The Mamluk-Ilkhanid War, 1260–1281. Cambridge: Cambridge University Press. ISBN 978-0-521-46226-6.",
+      "classification": "INSUFFICIENT_SOURCE",
+      "reason": "Passage is a bibliographic/citation reference entry rather than a historical significance text."
+    },
+    {
+      "person": "Qutuz",
+      "candidate_number": 2,
+      "source_title": "Qutuz",
+      "source_url": "https://en.wikipedia.org/wiki/Qutuz",
+      "source_passage": "Holt, P. M.; Lambton, Ann; Lewis, Bernard (2005) The Cambridge History of Islam, Vol. 1A: The Central Islamic Lands from Pre-Islamic Times to the First World War, Cambridge University Press, ISBN 978-0-521-29135-4.",
+      "classification": "INSUFFICIENT_SOURCE",
+      "reason": "Passage is a bibliographic/citation reference entry rather than a historical significance text."
+    }
+  ],
+  "Steve Jobs": [
+    {
+      "person": "Steve Jobs",
+      "candidate_number": 1,
+      "source_title": "Steve Jobs",
+      "source_url": "https://en.wikipedia.org/wiki/Steve%20Jobs",
+      "source_passage": "Steven Paul Jobs  (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    },
+    {
+      "person": "Steve Jobs",
+      "candidate_number": 2,
+      "source_title": "Steve Jobs",
+      "source_url": "https://en.wikipedia.org/wiki/Steve%20Jobs",
+      "source_passage": "Chrisann Brennan notes that after Jobs was forced out of Apple, \"he apologized many times over for his behavior\" towards her and Lisa. She said Jobs \"said that he never took responsibility when he should have, and that he was sorry\". By this time, Jobs had developed a strong relationship with Lisa and when she was nine, Jobs had her name on her birth certificate changed from \"Lisa Brennan\" to \"Lisa Brennan-Jobs\". Jobs and Brennan developed a working relationship to co-parent Lisa, a change which Brennan credits to the influence of his newly found biological sister, Mona Simpson, who worked to repair the relationship between Lisa and Jobs. Jobs had found Mona after first finding his birth mother, Joanne Schieble Simpson, shortly after he left Apple.",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes personal and family relationships with Chrisann Brennan and Lisa rather than historical significance."
+    }
+  ],
+  "T. E. Lawrence": [
+    {
+      "person": "T. E. Lawrence",
+      "candidate_number": 1,
+      "source_title": "T. E. Lawrence",
+      "source_url": "https://en.wikipedia.org/wiki/T.%20E.%20Lawrence",
+      "source_passage": "He graduated with First Class Honours after submitting a thesis titled The Influence of the Crusades on European Military Architecture—to the End of the 12th Century, partly based on his field research with Beeson in France, and his solo research in France and the Middle East. Lawrence was fascinated by the Middle Ages. His brother Arnold wrote in 1937 that \"medieval researches\" were a \"dream way of escape from bourgeois England\".",
+      "classification": "WEAK_OR_LOW_VALUE",
+      "reason": "Passage describes university thesis and early interest in medieval architecture rather than historical significance."
+    },
+    {
+      "person": "T. E. Lawrence",
+      "candidate_number": 2,
+      "source_title": "T. E. Lawrence",
+      "source_url": "https://en.wikipedia.org/wiki/T.%20E.%20Lawrence",
+      "source_passage": "Lawrence's most important contributions to the Arab Revolt were in the area of strategy and liaison with British Armed Forces, but he also participated personally in several military engagements between January 1917 and September 1918. These included attacks on Ottoman communications: the railways at Aba el Naam, and Mudawara; and the destruction of a railway engine; the bridges at Ras Baalbek; and at Yarmuk, during which attack he suffered several wounds in the explosion and subsequent combat; and that at Aqaba, and the bridge which connected Amman and Dera'a. There were also assaults on Ottoman garrisons: in the Hejaz; at Tell Shahm using British armoured cars; and on retreating Ottomans and Germans near the village of Tafas, where the Ottoman forces massacred the villagers and the Arabs retaliated by killing their prisoners, with Lawrence's encouragement. In June 1917 Lawrence made a 300-mile (480 km) journey north towards Aqaba, visiting Ras Baalbek, the outskirts of Damascus, and Azraq, Jordan. He met with Arab nationalists, counselling them to avoid revolt until the arrival of Faisal's forces, and he attacked a bridge to create the impression of guerrilla activity. His findings were regarded by the British as extremely valuable and there was serious consideration of awarding him a Victoria Cross; in the end, he was invested as a Companion of the Order of the Bath and promoted to major.",
+      "classification": "VALID_SIGNIFICANCE",
+      "reason": "Valid historical significance passage explaining lasting legacy/impact."
+    }
+  ]
+}

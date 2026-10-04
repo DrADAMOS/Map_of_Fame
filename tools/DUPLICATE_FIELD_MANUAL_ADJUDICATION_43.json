@@ -1,0 +1,1123 @@
+{
+  "audit_type": "DUPLICATE_FIELD_MANUAL_ADJUDICATION_43",
+  "read_only": true,
+  "files_modified": 0,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "modified": false
+  },
+  "total_clusters_reviewed": 43,
+  "confirmed_duplicates": 43,
+  "confirmed_legitimate_overlaps": 0,
+  "still_needs_manual_review": 0,
+  "affected_raw_records": {
+    "CONFIRMED_DUPLICATE": 134,
+    "CONFIRMED_LEGITIMATE_OVERLAP": 0,
+    "NEEDS_MANUAL_REVIEW": 0
+  },
+  "cases": [
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_010",
+      "person": "Arthur Wellesley",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fa",
+        "id",
+        "pt",
+        "tr",
+        "zh"
+      ],
+      "occurrence_count": 9,
+      "actual_field_a_values": {
+        "ar": "كان آرثر ويلزلي، دوق ويلينغتون الأول، مشيراً ميدانياً بريطانياً ورجل دولة وأحد أبرز الشخصيات العسكرية والسياسية في أوائل القرن التاسع عشر.",
+        "de": "Arthur Wellesley, 1. Duke of Wellington, war ein britischer Feldmarschall und Staatsmann, der zu einer der führenden militärischen und politischen Persönlichkeiten des frühen 19. Jahrhunderts wurde.",
+        "en": "Arthur Wellesley, 1st Duke of Wellington, was a British field marshal and statesman who became one of the leading military and political figures of the early nineteenth century.",
+        "es": "Arthur Wellesley, 1er duque de Wellington, fue un mariscal de campo y estadista británico que se convirtió en una de las principales figuras militares y políticas de principios del siglo XIX.",
+        "fa": "آرتور ولزلی، نخستین دوک ولینگتون، فیلد مارشال و سیاستمدار بریتانیایی بود که به یکی از چهره‌های برجسته نظامی و سیاسی اوایل قرن نوزدهم تبدیل شد.",
+        "id": "Arthur Wellesley, Adipati Wellington ke-1, adalah seorang field marshal dan negarawan Britania yang menjadi salah satu tokoh militer dan politik utama pada awal abad kesembilan belas.",
+        "pt": "Arthur Wellesley, 1º Duque de Wellington, foi um marechal de campo e estadista britânico que se tornou uma das principais figuras militares e políticas do início do século XIX.",
+        "tr": "1. Wellington Dükü Arthur Wellesley, on dokuzuncu yüzyılın başlarında önde gelen askeri ve siyasi figürlerden biri haline gelen İngiliz saha mareşali ve devlet adamıydı.",
+        "zh": "阿瑟·韦尔斯利（第一代威灵顿公爵）是英国陆军元帅和政治家，成为十九世纪早期最重要的军事和政治人物之一。"
+      },
+      "actual_field_b_values": {
+        "ar": "كان آرثر ويلزلي، دوق ويلينغتون الأول، مشيراً ميدانياً بريطانياً ورجل دولة وأحد أبرز الشخصيات العسكرية والسياسية في أوائل القرن التاسع عشر.",
+        "de": "Arthur Wellesley, 1. Duke of Wellington, war ein britischer Feldmarschall und Staatsmann, der zu einer der führenden militärischen und politischen Persönlichkeiten des frühen 19. Jahrhunderts wurde.",
+        "en": "Arthur Wellesley, 1st Duke of Wellington, was a British field marshal and statesman who became one of the leading military and political figures of the early nineteenth century.",
+        "es": "Arthur Wellesley, 1er duque de Wellington, fue un mariscal de campo y estadista británico que se convirtió en una de las principales figuras militares y políticas de principios del siglo XIX.",
+        "fa": "آرتور ولزلی، نخستین دوک ولینگتون، فیلد مارشال و سیاستمدار بریتانیایی بود که به یکی از چهره‌های برجسته نظامی و سیاسی اوایل قرن نوزدهم تبدیل شد.",
+        "id": "Arthur Wellesley, Adipati Wellington ke-1, adalah seorang field marshal dan negarawan Britania yang menjadi salah satu tokoh militer dan politik utama pada awal abad kesembilan belas.",
+        "pt": "Arthur Wellesley, 1º Duque de Wellington, foi um marechal de campo e estadista britânico que se tornou uma das principais figuras militares e políticas do início do século XIX.",
+        "tr": "1. Wellington Dükü Arthur Wellesley, on dokuzuncu yüzyılın başlarında önde gelen askeri ve siyasi figürlerden biri haline gelen İngiliz saha mareşali ve devlet adamıydı.",
+        "zh": "阿瑟·韦尔斯利（第一代威灵顿公爵）是英国陆军元帅和政治家，成为十九世纪早期最重要的军事和政治人物之一。"
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Arthur Wellesley', the introductory biographical narrative in 'bio' (\"كان آرثر ويلزلي، دوق ويلينغتون الأول، مشيراً ميدانياً بريطانياً ورجل دولة وأحد أبرز الشخصيات العسكري...\") was copied directly into 'historical_significance' across 9 languages (ar, de, en, es, fa, id, pt, tr, zh) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Arthur Wellesley' in languages (ar, de, en, es, fa, id, pt, tr, zh) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_018",
+      "person": "Thomas Edison",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "id",
+        "pt",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 8,
+      "actual_field_a_values": {
+        "ar": "المخترع الأمريكي الذي أنار العالم بالمصباح الكهربائي، وسجل أكثر من ألف براءة اختراع غيرت التاريخ.",
+        "en": "Greatest American inventor.",
+        "es": "El más grande inventor estadounidense.",
+        "fr": "Plus grand inventeur américain.",
+        "id": "Penemu terbesar Amerika.",
+        "pt": "O maior inventor americano.",
+        "ru": "Величайший американский изобретатель.",
+        "tr": "En büyük Amerikalı mucit."
+      },
+      "actual_field_b_values": {
+        "ar": "المخترع الأمريكي الذي أنار العالم بالمصباح الكهربائي، وسجل أكثر من ألف براءة اختراع غيرت التاريخ.",
+        "en": "Greatest American inventor.",
+        "es": "El más grande inventor estadounidense.",
+        "fr": "Plus grand inventeur américain.",
+        "id": "Penemu terbesar Amerika.",
+        "pt": "O maior inventor americano.",
+        "ru": "Величайший американский изобретатель.",
+        "tr": "En büyük Amerikalı mucit."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Thomas Edison', the introductory biographical narrative in 'bio' (\"المخترع الأمريكي الذي أنار العالم بالمصباح الكهربائي، وسجل أكثر من ألف براءة اختراع غيرت التاريخ....\") was copied directly into 'historical_significance' across 8 languages (ar, en, es, fr, id, pt, ru, tr) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Thomas Edison' in languages (ar, en, es, fr, id, pt, ru, tr) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_020",
+      "person": "Omar al-Mukhtar",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 8,
+      "actual_field_a_values": {
+        "ar": "أسد الصحراء، شيخ المجاهدين الليبيين الذي قاوم الاستعمار الإيطالي لعشرين عاماً حتى نال الشهادة.",
+        "en": "Leader of the Libyan resistance.",
+        "es": "Líder de la resistencia libia.",
+        "fr": "Dirigeant de la résistance libyenne.",
+        "ja": "リビアにおける対イタリア抵抗運動の指導者。",
+        "pt": "Líder da resistência líbia.",
+        "ru": "Лидер ливийского сопротивления.",
+        "tr": "Libya direnişinin lideri."
+      },
+      "actual_field_b_values": {
+        "ar": "أسد الصحراء، شيخ المجاهدين الليبيين الذي قاوم الاستعمار الإيطالي لعشرين عاماً حتى نال الشهادة.",
+        "en": "Leader of the Libyan resistance.",
+        "es": "Líder de la resistencia libia.",
+        "fr": "Dirigeant de la résistance libyenne.",
+        "ja": "リビアにおける対イタリア抵抗運動の指導者。",
+        "pt": "Líder da resistência líbia.",
+        "ru": "Лидер ливийского сопротивления.",
+        "tr": "Libya direnişinin lideri."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Omar al-Mukhtar', the introductory biographical narrative in 'bio' (\"أسد الصحراء، شيخ المجاهدين الليبيين الذي قاوم الاستعمار الإيطالي لعشرين عاماً حتى نال الشهادة....\") was copied directly into 'historical_significance' across 8 languages (ar, en, es, fr, ja, pt, ru, tr) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Omar al-Mukhtar' in languages (ar, en, es, fr, ja, pt, ru, tr) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_025",
+      "person": "Saddam Hussein",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fa",
+        "fr",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 8,
+      "actual_field_a_values": {
+        "ar": "رئيس العراق الخامس، قاد بلاده في ظروف سياسية معقدة وحروب كبرى، وانتهى حكمه بالغزو الأمريكي عام 2003.",
+        "en": "Ruled Iraq for over two decades.",
+        "es": "Gobernó Irak durante más de dos décadas.",
+        "fa": "پنجمین رئیس‌جمهور عراق که بیش از دو دهه بر این کشور حکومت کرد.",
+        "fr": "A régné sur l'Irak pendant plus de deux décennies.",
+        "ja": "20年以上にわたりイラクを統治した大統領。",
+        "pt": "Governou o Iraque por mais de duas décadas.",
+        "ru": "Правил Ираком более двух десятилетий."
+      },
+      "actual_field_b_values": {
+        "ar": "رئيس العراق الخامس، قاد بلاده في ظروف سياسية معقدة وحروب كبرى، وانتهى حكمه بالغزو الأمريكي عام 2003.",
+        "en": "Ruled Iraq for over two decades.",
+        "es": "Gobernó Irak durante más de dos décadas.",
+        "fa": "پنجمین رئیس‌جمهور عراق که بیش از دو دهه بر این کشور حکومت کرد.",
+        "fr": "A régné sur l'Irak pendant plus de deux décennies.",
+        "ja": "20年以上にわたりイラクを統治した大統領。",
+        "pt": "Governou o Iraque por mais de duas décadas.",
+        "ru": "Правил Ираком более двух десятилетий."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Saddam Hussein', the introductory biographical narrative in 'bio' (\"رئيس العراق الخامس، قاد بلاده في ظروف سياسية معقدة وحروب كبرى، وانتهى حكمه بالغزو الأمريكي عام 2003....\") was copied directly into 'historical_significance' across 8 languages (ar, en, es, fa, fr, ja, pt, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Saddam Hussein' in languages (ar, en, es, fa, fr, ja, pt, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_030",
+      "person": "Mother Teresa",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "id",
+        "ja",
+        "pt",
+        "zh"
+      ],
+      "occurrence_count": 7,
+      "actual_field_a_values": {
+        "ar": "الأم تيريزا، واسمها عند الولادة أغنيس غونكسا بوجاكسيو، راهبة كاثوليكية أسست راهبات المحبة وكرّست حياتها لخدمة الفقراء والمرضى في الهند.",
+        "en": "Mother Teresa, born Agnes Gonxha Bojaxhiu, was a Catholic nun who founded the Missionaries of Charity and devoted her life to serving poor and sick people in India.",
+        "es": "La Madre Teresa, nacida Agnes Gonxha Bojaxhiu, fue una monja católica que fundó las Misioneras de la Caridad y dedicó su vida a servir a los pobres y enfermos en la India.",
+        "id": "Bunda Teresa, terlahir Agnes Gonxha Bojaxhiu, adalah seorang biarawati Katolik yang mendirikan Misionaris Keluhuran Budi dan mengabdikan hidupnya untuk melayani orang miskin dan sakit di India.",
+        "ja": "アグネス・ゴンジャ・ボヤジュとして生まれたマザー・テレサは、神の愛の宣教者会を設立し、インドで貧しい人々や病人に生涯を捧げたカトリック修道女である。",
+        "pt": "Madre Teresa, nascida Agnes Gonxha Bojaxhiu, foi uma freira católica que fundou as Missionárias da Caridade e dedicou sua vida ao serviço de pessoas pobres e doentes na Índia.",
+        "zh": "特蕾莎修女（本名阿格尼丝·冈察·博亚久）是一位天主教修女，她创立了仁爱传教修女会，毕生致力于在印度服务贫困和患病的人群。"
+      },
+      "actual_field_b_values": {
+        "ar": "الأم تيريزا، واسمها عند الولادة أغنيس غونكسا بوجاكسيو، راهبة كاثوليكية أسست راهبات المحبة وكرّست حياتها لخدمة الفقراء والمرضى في الهند.",
+        "en": "Mother Teresa, born Agnes Gonxha Bojaxhiu, was a Catholic nun who founded the Missionaries of Charity and devoted her life to serving poor and sick people in India.",
+        "es": "La Madre Teresa, nacida Agnes Gonxha Bojaxhiu, fue una monja católica que fundó las Misioneras de la Caridad y dedicó su vida a servir a los pobres y enfermos en la India.",
+        "id": "Bunda Teresa, terlahir Agnes Gonxha Bojaxhiu, adalah seorang biarawati Katolik yang mendirikan Misionaris Keluhuran Budi dan mengabdikan hidupnya untuk melayani orang miskin dan sakit di India.",
+        "ja": "アグネス・ゴンジャ・ボヤジュとして生まれたマザー・テレサは、神の愛の宣教者会を設立し、インドで貧しい人々や病人に生涯を捧げたカトリック修道女である。",
+        "pt": "Madre Teresa, nascida Agnes Gonxha Bojaxhiu, foi uma freira católica que fundou as Missionárias da Caridade e dedicou sua vida ao serviço de pessoas pobres e doentes na Índia.",
+        "zh": "特蕾莎修女（本名阿格尼丝·冈察·博亚久）是一位天主教修女，她创立了仁爱传教修女会，毕生致力于在印度服务贫困和患病的人群。"
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Mother Teresa', the introductory biographical narrative in 'bio' (\"الأم تيريزا، واسمها عند الولادة أغنيس غونكسا بوجاكسيو، راهبة كاثوليكية أسست راهبات المحبة وكرّست حيا...\") was copied directly into 'historical_significance' across 7 languages (ar, en, es, id, ja, pt, zh) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Mother Teresa' in languages (ar, en, es, id, ja, pt, zh) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_033",
+      "person": "Nelson Mandela",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 7,
+      "actual_field_a_values": {
+        "ar": "أول رئيس أسود لجنوب أفريقيا، أصبح رمزاً عالمياً للتسامح بعد سنوات سجن طويلة لمكافحة الفصل العنصري.",
+        "en": "First black president of SA.",
+        "es": "Primer presidente negro de Sudáfrica.",
+        "fr": "Premier président noir de l'Afrique du Sud.",
+        "ja": "南アフリカ初の黒人大統領。",
+        "pt": "Primeiro presidente negro da África do Sul.",
+        "ru": "Первый чернокожий президент ЮАР."
+      },
+      "actual_field_b_values": {
+        "ar": "أول رئيس أسود لجنوب أفريقيا، أصبح رمزاً عالمياً للتسامح بعد سنوات سجن طويلة لمكافحة الفصل العنصري.",
+        "en": "First black president of SA.",
+        "es": "Primer presidente negro de Sudáfrica.",
+        "fr": "Premier président noir de l'Afrique du Sud.",
+        "ja": "南アフリカ初の黒人大統領。",
+        "pt": "Primeiro presidente negro da África do Sul.",
+        "ru": "Первый чернокожий президент ЮАР."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Nelson Mandela', the introductory biographical narrative in 'bio' (\"أول رئيس أسود لجنوب أفريقيا، أصبح رمزاً عالمياً للتسامح بعد سنوات سجن طويلة لمكافحة الفصل العنصري....\") was copied directly into 'historical_significance' across 7 languages (ar, en, es, fr, ja, pt, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Nelson Mandela' in languages (ar, en, es, fr, ja, pt, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_042",
+      "person": "Anwar Sadat",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 6,
+      "actual_field_a_values": {
+        "ar": "ثالث رئيس لمصر، قاد البلاد لنصر أكتوبر 1973 ووقع معاهدة السلام التاريخية، وحصل على نوبل للسلام.",
+        "es": "Lideró a Egipto en la Guerra de Octubre.",
+        "fr": "A dirigé l'Égypte pendant la guerre d'Octobre.",
+        "ja": "第四次中東戦争（10月戦争）でエジプトを率いた大統領。",
+        "pt": "Liderou o Egito na Guerra de Outubro.",
+        "ru": "Возглавлял Египет в войне Октября."
+      },
+      "actual_field_b_values": {
+        "ar": "ثالث رئيس لمصر، قاد البلاد لنصر أكتوبر 1973 ووقع معاهدة السلام التاريخية، وحصل على نوبل للسلام.",
+        "es": "Lideró a Egipto en la Guerra de Octubre.",
+        "fr": "A dirigé l'Égypte pendant la guerre d'Octobre.",
+        "ja": "第四次中東戦争（10月戦争）でエジプトを率いた大統領。",
+        "pt": "Liderou o Egito na Guerra de Outubro.",
+        "ru": "Возглавлял Египет в войне Октября."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Anwar Sadat', the introductory biographical narrative in 'bio' (\"ثالث رئيس لمصر، قاد البلاد لنصر أكتوبر 1973 ووقع معاهدة السلام التاريخية، وحصل على نوبل للسلام....\") was copied directly into 'historical_significance' across 6 languages (ar, es, fr, ja, pt, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Anwar Sadat' in languages (ar, es, fr, ja, pt, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_052",
+      "person": "Tokugawa Ieyasu",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "hi",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 5,
+      "actual_field_a_values": {
+        "en": "Tokugawa Ieyasu founded the Tokugawa shogunate and unified Japan after a long period of civil war.",
+        "es": "Tokugawa Ieyasu fundó el shogunato Tokugawa y unificó Japón tras un largo período de guerra civil.",
+        "hi": "तोकुगावा इयेयासु ने तोकुगावा शोगुनशाही की स्थापना की और लंबे गृहयुद्ध के बाद जापान को एकजुट किया।",
+        "ru": "Токугава Иэясу основал сегунат Токугава и объединил Японию после долгого периода гражданских войн.",
+        "tr": "Tokugawa Ieyasu, Tokugawa şogunluğunu kurmuş ve uzun bir iç savaş döneminin ardından Japonya'yı birleştirmiştir."
+      },
+      "actual_field_b_values": {
+        "en": "Tokugawa Ieyasu founded the Tokugawa shogunate and unified Japan after a long period of civil war.",
+        "es": "Tokugawa Ieyasu fundó el shogunato Tokugawa y unificó Japón tras un largo período de guerra civil.",
+        "hi": "तोकुगावा इयेयासु ने तोकुगावा शोगुनशाही की स्थापना की और लंबे गृहयुद्ध के बाद जापान को एकजुट किया।",
+        "ru": "Токугава Иэясу основал сегунат Токугава и объединил Японию после долгого периода гражданских войн.",
+        "tr": "Tokugawa Ieyasu, Tokugawa şogunluğunu kurmuş ve uzun bir iç savaş döneminin ardından Japonya'yı birleştirmiştir."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Tokugawa Ieyasu', the introductory biographical narrative in 'bio' (\"Tokugawa Ieyasu founded the Tokugawa shogunate and unified Japan after a long period of civil war....\") was copied directly into 'historical_significance' across 5 languages (en, es, hi, ru, tr) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Tokugawa Ieyasu' in languages (en, es, hi, ru, tr) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_053",
+      "person": "Shah Abbas I",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 5,
+      "actual_field_a_values": {
+        "en": "Shah Abbas I strengthened the Safavid state, reorganized its army, and encouraged trade, art, and architecture.",
+        "es": "El Sah Abbás I fortaleció el Estado safávida, reorganizó su ejército e impulsó el comercio, el arte y la arquitectura.",
+        "fr": "Le shah Abbas Ier a renforcé l'État safavide, réorganisé son armée et encouragé le commerce, l'art et l'architecture.",
+        "ru": "Шах Аббас I укрепил государство Сефевидов, реорганизовал его армию и поощрял торговлю, искусство и архитектуру.",
+        "tr": "Şah I. Abbas Safevi devletini güçlendirmiş, ordusunu yeniden organize etmiş, ticaret, sanat ve mimariyi teşvik etmiştir."
+      },
+      "actual_field_b_values": {
+        "en": "Shah Abbas I strengthened the Safavid state, reorganized its army, and encouraged trade, art, and architecture.",
+        "es": "El Sah Abbás I fortaleció el Estado safávida, reorganizó su ejército e impulsó el comercio, el arte y la arquitectura.",
+        "fr": "Le shah Abbas Ier a renforcé l'État safavide, réorganisé son armée et encouragé le commerce, l'art et l'architecture.",
+        "ru": "Шах Аббас I укрепил государство Сефевидов, реорганизовал его армию и поощрял торговлю, искусство и архитектуру.",
+        "tr": "Şah I. Abbas Safevi devletini güçlendirmiş, ordusunu yeniden organize etmiş, ticaret, sanat ve mimariyi teşvik etmiştir."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Shah Abbas I', the introductory biographical narrative in 'bio' (\"Shah Abbas I strengthened the Safavid state, reorganized its army, and encouraged trade, art, and ar...\") was copied directly into 'historical_significance' across 5 languages (en, es, fr, ru, tr) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Shah Abbas I' in languages (en, es, fr, ru, tr) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_056",
+      "person": "Yasser Arafat",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "es",
+        "ja",
+        "pt",
+        "zh"
+      ],
+      "occurrence_count": 5,
+      "actual_field_a_values": {
+        "ar": "كان ياسر عرفات قائداً سياسياً فلسطينياً ترأس منظمة التحرير الفلسطينية، وشغل لاحقاً منصب رئيس السلطة الوطنية الفلسطينية.",
+        "es": "Yasser Arafat fue un líder político palestino que presidió la Organización para la Liberación de Palestina y más tarde sirvió como presidente de la Autoridad Nacional Palestina.",
+        "ja": "ヤーセル・アラファートはパレスチナ解放機構（PLO）議長を務め、後にパレスチナ自治政府初代大統領となったパレスチナの政治指導者である。",
+        "pt": "Yasser Arafat foi um líder político palestino que presidiu a Organização para a Libertação da Palestina e mais tarde serviu como presidente da Autoridade Nacional Palestina.",
+        "zh": "亚西尔·阿拉法特是巴勒斯坦政治领袖，曾长期担任巴勒斯坦解放组织主席，后出任巴勒斯坦民族权力机构总统。"
+      },
+      "actual_field_b_values": {
+        "ar": "كان ياسر عرفات قائداً سياسياً فلسطينياً ترأس منظمة التحرير الفلسطينية، وشغل لاحقاً منصب رئيس السلطة الوطنية الفلسطينية.",
+        "es": "Yasser Arafat fue un líder político palestino que presidió la Organización para la Liberación de Palestina y más tarde sirvió como presidente de la Autoridad Nacional Palestina.",
+        "ja": "ヤーセル・アラファートはパレスチナ解放機構（PLO）議長を務め、後にパレスチナ自治政府初代大統領となったパレスチナの政治指導者である。",
+        "pt": "Yasser Arafat foi um líder político palestino que presidiu a Organização para a Libertação da Palestina e mais tarde serviu como presidente da Autoridade Nacional Palestina.",
+        "zh": "亚西尔·阿拉法特是巴勒斯坦政治领袖，曾长期担任巴勒斯坦解放组织主席，后出任巴勒斯坦民族权力机构总统。"
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Yasser Arafat', the introductory biographical narrative in 'bio' (\"كان ياسر عرفات قائداً سياسياً فلسطينياً ترأس منظمة التحرير الفلسطينية، وشغل لاحقاً منصب رئيس السلطة ...\") was copied directly into 'historical_significance' across 5 languages (ar, es, ja, pt, zh) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Yasser Arafat' in languages (ar, es, ja, pt, zh) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_061",
+      "person": "Ferdinand II",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 4,
+      "actual_field_a_values": {
+        "en": "Ferdinand II of Aragon, known as Ferdinand the Catholic, was king of Aragon and co-ruler of Castile with Isabella I, helping establish the foundations of the Spanish monarchy.",
+        "es": "Fernando II de Aragón, conocido como Fernando el Católico, fue rey de Aragón y cogobernante de Castilla con Isabel I, ayudando a sentar las bases de la monarquía española.",
+        "ru": "Фердинанд II Арагонский, известный как Фердинанд Католик, был королем Арагона и соправителем Кастилии с Изабеллой I, помогая заложить основы испанской монархии.",
+        "tr": "Katolik Fernando olarak bilinen Aragonlu II. Fernando, Aragon kralı ve I. Isabel ile Kastilya'nın ortak hükümdarıydı; İspanya monarşisinin temellerinin atılmasına yardımcı oldu."
+      },
+      "actual_field_b_values": {
+        "en": "Ferdinand II of Aragon, known as Ferdinand the Catholic, was king of Aragon and co-ruler of Castile with Isabella I, helping establish the foundations of the Spanish monarchy.",
+        "es": "Fernando II de Aragón, conocido como Fernando el Católico, fue rey de Aragón y cogobernante de Castilla con Isabel I, ayudando a sentar las bases de la monarquía española.",
+        "ru": "Фердинанд II Арагонский, известный как Фердинанд Католик, был королем Арагона и соправителем Кастилии с Изабеллой I, помогая заложить основы испанской монархии.",
+        "tr": "Katolik Fernando olarak bilinen Aragonlu II. Fernando, Aragon kralı ve I. Isabel ile Kastilya'nın ortak hükümdarıydı; İspanya monarşisinin temellerinin atılmasına yardımcı oldu."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Ferdinand II', the introductory biographical narrative in 'bio' (\"Ferdinand II of Aragon, known as Ferdinand the Catholic, was king of Aragon and co-ruler of Castile ...\") was copied directly into 'historical_significance' across 4 languages (en, es, ru, tr) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Ferdinand II' in languages (en, es, ru, tr) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_063",
+      "person": "Seneca",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "fr",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "fr": "Sénèque le Jeune était un philosophe stoïcien, homme d'État, dramaturge et écrivain romain qui vivait au début de l'Empire romain.",
+        "pt": "Sêneca, o Jovem, foi um filósofo estoico, estadista, dramaturgo e escritor romano que viveu durante o início do Império Romano.",
+        "ru": "Сенека Младший был римским философом-стоиком, государственным деятелем, драматургом и писателем, жившим в период ранней Римской империи."
+      },
+      "actual_field_b_values": {
+        "fr": "Sénèque le Jeune était un philosophe stoïcien, homme d'État, dramaturge et écrivain romain qui vivait au début de l'Empire romain.",
+        "pt": "Sêneca, o Jovem, foi um filósofo estoico, estadista, dramaturgo e escritor romano que viveu durante o início do Império Romano.",
+        "ru": "Сенека Младший был римским философом-стоиком, государственным деятелем, драматургом и писателем, жившим в период ранней Римской империи."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Seneca', the introductory biographical narrative in 'bio' (\"Sénèque le Jeune était un philosophe stoïcien, homme d'État, dramaturge et écrivain romain qui vivai...\") was copied directly into 'historical_significance' across 3 languages (fr, pt, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Seneca' in languages (fr, pt, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_066",
+      "person": "Pyrrhus of Epirus",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "King of Epirus and a celebrated Hellenistic commander who fought Rome in southern Italy and later campaigned in Sicily and Greece.",
+        "fr": "Roi d'Épire et célèbre commandant hellénistique qui a combattu Rome en Italie du Sud et a ensuite fait campagne en Sicile et en Grèce.",
+        "ru": "Царь Эпира и прославленный эллинистический полководец, воевавший с Римом в Южной Италии и позже ведавший кампании в Сицилии и Греции."
+      },
+      "actual_field_b_values": {
+        "en": "King of Epirus and a celebrated Hellenistic commander who fought Rome in southern Italy and later campaigned in Sicily and Greece.",
+        "fr": "Roi d'Épire et célèbre commandant hellénistique qui a combattu Rome en Italie du Sud et a ensuite fait campagne en Sicile et en Grèce.",
+        "ru": "Царь Эпира и прославленный эллинистический полководец, воевавший с Римом в Южной Италии и позже ведавший кампании в Сицилии и Греции."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Pyrrhus of Epirus', the introductory biographical narrative in 'bio' (\"King of Epirus and a celebrated Hellenistic commander who fought Rome in southern Italy and later ca...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Pyrrhus of Epirus' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_067",
+      "person": "Attila the Hun",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "King of the Huns who built a powerful confederation and exerted military pressure on both the Eastern and Western Roman Empires.",
+        "fr": "Roi des Huns qui a bâti une puissante confédération et a exercé une pression militaire sur les empires romains d'Orient et d'Occident.",
+        "ru": "Царь гуннов, создавший мощную конфедерацию и оказывавший военное давление как на Восточную, так и на Западную Римскую империю."
+      },
+      "actual_field_b_values": {
+        "en": "King of the Huns who built a powerful confederation and exerted military pressure on both the Eastern and Western Roman Empires.",
+        "fr": "Roi des Huns qui a bâti une puissante confédération et a exercé une pression militaire sur les empires romains d'Orient et d'Occident.",
+        "ru": "Царь гуннов, создавший мощную конфедерацию и оказывавший военное давление как на Восточную, так и на Западную Римскую империю."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Attila the Hun', the introductory biographical narrative in 'bio' (\"King of the Huns who built a powerful confederation and exerted military pressure on both the Easter...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Attila the Hun' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_068",
+      "person": "Diogenes",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Greek Cynic philosopher from Sinope who promoted radical self-sufficiency, austerity, and criticism of conventional social values.",
+        "fr": "Philosophe cynique grec de Sinope qui a prôné l'autosuffisance radicale, l'austérité et la critique des valeurs sociales conventionnelles.",
+        "ru": "Греческий философ-киник из Синопа, проповедовавший радикальную самодостаточность, аскетизм и критику традиционных социальных ценностей."
+      },
+      "actual_field_b_values": {
+        "en": "Greek Cynic philosopher from Sinope who promoted radical self-sufficiency, austerity, and criticism of conventional social values.",
+        "fr": "Philosophe cynique grec de Sinope qui a prôné l'autosuffisance radicale, l'austérité et la critique des valeurs sociales conventionnelles.",
+        "ru": "Греческий философ-киник из Синопа, проповедовавший радикальную самодостаточность, аскетизм и критику традиционных социальных ценностей."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Diogenes', the introductory biographical narrative in 'bio' (\"Greek Cynic philosopher from Sinope who promoted radical self-sufficiency, austerity, and criticism ...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Diogenes' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_070",
+      "person": "Socrates",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Athenian philosopher known through the writings of Plato, Xenophon, and other ancient authors for his questioning method and emphasis on ethical self-examination.",
+        "fr": "Philosophe athénien connu par les écrits de Platon, Xénophon et d'autres auteurs anciens pour sa méthode de questionnement et son accent sur l'examen éthique de soi.",
+        "ru": "Афинский философ, известный по трудам Платона, Ксенофонта и других древних авторов благодаря своему вопросительному методу и акценту на этическом самопознании."
+      },
+      "actual_field_b_values": {
+        "en": "Athenian philosopher known through the writings of Plato, Xenophon, and other ancient authors for his questioning method and emphasis on ethical self-examination.",
+        "fr": "Philosophe athénien connu par les écrits de Platon, Xénophon et d'autres auteurs anciens pour sa méthode de questionnement et son accent sur l'examen éthique de soi.",
+        "ru": "Афинский философ, известный по трудам Платона, Ксенофонта и других древних авторов благодаря своему вопросительному методу и акценту на этическом самопознании."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Socrates', the introductory biographical narrative in 'bio' (\"Athenian philosopher known through the writings of Plato, Xenophon, and other ancient authors for hi...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Socrates' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_071",
+      "person": "Euripides",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Athenian tragedian whose plays introduced psychologically complex characters and challenged conventional treatments of myth, gender, and social power.",
+        "fr": "Tragique athénien dont les pièces ont introduit des personnages psychologiquement complexes et remis en question le traitement conventionnel du mythe, du genre et du pouvoir social.",
+        "ru": "Афинский трагик, чьи пьесы ввели психологически сложных персонажей и бросили вызов традиционному трактованию мифов, гендера и социальной власти."
+      },
+      "actual_field_b_values": {
+        "en": "Athenian tragedian whose plays introduced psychologically complex characters and challenged conventional treatments of myth, gender, and social power.",
+        "fr": "Tragique athénien dont les pièces ont introduit des personnages psychologiquement complexes et remis en question le traitement conventionnel du mythe, du genre et du pouvoir social.",
+        "ru": "Афинский трагик, чьи пьесы ввели психологически сложных персонажей и бросили вызов традиционному трактованию мифов, гендера и социальной власти."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Euripides', the introductory biographical narrative in 'bio' (\"Athenian tragedian whose plays introduced psychologically complex characters and challenged conventi...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Euripides' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_072",
+      "person": "Justinian I",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Byzantine emperor whose reign sought to restore Roman territories, reform imperial law, and strengthen Constantinople as the center of the eastern Roman Empire.",
+        "fr": "Empereur byzantin dont le règne a cherché à restaurer les territoires romains, réformer le droit impérial et renforcer Constantinople comme centre de l'Empire romain d'Orient.",
+        "ru": "Византийский император, чье правление было направлено на восстановление римских территорий, реформирование имперского права и укрепление Константинополя как центра Восточной Римской империи."
+      },
+      "actual_field_b_values": {
+        "en": "Byzantine emperor whose reign sought to restore Roman territories, reform imperial law, and strengthen Constantinople as the center of the eastern Roman Empire.",
+        "fr": "Empereur byzantin dont le règne a cherché à restaurer les territoires romains, réformer le droit impérial et renforcer Constantinople comme centre de l'Empire romain d'Orient.",
+        "ru": "Византийский император, чье правление было направлено на восстановление римских территорий, реформирование имперского права и укрепление Константинополя как центра Восточной Римской империи."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Justinian I', the introductory biographical narrative in 'bio' (\"Byzantine emperor whose reign sought to restore Roman territories, reform imperial law, and strength...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Justinian I' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_073",
+      "person": "Herodotus",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Greek historian from Halicarnassus whose Histories investigated the causes and course of the Greco-Persian Wars while preserving information about many peoples and cultures.",
+        "fr": "Historien grec d'Halicarnasse dont les Histoires ont étudié les causes et le déroulement des guerres médiques tout en préservant des informations sur de nombreux peuples.",
+        "ru": "Греческий историк из Галикарнаса, чья «История» исследовала причины и ход Греко-персидских войн, сохраняя сведения о многих народах и культурах."
+      },
+      "actual_field_b_values": {
+        "en": "Greek historian from Halicarnassus whose Histories investigated the causes and course of the Greco-Persian Wars while preserving information about many peoples and cultures.",
+        "fr": "Historien grec d'Halicarnasse dont les Histoires ont étudié les causes et le déroulement des guerres médiques tout en préservant des informations sur de nombreux peuples.",
+        "ru": "Греческий историк из Галикарнаса, чья «История» исследовала причины и ход Греко-персидских войн, сохраняя сведения о многих народах и культурах."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Herodotus', the introductory biographical narrative in 'bio' (\"Greek historian from Halicarnassus whose Histories investigated the causes and course of the Greco-P...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Herodotus' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_074",
+      "person": "Sophocles",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Athenian tragedian whose plays combined dramatic structure with powerful explorations of fate, responsibility, and human suffering.",
+        "fr": "Tragique athénien dont les pièces ont combiné une structure dramatique avec une exploration profonde du destin, de la responsabilité et de la souffrance humaine.",
+        "ru": "Афинский трагик, чьи пьесы сочетали драматическую структуру с глубоким исследованием судьбы, ответственности и человеческого страдания."
+      },
+      "actual_field_b_values": {
+        "en": "Athenian tragedian whose plays combined dramatic structure with powerful explorations of fate, responsibility, and human suffering.",
+        "fr": "Tragique athénien dont les pièces ont combiné une structure dramatique avec une exploration profonde du destin, de la responsabilité et de la souffrance humaine.",
+        "ru": "Афинский трагик, чьи пьесы сочетали драматическую структуру с глубоким исследованием судьбы, ответственности и человеческого страдания."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Sophocles', the introductory biographical narrative in 'bio' (\"Athenian tragedian whose plays combined dramatic structure with powerful explorations of fate, respo...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Sophocles' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_079",
+      "person": "Ahmad ibn Tulun",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Ahmad ibn Tulun was the Abbasid governor of Egypt who established effective autonomy there and founded the Tulunid dynasty.",
+        "fr": "Ahmad ibn Tulun était le gouverneur abbasside d'Égypte qui y a établi une autonomie effective et a fondé la dynastie des Toulounides.",
+        "ru": "Ахмад ибн Тулун был аббасидским наместником Египта, установившим там фактическую автономию и основавшим династию Тулунидов."
+      },
+      "actual_field_b_values": {
+        "en": "Ahmad ibn Tulun was the Abbasid governor of Egypt who established effective autonomy there and founded the Tulunid dynasty.",
+        "fr": "Ahmad ibn Tulun était le gouverneur abbasside d'Égypte qui y a établi une autonomie effective et a fondé la dynastie des Toulounides.",
+        "ru": "Ахмад ибн Тулун был аббасидским наместником Египта, установившим там фактическую автономию и основавшим династию Тулунидов."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "MIXED",
+      "reasoning": "For 'Ahmad ibn Tulun', the sentence \"Ahmad ibn Tulun was the Abbasid governor of Egypt who established effective autonomy there and found...\" is primarily a biographical introduction that was duplicated into 'historical_significance' across 3 languages without providing dedicated historical impact analysis.",
+      "repair_recommendation": "Provide a dedicated, source-backed 'historical_significance' statement for 'Ahmad ibn Tulun' in languages (en, fr, ru)."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_080",
+      "person": "Abd al-Rahman III",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Abd al-Rahman III was the Umayyad emir of Córdoba from 912 and proclaimed himself caliph in 929, ruling until 961.",
+        "fr": "Abd al-Rahman III était l'émir omeyyade de Cordoue à partir de 912 et s'est proclamé calife en 929, régnant jusqu'en 961.",
+        "ru": "Абд ар-Рахман III был омейядским эмиром Кордовы с 912 года и провозгласил себя халифом в 929 году, правя до 961 года."
+      },
+      "actual_field_b_values": {
+        "en": "Abd al-Rahman III was the Umayyad emir of Córdoba from 912 and proclaimed himself caliph in 929, ruling until 961.",
+        "fr": "Abd al-Rahman III était l'émir omeyyade de Cordoue à partir de 912 et s'est proclamé calife en 929, régnant jusqu'en 961.",
+        "ru": "Абд ар-Рахман III был омейядским эмиром Кордовы с 912 года и провозгласил себя халифом в 929 году, правя до 961 года."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Abd al-Rahman III', the introductory biographical narrative in 'bio' (\"Abd al-Rahman III was the Umayyad emir of Córdoba from 912 and proclaimed himself caliph in 929, rul...\") was copied directly into 'historical_significance' across 3 languages (en, fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Abd al-Rahman III' in languages (en, fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_083",
+      "person": "Yusuf ibn Tashfin",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Yusuf ibn Tashfin was the leading ruler of the Almoravid Empire in the late 11th and early 12th centuries and expanded Almoravid power across the Maghreb and al-Andalus.",
+        "es": "Yusuf ibn Tashfin fue el principal gobernante del Imperio almorávide a finales del siglo XI y principios del XII y expandió el poder almorávide en el Magreb y Al-Ándalus.",
+        "ru": "Юсуф ибн Ташфин был ведущим правителем империи Альморавидов в конце XI и начале XII веков и расширил власть Альморавидов по всему Магрибу и аль-Андалусу."
+      },
+      "actual_field_b_values": {
+        "en": "Yusuf ibn Tashfin was the leading ruler of the Almoravid Empire in the late 11th and early 12th centuries and expanded Almoravid power across the Maghreb and al-Andalus.",
+        "es": "Yusuf ibn Tashfin fue el principal gobernante del Imperio almorávide a finales del siglo XI y principios del XII y expandió el poder almorávide en el Magreb y Al-Ándalus.",
+        "ru": "Юсуф ибн Ташфин был ведущим правителем империи Альморавидов в конце XI и начале XII веков и расширил власть Альморавидов по всему Магрибу и аль-Андалусу."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Yusuf ibn Tashfin', the introductory biographical narrative in 'bio' (\"Yusuf ibn Tashfin was the leading ruler of the Almoravid Empire in the late 11th and early 12th cent...\") was copied directly into 'historical_significance' across 3 languages (en, es, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Yusuf ibn Tashfin' in languages (en, es, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_086",
+      "person": "Charles V",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "tr"
+      ],
+      "occurrence_count": 3,
+      "actual_field_a_values": {
+        "en": "Charles V was Holy Roman Emperor and king of Spain, ruling a vast Habsburg realm across Europe and the Americas.",
+        "es": "Carlos V fue emperador del Sacro Imperio Romano Germánico y rey de España, gobernando un vasto dominio de los Habsburgo en Europa y América.",
+        "tr": "V. Karl, Avrupa ve Amerika kıtasında geniş bir Habsburg mülkünü yöneten Kutsal Roma İmparatoru ve İspanya Kralıydı."
+      },
+      "actual_field_b_values": {
+        "en": "Charles V was Holy Roman Emperor and king of Spain, ruling a vast Habsburg realm across Europe and the Americas.",
+        "es": "Carlos V fue emperador del Sacro Imperio Romano Germánico y rey de España, gobernando un vasto dominio de los Habsburgo en Europa y América.",
+        "tr": "V. Karl, Avrupa ve Amerika kıtasında geniş bir Habsburg mülkünü yöneten Kutsal Roma İmparatoru ve İspanya Kralıydı."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Charles V', the introductory biographical narrative in 'bio' (\"Charles V was Holy Roman Emperor and king of Spain, ruling a vast Habsburg realm across Europe and t...\") was copied directly into 'historical_significance' across 3 languages (en, es, tr) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Charles V' in languages (en, es, tr) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_087",
+      "person": "Hannibal Barca",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 2,
+      "actual_field_a_values": {
+        "fr": "Général et homme d'État carthaginois qui a porté la deuxième guerre punique en Italie et a vaincu à plusieurs reprises des armées romaines plus nombreuses avant d'être vaincu par Scipion à Zama.",
+        "ru": "Карфагенский полководец и государственный деятель, перенесший Вторую Пуническую войну в Италию и неоднократно побеждавший превосходящие римские армии перед поражением от Сципиона при Заме."
+      },
+      "actual_field_b_values": {
+        "fr": "Général et homme d'État carthaginois qui a porté la deuxième guerre punique en Italie et a vaincu à plusieurs reprises des armées romaines plus nombreuses avant d'être vaincu par Scipion à Zama.",
+        "ru": "Карфагенский полководец и государственный деятель, перенесший Вторую Пуническую войну в Италию и неоднократно побеждавший превосходящие римские армии перед поражением от Сципиона при Заме."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Hannibal Barca', the introductory biographical narrative in 'bio' (\"Général et homme d'État carthaginois qui a porté la deuxième guerre punique en Italie et a vaincu à ...\") was copied directly into 'historical_significance' across 2 languages (fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Hannibal Barca' in languages (fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_088",
+      "person": "Constantine the Great",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 2,
+      "actual_field_a_values": {
+        "fr": "Empereur romain qui a réuni l'empire et transformé la politique impériale envers le christianisme au début du IVe siècle.",
+        "ru": "Римский император, воссоединивший империю и изменивший имперскую политику в отношении христианства в начале IV века."
+      },
+      "actual_field_b_values": {
+        "fr": "Empereur romain qui a réuni l'empire et transformé la politique impériale envers le christianisme au début du IVe siècle.",
+        "ru": "Римский император, воссоединивший империю и изменивший имперскую политику в отношении христианства в начале IV века."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Constantine the Great', the introductory biographical narrative in 'bio' (\"Empereur romain qui a réuni l'empire et transformé la politique impériale envers le christianisme au...\") was copied directly into 'historical_significance' across 2 languages (fr, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Constantine the Great' in languages (fr, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_089",
+      "person": "Charlemagne",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "occurrence_count": 2,
+      "actual_field_a_values": {
+        "en": "Charlemagne, king of the Franks and Lombards and later emperor, built a large Carolingian realm through conquest and strengthened it through administrative, legal, educational, and religious reforms",
+        "ru": "Карл Великий, король франков и лангобардов, а затем император, создал обширное Каролингское государство путем завоеваний и укрепил его благодаря административным, правовым, образовательным и религиозным реформам."
+      },
+      "actual_field_b_values": {
+        "en": "Charlemagne, king of the Franks and Lombards and later emperor, built a large Carolingian realm through conquest and strengthened it through administrative, legal, educational, and religious reforms",
+        "ru": "Карл Великий, король франков и лангобардов, а затем император, создал обширное Каролингское государство путем завоеваний и укрепил его благодаря административным, правовым, образовательным и религиозным реформам."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Charlemagne', the introductory biographical narrative in 'bio' (\"Charlemagne, king of the Franks and Lombards and later emperor, built a large Carolingian realm thro...\") was copied directly into 'historical_significance' across 2 languages (en, ru) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Charlemagne' in languages (en, ru) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_090",
+      "person": "Winston Churchill",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "es"
+      ],
+      "occurrence_count": 2,
+      "actual_field_a_values": {
+        "ar": "رئيس وزراء بريطانيا خلال الحرب العالمية الثانية، اشتهر بخطاباته الملهمة وقيادته الصلبة ضد النازية.",
+        "es": "Sir Winston Leonard Spencer Churchill (30 de noviembre de 1874 – 24 de enero de 1965) fue un estadista, oficial militar y escritor británico que fue primer ministro del Reino Unido de 1940 a 1945, durante la Segunda Guerra Mundial, y nuevamente de 1951 a 1955."
+      },
+      "actual_field_b_values": {
+        "ar": "رئيس وزراء بريطانيا خلال الحرب العالمية الثانية، اشتهر بخطاباته الملهمة وقيادته الصلبة ضد النازية.",
+        "es": "Sir Winston Leonard Spencer Churchill (30 de noviembre de 1874 – 24 de enero de 1965) fue un estadista, oficial militar y escritor británico que fue primer ministro del Reino Unido de 1940 a 1945, durante la Segunda Guerra Mundial, y nuevamente de 1951 a 1955."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Winston Churchill', the introductory biographical narrative in 'bio' (\"رئيس وزراء بريطانيا خلال الحرب العالمية الثانية، اشتهر بخطاباته الملهمة وقيادته الصلبة ضد النازية....\") was copied directly into 'historical_significance' across 2 languages (ar, es) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Winston Churchill' in languages (ar, es) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_093",
+      "person": "Abraham Lincoln",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "الرئيس الأمريكي السادس عشر، قاد بلاده خلال الحرب الأهلية ونجح في الحفاظ على الوحدة وإلغاء العبودية."
+      },
+      "actual_field_b_values": {
+        "ar": "الرئيس الأمريكي السادس عشر، قاد بلاده خلال الحرب الأهلية ونجح في الحفاظ على الوحدة وإلغاء العبودية."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Abraham Lincoln', the introductory biographical narrative in 'bio' (\"الرئيس الأمريكي السادس عشر، قاد بلاده خلال الحرب الأهلية ونجح في الحفاظ على الوحدة وإلغاء العبودية....\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Abraham Lincoln' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_096",
+      "person": "Dmitri Mendeleev",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "كيميائي روسي عبقري، واضع الجدول الدوري للعناصر الكيميائية، الذي رتب العناصر بناءً على خصائصها وتنبأ بوجود عناصر لم تكتشف بعد."
+      },
+      "actual_field_b_values": {
+        "ar": "كيميائي روسي عبقري، واضع الجدول الدوري للعناصر الكيميائية، الذي رتب العناصر بناءً على خصائصها وتنبأ بوجود عناصر لم تكتشف بعد."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Dmitri Mendeleev', the introductory biographical narrative in 'bio' (\"كيميائي روسي عبقري، واضع الجدول الدوري للعناصر الكيميائية، الذي رتب العناصر بناءً على خصائصها وتنبأ ...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Dmitri Mendeleev' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_097",
+      "person": "George Bernard Shaw",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "مؤلف مسرحي أيرلندي شهير، وهو الوحيد الذي فاز بجائزة نوبل في الأدب وجائزة الأوسكار، واشتهر بآرائه الساخرة والمثيرة للجدل."
+      },
+      "actual_field_b_values": {
+        "ar": "مؤلف مسرحي أيرلندي شهير، وهو الوحيد الذي فاز بجائزة نوبل في الأدب وجائزة الأوسكار، واشتهر بآرائه الساخرة والمثيرة للجدل."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'George Bernard Shaw', the introductory biographical narrative in 'bio' (\"مؤلف مسرحي أيرلندي شهير، وهو الوحيد الذي فاز بجائزة نوبل في الأدب وجائزة الأوسكار، واشتهر بآرائه الس...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'George Bernard Shaw' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_098",
+      "person": "Nikola Tesla",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "مخترع ومهندس صربي-أمريكي عبقري، له الفضل في تطوير نظام التيار المتردد واكتشافات هائلة في الكهرباء والمغناطيسية."
+      },
+      "actual_field_b_values": {
+        "ar": "مخترع ومهندس صربي-أمريكي عبقري، له الفضل في تطوير نظام التيار المتردد واكتشافات هائلة في الكهرباء والمغناطيسية."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Nikola Tesla', the introductory biographical narrative in 'bio' (\"مخترع ومهندس صربي-أمريكي عبقري، له الفضل في تطوير نظام التيار المتردد واكتشافات هائلة في الكهرباء وا...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Nikola Tesla' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_099",
+      "person": "Marie Curie",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "عالمة فيزياء وكيمياء بولندية، أول امرأة تفوز بنوبل والوحيدة الحاصلة عليها في مجالين علميين مختلفين (الفيزياء والكيمياء)."
+      },
+      "actual_field_b_values": {
+        "ar": "عالمة فيزياء وكيمياء بولندية، أول امرأة تفوز بنوبل والوحيدة الحاصلة عليها في مجالين علميين مختلفين (الفيزياء والكيمياء)."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Marie Curie', the introductory biographical narrative in 'bio' (\"عالمة فيزياء وكيمياء بولندية، أول امرأة تفوز بنوبل والوحيدة الحاصلة عليها في مجالين علميين مختلفين (...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Marie Curie' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_100",
+      "person": "Mahatma Gandhi",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "زعيم هندي قاد المقاومة السلمية ضد الاستعمار، اشتهر بفلسفة اللاعنف التي ألهمت حركات الحقوق المدنية."
+      },
+      "actual_field_b_values": {
+        "ar": "زعيم هندي قاد المقاومة السلمية ضد الاستعمار، اشتهر بفلسفة اللاعنف التي ألهمت حركات الحقوق المدنية."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Mahatma Gandhi', the introductory biographical narrative in 'bio' (\"زعيم هندي قاد المقاومة السلمية ضد الاستعمار، اشتهر بفلسفة اللاعنف التي ألهمت حركات الحقوق المدنية....\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Mahatma Gandhi' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_101",
+      "person": "Albert Einstein",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "عالم فيزياء ألماني-أمريكي، صاحب النظرية النسبية التي أحدثت ثورة في فهم الكون، وحصل على نوبل للفيزياء."
+      },
+      "actual_field_b_values": {
+        "ar": "عالم فيزياء ألماني-أمريكي، صاحب النظرية النسبية التي أحدثت ثورة في فهم الكون، وحصل على نوبل للفيزياء."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Albert Einstein', the introductory biographical narrative in 'bio' (\"عالم فيزياء ألماني-أمريكي، صاحب النظرية النسبية التي أحدثت ثورة في فهم الكون، وحصل على نوبل للفيزياء...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Albert Einstein' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_102",
+      "person": "Igor Stravinsky",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "ملحن وموسيقي روسي ثوري، أحد أكثر الملحنين تأثيراً في القرن العشرين، اشتهر بأعماله التي غيرت مسار الموسيقى الحديثة مثل (طقوس الربيع)."
+      },
+      "actual_field_b_values": {
+        "ar": "ملحن وموسيقي روسي ثوري، أحد أكثر الملحنين تأثيراً في القرن العشرين، اشتهر بأعماله التي غيرت مسار الموسيقى الحديثة مثل (طقوس الربيع)."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Igor Stravinsky', the introductory biographical narrative in 'bio' (\"ملحن وموسيقي روسي ثوري، أحد أكثر الملحنين تأثيراً في القرن العشرين، اشتهر بأعماله التي غيرت مسار الم...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Igor Stravinsky' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_103",
+      "person": "James Joyce",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "روائي أيرلندي فذ، صاحب رواية (أوليسيس) التي تعد من أصعب وأهم الأعمال الأدبية، أحدث ثورة في بنية السرد القصصي."
+      },
+      "actual_field_b_values": {
+        "ar": "روائي أيرلندي فذ، صاحب رواية (أوليسيس) التي تعد من أصعب وأهم الأعمال الأدبية، أحدث ثورة في بنية السرد القصصي."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'James Joyce', the introductory biographical narrative in 'bio' (\"روائي أيرلندي فذ، صاحب رواية (أوليسيس) التي تعد من أصعب وأهم الأعمال الأدبية، أحدث ثورة في بنية السر...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'James Joyce' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_104",
+      "person": "Virginia Woolf",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "كاتبة إنجليزية تعتبر من أهم رموز الأدب الحديث، اشتهرت باستخدامها المبدع لأسلوب تيار الوعي في رواياتها مثل (السيدة دالواي)."
+      },
+      "actual_field_b_values": {
+        "ar": "كاتبة إنجليزية تعتبر من أهم رموز الأدب الحديث، اشتهرت باستخدامها المبدع لأسلوب تيار الوعي في رواياتها مثل (السيدة دالواي)."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Virginia Woolf', the introductory biographical narrative in 'bio' (\"كاتبة إنجليزية تعتبر من أهم رموز الأدب الحديث، اشتهرت باستخدامها المبدع لأسلوب تيار الوعي في رواياته...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Virginia Woolf' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_105",
+      "person": "Ernest Hemingway",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "روائي وصحفي أمريكي، تميز بأسلوبه الأدبي المقتضب والمؤثر، وحصل على جائزة نوبل بفضل أعماله الخالدة مثل (العجوز والبحر)."
+      },
+      "actual_field_b_values": {
+        "ar": "روائي وصحفي أمريكي، تميز بأسلوبه الأدبي المقتضب والمؤثر، وحصل على جائزة نوبل بفضل أعماله الخالدة مثل (العجوز والبحر)."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Ernest Hemingway', the introductory biographical narrative in 'bio' (\"روائي وصحفي أمريكي، تميز بأسلوبه الأدبي المقتضب والمؤثر، وحصل على جائزة نوبل بفضل أعماله الخالدة مثل...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Ernest Hemingway' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_106",
+      "person": "Richard Feynman",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "فيزيائي أمريكي نابغة، اشتهر بأبحاثه في ميكانيكا الكم وتبسيطه للعلوم، وحصل على جائزة نوبل لعمله في الكهروديناميكا الكمية."
+      },
+      "actual_field_b_values": {
+        "ar": "فيزيائي أمريكي نابغة، اشتهر بأبحاثه في ميكانيكا الكم وتبسيطه للعلوم، وحصل على جائزة نوبل لعمله في الكهروديناميكا الكمية."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Richard Feynman', the introductory biographical narrative in 'bio' (\"فيزيائي أمريكي نابغة، اشتهر بأبحاثه في ميكانيكا الكم وتبسيطه للعلوم، وحصل على جائزة نوبل لعمله في ال...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Richard Feynman' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_109",
+      "person": "Yuri Gagarin",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "كان يوري غاغارين رائد فضاء سوفيتياً أصبح أول إنسان يسافر إلى الفضاء عندما أكملت مركبة فوستوك 1 دورة واحدة حول الأرض في 12 نيسان 1961."
+      },
+      "actual_field_b_values": {
+        "ar": "كان يوري غاغارين رائد فضاء سوفيتياً أصبح أول إنسان يسافر إلى الفضاء عندما أكملت مركبة فوستوك 1 دورة واحدة حول الأرض في 12 نيسان 1961."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Yuri Gagarin', the introductory biographical narrative in 'bio' (\"كان يوري غاغارين رائد فضاء سوفيتياً أصبح أول إنسان يسافر إلى الفضاء عندما أكملت مركبة فوستوك 1 دورة ...\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Yuri Gagarin' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_110",
+      "person": "Muhammad Ali",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "أسطورة الملاكمة العالمية للوزن الثقيل، اشتهر بلقب (الأعظم) وبمواقفه الإنسانية والسياسية الشجاعة."
+      },
+      "actual_field_b_values": {
+        "ar": "أسطورة الملاكمة العالمية للوزن الثقيل، اشتهر بلقب (الأعظم) وبمواقفه الإنسانية والسياسية الشجاعة."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Muhammad Ali', the introductory biographical narrative in 'bio' (\"أسطورة الملاكمة العالمية للوزن الثقيل، اشتهر بلقب (الأعظم) وبمواقفه الإنسانية والسياسية الشجاعة....\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Muhammad Ali' in languages (ar) with a dedicated statement explaining historical impact."
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_111",
+      "person": "Steve Jobs",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "actual_field_a_values": {
+        "ar": "مؤسس شركة آبل ورؤيوي تقني، غيّر وجه العالم بابتكاراته في الهواتف الذكية والحواسب الشخصية."
+      },
+      "actual_field_b_values": {
+        "ar": "مؤسس شركة آبل ورؤيوي تقني، غيّر وجه العالم بابتكاراته في الهواتف الذكية والحواسب الشخصية."
+      },
+      "classification": "CONFIRMED_DUPLICATE",
+      "semantic_role": "BIOGRAPHICAL",
+      "reasoning": "For 'Steve Jobs', the introductory biographical narrative in 'bio' (\"مؤسس شركة آبل ورؤيوي تقني، غيّر وجه العالم بابتكاراته في الهواتف الذكية والحواسب الشخصية....\") was copied directly into 'historical_significance' across 1 languages (ar) without stating historical impact.",
+      "repair_recommendation": "Replace 'historical_significance' for 'Steve Jobs' in languages (ar) with a dedicated statement explaining historical impact."
+    }
+  ],
+  "application_data_modified": false,
+  "final_status": "PASS"
+}

@@ -1,0 +1,864 @@
+{
+  "schema": "HISTORICAL_SIGNIFICANCE_DRAFT_43",
+  "read_only": true,
+  "target_people_count": 43,
+  "entries": [
+    {
+      "person": "Arthur Wellesley",
+      "field": "historical_significance",
+      "proposed_text": "Wellesley played a leading role in early-nineteenth-century British politics and military administration, serving as Prime Minister of the United Kingdom and Commander-in-Chief of the Forces.",
+      "source_records": [
+        {
+          "source_title": "Arthur Wellesley, 1st Duke of Wellington",
+          "source_url": "https://en.wikipedia.org/wiki/Arthur%20Wellesley%2C%201st%20Duke%20of%20Wellington",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead description of his political and military leadership role.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Thomas Edison",
+      "field": "historical_significance",
+      "proposed_text": "Edison's commercial enterprises and inventive work resulted in the formation of General Electric and the registration of 1,093 United States patents.",
+      "source_records": [
+        {
+          "source_title": "Thomas Edison",
+          "source_url": "https://en.wikipedia.org/wiki/Thomas%20Edison",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead details regarding patents and the formation of General Electric.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Omar al-Mukhtar",
+      "field": "historical_significance",
+      "proposed_text": "Mukhtar utilized deep knowledge of local desert geography and guerrilla tactics to lead successful ambushes against Italian forces during the colonial conflict.",
+      "source_records": [
+        {
+          "source_title": "Omar al-Mukhtar",
+          "source_url": "https://en.wikipedia.org/wiki/Omar%20al-Mukhtar",
+          "source_section": "Legacy"
+        },
+        {
+          "source_title": "Omar al-Mukhtar",
+          "source_url": "https://en.wikipedia.org/wiki/Omar%20al-Mukhtar",
+          "source_section": "Guerrilla warfare"
+        }
+      ],
+      "source_basis": "Supported by passage on guerrilla tactics and desert warfare against the Regio Esercito.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Saddam Hussein",
+      "field": "historical_significance",
+      "proposed_text": "Saddam's legacy remains polarized across the Arab world, where he is viewed by supporters as a resolute opponent of Western influence and by detractors as a brutal authoritarian dictator.",
+      "source_records": [
+        {
+          "source_title": "Saddam Hussein",
+          "source_url": "https://en.wikipedia.org/wiki/Saddam%20Hussein",
+          "source_section": "Reception and legacy"
+        }
+      ],
+      "source_basis": "Supported by reception and legacy section documenting polarized regional and domestic views.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Mother Teresa",
+      "field": "historical_significance",
+      "proposed_text": "By the time of her death, Mother Teresa's Missionaries of Charity had expanded globally to operate hundreds of missions, hospices, and schools across dozens of countries.",
+      "source_records": [
+        {
+          "source_title": "Mother Teresa",
+          "source_url": "https://en.wikipedia.org/wiki/Mother%20Teresa",
+          "source_section": "Legacy and depictions in popular culture"
+        }
+      ],
+      "source_basis": "Supported by legacy statistics on global operations of the Missionaries of Charity.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Nelson Mandela",
+      "field": "historical_significance",
+      "proposed_text": "Mandela attained global recognition as a universal symbol of social justice and a leading figure of anti-racist and anti-colonial leadership.",
+      "source_records": [
+        {
+          "source_title": "Nelson Mandela",
+          "source_url": "https://en.wikipedia.org/wiki/Nelson%20Mandela",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy descriptions of his status as a universal symbol and anti-racist leader.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Anwar Sadat",
+      "field": "historical_significance",
+      "proposed_text": "Sadat served as Egypt's third president and a prominent political and military leader following his involvement in the Free Officers movement.",
+      "source_records": [
+        {
+          "source_title": "Anwar Sadat",
+          "source_url": "https://en.wikipedia.org/wiki/Anwar%20Sadat",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by biographical lead regarding his presidency and Free Officers membership.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Tokugawa Ieyasu",
+      "field": "historical_significance",
+      "proposed_text": "Ieyasu established the Tokugawa shogunate, unifying Japan under a centralized regime that governed from 1603 until the Meiji Restoration.",
+      "source_records": [
+        {
+          "source_title": "Tokugawa Ieyasu",
+          "source_url": "https://en.wikipedia.org/wiki/Tokugawa%20Ieyasu",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text describing his foundation of the Tokugawa shogunate.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Shah Abbas I",
+      "field": "historical_significance",
+      "proposed_text": "Abbas strengthened Iran's military power, centralized state control, and expanded commercial scope, earning the historical designation Abbas the Great.",
+      "source_records": [
+        {
+          "source_title": "Abbas the Great",
+          "source_url": "https://en.wikipedia.org/wiki/Abbas%20the%20Great",
+          "source_section": "Character and legacy"
+        }
+      ],
+      "source_basis": "Supported by character and legacy details on military power, centralization, and commerce.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Yasser Arafat",
+      "field": "historical_significance",
+      "proposed_text": "Arafat led Fatah in secret negotiations with the Israeli government that culminated in the 1993 Oslo Accords and the establishment of Palestinian self-rule frameworks.",
+      "source_records": [
+        {
+          "source_title": "Yasser Arafat",
+          "source_url": "https://en.wikipedia.org/wiki/Yasser%20Arafat",
+          "source_section": "Legacy"
+        },
+        {
+          "source_title": "Yasser Arafat",
+          "source_url": "https://en.wikipedia.org/wiki/Yasser%20Arafat",
+          "source_section": "Oslo Accords"
+        }
+      ],
+      "source_basis": "Supported by Oslo Accords section detailing negotiations and Palestinian self-rule.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Ferdinand II",
+      "field": "historical_significance",
+      "proposed_text": "Ferdinand and Isabella established a highly centralized and united Spanish sovereignty through effective prenuptial agreements and mutual political support.",
+      "source_records": [
+        {
+          "source_title": "Ferdinand II of Aragon",
+          "source_url": "https://en.wikipedia.org/wiki/Ferdinand%20II%20of%20Aragon",
+          "source_section": "Legacy and succession"
+        }
+      ],
+      "source_basis": "Supported by legacy text on joint effective sovereignty and unification.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Seneca",
+      "field": "historical_significance",
+      "proposed_text": "Seneca was a prominent Stoic philosopher, statesman, and dramatist of the Roman imperial period.",
+      "source_records": [
+        {
+          "source_title": "Seneca the Younger",
+          "source_url": "https://en.wikipedia.org/wiki/Seneca%20the%20Younger",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead identification as Stoic philosopher and statesman.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Pyrrhus of Epirus",
+      "field": "historical_significance",
+      "proposed_text": "Pyrrhus was recognized by historical commentators such as Plutarch and Hannibal as one of the preeminent military commanders of antiquity.",
+      "source_records": [
+        {
+          "source_title": "Pyrrhus of Epirus",
+          "source_url": "https://en.wikipedia.org/wiki/Pyrrhus%20of%20Epirus",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy references regarding Hannibal's ranking of Pyrrhus.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Attila the Hun",
+      "field": "historical_significance",
+      "proposed_text": "Attila ruled the Hunnic Empire during the fifth century, conducting major military campaigns against both the Eastern and Western Roman Empires.",
+      "source_records": [
+        {
+          "source_title": "Attila",
+          "source_url": "https://en.wikipedia.org/wiki/Attila",
+          "source_section": "Early modern and modern reception"
+        },
+        {
+          "source_title": "Attila",
+          "source_url": "https://en.wikipedia.org/wiki/Attila",
+          "source_section": "Campaigns against the Eastern Roman Empire"
+        },
+        {
+          "source_title": "Attila",
+          "source_url": "https://en.wikipedia.org/wiki/Attila",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by repair source passage detailing his campaigns against the Roman Empires.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Diogenes",
+      "field": "historical_significance",
+      "proposed_text": "Diogenes emerged as a foundational figure of Cynic philosophy through his tutelage under Antisthenes and subsequent ascetic teachings.",
+      "source_records": [
+        {
+          "source_title": "Diogenes",
+          "source_url": "https://en.wikipedia.org/wiki/Diogenes",
+          "source_section": "Influences"
+        }
+      ],
+      "source_basis": "Supported by influences section detailing his discipleship under Antisthenes.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Socrates",
+      "field": "historical_significance",
+      "proposed_text": "Socrates became a polarizing figure in Athenian intellectual life, ultimately facing trial and execution on charges of impiety and corrupting the youth.",
+      "source_records": [
+        {
+          "source_title": "Socrates",
+          "source_url": "https://en.wikipedia.org/wiki/Socrates",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by trial and death section detailing accusations and execution.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Euripides",
+      "field": "historical_significance",
+      "proposed_text": "Euripides achieved enduring literary prominence, remaining one of the most widely read and debated playwrights from classical antiquity.",
+      "source_records": [
+        {
+          "source_title": "Euripides",
+          "source_url": "https://en.wikipedia.org/wiki/Euripides",
+          "source_section": "Reception"
+        }
+      ],
+      "source_basis": "Supported by reception section noting extensive readership in antique education.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Justinian I",
+      "field": "historical_significance",
+      "proposed_text": "Justinian I served as Roman emperor during the sixth century, presiding over an era of significant imperial administration.",
+      "source_records": [
+        {
+          "source_title": "Justinian I",
+          "source_url": "https://en.wikipedia.org/wiki/Justinian%20I",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead designation as Roman emperor.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Herodotus",
+      "field": "historical_significance",
+      "proposed_text": "Herodotus authored the Histories detailing the Greco-Persian Wars, earning the classical designation 'The Father of History'.",
+      "source_records": [
+        {
+          "source_title": "Herodotus",
+          "source_url": "https://en.wikipedia.org/wiki/Herodotus",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text describing the Histories and Cicero's title.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Sophocles",
+      "field": "historical_significance",
+      "proposed_text": "Sophocles introduced foundational innovations in theatrical structure and character development, becoming a pre-eminent playwright in classical Athens.",
+      "source_records": [
+        {
+          "source_title": "Sophocles",
+          "source_url": "https://en.wikipedia.org/wiki/Sophocles",
+          "source_section": "Works and legacy"
+        }
+      ],
+      "source_basis": "Supported by works and legacy section on dramatic innovations and pre-eminence.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Ahmad ibn Tulun",
+      "field": "historical_significance",
+      "proposed_text": "Ibn Tulun's rule established Egypt as an autonomous political actor and economic center independent of distant imperial capitals.",
+      "source_records": [
+        {
+          "source_title": "Ahmad ibn Tulun",
+          "source_url": "https://en.wikipedia.org/wiki/Ahmad%20ibn%20Tulun",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy text on Egypt becoming an autonomous political actor.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Abd al-Rahman III",
+      "field": "historical_significance",
+      "proposed_text": "Abd al-Rahman III fostered architectural and cultural patronage, constructing the expansive Medina Azahara palace complex during his reign.",
+      "source_records": [
+        {
+          "source_title": "Abd al-Rahman III",
+          "source_url": "https://en.wikipedia.org/wiki/Abd%20al-Rahman%20III",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy text on patronage of architecture and Medina Azahara.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "field": "historical_significance",
+      "proposed_text": "Yusuf ibn Tashfin expanded Almoravid rule across Morocco, established Marrakech as its capital, and decisively checked the Reconquista at the Battle of Sagrajas.",
+      "source_records": [
+        {
+          "source_title": "Yusuf ibn Tashfin",
+          "source_url": "https://en.wikipedia.org/wiki/Yusuf%20ibn%20Tashfin",
+          "source_section": "Legacy"
+        },
+        {
+          "source_title": "Yusuf ibn Tashfin",
+          "source_url": "https://en.wikipedia.org/wiki/Yusuf%20ibn%20Tashfin",
+          "source_section": "Battle of az-Zallaqah"
+        },
+        {
+          "source_title": "Yusuf ibn Tashfin",
+          "source_url": "https://en.wikipedia.org/wiki/Yusuf%20ibn%20Tashfin",
+          "source_section": "Expansion in Maghreb"
+        }
+      ],
+      "source_basis": "Supported by repair source records detailing Maghreb expansion and Battle of az-Zallaqah.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Charles V",
+      "field": "historical_significance",
+      "proposed_text": "Charles V headed the House of Habsburg, ruling a vast personal union of European and American territories described as 'the empire on which the sun never sets'.",
+      "source_records": [
+        {
+          "source_title": "Charles V, Holy Roman Emperor",
+          "source_url": "https://en.wikipedia.org/wiki/Charles%20V%2C%20Holy%20Roman%20Emperor",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on Habsburg leadership and transcontinental personal union.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Hannibal Barca",
+      "field": "historical_significance",
+      "proposed_text": "Hannibal commanded Carthaginian forces against the Roman Republic during the Second Punic War amidst intense Mediterranean geopolitical conflict.",
+      "source_records": [
+        {
+          "source_title": "Hannibal",
+          "source_url": "https://en.wikipedia.org/wiki/Hannibal",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on his command against the Roman Republic.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Constantine the Great",
+      "field": "historical_significance",
+      "proposed_text": "Constantine reunited the Roman Empire under a single emperor and achieved major military victories against external Germanic and Sarmatian tribes.",
+      "source_records": [
+        {
+          "source_title": "Constantine the Great",
+          "source_url": "https://en.wikipedia.org/wiki/Constantine%20the%20Great",
+          "source_section": "Assessment and legacy"
+        }
+      ],
+      "source_basis": "Supported by assessment and legacy section on empire reunification and military victories.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Charlemagne",
+      "field": "historical_significance",
+      "proposed_text": "Charlemagne's Carolingian Empire laid the administrative and political foundations that ultimately shaped medieval European state formation and succession.",
+      "source_records": [
+        {
+          "source_title": "Charlemagne",
+          "source_url": "https://en.wikipedia.org/wiki/Charlemagne",
+          "source_section": "Political legacy"
+        }
+      ],
+      "source_basis": "Supported by political legacy section on post-reign division and successor kingdoms.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Winston Churchill",
+      "field": "historical_significance",
+      "proposed_text": "Churchill served as Prime Minister during the Second World War and maintained a multi-decade career as a prominent British statesman and parliamentarian.",
+      "source_records": [
+        {
+          "source_title": "Winston Churchill",
+          "source_url": "https://en.wikipedia.org/wiki/Winston%20Churchill",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead biography on wartime premiership and parliamentary service.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Abraham Lincoln",
+      "field": "historical_significance",
+      "proposed_text": "Lincoln led the United States through the American Civil War, preserving the Union and playing a central role in the abolition of slavery.",
+      "source_records": [
+        {
+          "source_title": "Abraham Lincoln",
+          "source_url": "https://en.wikipedia.org/wiki/Abraham%20Lincoln",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text regarding Civil War leadership and abolition of slavery.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "field": "historical_significance",
+      "proposed_text": "Mendeleev formulated the periodic law and constructed the periodic table, successfully predicting the properties of undiscovered elements.",
+      "source_records": [
+        {
+          "source_title": "Dmitri Mendeleev",
+          "source_url": "https://en.wikipedia.org/wiki/Dmitri%20Mendeleev",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on periodic law, table creation, and element prediction.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "George Bernard Shaw",
+      "field": "historical_significance",
+      "proposed_text": "Shaw became the leading dramatist of his generation through influential satirical and historical plays, earning the Nobel Prize in Literature.",
+      "source_records": [
+        {
+          "source_title": "George Bernard Shaw",
+          "source_url": "https://en.wikipedia.org/wiki/George%20Bernard%20Shaw",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on theatrical prominence and Nobel Prize award.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Nikola Tesla",
+      "field": "historical_significance",
+      "proposed_text": "Tesla's extensive scientific archive and personal estate were preserved in Belgrade, receiving recognition in the UNESCO Memory of the World Programme.",
+      "source_records": [
+        {
+          "source_title": "Nikola Tesla",
+          "source_url": "https://en.wikipedia.org/wiki/Nikola%20Tesla",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy text regarding archive preservation and UNESCO recognition.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Marie Curie",
+      "field": "historical_significance",
+      "proposed_text": "Curie's pioneering research on radioactivity laid foundational principles for modern nuclear physics, radiography, and medical cancer treatments.",
+      "source_records": [
+        {
+          "source_title": "Marie Curie",
+          "source_url": "https://en.wikipedia.org/wiki/Marie%20Curie",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy text on contributions to nuclear physics and medical treatments.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Mahatma Gandhi",
+      "field": "historical_significance",
+      "proposed_text": "Gandhi achieved international renown as the principal leader of the successful Indian independence movement against British colonial rule.",
+      "source_records": [
+        {
+          "source_title": "Mahatma Gandhi",
+          "source_url": "https://en.wikipedia.org/wiki/Mahatma%20Gandhi",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy note on his role in the Indian independence movement.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Albert Einstein",
+      "field": "historical_significance",
+      "proposed_text": "Einstein developed the theory of relativity and made revolutionary contributions to theoretical physics that reshaped modern scientific understanding.",
+      "source_records": [
+        {
+          "source_title": "Albert Einstein",
+          "source_url": "https://en.wikipedia.org/wiki/Albert%20Einstein",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on relativity theory and theoretical physics contributions.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Igor Stravinsky",
+      "field": "historical_significance",
+      "proposed_text": "Stravinsky collaborated with prominent artists through the Ballets Russes, achieving international renown and shaping modern musical composition.",
+      "source_records": [
+        {
+          "source_title": "Igor Stravinsky",
+          "source_url": "https://en.wikipedia.org/wiki/Igor%20Stravinsky",
+          "source_section": "Artistic influences"
+        }
+      ],
+      "source_basis": "Supported by artistic influences section on Diaghilev and Ballets Russes collaborations.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "James Joyce",
+      "field": "historical_significance",
+      "proposed_text": "Joyce exerted a profound and enduring influence on modern literature and fiction writing through his narrative innovations in works like Ulysses.",
+      "source_records": [
+        {
+          "source_title": "James Joyce",
+          "source_url": "https://en.wikipedia.org/wiki/James%20Joyce",
+          "source_section": "Legacy"
+        }
+      ],
+      "source_basis": "Supported by legacy section on enduring influence and fiction modeling.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Virginia Woolf",
+      "field": "historical_significance",
+      "proposed_text": "Woolf's life and literary works embodied a deep-seated pacifism and critical engagement with contemporary social thought.",
+      "source_records": [
+        {
+          "source_title": "Virginia Woolf",
+          "source_url": "https://en.wikipedia.org/wiki/Virginia%20Woolf",
+          "source_section": "Influences"
+        }
+      ],
+      "source_basis": "Supported by influences section examining her pacifism and literary expression.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Ernest Hemingway",
+      "field": "historical_significance",
+      "proposed_text": "Hemingway established a distinctive, widely emulated literary style that profoundly shaped American fiction and modern prose.",
+      "source_records": [
+        {
+          "source_title": "Ernest Hemingway",
+          "source_url": "https://en.wikipedia.org/wiki/Ernest%20Hemingway",
+          "source_section": "Influence and legacy"
+        }
+      ],
+      "source_basis": "Supported by influence and legacy section on literary style and cultural heritage.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Richard Feynman",
+      "field": "historical_significance",
+      "proposed_text": "Feynman shared the 1965 Nobel Prize in Physics for fundamental work in quantum electrodynamics and developed widely used Feynman diagrams.",
+      "source_records": [
+        {
+          "source_title": "Richard Feynman",
+          "source_url": "https://en.wikipedia.org/wiki/Richard%20Feynman",
+          "source_section": "Popular legacy"
+        },
+        {
+          "source_title": "Richard Feynman",
+          "source_url": "https://en.wikipedia.org/wiki/Richard%20Feynman",
+          "source_section": "Physics"
+        },
+        {
+          "source_title": "Richard Feynman",
+          "source_url": "https://en.wikipedia.org/wiki/Richard%20Feynman",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by repair source records detailing his Nobel Prize in QED and Feynman diagrams.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Yuri Gagarin",
+      "field": "historical_significance",
+      "proposed_text": "Gagarin became the first human to journey into outer space, completing an Earth orbit aboard Vostok 1 during the Space Race.",
+      "source_records": [
+        {
+          "source_title": "Yuri Gagarin",
+          "source_url": "https://en.wikipedia.org/wiki/Yuri%20Gagarin",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on spaceflight milestone and Vostok 1 orbit.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Muhammad Ali",
+      "field": "historical_significance",
+      "proposed_text": "Ali achieved global cultural icon status as a legendary heavyweight boxing champion and prominent social activist.",
+      "source_records": [
+        {
+          "source_title": "Muhammad Ali",
+          "source_url": "https://en.wikipedia.org/wiki/Muhammad%20Ali",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on cultural icon status and heavyweight boxing titles.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    },
+    {
+      "person": "Steve Jobs",
+      "field": "historical_significance",
+      "proposed_text": "Jobs pioneered the personal computer revolution and co-founded Apple Inc., profoundly influencing consumer technology and media industries.",
+      "source_records": [
+        {
+          "source_title": "Steve Jobs",
+          "source_url": "https://en.wikipedia.org/wiki/Steve%20Jobs",
+          "source_section": "Lead"
+        }
+      ],
+      "source_basis": "Supported by lead text on personal computer revolution and co-founding Apple Inc.",
+      "duplicate_check": {
+        "duplicates_bio": false,
+        "duplicates_achievements": false,
+        "duplicates_key_facts": false
+      },
+      "classification": "READY_FOR_REVIEW"
+    }
+  ]
+}

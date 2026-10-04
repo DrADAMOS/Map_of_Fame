@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#080B12</color>
+    <color name="primary_light">#F1F5F9</color>
+    <color name="gold">#F0A500</color>
+    <color name="gold_dark">#B45309</color>
+    <color name="text_primary_light">#0F172A</color>
+    <color name="text_secondary_light">#475569</color>
+    <color name="text_secondary">#B8C0D0</color>
+    <color name="link_blue">#7DB5FF</color>
+    <color name="button_bg_dark">#1A2235</color>
+    <color name="button_bg_light">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

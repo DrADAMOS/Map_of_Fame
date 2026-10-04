@@ -1,0 +1,225 @@
+{
+  "audit_type": "TRUE_DATA_INTEGRITY_AUDIT",
+  "read_only": true,
+  "files_modified": 0,
+  "summary": {
+    "TOTAL_PEOPLE": 311,
+    "EXPECTED_LANGUAGES": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "tr",
+      "ru",
+      "ja",
+      "zh",
+      "hi",
+      "id",
+      "fa"
+    ],
+    "ACTUAL_LANGUAGES": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fa",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ],
+    "TOTAL_PERSON_LANGUAGE_RECORDS": 4354,
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "MEDIUM": 0,
+    "LOW": 0,
+    "INFO": 29,
+    "FINAL_STATUS": "PASS"
+  },
+  "identity_integrity": {
+    "verified": 0,
+    "mapped_aliases": 0,
+    "unresolved": 0,
+    "unresolved_id_list": [],
+    "missing_from_review": 0,
+    "extra_review_entries": 0
+  },
+  "language_integrity": {
+    "expected_languages": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "tr",
+      "ru",
+      "ja",
+      "zh",
+      "hi",
+      "id",
+      "fa"
+    ],
+    "actual_languages_found": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fa",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ]
+  },
+  "field_completeness": {
+    "missing_fields": 0,
+    "insufficient_source_stubs": 0,
+    "field_completeness_by_language": {
+      "ar": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "en": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "es": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "fr": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "de": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "pt": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "it": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "tr": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "ru": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "ja": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "zh": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "hi": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "id": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "fa": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      }
+    }
+  },
+  "duplicates": {
+    "exact_duplicates": 0,
+    "real_duplicates": 0,
+    "legitimate_overlaps": 0,
+    "uncertain_duplicates": 0,
+    "evidence": []
+  },
+  "semantic_duplicates": {
+    "same_fact_cnt": 0,
+    "related_cnt": 0,
+    "different_cnt": 0,
+    "uncertain_cnt": 0,
+    "evidence": []
+  },
+  "field_appropriateness": {
+    "mismatches": []
+  },
+  "content_quality": {
+    "quality_issues": 0,
+    "wikipedia_artifacts": []
+  },
+  "language_contamination": {
+    "real_language_contamination": []
+  },
+  "cross_person_integrity": {
+    "cross_person_issues": []
+  },
+  "provenance_integrity": {
+    "provenance_issues": []
+  },
+  "repair_verification": {
+    "repair_mismatches_cnt": 0,
+    "repair_mismatches": []
+  },
+  "quiz_integrity": {
+    "quiz_valid": true,
+    "quiz_people_cnt": 311,
+    "quiz_issues": []
+  },
+  "js_mirror_integrity": {
+    "js_exists": true,
+    "js_people_cnt": 311,
+    "js_mismatches_cnt": 0,
+    "js_mismatches": []
+  },
+  "final_status": "PASS"
+}

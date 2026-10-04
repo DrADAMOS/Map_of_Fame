@@ -1,0 +1,19 @@
+{
+  "audit_type": "REMAINING_DUPLICATE_FIELDS_INVENTORY",
+  "read_only": true,
+  "excluded_completed_clusters": 43,
+  "duplicate_pairs": [],
+  "summary": {
+    "total_remaining_raw_duplicates": 0,
+    "total_remaining_people": 0,
+    "total_remaining_locale_records": 0,
+    "by_field_pair": {},
+    "by_language": {}
+  },
+  "integrity": {
+    "people": 311,
+    "languages": 14,
+    "person_language_records": 4354,
+    "application_data_modified": false
+  }
+}

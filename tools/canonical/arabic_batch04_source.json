@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "language": "ar",
+  "source_language": "en",
+  "people": {
+    "Ramesses II": {
+      "hint": "شخصية تاريخية مرتبطة بـ Ruler، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Ramesses II was one of ancient Egypt’s most powerful pharaohs, ruling for about 66 years. He led the Egyptian campaign at the Battle of Kadesh and later concluded a peace treaty with the Hittite king Hattusili III.",
+      "birth_city": "Pi-Ramesses",
+      "birth_country": "Ancient Egypt",
+      "death_city": "Thebes",
+      "death_country": "Ancient Egypt",
+      "role": "Ruler",
+      "era": "New Kingdom",
+      "achievements": [
+        "Led Egypt in the Battle of Kadesh against the Hittites.",
+        "Concluded a peace treaty with Hattusili III after the Egyptian-Hittite conflict.",
+        "Commissioned major monuments including the temples at Abu Simbel and the Ramesseum."
+      ],
+      "key_facts": [
+        "Ramesses II ruled Egypt for about 66 years during the 13th century BCE.",
+        "His reign is associated with the Battle of Kadesh and the Egyptian-Hittite peace treaty.",
+        "He was buried in the Valley of the Kings near ancient Thebes."
+      ],
+      "wars": [
+        "Battle of Kadesh (c. 1274 BCE)"
+      ],
+      "historical_significance": "Ramesses II was one of ancient Egypt’s most powerful pharaohs, ruling for about 66 years."
+    },
+    "Buddha": {
+      "hint": "شخصية تاريخية مرتبطة بـ Philosopher، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Siddhartha Gautama , most commonly referred to as the Buddha ( lit. ' the awakened one ' ), was a wandering religious teacher who lived in the eastern Indo-Gangetic Plains during the 6th or 5th century BCE and founded Buddhism .",
+      "birth_city": "Lumbini",
+      "birth_country": "Nepal",
+      "death_city": "Kushinagar",
+      "death_country": "India",
+      "role": "Philosopher",
+      "era": "Ancient Era",
+      "achievements": [
+        "Founding Buddhist philosophy",
+        "Spreading teachings of enlightenment and inner peace"
+      ],
+      "key_facts": [
+        "Born as Prince Siddhartha",
+        "Attained enlightenment under the Bodhi tree"
+      ],
+      "wars": [],
+      "historical_significance": "Siddhartha Gautama , most commonly referred to as the Buddha ( lit."
+    },
+    "Aristotle": {
+      "hint": "شخصية تاريخية مرتبطة بـ Philosopher، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Aristotle ( Ancient Greek : Ἀριστοτέλης , romanized : Aristotélēs ; 384–322 BC) was an ancient Greek philosopher and polymath . His writings span the natural sciences , philosophy , linguistics , economics , politics , psychology , and the arts .",
+      "birth_city": "Stagira",
+      "birth_country": "Greece",
+      "death_city": "Chalcis",
+      "death_country": "Greece",
+      "role": "Philosopher",
+      "era": "Classical Antiquity",
+      "achievements": [
+        "Founding Logic",
+        "Establishing foundations of many natural sciences"
+      ],
+      "key_facts": [
+        "Student of Plato",
+        "Teacher of Alexander the Great"
+      ],
+      "wars": [],
+      "historical_significance": "Aristotle ( Ancient Greek : Ἀριστοτέλης , romanized : Aristotélēs ; 384–322 BC) was an ancient Greek philosopher and polymath ."
+    },
+    "Alexander the Great": {
+      "hint": "شخصية تاريخية مرتبطة بـ Military Leader، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Alexander III of Macedon (356 BC – 323 BC), commonly known as Alexander the Great, was king of the ancient Greek kingdom of Macedon from 336 BC until his death at age 32.",
+      "birth_city": "Pella",
+      "birth_country": "Macedon",
+      "death_city": "Babylon",
+      "death_country": "Babylonia",
+      "role": "Military Leader",
+      "era": "Ancient Era",
+      "achievements": [
+        "Building an empire from Greece to India",
+        "Founding the city of Alexandria"
+      ],
+      "key_facts": [
+        "Student of Aristotle",
+        "Died at age 32 in Babylon"
+      ],
+      "wars": [
+        "Battle of Gaugamela",
+        "Siege of Tyre"
+      ],
+      "historical_significance": "Alexander III of Macedon ( Ancient Greek : Ἀλέξανδρος , romanized : Aléxandros ; 2011 June 323 BC), most commonly known as Alexander the Great , was king of the ancient Greek kingdom of Macedon from 336 BC until his death."
+    },
+    "Augustus": {
+      "hint": "شخصية تاريخية مرتبطة بـ Ruler، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Augustus was a renowned Ruler born in Rome, Roman Republic and passed away in Nola, Roman Empire.",
+      "birth_city": "Rome",
+      "birth_country": "Roman Republic",
+      "death_city": "Nola",
+      "death_country": "Roman Empire",
+      "role": "Ruler",
+      "era": "Ancient",
+      "achievements": [
+        "Augustus composed an account of his achievements, the Res Gestae Divi Augusti , to be inscribed in bronze in front of his mausoleum.",
+        "Copies of the text were inscribed throughout the empire upon his death.",
+        "The Latin inscriptions , along with Greek translations, were inscribed on many public edifices, and historian Theodor Mommsen called them the \"queen of inscriptions\"."
+      ],
+      "key_facts": [
+        "Augustus (born Gaius Octavius ; 23 September 63 BC – 19 August AD 14), also known as Octavian ( Latin : Octavianus ), was the founder of the Roman Empire and the first Roman emperor from 27 BC until his death in AD 14.",
+        "The reign of Augustus initiated an imperial cult and an era of imperial peace (the Pax Romana or Pax Augusta ) when the Roman world was largely free of armed conflict.",
+        "The principate , a style of government in which the emperor showed nominal deference to the Senate , was established during his reign and lasted until the Crisis of the Third Century ."
+      ],
+      "wars": [],
+      "historical_significance": "Remembered for shaping historical developments in ruler."
+    },
+    "Socrates": {
+      "hint": "شخصية تاريخية مرتبطة بـ Philosopher، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Athenian philosopher known through the writings of Plato, Xenophon, and other ancient authors for his questioning method and emphasis on ethical self-examination.",
+      "birth_city": "Alopece",
+      "birth_country": "Greece",
+      "death_city": "Athens",
+      "death_country": "Greece",
+      "role": "Philosopher",
+      "era": "Ancient",
+      "achievements": [
+        "Developed a style of philosophical questioning that exposed contradictions in claims to knowledge.",
+        "Made ethical inquiry and the examined life central themes of Western philosophy.",
+        "Influenced Plato and, through Plato, much of later philosophical thought."
+      ],
+      "key_facts": [
+        "He was born in Athens in the fifth century BC.",
+        "He served as a hoplite and participated in campaigns during the Peloponnesian War.",
+        "He was convicted in Athens in 399 BC and executed by drinking hemlock."
+      ],
+      "wars": [
+        "Peloponnesian War; campaigns at Potidaea, Delium, and Amphipolis."
+      ],
+      "historical_significance": "Athenian philosopher known through the writings of Plato, Xenophon, and other ancient authors for his questioning method and emphasis on ethical self-examination."
+    },
+    "Harun al-Rashid": {
+      "hint": "شخصية تاريخية مرتبطة بـ Ruler، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Harun al-Rashid was the fifth Abbasid caliph, ruling from 786 to 809. His reign combined active warfare against Byzantium with a powerful court culture and major administrative activity, although later literature greatly romanticized his court",
+      "birth_city": "Ray",
+      "birth_country": "Abbasid Caliphate",
+      "death_city": "Tus",
+      "death_country": "Abbasid Caliphate",
+      "role": "Ruler",
+      "era": "Abbasid Era",
+      "achievements": [
+        "Ruled the Abbasid Caliphate from 786 to 809 during a period of major political and cultural development.",
+        "Conducted repeated campaigns against the Byzantine Empire and personally led the major campaign of 806.",
+        "Supported a court culture associated with scholarship, literature, administration, and long-distance trade."
+      ],
+      "key_facts": [
+        "He was the fifth Abbasid caliph and was born in Ray, with sources differing between 763 and 766.",
+        "His historical reputation was later amplified and partly fictionalized by the stories of the Thousand and One Nights."
+      ],
+      "wars": [],
+      "historical_significance": "Harun al-Rashid was the fifth Abbasid caliph, ruling from 786 to 809."
+    },
+    "Homer": {
+      "hint": "شخصية تاريخية مرتبطة بـ Writer، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Homer was a renowned Writer born in Smyrna, Greece and passed away in Ithaca, Greece.",
+      "birth_city": "Smyrna",
+      "birth_country": "Greece",
+      "death_city": "Ithaca",
+      "death_country": "Greece",
+      "role": "Writer",
+      "era": "Ancient",
+      "achievements": [
+        "Today, only the Iliad and the Odyssey are associated with the name \"Homer\".",
+        "In antiquity, a large number of other works were sometimes attributed to him, including the Homeric Hymns , the Contest of Homer and Hesiod , several epigrams , the Little Iliad , the Nostoi , the Thebaid , the Cypria , the Epigoni , the comic mini-epic Batrachomyomachia (\"The Frog–Mouse War\"), the Margites , the Capture of Oechalia , and the Phocais .",
+        "These claims are not considered authentic today and were not universally accepted in the ancient world."
+      ],
+      "key_facts": [
+        "8th century BC ) was an ancient Greek poet who is traditionally credited as the author of the Iliad and the Odyssey , two epic poems that are foundational works of ancient Greek literature .",
+        "Homer was highly revered in ancient Greek society and is considered one of the most influential authors in history."
+      ],
+      "wars": [],
+      "historical_significance": "Remembered for shaping historical developments in writer."
+    },
+    "Al-Kindi": {
+      "hint": "شخصية تاريخية مرتبطة بـ Philosopher، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Al-Kindi was a philosopher and polymath from Kufa who worked in Baghdad and participated in the Abbasid translation movement.",
+      "birth_city": "Kufa",
+      "birth_country": "Abbasid Caliphate",
+      "death_city": "Baghdad",
+      "death_country": "Abbasid Caliphate",
+      "role": "Philosopher",
+      "era": "Islamic Golden Age",
+      "achievements": [
+        "Wrote On First Philosophy",
+        "Contributed to philosophy, mathematics, medicine, optics and cryptanalysis"
+      ],
+      "key_facts": [
+        "Was associated with the Abbasid court and the translation movement",
+        "Helped introduce and explain Greek philosophical and scientific ideas in Arabic"
+      ],
+      "wars": [],
+      "historical_significance": "Al-Kindi was a philosopher and polymath from Kufa who worked in Baghdad and participated in the Abbasid translation movement."
+    },
+    "Thabit ibn Qurra": {
+      "hint": "شخصية تاريخية مرتبطة بـ Scientist، ويُميّزها سجلها التاريخي الخاص.",
+      "bio": "Thabit ibn Qurra was a mathematician, astronomer, physician and translator from Harran who became a leading scholar in Baghdad.",
+      "birth_city": "Harran",
+      "birth_country": "Abbasid Caliphate",
+      "death_city": "Baghdad",
+      "death_country": "Abbasid Caliphate",
+      "role": "Scientist",
+      "era": "Islamic Golden Age",
+      "achievements": [
+        "Developed important results in geometry and number theory",
+        "Translated and revised major Greek scientific works into Arabic"
+      ],
+      "key_facts": [
+        "Was associated with the Banu Musa scholarly circle in Baghdad",
+        "Worked on astronomy, mathematics, medicine and translation"
+      ],
+      "wars": [],
+      "historical_significance": "Thabit ibn Qurra was a mathematician, astronomer, physician and translator from Harran who became a leading scholar in Baghdad."
+    }
+  }
+}

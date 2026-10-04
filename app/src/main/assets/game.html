@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <title>خريطة العظماء</title>
+
+    <!-- Local Libraries -->
+    <link rel="stylesheet" href="lib/leaflet.css" />
+    <script src="lib/leaflet.js"></script>
+    <script src="lib/tailwind.js"></script>
+    <link rel="stylesheet" href="lib/fontawesome.css" />
+
+    <!-- Local Styles -->
+    <link rel="stylesheet" href="css/style.css" />
+
+    <style>
+        /* Immediate background color to prevent white flash before external CSS loads */
+        html, body, .overlay { background-color: #080B12 !important; }
+        html.light-theme, body.light-theme, .light-theme .overlay { background-color: #fcf8f2 !important; }
+    </style>
+
+    <script>
+        window.onerror = function(msg, url, line, col, error) {
+            console.error("Global JS Error: " + msg + "\nAt: " + url + ":" + line + ":" + col);
+            return false;
+        };
+
+        if (window.tailwind) {
+            tailwind.config = { theme: { extend: { fontFamily: { cairo: ['Cairo', 'sans-serif'] } } } };
+        } else {
+            console.warn("Tailwind not found yet, setting up config object.");
+            window.tailwind = { config: { theme: { extend: { fontFamily: { cairo: ['Cairo', 'sans-serif'] } } } } };
+        }
+    </script>
+</head>
+<body onclick="Music.unlock()" class="rtl">
+    <div class="signature">ADAMOS Ninurta</div>
+    <div id="safe-spacer"></div>
+
+    <div id="hud-bar">
+        <div class="stat-badge cursor-pointer active:scale-90 transition-transform" onclick="exitToHome()">
+            <i class="fa-solid fa-house text-yellow-500"></i>
+        </div>
+        <div class="stat-badge"><i class="fa-solid fa-star text-yellow-500 mr-1"></i> <span id="scoreTxt">0</span></div>
+        <div class="stat-badge text-red-500 border-red-500" id="timer">30</div>
+        <div id="musicBtn" class="stat-badge cursor-pointer" onclick="Music.toggle()"><i class="fa-solid fa-music"></i></div>
+        <div class="stat-badge" id="qCounter"><i class="fa-solid fa-list-ol mr-1 text-yellow-500"></i> <span id="qCountTxt">1 / 10</span></div>
+    </div>
+
+    <div id="map-area"><div id="map"></div></div>
+
+    <div id="game-ui">
+        <div id="hintDock" class="quiz-hint-dock">
+            <button onclick="doHint()" id="hintBtn" class="bg-yellow-500 text-black text-xs font-black px-7 py-3 rounded-full shadow-xl active:scale-90 transition-transform">تلميح</button>
+        </div>
+        <div class="flex justify-between items-center bg-white/5 p-5 rounded-3xl mb-5 border border-white/10">
+            <div class="text-center">
+                <div class="text-[11px] text-gray-400 font-bold uppercase tracking-wider" id="lblBirth">الميلاد</div>
+                <div id="birthYear" class="text-2xl font-black text-yellow-500">—</div>
+            </div>
+            <div class="text-center">
+                <div class="text-[11px] text-gray-400 font-bold uppercase tracking-wider" id="lblDeath">الوفاة</div>
+                <div id="deathYear" class="text-2xl font-black text-red-500">—</div>
+            </div>
+        </div>
+
+        <div id="learningBrief" class="learning-brief" aria-live="polite">
+            <div class="learning-title"><i class="fa-solid fa-book-open"></i> <span id="learningTitle">تعرّف على الشخصية أولاً</span></div>
+            <div class="learning-identity">
+                <div class="learning-location">
+                    <span id="learningMapLabel" class="learning-section-label">الميلاد</span>
+                    <strong id="learningMapPlace">—</strong>
+                </div>
+                <div class="learning-role">
+                    <span id="learningRoleLabel" class="learning-section-label">الدور</span>
+                    <strong id="learningRole">—</strong>
+                </div>
+                <div class="learning-era">
+                    <span id="learningEraLabel" class="learning-section-label">العصر</span>
+                    <strong id="learningEra">—</strong>
+                </div>
+            </div>
+            <div id="learningFacts" class="learning-facts"></div>
+            <div class="learning-section learning-overview">
+                <div class="learning-section-heading"><i class="fa-solid fa-circle-info"></i><span id="learningOverviewLabel">نبذة</span></div>
+                <p id="learningBio" class="learning-bio"></p>
+            </div>
+            <div id="learningExtra" class="learning-extra"></div>
+            <button onclick="beginRecallChallenge()" id="readyBtn" class="ready-btn">جاهز للاختبار!</button>
+        </div>
+        <div id="questionPrompt" class="question-prompt" aria-live="polite"></div>
+        <div id="optsGrid" class="opts-grid" style="display:none;"></div>
+        <div id="hintTxt" class="text-[11px] text-yellow-500 text-center mt-3 h-4 italic font-bold" style="display:none;" aria-live="polite"></div>
+    </div>
+
+    <!-- Start Screen -->
+    <div id="startScreen" class="overlay pb-10">
+        <div class="fixed top-0 left-0 right-0 p-4 flex justify-start items-start pointer-events-none z-[2010]" style="padding-top: calc(10px + env(safe-area-inset-top, 0px))">
+            <div class="flex gap-2 pointer-events-auto">
+                <button onclick="toggleLanguage()" id="langToggle" class="lang-btn" aria-label="Choose language" style="color: var(--accent); border-color: var(--accent);">
+                    <i class="fa-solid fa-globe"></i>
+                </button>
+                <button onclick="toggleThemeJS()" class="lang-btn" style="color: var(--accent); border-color: var(--accent);">
+                    <i id="startThemeIcon" class="fa-solid fa-moon"></i>
+                </button>
+                <button onclick="openSettingsModal()" id="settingsToggle" class="lang-btn" aria-label="Settings" style="color: var(--accent); border-color: var(--accent);">
+                    <i class="fa-solid fa-gear"></i>
+                </button>
+            </div>
+        </div>
+
+        <h1 class="text-3xl font-black mb-1 text-yellow-500 tracking-tighter" id="mainTitle">خريطة العظماء</h1>
+        <p class="text-gray-400 text-xs mb-6 font-bold" id="totalCap">استكشف رحلة التاريخ</p>
+
+        <div class="w-full max-w-xs mb-4 text-right" id="startForm">
+            <label class="block text-[10px] font-black text-gray-500 mb-2 mr-2" id="lblMode">1. نمط اللعب:</label>
+            <div class="grid grid-cols-2 gap-2 mb-4">
+                <button onclick="setMode('all', this)" class="mode-btn active py-2 text-xs" id="btnModeAll">الكل</button>
+                <button onclick="setMode('arab', this)" class="mode-btn py-2 text-xs" id="btnModeArab">عظماء العرب</button>
+                <button onclick="setMode('islamic', this)" class="mode-btn py-2 text-xs" id="btnModeIslamic">العصر الإسلامي</button>
+                <button onclick="setMode('medieval', this)" class="mode-btn py-2 text-xs" id="btnModeMedieval">العصور الوسطى</button>
+                <button onclick="setMode('modern', this)" class="mode-btn py-2 text-xs" id="btnModeModern">العصر الحديث</button>
+                <button onclick="setMode('ancient', this)" class="mode-btn py-2 text-xs" id="btnModeAncient">العصور القديمة</button>
+            </div>
+
+            <label class="block text-[10px] font-black text-gray-500 mb-2 mr-2" id="lblQCount">2. عدد الأسئلة:</label>
+            <select id="qCountSelect" class="w-full bg-[#1a2235] border-2 border-accent/20 text-white p-2.5 rounded-xl font-black outline-none mb-4 focus:border-accent text-xs">
+                <option value="5" id="opt5">5 أسئلة</option>
+                <option value="10" selected id="opt10">10 أسئلة</option>
+                <option value="20" id="opt20">20 سؤال</option>
+                <option value="50" id="opt50">50 سؤال</option>
+                <option value="1000" id="optAll">كل الشخصيات</option>
+            </select>
+
+            <label class="block text-[10px] font-black text-gray-500 mb-2 mr-2" id="lblDiff">3. درجة الصعوبة:</label>
+            <div class="space-y-2">
+                <button id="btnDiffEasy" onclick="startGame('easy')" class="w-full py-3 rounded-xl font-black bg-emerald-500/10 text-emerald-400 border-2 border-emerald-500/30 active:scale-95 transition-all text-sm">سهل</button>
+                <button id="btnDiffMed" onclick="startGame('med')" class="w-full py-3 rounded-xl font-black bg-yellow-500/10 text-yellow-400 border-2 border-yellow-500/30 active:scale-95 transition-all text-sm">متوسط</button>
+                <button id="btnDiffHard" onclick="startGame('hard')" class="w-full py-3 rounded-xl font-black bg-red-500/10 text-red-400 border-2 border-red-500/30 active:scale-95 transition-all text-sm">صعب</button>
+            </div>
+        </div>
+        <div class="mt-4 text-[10px] text-gray-500 font-bold uppercase tracking-widest">
+            <span id="lblHighScore">أعلى نتيجة:</span> <span id="highScoreTxt" class="text-yellow-500">0</span>
+        </div>
+
+        <div id="memoryDashboard" class="memory-dashboard">
+            <div class="memory-dashboard-title"><i class="fa-solid fa-brain"></i> <span id="memoryDashboardTitle">ذاكرتك التاريخية</span></div>
+            <div class="memory-stats">
+                <div><strong id="memoryLearned">0</strong><span id="memoryLearnedLabel">متعلّمة</span></div>
+                <div><strong id="memoryReview">0</strong><span id="memoryReviewLabel">تحتاج مراجعة</span></div>
+                <div><strong id="memoryFailed">0</strong><span id="memoryFailedLabel">أخطأت بها</span></div>
+                <div><strong id="memoryMastered">0</strong><span id="memoryMasteredLabel">متقنة</span></div>
+            </div>
+            <button onclick="startReviewGame()" id="reviewMemoryBtn" class="review-memory-btn"><i class="fa-solid fa-brain"></i> مراجعة ما تعلمته</button>
+        </div>
+
+        <div class="mt-6 flex flex-col items-center gap-2">
+            <button
+                onclick="openPrivacyPolicy()"
+                class="text-[11px] font-bold text-blue-300 underline underline-offset-4"
+                id="privacyBtn"
+            >
+                سياسة الخصوصية
+            </button>
+            <button
+                onclick="openPrivacyChoices()"
+                class="text-[11px] font-bold text-gray-400 underline underline-offset-4"
+                id="privacyChoicesBtn"
+                style="display:none;"
+                aria-hidden="true"
+            >
+                خيارات الخصوصية
+            </button>
+        </div>
+    </div>
+
+    <div id="languagePicker" class="language-picker" aria-hidden="true" role="dialog" aria-modal="true">
+        <div class="language-picker-card">
+            <div class="language-picker-head">
+                <strong id="languagePickerTitle">Choose language</strong>
+                <button type="button" class="language-picker-close" onclick="closeLanguagePicker()" aria-label="Close">×</button>
+            </div>
+            <div id="languageOptions" class="language-options"></div>
+        </div>
+    </div>
+
+    <!-- Redesigned Info Card (Glassmorphism) -->
+    <div id="info-card">
+        <div class="info-header text-center">
+            <h3 id="infoName" class="text-2xl font-black text-yellow-500 mb-1">This person</h3>
+            <p id="infoYears" class="text-xs text-gray-400 font-bold">سنة الميلاد - الوفاة</p>
+        </div>
+
+        <div class="info-grid">
+            <div class="info-item">
+                <div class="info-label" id="lblCountry">الدولة</div>
+                <div id="infoCountry" class="info-val">—</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label" id="lblEra">العصر</div>
+                <div id="infoEra" class="info-val">—</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label" id="lblCategory">المجال</div>
+                <div id="infoCategory" class="info-val">—</div>
+            </div>
+            <div class="info-item">
+                <div class="info-label" id="lblAge">العمر</div>
+                <div id="infoAge" class="info-val">—</div>
+            </div>
+        </div>
+
+        <div id="infoDetails" class="info-details">
+            <div class="detail-row"><span class="detail-icon">📍</span><div><b id="lblBirthPlace">مكان الولادة</b><span id="infoBirthPlace">—</span></div></div>
+            <div class="detail-row" id="achievementsRow"><span class="detail-icon">🏛️</span><div><b id="lblAchievements">أبرز الأعمال</b><span id="infoAchievements">—</span></div></div>
+            <div class="detail-row" id="warsRow"><span class="detail-icon">⚔️</span><div><b id="lblWars">الحروب والأحداث</b><span id="infoWars">—</span></div></div>
+        </div>
+        <div id="deepLearningHeader" class="deep-learning-header"><i class="fa-solid fa-brain"></i><span id="deepLearningTitle">تعلّم أعمق وتثبيت الذاكرة</span></div>
+        <p id="infoBio" class="text-sm text-gray-200 leading-relaxed mb-4 text-center px-2 font-medium"></p>
+        <div id="infoKeyFacts" class="post-facts"></div>
+        <div id="infoSignificance" class="significance-box"></div>
+        <div id="memoryStatus" class="memory-status"></div>
+        <button onclick="syncCurrentMemory()" id="syncMemoryBtn" class="sync-memory-btn" disabled>حفظ حالة الذاكرة</button>
+
+        <div id="info-footer-spacer" class="h-40 shrink-0"></div>
+    </div>
+
+    <div id="info-footer" class="p-6 flex gap-4 justify-stretch items-center bg-gradient-to-t from-black via-black/90 to-transparent w-full">
+        <button onclick="openWiki()" class="info-footer-btn bg-white/10 border border-white/20 text-white rounded-2xl active:scale-95 transition-transform flex items-center justify-center pointer-events-auto" id="btnWiki">
+            <i class="fa-brands fa-wikipedia-w" aria-hidden="true"></i>
+            <span id="btnWikiLabel" class="font-black uppercase">Wiki</span>
+        </button>
+
+        <button onclick="closeInfo()" class="info-footer-btn bg-yellow-500 text-black rounded-2xl shadow-xl shadow-yellow-500/20 active:scale-95 transition-all flex items-center justify-center pointer-events-auto" id="btnNext">
+            <i id="btnNextIcon" class="fa-solid fa-forward-step ltr:rotate-0 rtl:rotate-180" aria-hidden="true"></i>
+            <span id="btnNextTxt" class="font-black uppercase">Next</span>
+        </button>
+    </div>
+
+    <!-- End Screen -->
+    <div id="endScreen" class="overlay" style="display:none;">
+        <i class="fa-solid fa-trophy text-6xl text-yellow-500 mb-6 drop-shadow-2xl"></i>
+        <h2 class="text-2xl font-black mb-2 uppercase tracking-tighter" id="lblFinalTitle">النتيجة النهائية</h2>
+        <div id="finalScore" class="text-8xl font-black text-yellow-500 mb-6">0</div>
+
+        <button onclick="shareScore()" class="share-btn mb-10 px-10 py-4 rounded-2xl">
+            <i class="fa-solid fa-share-nodes"></i> <span id="lblShare">مشاركة النتيجة</span>
+        </button>
+
+        <div id="newBest" class="text-emerald-400 font-black mb-10 text-xl hidden animate-bounce">رقم قياسي جديد! 🎉</div>
+
+        <div class="flex w-full gap-2 mb-10 px-2">
+            <button onclick="exitToHomeDirect()" class="flex-1 bg-white/10 text-white py-3 rounded-xl border border-white/10 active:scale-95 flex flex-col items-center justify-center gap-1" id="btnHome">
+                <i class="fa-solid fa-house text-2xl"></i>
+                <span class="text-[10px] font-bold" id="lblHomeTxt">الرئيسية</span>
+            </button>
+            <button onclick="restartGame()" class="flex-1 bg-white/10 text-white py-3 rounded-xl border border-white/10 active:scale-95 flex flex-col items-center justify-center gap-1" id="btnReplay">
+                <i class="fa-solid fa-rotate-right text-2xl"></i>
+                <span class="text-[10px] font-bold" id="lblReplayTxt">إعادة</span>
+            </button>
+            <button onclick="continueGame()" class="flex-1 bg-yellow-500 text-black py-3 rounded-xl font-black shadow-lg active:scale-95 flex flex-col items-center justify-center gap-1" id="btnContinue">
+                <i class="fa-solid fa-play text-2xl"></i>
+                <span class="text-[10px] font-bold" id="lblContinueTxt">متابعة</span>
+            </button>
+            <button onclick="nextLevel()" class="flex-1 bg-emerald-500 text-black py-3 rounded-xl font-black shadow-lg active:scale-95 flex flex-col items-center justify-center gap-1 hidden" id="btnNextLevel">
+                <i class="fa-solid fa-angles-left text-2xl"></i>
+                <span class="text-[10px] font-bold" id="lblNextLevelTxt">التالي</span>
+            </button>
+        </div>
+
+        <div class="w-full max-w-xs mb-10 text-right" id="reviewArea">
+            <h4 class="text-xs font-black text-gray-500 mb-4 mr-2 uppercase tracking-widest" id="lblReview">مراجعة الشخصيات:</h4>
+            <div id="reviewList" class="bg-white/5 rounded-2xl p-4 max-h-48 overflow-y-auto space-y-3 border border-white/10"></div>
+        </div>
+    </div>
+
+    <!-- Exit Confirmation Modal -->
+    <div id="exitModal" class="overlay flex flex-col items-center justify-center" style="display:none; background: rgba(8,11,18,0.9);">
+        <div class="bg-[#1F2937] border border-gray-700 p-8 rounded-3xl max-w-xs w-full shadow-2xl text-center">
+            <div class="w-14 h-14 rounded-full flex items-center justify-center mb-4 mx-auto" style="background: #EAB308;">
+                <i class="fa-solid fa-circle-question text-3xl" style="color: #1F2937;"></i>
+            </div>
+            <h3 id="lblExitTitle" class="text-xl font-bold text-[#F8FAFC] mb-6" style="opacity: 1; font-weight: 700; color: #F8FAFC;">هل تريد العودة للرئيسية؟</h3>
+            <div class="flex gap-3">
+                <button onclick="confirmExit(true)" class="flex-1 py-4 text-white font-bold rounded-2xl shadow-lg" style="background: #EF4444; opacity: 1; font-weight: 700; color: #FFFFFF;" id="btnExitYes">نعم</button>
+                <button onclick="confirmExit(false)" class="flex-1 py-4 text-white font-bold rounded-2xl" style="background: #374151; border: 1px solid #6B7280; opacity: 1; font-weight: 700; color: #FFFFFF;" id="btnExitNo">إلغاء</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Settings Modal -->
+    <div id="settingsModal" class="overlay flex flex-col items-center justify-center" style="display:none; background: rgba(8,11,18,0.96); z-index: 3500;">
+        <div class="w-full max-w-sm px-6 py-8 flex flex-col items-center h-full justify-center overflow-y-auto" style="padding-top: calc(24px + env(safe-area-inset-top, 0px)); padding-bottom: calc(24px + env(safe-area-inset-bottom, 0px));">
+            <div class="w-full max-w-xs flex justify-between items-center mb-6">
+                <h2 class="text-3xl font-black text-yellow-500 tracking-tighter" id="lblSettingsTitle">الإعدادات</h2>
+                <button onclick="closeSettingsModal()" class="w-11 h-11 rounded-full bg-white/10 border border-white/10 flex items-center justify-center text-white active:scale-90 transition-transform">
+                    <i class="fa-solid fa-xmark text-xl"></i>
+                </button>
+            </div>
+
+            <!-- Settings Capsule Buttons & Rows -->
+            <div class="w-full max-w-xs space-y-4 flex flex-col items-center">
+                <!-- 0. Dark Mode / Light Mode Toggle Row -->
+                <div onclick="toggleThemeJS()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all cursor-pointer">
+                    <span class="flex items-center gap-3">
+                        <i id="settingsThemeIcon" class="fa-solid fa-moon text-yellow-500 text-sm"></i>
+                        <span id="lblThemeToggle" class="text-sm">الوضع الداكن / الفاتح</span>
+                    </span>
+                    <i class="fa-solid fa-arrow-rotate-right text-gray-400 text-xs"></i>
+                </div>
+
+                <!-- 1. About the App -->
+                <button onclick="openAboutApp()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
+                    <span class="flex items-center gap-3">
+                        <i class="fa-solid fa-circle-info text-yellow-500 text-sm"></i>
+                        <span id="lblAboutApp" class="text-sm">عن التطبيق</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
+                </button>
+
+                <!-- 2. Privacy Policy -->
+                <button onclick="openPrivacyPolicy()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
+                    <span class="flex items-center gap-3">
+                        <i class="fa-solid fa-shield-halved text-yellow-500 text-sm"></i>
+                        <span id="lblPrivacyPolicy" class="text-sm">سياسة الخصوصية</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
+                </button>
+
+                <!-- 3. Rate the App -->
+                <button onclick="openRateApp()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
+                    <span class="flex items-center gap-3">
+                        <i class="fa-solid fa-star text-yellow-500 text-sm"></i>
+                        <span id="lblRateApp" class="text-sm">تقييم التطبيق</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
+                </button>
+
+                <!-- 4. Share the App -->
+                <button onclick="shareApp()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
+                    <span class="flex items-center gap-3">
+                        <i class="fa-solid fa-share-nodes text-yellow-500 text-sm"></i>
+                        <span id="lblShareApp" class="text-sm">مشاركة التطبيق</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
+                </button>
+
+                <!-- 5. Terms of Use -->
+                <button onclick="openTermsOfUse()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
+                    <span class="flex items-center gap-3">
+                        <i class="fa-solid fa-file-contract text-yellow-500 text-sm"></i>
+                        <span id="lblTermsOfUse" class="text-sm">شروط الاستخدام</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
+                </button>
+
+                <!-- 6. Reset App -->
+                <button onclick="openResetApp()" class="w-full py-4 px-6 rounded-full bg-red-500/10 border border-red-500/30 text-red-400 font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
+                    <span class="flex items-center gap-3">
+                        <i class="fa-solid fa-rotate-left text-red-400 text-sm"></i>
+                        <span id="lblResetApp" class="text-sm">إعادة ضبط التطبيق</span>
+                    </span>
+                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Rewarded Ad Hint Confirmation Modal -->
+    <div id="rewardHintModal" class="overlay flex flex-col items-center justify-center" style="display:none; background: rgba(8,11,18,0.96); z-index: 4600;">
+        <div class="bg-[#1a2235] border-2 border-yellow-500/30 p-8 rounded-3xl max-w-xs w-full shadow-2xl flex flex-col items-center text-center">
+            <i class="fa-solid fa-video text-5xl text-yellow-500 mb-4"></i>
+            <h3 id="lblRewardHintTitle" class="text-xl font-black text-yellow-500 mb-3">تلميح (إعلان اختياري)</h3>
+            <p id="lblRewardHintContent" class="text-sm text-gray-200 leading-relaxed mb-6 font-medium">هل تريد مشاهدة إعلان قصير للحصول على تلميح؟ المشاهدة اختيارية تماماً.</p>
+            <div class="flex flex-col gap-3 w-full">
+                <button onclick="confirmWatchRewardedHint(true)" class="w-full py-4 bg-yellow-500 text-black font-black rounded-2xl shadow-xl active:scale-95 transition-transform" id="btnWatchAd">مشاهدة الإعلان</button>
+                <button onclick="confirmWatchRewardedHint(false)" class="w-full py-4 bg-white/5 border border-white/10 text-white font-black rounded-2xl active:scale-95 transition-transform" id="btnCancelAd">إلغاء</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wikipedia Fallback Modal -->
+    <div id="wikiModal" class="overlay" style="display:none; background: rgba(8,11,18,0.95); z-index: 4000;">
+        <div class="bg-[#1a2235] border-2 border-accent/30 p-8 rounded-3xl max-w-xs w-full shadow-2xl">
+            <i class="fa-brands fa-wikipedia-w text-5xl text-blue-400 mb-4"></i>
+            <p id="wikiMsg1" class="text-sm text-gray-300 mb-2 font-bold"></p>
+            <p id="wikiMsg2" class="text-xs text-gray-400 mb-8"></p>
+            <div class="flex flex-col gap-3">
+                <button id="btnWikiEn" class="w-full py-4 bg-yellow-500 text-black font-black rounded-2xl shadow-lg">View in English</button>
+                <button onclick="closeWikiModal()" class="w-full py-4 bg-white/5 border border-white/10 text-white font-black rounded-2xl" id="btnWikiCancel">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- About App Modal -->
+    <div id="aboutModal" class="overlay flex flex-col items-center justify-center" style="display:none; background: rgba(8,11,18,0.96); z-index: 4500;">
+        <div class="bg-[#1a2235] border-2 border-yellow-500/30 p-8 rounded-3xl max-w-xs w-full shadow-2xl flex flex-col items-center text-center">
+            <i class="fa-solid fa-circle-info text-5xl text-yellow-500 mb-4"></i>
+            <h3 id="lblAboutTitle" class="text-xl font-black text-yellow-500 mb-3">خريطة العظماء</h3>
+            <p id="lblAboutContent" class="text-sm text-gray-200 leading-relaxed mb-4 font-medium">لعبة تعليمية استكشافية لتاريخ العظماء والشخصيات التاريخية.</p>
+            <p id="lblAboutVersion" class="text-xs text-yellow-500/80 font-bold mb-6">Version 1.6.1</p>
+            <button onclick="closeAboutApp()" class="w-full py-4 bg-yellow-500 text-black font-black rounded-2xl shadow-xl active:scale-95 transition-transform" id="btnAboutOk">موافق</button>
+        </div>
+    </div>
+
+    <!-- Reset Confirmation Modal -->
+    <div id="resetModal" class="overlay flex flex-col items-center justify-center" style="display:none; background: rgba(8,11,18,0.96); z-index: 4500;">
+        <div class="reset-confirm-modal bg-[#121212] border border-yellow-500/40 p-6 rounded-2xl max-w-[320px] w-[82%] shadow-2xl flex flex-col items-center text-center">
+            <i class="fa-solid fa-rotate-left text-3xl text-red-400 mb-3"></i>
+            <h3 id="lblResetTitle" class="text-sm font-bold text-white mb-5 leading-relaxed">هل أنت متأكد من إعادة ضبط إعدادات ونتائج التطبيق؟</h3>
+            <div class="flex gap-2.5 w-full">
+                <button onclick="confirmReset(true)" class="flex-1 py-3 bg-red-500 text-white font-bold text-sm rounded-xl shadow-md active:scale-95 transition-transform" id="btnResetYes">موافق</button>
+                <button onclick="confirmReset(false)" class="flex-1 py-3 bg-white/10 border border-white/10 text-white font-bold text-sm rounded-xl active:scale-95 transition-transform" id="btnResetNo">إلغاء</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error Modal -->
+    <div id="errorModal" class="overlay flex flex-col items-center justify-center" style="display:none; background: rgba(8,11,18,0.96); z-index: 4500;">
+        <div class="bg-[#1a2235] border-2 border-red-500/30 p-8 rounded-3xl max-w-xs w-full shadow-2xl flex flex-col items-center text-center">
+            <i class="fa-solid fa-triangle-exclamation text-5xl text-red-400 mb-4"></i>
+            <h3 id="errorTitle" class="text-xl font-black text-white mb-3">تنبيه</h3>
+            <p id="errorMessage" class="text-sm text-gray-200 leading-relaxed mb-6 font-medium">تعذر بدء اللعبة. يرجى التحقق من البيانات أو الاتصال بالإنترنت.</p>
+            <button onclick="closeErrorModal()" class="w-full py-4 bg-red-500 text-white font-black rounded-2xl shadow-xl active:scale-95 transition-transform" id="errorOk">موافق</button>
+        </div>
+    </div>
+
+    <!-- Modular JS Scripts - Order Matters! -->
+    <script src="js/constants.js"></script>
+    <script src="js/person_i18n.js"></script>
+    <script src="js/i18n_languages.js"></script>
+    <script src="js/achievements/achievement_events.js"></script>
+    <script src="js/achievements/achievement_data.js"></script>
+    <script src="js/achievements/achievement_storage.js"></script>
+    <script src="js/achievements/achievement_ui.js"></script>
+    <script src="js/achievements/achievement_engine.js"></script>
+    <script src="js/achievements/stats.js"></script>
+    <script src="js/storage.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/animation.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/quiz.js"></script>
+
+    <script>
+        // Faster initialization
+        document.addEventListener('DOMContentLoaded', () => {
+            console.log("DOM ready, initializing core...");
+
+            if (!window.Android) {
+                console.warn("Android interface not detected yet. Scripts might be ahead of injection.");
+            }
+
+            // 1. Initial High Score and Settings
+            const settings = Storage.getSettings();
+            const hs = document.getElementById('highScoreTxt');
+            if(hs) hs.textContent = Storage.getHighScore();
+
+            // 2. Initial language
+            if (typeof setLanguage === 'function') {
+                setLanguage(settings.lang || 'en');
+            }
+            if (typeof refreshMemoryDashboard === 'function') refreshMemoryDashboard();
+
+            // 3. Initialize map logic
+            if (typeof initMap === 'function') initMap();
+
+            // 4. Initial Theme
+            if (window.Android && Android.getAppTheme) {
+                setAppTheme(Android.getAppTheme());
+            }
+
+            // 5. CRITICAL: Notify Android we are ready for user interaction
+            // We don't wait for window.onload (which waits for all images/tiles)
+            if (window.Android && Android.gameReady) {
+                Android.gameReady();
+                if (Android.showBanner) Android.showBanner();
+                console.log("Early Ready signal sent.");
+            }
+        });
+
+        window.onload = () => {
+            console.log("Full page assets (including tiles) loaded.");
+        };
+
+
+        function openPrivacyPolicy() {
+            if (window.Android && Android.openPrivacyPolicy) {
+                Android.openPrivacyPolicy();
+                return;
+            }
+            window.open('https://dradamos.github.io/privacy-policy.html', '_blank');
+        }
+
+        function openTermsOfUse() {
+            Utils.vibrate(30);
+            const url = 'https://dradamos.github.io/privacy-policy.html';
+            if (window.Android && Android.openExternalUrl) {
+                Android.openExternalUrl(url);
+            } else {
+                window.open(url, '_blank');
+            }
+        }
+
+
+
+        function setPrivacyChoicesVisible(visible) {
+            const button = document.getElementById('privacyChoicesBtn');
+            if (!button) return;
+            button.style.display = visible ? 'inline-block' : 'none';
+            button.setAttribute('aria-hidden', visible ? 'false' : 'true');
+        }
+
+        function openPrivacyChoices() {
+            if (window.Android && Android.showPrivacyOptions) {
+                Android.showPrivacyOptions();
+            }
+        }
+
+        function openWiki() {
+            const p = curQ[idx];
+            if (!p) return;
+            openWikiExtended(p);
+        }
+
+        // Wikipedia is intentionally resolved without a runtime API call.
+        // The selected language is used directly so the user gets an immediate launch.
+        // Known verified source URLs are preferred when present; otherwise the
+        // localized person name is used as the Wikipedia article title.
+        function wikiTitleFromName(name) {
+            return String(name || '')
+                .trim()
+                .replace(/\s+/g, ' ');
+        }
+
+        function wikiSourceForPerson(person, lang) {
+            const bundle = personLanguageBundle(person, lang);
+            const source = bundle && bundle.source;
+            if (!source || source.type !== 'wikipedia' || source.language !== lang || !source.url) return null;
+            try {
+                const parsed = new URL(source.url);
+                if (parsed.hostname !== `${lang}.wikipedia.org`) return null;
+                return { title: source.title || '', url: source.url };
+            } catch (_) {
+                return null;
+            }
+        }
+
+        window.openWikiExtended = function(p) {
+            if (!p) return;
+            const lang = (typeof currentLang === 'string' && currentLang) ? currentLang : 'en';
+            const bundle = typeof personLanguageBundle === 'function' ? personLanguageBundle(p, lang) : null;
+            const localizedName = bundle?.name || (lang === 'ar' ? (p.name_ar || p.name) : (p.name_en || p.name));
+            const englishName = p.name_en || p.name;
+
+            const stored = wikiSourceForPerson(p, lang);
+            if (stored?.url) {
+                launchWiki(stored.url);
+                return;
+            }
+
+            const title = wikiTitleFromName(localizedName || englishName);
+            if (title) {
+                launchWiki(`https://${lang}.m.wikipedia.org/wiki/${encodeURIComponent(title.replace(/ /g, '_'))}`);
+                return;
+            }
+
+            if (englishName) {
+                launchWiki(`https://en.m.wikipedia.org/wiki/${encodeURIComponent(englishName.replace(/ /g, '_'))}`);
+                return;
+            }
+
+            showWikiFallback('Wikipedia');
+        }
+
+        function launchWiki(url) {
+            if (window.Android && Android.openWiki) {
+                Android.openWiki(url);
+            } else {
+                window.open(url, '_blank');
+            }
+        }
+
+        function showWikiFallback(pNameEn) {
+            const modal = document.getElementById('wikiModal');
+            const btnEn = document.getElementById('btnWikiEn');
+
+            btnEn.onclick = () => {
+                closeWikiModal();
+                launchWiki(`https://en.m.wikipedia.org/wiki/${encodeURIComponent(pNameEn)}`);
+            };
+
+            Animations.fadeIn('wikiModal');
+        }
+
+        function closeWikiModal() {
+            Animations.fadeOut('wikiModal');
+        }
+
+        function setAppTheme(mode) {
+            console.log("Setting app theme to:", mode);
+            const startIcon = document.getElementById('startThemeIcon');
+            const isLight = mode === 'light';
+
+            document.documentElement.classList.toggle('light-theme', isLight);
+            document.body.classList.toggle('light-theme', isLight);
+
+            if (isLight) {
+                if (startIcon) {
+                    startIcon.classList.remove('fa-moon');
+                    iconToSun(startIcon);
+                }
+            } else {
+                if (startIcon) {
+                    startIcon.classList.remove('fa-sun');
+                    iconToMoon(startIcon);
+                }
+            }
+            if (typeof setMapTheme === 'function') {
+                setMapTheme(mode);
+            }
+        }
+
+        function iconToSun(el) { el.classList.add('fa-sun'); }
+        function iconToMoon(el) { el.classList.add('fa-moon'); }
+
+        function toggleThemeJS() {
+            if (window.Android && Android.toggleTheme) {
+                Android.toggleTheme();
+            }
+        }
+
+        function openSettingsModal() {
+            Utils.vibrate(30);
+            Music.sfx(600);
+            const modal = document.getElementById('settingsModal');
+            if (modal) {
+                modal.style.display = 'flex';
+                Animations.fadeIn('settingsModal');
+            }
+        }
+
+        function closeSettingsModal() {
+            Utils.vibrate(20);
+            Animations.fadeOut('settingsModal');
+            const modal = document.getElementById('settingsModal');
+            if (modal) modal.style.display = 'none';
+        }
+
+        function openAboutApp() {
+            Utils.vibrate(30);
+            const t = I18N[currentLang] || I18N.ar;
+            const version = (window.Android && Android.getAppVersion) ? Android.getAppVersion() : '1.6.1';
+
+            const titleEl = document.getElementById('lblAboutTitle');
+            const contentEl = document.getElementById('lblAboutContent');
+            const versionEl = document.getElementById('lblAboutVersion');
+            const okBtn = document.getElementById('btnAboutOk');
+
+            if (titleEl) titleEl.textContent = t.title || "خريطة العظماء";
+            if (contentEl) contentEl.textContent = t.about_content || "لعبة تعليمية استكشافية لتاريخ العظماء والشخصيات التاريخية.";
+            if (versionEl) versionEl.textContent = "Version " + version;
+            if (okBtn) okBtn.textContent = (currentLang === 'ar' ? 'موافق' : 'OK');
+
+            const modal = document.getElementById('aboutModal');
+            if (modal) {
+                modal.style.display = 'flex';
+                Animations.fadeIn('aboutModal');
+            }
+        }
+
+        function closeAboutApp() {
+            Utils.vibrate(20);
+            Animations.fadeOut('aboutModal');
+            const modal = document.getElementById('aboutModal');
+            if (modal) modal.style.display = 'none';
+        }
+
+        function openRateApp() {
+            Utils.vibrate(30);
+            const url = 'https://play.google.com/store/apps/details?id=com.adamos.mapoffame';
+            if (window.Android && Android.openExternalUrl) {
+                Android.openExternalUrl(url);
+            } else {
+                window.open(url, '_blank');
+            }
+        }
+
+
+        function openResetApp() {
+            Utils.vibrate(30);
+            const t = I18N[currentLang] || I18N.ar;
+            const titleEl = document.getElementById('lblResetTitle');
+            const yesBtn = document.getElementById('btnResetYes');
+            const noBtn = document.getElementById('btnResetNo');
+
+            if (titleEl) titleEl.textContent = t.reset_confirm || "هل أنت متأكد من إعادة ضبط إعدادات ونتائج التطبيق؟";
+            if (yesBtn) yesBtn.textContent = (currentLang === 'ar' ? 'موافق' : 'OK');
+            if (noBtn) noBtn.textContent = t.cancel || (currentLang === 'ar' ? 'إلغاء' : 'Cancel');
+
+            const modal = document.getElementById('resetModal');
+            if (modal) {
+                modal.style.display = 'flex';
+                Animations.fadeIn('resetModal');
+            }
+        }
+
+        function confirmReset(yes) {
+            Utils.vibrate(20);
+            Animations.fadeOut('resetModal');
+            const modal = document.getElementById('resetModal');
+            if (modal) modal.style.display = 'none';
+
+            if (!yes) {
+                return;
+            }
+
+            const settings = Storage.getSettings();
+
+            if (typeof Stats !== 'undefined' && typeof Stats.reset === 'function') {
+                Stats.reset();
+            }
+            localStorage.removeItem('game_stats');
+            localStorage.removeItem('highScore');
+            localStorage.removeItem('achievements');
+            localStorage.removeItem('unlocked_achievements');
+            localStorage.removeItem('person_memory');
+
+            Storage.saveSettings(settings);
+
+            if (typeof refreshMemoryDashboard === 'function') {
+                refreshMemoryDashboard();
+            }
+            if (typeof updateUiTexts === 'function') updateUiTexts();
+            if (typeof updateStatsUI === 'function') updateStatsUI();
+            if (typeof renderDashboard === 'function') renderDashboard();
+            if (typeof closeSettingsModal === 'function') closeSettingsModal();
+        }
+
+        function setBannerVisible(visible) {
+            if (visible) {
+                document.body.classList.add('has-banner');
+            } else {
+                document.body.classList.remove('has-banner');
+            }
+        }
+
+        function showErrorModal() {
+            Utils.vibrate(30);
+            const t = I18N[currentLang] || I18N.ar;
+            const titleEl = document.getElementById('errorTitle');
+            const msgEl = document.getElementById('errorMessage');
+            const okBtn = document.getElementById('errorOk');
+
+            if (titleEl) titleEl.textContent = t.error_title || "تنبيه";
+            if (msgEl) msgEl.textContent = t.error_game_start || "تعذر بدء اللعبة. يرجى التحقق من البيانات أو الاتصال بالإنترنت.";
+            if (okBtn) okBtn.textContent = (currentLang === 'ar' ? 'موافق' : 'OK');
+
+            const modal = document.getElementById('errorModal');
+            if (modal) {
+                modal.style.display = 'flex';
+                Animations.fadeIn('errorModal');
+            }
+        }
+
+        function closeErrorModal() {
+            Utils.vibrate(20);
+            Animations.fadeOut('errorModal');
+            const modal = document.getElementById('errorModal');
+            if (modal) modal.style.display = 'none';
+            Animations.fadeIn('startScreen');
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+{
+  "source_package_type": "HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_3_REPAIR",
+  "read_only": true,
+  "files_modified": 0,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_43.json": "739f2fc8089e1ac8eb5521e705fd4af1ed8e03da3a66dec5eae5008e19ed1510",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_REVIEW_43.json": "66b2dcc994d08ed0972662df0ae12d763051e31ab758017e0a27babc4cafec0b",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_5_REPAIR.json": "b872e9a03d062aabb3009514dd3b339fd118d31f526ba497d4d8fc4e79077ca0"
+    }
+  },
+  "target_people_count": 3,
+  "people_with_valid_source_evidence": 3,
+  "people_without_valid_source_evidence": 0,
+  "source_records_count": 3,
+  "entries": [
+    {
+      "person": "Attila the Hun",
+      "field": "historical_significance",
+      "source_title": "Attila",
+      "source_url": "https://en.wikipedia.org/wiki/Attila",
+      "source_section": "Lead",
+      "exact_source_passage": "As nephews to Rugila, Attila and his elder brother Bleda succeeded him to the throne in 435, ruling jointly until the death of Bleda in 445. During his reign, Attila was one of the most feared enemies of the Western and Eastern Roman Empires. He crossed the Danube twice and plundered the Balkans but was unable to take Constantinople, stopped by the double walls of the Eastern capital. The Huns defeated a second army near Callipolis (Gelibolu). In 441, he led an invasion of the Eastern Roman (Byzantine) Empire, the success of which emboldened him to invade the West. He also attempted to conquer Roman Gaul (modern France), crossing the Rhine in 451 and marching as far as Aurelianum (Orléans), before being stopped in the Battle of the Catalaunian Plains.",
+      "explanation_of_historical_significance": "Explicitly supports Attila's 5th-century leadership of the Hunnic Empire, military campaigns against the Eastern and Western Roman Empires, invasion of the Balkans and Gaul, and the Battle of the Catalaunian Plains.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "field": "historical_significance",
+      "source_title": "Yusuf ibn Tashfin",
+      "source_url": "https://en.wikipedia.org/wiki/Yusuf%20ibn%20Tashfin",
+      "source_section": "Expansion in Maghreb",
+      "exact_source_passage": "Yusuf was an effective general and strategist who put together a formidable Army comprising Sudanese contingents, Christian mercenaries and the Saharan tribes of the Gudala, Lamtuna and Masufa, which enabled him to expand the empire, crossing the Atlas Mountains onto the plains of Morocco, reaching the Mediterranean Sea and capturing Fez in 1075, Tangier and Oujda in 1079, Tlemcen in 1080, and Ceuta in 1083, as well as Algiers, Ténès and Oran in 1082–83. He is regarded as the co-founder of the famous Moroccan city Marrakech (in Berber Murakush, corrupted to Morocco in English). The site had been chosen and work started by Abu Bakr in 1070. The work was completed by Yusuf, who then made it the capital of his empire, in place of the former capital Aghmāt.",
+      "explanation_of_historical_significance": "Explicitly supports Yusuf ibn Tashfin's leadership of the Almoravid movement, expansion of Almoravid territory across Morocco, capture of major cities (Fez, Tlemcen, Ceuta, Algiers), and establishment of Marrakech as capital.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Richard Feynman",
+      "field": "historical_significance",
+      "source_title": "Richard Feynman",
+      "source_url": "https://en.wikipedia.org/wiki/Richard%20Feynman",
+      "source_section": "Lead",
+      "exact_source_passage": "Richard Phillips Feynman was an American theoretical physicist. He shared the 1965 Nobel Prize in Physics with Julian Schwinger and Shin'ichirō Tomonaga \"for their fundamental work in quantum electrodynamics (QED), with deep-ploughing consequences for the physics of elementary particles\". He is also known for his work in the path integral formulation of quantum mechanics, the theory of the physics of the superfluidity of supercooled liquid helium, and the parton model. Feynman developed a pictorial representation scheme for the mathematical expressions describing the behavior of subatomic particles, which later became known as Feynman diagrams and remains widely used.",
+      "explanation_of_historical_significance": "Explicitly supports Richard Feynman sharing the 1965 Nobel Prize in Physics for quantum electrodynamics (QED), his work in the path integral formulation of quantum mechanics, and development of Feynman diagrams.",
+      "confidence": "HIGH"
+    }
+  ],
+  "application_data_modified": false,
+  "final_status": "PASS"
+}

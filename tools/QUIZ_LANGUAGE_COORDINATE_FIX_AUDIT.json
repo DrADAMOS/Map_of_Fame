@@ -1,0 +1,33 @@
+{
+  "status": "READY_FOR_PHYSICAL_QA",
+  "files_changed": [
+    "app/src/main/assets/js/quiz.js",
+    "app/src/main/assets/quiz_data.json",
+    "app/src/main/assets/js/constants.js"
+  ],
+  "language_fix": [
+    "Arabic recall prompts no longer inject untranslated birth city/country/role metadata.",
+    "Arabic recall prompts use the localized/redacted hint as the clue.",
+    "Known alternate Arabic identity forms are redacted for Richard the Lionheart, Frederick Barbarossa, Saladin, and Nur ad-Din."
+  ],
+  "coordinate_fix": [
+    {
+      "person": "Alexander Hamilton",
+      "event": "Birth",
+      "old": [
+        17.13,
+        -61.85
+      ],
+      "new": [
+        17.1430556,
+        -62.6269444
+      ],
+      "location": "Charlestown, Nevis",
+      "basis": "Wikidata Charlestown coordinate 17°8′35″N, 62°37′37″W"
+    }
+  ],
+  "parity": "quiz_data.json and constants.js match for all 297 people birth/death coordinates",
+  "js_syntax": "PASS",
+  "dark_mode_modified": "NO",
+  "person_i18n_modified": "NO"
+}

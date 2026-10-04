@@ -1,0 +1,147 @@
+{
+  "audit_type": "HISTORICAL_SIGNIFICANCE_FINAL_14_REVIEW",
+  "read_only": true,
+  "target_people_count": 14,
+  "entries": [
+    {
+      "person": "Omar al-Mukhtar",
+      "proposed_text": "Mukhtar utilized deep knowledge of local desert geography and guerrilla tactics to lead successful ambushes against Italian forces during the colonial conflict.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "LOW",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by guerrilla warfare source passage; adds specific tactical details distinct from bio and achievements."
+    },
+    {
+      "person": "Saddam Hussein",
+      "proposed_text": "Saddam's legacy remains polarized across the Arab world, where he is viewed by supporters as a resolute opponent of Western influence and by detractors as a brutal authoritarian dictator.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "LOW",
+      "key_fact_overlap": "LOW",
+      "reason": "Directly supported by reception and legacy source passage documenting polarized regional and domestic views."
+    },
+    {
+      "person": "Mother Teresa",
+      "proposed_text": "By the time of her death, Mother Teresa's Missionaries of Charity had expanded globally to operate hundreds of missions, hospices, and schools across dozens of countries.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "LOW",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by legacy source passage; provides concrete metrics on global mission scale distinct from biography."
+    },
+    {
+      "person": "Nelson Mandela",
+      "proposed_text": "Mandela attained global recognition as a universal symbol of social justice and a leading figure of anti-racist and anti-colonial leadership.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by legacy source passage; articulates global symbolic influence distinct from presidential facts."
+    },
+    {
+      "person": "Yasser Arafat",
+      "proposed_text": "Arafat led Fatah in secret negotiations with the Israeli government that culminated in the 1993 Oslo Accords and the establishment of Palestinian self-rule frameworks.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by Oslo Accords source passage detailing secret talks, negotiations, and self-rule."
+    },
+    {
+      "person": "Pyrrhus of Epirus",
+      "proposed_text": "Pyrrhus was recognized by historical commentators such as Plutarch and Hannibal as one of the preeminent military commanders of antiquity.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by legacy source passage referencing Plutarch and Hannibal."
+    },
+    {
+      "person": "Attila the Hun",
+      "proposed_text": "Attila ruled the Hunnic Empire during the fifth century, conducting major military campaigns against both the Eastern and Western Roman Empires.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by repair source passage detailing fifth-century rule and Roman campaigns."
+    },
+    {
+      "person": "Socrates",
+      "proposed_text": "Socrates became a polarizing figure in Athenian intellectual life, ultimately facing trial and execution on charges of impiety and corrupting the youth.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "LOW",
+      "reason": "Directly supported by trial and death source passage."
+    },
+    {
+      "person": "Euripides",
+      "proposed_text": "Euripides achieved enduring literary prominence, remaining one of the most widely read and debated playwrights from classical antiquity.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by reception source passage on antique education and readership."
+    },
+    {
+      "person": "Ahmad ibn Tulun",
+      "proposed_text": "Ibn Tulun's rule established Egypt as an autonomous political actor and economic center independent of distant imperial capitals.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by legacy source passage on Egypt becoming an autonomous political actor."
+    },
+    {
+      "person": "Abd al-Rahman III",
+      "proposed_text": "Abd al-Rahman III fostered architectural and cultural patronage, constructing the expansive Medina Azahara palace complex during his reign.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by legacy source passage on architectural patronage and Medina Azahara."
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "proposed_text": "Yusuf ibn Tashfin expanded Almoravid rule across Morocco, established Marrakech as its capital, and decisively checked the Reconquista at the Battle of Sagrajas.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by repair source records covering Maghreb expansion, Marrakech, and az-Zallaqah."
+    },
+    {
+      "person": "Constantine the Great",
+      "proposed_text": "Constantine reunited the Roman Empire under a single emperor and achieved major military victories against external Germanic and Sarmatian tribes.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "NONE",
+      "key_fact_overlap": "NONE",
+      "reason": "Directly supported by assessment and legacy source passage on empire reunification and military campaigns."
+    },
+    {
+      "person": "Abraham Lincoln",
+      "proposed_text": "Lincoln led the United States through the American Civil War, preserving the Union and playing a central role in the abolition of slavery.",
+      "decision": "FINAL_APPROVED",
+      "source_support": "FULL",
+      "bio_overlap": "NONE",
+      "achievement_overlap": "LOW",
+      "key_fact_overlap": "LOW",
+      "reason": "Directly supported by lead source passage."
+    }
+  ]
+}

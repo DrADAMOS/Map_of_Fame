@@ -1,0 +1,28 @@
+{
+  "TARGET_COUNT": 13,
+  "PRESENT_COUNT": 13,
+  "EXACT_MATCH_COUNT": 13,
+  "MISSING_COUNT": 0,
+  "WRONG_VALUE_COUNT": 0,
+  "UNEXPECTED_APPROVED_VALUE_OCCURRENCES": 0,
+  "NON_ENGLISH_CONTAMINATION": 0,
+  "SEMANTIC_DUPLICATES": 0,
+  "JSON_VALID": "YES",
+  "FILES_MODIFIED": 0,
+  "STATUS": "PASS",
+  "person_current_values": {
+    "Alexis Carrel": "Pioneered concepts in tissue culture, transplantology, and thoracic surgery that laid foundational principles for modern organ transplantation.",
+    "Anwar Sadat": "Reoriented Egyptian policy by leading the 1978 Camp David Accords and Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel.",
+    "Clara Barton": "Founded the American Red Cross and directed its humanitarian relief operations during wars and natural disasters for twenty-three years.",
+    "Dmitri Mendeleev": "Formulated the Periodic Law and created a predictive periodic table of elements used to correct known properties and anticipate undiscovered elements.",
+    "Hadrian": "Built Hadrian's Wall to mark the northern limit of Britannia and sponsored major Roman architectural works including the rebuilt Pantheon.",
+    "James Prescott Joule": "Discovered the relationship between heat and mechanical work, establishing energy principles that led to the First Law of Thermodynamics.",
+    "Jane Austen": "Critiqued 18th-century novels of sensibility through her fiction and formed part of the transition toward 19th-century literary realism.",
+    "Joseph Haydn": "Instrumental in developing classical chamber music, earning the epithets 'Father of the Symphony' and 'Father of the String Quartet'.",
+    "Louis IX": "Consolidated French royal authority, reformed medieval judicial institutions, and was canonized as a Catholic saint in 1297.",
+    "Muhammad Abduh": "Served as Grand Mufti of Egypt and a central figure of Islamic Modernism, reforming religious thought through rationalist interpretation.",
+    "Nicolaus Copernicus": "Published De revolutionibus orbium coelestium in 1543, triggering the Copernican Revolution and contributing fundamentally to the Scientific Revolution.",
+    "Oscar Wilde": "Remembered as a leading figure of the 19th-century Aestheticism movement and a master of late Victorian theatrical comedy.",
+    "Qutuz": "Halted the westward expansion of the Mongol Empire at the Battle of Ain Jalut in 1260, preserving Islamic civilization in Egypt and the Levant."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "TARGET_COUNT": 9,
+  "EXPECTED_FIELD": "historical_significance",
+  "EXPECTED_LANGUAGE": "en",
+  "entries": [
+    {
+      "person": "Auguste Comte",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Formulated the philosophical doctrine of positivism and established sociology as a systematic science, seeking to create a scientific framework for social order following the French Revolution.",
+      "source_title": "Auguste Comte",
+      "source_url": "https://en.wikipedia.org/wiki/Auguste%20Comte",
+      "source_passage": "Comte was also influenced by counter-revolutionary critics of the French Revolution, including Joseph de Maistre. with whom he shared the concerns that \"moral anarchy\" was both a \"scourge\" of the nineteenth century and came from the lack of a unifying doctrine, although Comte rejected Maistre's Catholicism and royalism. Scholars have noted that Comte secularised some themes associated with Maistre, particularly the idea that social cohesion depends on shared beliefs and institutions rather than individual reason alone.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Caravaggio",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Revolutionized Western European painting through intense realism and a dramatic, high-contrast use of chiaroscuro and tenebrism, profoundly shaping the emergence of Baroque art.",
+      "source_title": "Caravaggio",
+      "source_url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "source_passage": "Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio; 29 September 1571 – 18 July 1610), known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life. He began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples, Malta, and Sicily. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Emperor Meiji",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Served as the imperial symbol of the Meiji Restoration, presiding over Japan's rapid historic transformation from an isolated feudal shogunate into a modern, industrialized world power.",
+      "source_title": "Emperor Meiji",
+      "source_url": "https://en.wikipedia.org/wiki/Emperor%20Meiji",
+      "source_passage": "Emperor Meiji (personal name (imina) Mutsuhito); 3 November 1852 – 29 July 1912) was Emperor of Japan from 30 January 1867 until his death in 1912. The Meiji Restoration proclaimed the Empire of Japan in 1868, beginning the Meiji era. During his reign, Japan transformed from a feudal state under the Tokugawa shogunate into a major imperial power.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Gustav Mahler",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Acted as a crucial transitional bridge between 19th-century Austro-German Romanticism and 20th-century modernism, exerting a profound influence on succeeding generations of classical composers.",
+      "source_title": "Gustav Mahler",
+      "source_url": "https://en.wikipedia.org/wiki/Gustav%20Mahler",
+      "source_passage": "Donald Mitchell writes that Mahler's influence on succeeding generations of composers is \"a complete subject in itself\". Mahler's first disciples included Arnold Schoenberg and his pupils Alban Berg and Anton Webern, who together founded the Second Viennese School. Mahler's music influenced the trio's move from progressive tonalism to atonality (music without a key); although Mahler rejected atonality, he became a fierce defender of the bold originality of Schoenberg's work. At the premiere of the latter's First String Quartet in February 1907, Mahler reportedly was held back from physically attacking the hecklers. Schoenberg's Serenade, Op. 24 (1923), Berg's Three Pieces for Orchestra (1915) and Webern's Six Pieces (1928) all carry echoes of Mahler's Seventh Symphony. Mahler has also influenced the film scores of John Williams and other Hollywood composers.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Malek Bennabi",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Developed an influential civilizational philosophy analyzing the decline and renewal of Muslim societies, introducing the key concept of 'colonisability' in post-colonial studies.",
+      "source_title": "Malek Bennabi",
+      "source_url": "https://en.wikipedia.org/wiki/Malek%20Bennabi",
+      "source_passage": "Following his return to Algeria, Bennabi helped establish El Qiyam al-Islamiyya (\"Islamic Values\"), an association dedicated to promoting Islamic values in post-independence Algerian society. The movement advocated a greater role for Islam in public life and brought together religious scholars and reformist intellectuals. Although historians differ on the extent of its influence, El Qiyam is generally regarded as an important precursor of later Algerian Islamist movements. The association was banned by the Algerian authorities in 1966 and formally dissolved in 1970 .",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Marcel Proust",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Transformed 20th-century literature through his monumental seven-volume masterwork In Search of Lost Time, pioneering modern psychological exploration of involuntary memory and time.",
+      "source_title": "Marcel Proust",
+      "source_url": "https://en.wikipedia.org/wiki/Marcel%20Proust",
+      "source_passage": "In 1908, Proust began work on À la recherche du temps perdu when he was 38. The novel was partially published in his lifetime, with the initial sections appearing in 1913. The first volume was translated into English by C. K. Scott Moncrieff in 1922 shortly before Proust's death. The remaining volumes were revised and published posthumously by his brother Robert based on Proust's drafts and proofs. La Recherche helped pioneer the stream of consciousness literary technique. The novel's length, complexity and meditation on themes such as desire, artistic creativity, sexuality, and class rendered it a significant work in the development of literary modernism.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Michael Faraday",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Discovered electromagnetic induction, laws of electrolysis, and diamagnetism, laying the physical foundations for electromagnetic field theory and modern electrical power technology.",
+      "source_title": "Michael Faraday",
+      "source_url": "https://en.wikipedia.org/wiki/Michael%20Faraday",
+      "source_passage": "Michael Faraday (22 September 1791 – 25 August 1867) was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism. His main discoveries include the principles underlying electromagnetic induction, diamagnetism, and electrolysis. Although Faraday received little formal education, as a self-made man, he was one of the most influential scientists in history. It was by his research on the magnetic field around a conductor carrying a direct current that Faraday established the concept of the electromagnetic field in physics. Faraday also established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena. He similarly discovered the principles of electromagnetic induction, diamagnetism, and the laws of electrolysis. His inventions of electromagnetic rotary devices formed the foundation of electric motor technology, and it was largely due to his efforts that electricity became practical for use in technology. The SI unit of capacitance, the farad, is named after him.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "Steve Jobs",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Pioneered the personal computer revolution and transformed multiple global industries, including digital typography, animated cinema, digital music distribution, and smartphones.",
+      "source_title": "Steve Jobs",
+      "source_url": "https://en.wikipedia.org/wiki/Steve%20Jobs",
+      "source_passage": "Steven Paul Jobs  (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    },
+    {
+      "person": "T. E. Lawrence",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Achieved enduring international renown as 'Lawrence of Arabia' for his strategic military leadership, liaison role in the Arab Revolt, and pioneering development of irregular guerrilla warfare.",
+      "source_title": "T. E. Lawrence",
+      "source_url": "https://en.wikipedia.org/wiki/T.%20E.%20Lawrence",
+      "source_passage": "He graduated with First Class Honours after submitting a thesis titled The Influence of the Crusades on European Military Architecture—to the End of the 12th Century, partly based on his field research with Beeson in France, and his solo research in France and the Middle East. Lawrence was fascinated by the Middle Ages. His brother Arnold wrote in 1937 that \"medieval researches\" were a \"dream way of escape from bourgeois England\".",
+      "fields_changed": [
+        "historical_significance"
+      ],
+      "languages_changed": [
+        "en"
+      ]
+    }
+  ]
+}

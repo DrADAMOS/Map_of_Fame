@@ -1,0 +1,30 @@
+{
+  "audit_type": "JS_MIRROR_SYNCHRONIZATION_REPORT",
+  "read_only": false,
+  "files_modified": 0,
+  "source_json": "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json",
+  "target_js": "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js",
+  "hashes": {
+    "before": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "8fb67481cd1886075906f336daf4a674efd0b55715989550a119df732f9abf97",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "489082ea2af44fb3420f713586eef5d02dbb11ffd321412930c13b2ebe0f500b",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "a04675b0663e2564d5b798cba792bee2c54a1de0fae9d8e7b2854987b38e36aa"
+    },
+    "after": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "8fb67481cd1886075906f336daf4a674efd0b55715989550a119df732f9abf97",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "489082ea2af44fb3420f713586eef5d02dbb11ffd321412930c13b2ebe0f500b",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "a04675b0663e2564d5b798cba792bee2c54a1de0fae9d8e7b2854987b38e36aa"
+    }
+  },
+  "before_mismatches_count": 0,
+  "after_mismatches_count": 0,
+  "json_people_count": 301,
+  "js_people_count": 301,
+  "deep_compare_status": "PASS",
+  "run_1_run_2_identical": "PASS",
+  "json_modified": false,
+  "quiz_data_modified": false,
+  "js_modified": false,
+  "final_status": "FAIL",
+  "after_mismatches": []
+}

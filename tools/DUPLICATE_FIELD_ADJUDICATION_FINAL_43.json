@@ -1,0 +1,642 @@
+{
+  "audit_type": "DUPLICATE_FIELD_ADJUDICATION_FINAL_43",
+  "decision_source": "HUMAN_SEMANTIC_REVIEW",
+  "automated_semantic_classification": false,
+  "total_clusters": 43,
+  "summary": {
+    "confirmed_duplicates": 43,
+    "confirmed_legitimate_overlaps": 0,
+    "ambiguous": 0,
+    "affected_raw_records": 134
+  },
+  "classification_rule": {
+    "CONFIRMED_DUPLICATE": "The same information is duplicated between fields with distinct semantic roles, so the second field provides no distinct contribution."
+  },
+  "clusters": [
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_010",
+      "person": "Arthur Wellesley",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fa",
+        "id",
+        "pt",
+        "tr",
+        "zh"
+      ],
+      "occurrence_count": 9,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_018",
+      "person": "Thomas Edison",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "id",
+        "pt",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 8,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_020",
+      "person": "Omar al-Mukhtar",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 8,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_025",
+      "person": "Saddam Hussein",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fa",
+        "fr",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 8,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_030",
+      "person": "Mother Teresa",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "id",
+        "ja",
+        "pt",
+        "zh"
+      ],
+      "occurrence_count": 7,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_033",
+      "person": "Nelson Mandela",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 7,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_042",
+      "person": "Anwar Sadat",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 6,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_052",
+      "person": "Tokugawa Ieyasu",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "hi",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 5,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_053",
+      "person": "Shah Abbas I",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 5,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_056",
+      "person": "Yasser Arafat",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "es",
+        "ja",
+        "pt",
+        "zh"
+      ],
+      "occurrence_count": 5,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_061",
+      "person": "Ferdinand II",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "ru",
+        "tr"
+      ],
+      "occurrence_count": 4,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_063",
+      "person": "Seneca",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "fr",
+        "pt",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_066",
+      "person": "Pyrrhus of Epirus",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_067",
+      "person": "Attila the Hun",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_068",
+      "person": "Diogenes",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_070",
+      "person": "Socrates",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_071",
+      "person": "Euripides",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_072",
+      "person": "Justinian I",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_073",
+      "person": "Herodotus",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_074",
+      "person": "Sophocles",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_079",
+      "person": "Ahmad ibn Tulun",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_080",
+      "person": "Abd al-Rahman III",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_083",
+      "person": "Yusuf ibn Tashfin",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_086",
+      "person": "Charles V",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "es",
+        "tr"
+      ],
+      "occurrence_count": 3,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_087",
+      "person": "Hannibal Barca",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 2,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_088",
+      "person": "Constantine the Great",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "fr",
+        "ru"
+      ],
+      "occurrence_count": 2,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_089",
+      "person": "Charlemagne",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "occurrence_count": 2,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_090",
+      "person": "Winston Churchill",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar",
+        "es"
+      ],
+      "occurrence_count": 2,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_093",
+      "person": "Abraham Lincoln",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_096",
+      "person": "Dmitri Mendeleev",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_097",
+      "person": "George Bernard Shaw",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_098",
+      "person": "Nikola Tesla",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_099",
+      "person": "Marie Curie",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_100",
+      "person": "Mahatma Gandhi",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_101",
+      "person": "Albert Einstein",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_102",
+      "person": "Igor Stravinsky",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_103",
+      "person": "James Joyce",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_104",
+      "person": "Virginia Woolf",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_105",
+      "person": "Ernest Hemingway",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_106",
+      "person": "Richard Feynman",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_109",
+      "person": "Yuri Gagarin",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_110",
+      "person": "Muhammad Ali",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    },
+    {
+      "cluster_id": "SEMANTIC_CLUSTER_111",
+      "person": "Steve Jobs",
+      "field_pair": "bio ↔ historical_significance",
+      "languages": [
+        "ar"
+      ],
+      "occurrence_count": 1,
+      "classification": "CONFIRMED_DUPLICATE",
+      "reason": "Human-reviewed exact field duplication; historical_significance contains the same content as bio and therefore provides no distinct historical-significance contribution.",
+      "repair_target": "historical_significance"
+    }
+  ],
+  "read_only": true,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "modified": false
+  },
+  "application_data_modified": false,
+  "final_status": "PASS"
+}

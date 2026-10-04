@@ -1,0 +1,42 @@
+{
+  "CONFIRMED_CORRECTIONS_COUNT": 2,
+  "RUNTIME_MODIFIED": "NO",
+  "corrections": [
+    {
+      "person": "Pyrrhus of Epirus",
+      "event": "Birth",
+      "current_latitude": 38.3,
+      "current_longitude": 21.1,
+      "reference_latitude": 39.157,
+      "reference_longitude": 20.978,
+      "distance_km": 95.88,
+      "proposed_latitude": 39.157,
+      "proposed_longitude": 20.978,
+      "reason": "Current coordinate [38.30, 21.10] is located in the Gulf of Patras (~100 km south), whereas Pyrrhus was born in ancient Ambracia (modern Arta, Greece).",
+      "source_1": "Wikidata (Q457850 - Ambracia)",
+      "source_url_1": "https://www.wikidata.org/wiki/Q457850",
+      "source_2": "Encyclopædia Britannica / GeoNames",
+      "source_url_2": "https://www.britannica.com/place/Arta-Greece",
+      "confidence": "HIGH",
+      "verdict": "DEFINITIVE_MISMATCH"
+    },
+    {
+      "person": "Horatio Kitchener",
+      "event": "Death",
+      "current_latitude": 59.1,
+      "current_longitude": 3.2,
+      "reference_latitude": 59.11,
+      "reference_longitude": -3.38,
+      "distance_km": 375.53,
+      "proposed_latitude": 59.11,
+      "proposed_longitude": -3.38,
+      "reason": "Current coordinate has a longitude sign error (+3.20 E instead of -3.20 W), placing it in the eastern North Sea instead of west of Orkney where HMS Hampshire sank.",
+      "source_1": "Royal Navy / Wikidata (Q153037 - HMS Hampshire)",
+      "source_url_1": "https://www.wikidata.org/wiki/Q153037",
+      "source_2": "Admiralty War Diary / Britannica",
+      "source_url_2": "https://www.britannica.com/biography/Horatio-Herbert-Kitchener-Earl-Kitchener-of-Khartoum",
+      "confidence": "HIGH",
+      "verdict": "DEFINITIVE_MISMATCH"
+    }
+  ]
+}

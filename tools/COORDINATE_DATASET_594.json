@@ -1,0 +1,5994 @@
+{
+  "TOTAL_PEOPLE": 297,
+  "BIRTH_COORDINATES": 297,
+  "DEATH_COORDINATES": 297,
+  "TOTAL_COORDINATES": 594,
+  "mismatches_count": 7,
+  "mismatches": [
+    {
+      "person": "Saddam Hussein",
+      "mismatches": [
+        "Birth city mismatch: quiz='تكريت' vs i18n='Tikrit'",
+        "Death city mismatch: quiz='بغداد' vs i18n='Baghdad'"
+      ]
+    },
+    {
+      "person": "Omar al-Mukhtar",
+      "mismatches": [
+        "Death city mismatch: quiz='Suluq' vs i18n='Benghazi'"
+      ]
+    },
+    {
+      "person": "Genghis Khan",
+      "mismatches": [
+        "Death city mismatch: quiz='Liupanshan' vs i18n='Yinchuan'"
+      ]
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "mismatches": [
+        "Birth city mismatch: quiz='Sanhaja' vs i18n='Sanhaja region'"
+      ]
+    },
+    {
+      "person": "Frederick II",
+      "mismatches": [
+        "Death city mismatch: quiz='Castel Fiorentino' vs i18n='Fiorentino'"
+      ]
+    },
+    {
+      "person": "Clara Barton",
+      "mismatches": [
+        "Birth city mismatch: quiz='North Oxford' vs i18n='Oxford'"
+      ]
+    },
+    {
+      "person": "Ahmad ibn Tulun",
+      "mismatches": [
+        "Death city mismatch: quiz='Qasr Ibn Tulun' vs i18n='Al-Qata'i'"
+      ]
+    }
+  ],
+  "records": [
+    {
+      "Person": "Saddam Hussein",
+      "Field": "Birth",
+      "City": "تكريت",
+      "Country": "العراق",
+      "Lat": 34.61,
+      "Lng": 43.68,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Birth city mismatch: quiz='تكريت' vs i18n='Tikrit'; Death city mismatch: quiz='بغداد' vs i18n='Baghdad'"
+    },
+    {
+      "Person": "Saddam Hussein",
+      "Field": "Death",
+      "City": "بغداد",
+      "Country": "العراق",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Birth city mismatch: quiz='تكريت' vs i18n='Tikrit'; Death city mismatch: quiz='بغداد' vs i18n='Baghdad'"
+    },
+    {
+      "Person": "Anwar Sadat",
+      "Field": "Birth",
+      "City": "Mit Abu al-Kum",
+      "Country": "Egypt",
+      "Lat": 30.57,
+      "Lng": 31.17,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Anwar Sadat",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gamal Abdel Nasser",
+      "Field": "Birth",
+      "City": "Alexandria",
+      "Country": "Egypt",
+      "Lat": 31.2,
+      "Lng": 29.92,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gamal Abdel Nasser",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Yasser Arafat",
+      "Field": "Birth",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Yasser Arafat",
+      "Field": "Death",
+      "City": "Clamart",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "King Faisal I",
+      "Field": "Birth",
+      "City": "Mecca",
+      "Country": "Ottoman Empire",
+      "Lat": 21.28,
+      "Lng": 40.42,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "King Faisal I",
+      "Field": "Death",
+      "City": "Bern",
+      "Country": "Switzerland",
+      "Lat": 46.94,
+      "Lng": 7.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Qaboos bin Said",
+      "Field": "Birth",
+      "City": "Salalah",
+      "Country": "Oman",
+      "Lat": 17.01,
+      "Lng": 54.08,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Qaboos bin Said",
+      "Field": "Death",
+      "City": "Muscat",
+      "Country": "Oman",
+      "Lat": 23.59,
+      "Lng": 58.41,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Taha Hussein",
+      "Field": "Birth",
+      "City": "Maghagha",
+      "Country": "Egypt",
+      "Lat": 28.1,
+      "Lng": 30.75,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Taha Hussein",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Umm Kulthum",
+      "Field": "Birth",
+      "City": "Tamay ez-Zahayra",
+      "Country": "Egypt",
+      "Lat": 30.8,
+      "Lng": 31.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Umm Kulthum",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Omar al-Mukhtar",
+      "Field": "Birth",
+      "City": "Zawiyat Janzur",
+      "Country": "Ottoman Libya",
+      "Lat": 31.97067,
+      "Lng": 24.74814,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Suluq' vs i18n='Benghazi'"
+    },
+    {
+      "Person": "Omar al-Mukhtar",
+      "Field": "Death",
+      "City": "Suluq",
+      "Country": "Libya",
+      "Lat": 31.66861,
+      "Lng": 20.25028,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Suluq' vs i18n='Benghazi'"
+    },
+    {
+      "Person": "Ahmed Zewail",
+      "Field": "Birth",
+      "City": "Damanhur",
+      "Country": "Egypt",
+      "Lat": 31.04,
+      "Lng": 30.47,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ahmed Zewail",
+      "Field": "Death",
+      "City": "Pasadena",
+      "Country": "USA",
+      "Lat": 34.05,
+      "Lng": -118.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mutanabbi",
+      "Field": "Birth",
+      "City": "Kufa",
+      "Country": "Abbasid Caliphate",
+      "Lat": 32.02,
+      "Lng": 44.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mutanabbi",
+      "Field": "Death",
+      "City": "Dayr al-Aqul",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.36,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Avicenna",
+      "Field": "Birth",
+      "City": "Afshana",
+      "Country": "Samanid realm",
+      "Lat": 39.77,
+      "Lng": 64.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Avicenna",
+      "Field": "Death",
+      "City": "Hamadan",
+      "Country": "Buyid Persia",
+      "Lat": 34.8,
+      "Lng": 48.51,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Khwarizmi",
+      "Field": "Birth",
+      "City": "Khiva",
+      "Country": "Khwarezm",
+      "Lat": 41.55,
+      "Lng": 60.6,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Khwarizmi",
+      "Field": "Death",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Saladin",
+      "Field": "Birth",
+      "City": "Tikrit",
+      "Country": "Iraq",
+      "Lat": 34.61,
+      "Lng": 43.68,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Saladin",
+      "Field": "Death",
+      "City": "Damascus",
+      "Country": "Syria",
+      "Lat": 33.51,
+      "Lng": 36.28,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Khalid ibn al-Walid",
+      "Field": "Birth",
+      "City": "Mecca",
+      "Country": "Arabia",
+      "Lat": 21.43,
+      "Lng": 39.83,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Khalid ibn al-Walid",
+      "Field": "Death",
+      "City": "Homs",
+      "Country": "Syria",
+      "Lat": 34.73,
+      "Lng": 36.71,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Harun al-Rashid",
+      "Field": "Birth",
+      "City": "Ray",
+      "Country": "Abbasid Caliphate",
+      "Lat": 35.6,
+      "Lng": 51.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Harun al-Rashid",
+      "Field": "Death",
+      "City": "Tus",
+      "Country": "Abbasid Caliphate",
+      "Lat": 36.45,
+      "Lng": 59.57,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Khaldun",
+      "Field": "Birth",
+      "City": "Tunis",
+      "Country": "Hafsid Tunisia",
+      "Lat": 36.81,
+      "Lng": 10.17,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Khaldun",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Mamluk Egypt",
+      "Lat": 30.04,
+      "Lng": 31.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Shafi'i",
+      "Field": "Birth",
+      "City": "Gaza",
+      "Country": "Palestine",
+      "Lat": 31.5,
+      "Lng": 34.46,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Shafi'i",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.01,
+      "Lng": 31.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Qutuz",
+      "Field": "Birth",
+      "City": "Khwarazm",
+      "Country": "Khwarazm",
+      "Lat": 42.34,
+      "Lng": 69.58,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Qutuz",
+      "Field": "Death",
+      "City": "Ain Jalut",
+      "Country": "Mamluk Sultanate",
+      "Lat": 32.5506,
+      "Lng": 35.3569,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Suleiman",
+      "Field": "Birth",
+      "City": "Trabzon",
+      "Country": "Ottoman Empire",
+      "Lat": 41.0,
+      "Lng": 39.71,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Suleiman",
+      "Field": "Death",
+      "City": "Szigetvár",
+      "Country": "Hungary",
+      "Lat": 46.07,
+      "Lng": 18.3,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn al-Haytham",
+      "Field": "Birth",
+      "City": "Basra",
+      "Country": "Iraq",
+      "Lat": 30.5,
+      "Lng": 47.78,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn al-Haytham",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jabir ibn Hayyan",
+      "Field": "Birth",
+      "City": "Tus",
+      "Country": "Persia",
+      "Lat": 36.71,
+      "Lng": 59.97,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jabir ibn Hayyan",
+      "Field": "Death",
+      "City": "Kufa",
+      "Country": "Abbasid Caliphate",
+      "Lat": 32.02,
+      "Lng": 44.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mu'tasim",
+      "Field": "Birth",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.36,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mu'tasim",
+      "Field": "Death",
+      "City": "Samarra",
+      "Country": "Abbasid Caliphate",
+      "Lat": 34.19,
+      "Lng": 43.87,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Albert Einstein",
+      "Field": "Birth",
+      "City": "Ulm",
+      "Country": "German Empire",
+      "Lat": 48.4,
+      "Lng": 10.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Albert Einstein",
+      "Field": "Death",
+      "City": "Princeton",
+      "Country": "USA",
+      "Lat": 40.35,
+      "Lng": -74.66,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Steve Jobs",
+      "Field": "Birth",
+      "City": "San Francisco",
+      "Country": "USA",
+      "Lat": 37.77,
+      "Lng": -122.41,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Steve Jobs",
+      "Field": "Death",
+      "City": "Palo Alto",
+      "Country": "USA",
+      "Lat": 37.44,
+      "Lng": -122.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nelson Mandela",
+      "Field": "Birth",
+      "City": "Mvezo",
+      "Country": "South Africa",
+      "Lat": -31.56,
+      "Lng": 28.51,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nelson Mandela",
+      "Field": "Death",
+      "City": "Johannesburg",
+      "Country": "South Africa",
+      "Lat": -26.2,
+      "Lng": 28.04,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Muhammad Ali",
+      "Field": "Birth",
+      "City": "Louisville",
+      "Country": "USA",
+      "Lat": 38.25,
+      "Lng": -85.75,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Muhammad Ali",
+      "Field": "Death",
+      "City": "Scottsdale",
+      "Country": "USA",
+      "Lat": 33.44,
+      "Lng": -112.07,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Isaac Newton",
+      "Field": "Birth",
+      "City": "Woolsthorpe",
+      "Country": "England",
+      "Lat": 52.99,
+      "Lng": -0.64,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Isaac Newton",
+      "Field": "Death",
+      "City": "Kensington",
+      "Country": "England",
+      "Lat": 51.51,
+      "Lng": -0.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marie Curie",
+      "Field": "Birth",
+      "City": "Warsaw",
+      "Country": "Russian Empire",
+      "Lat": 52.23,
+      "Lng": 21.01,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marie Curie",
+      "Field": "Death",
+      "City": "Passy",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.28,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Galileo Galilei",
+      "Field": "Birth",
+      "City": "Pisa",
+      "Country": "Italy",
+      "Lat": 43.71,
+      "Lng": 10.39,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Galileo Galilei",
+      "Field": "Death",
+      "City": "Arcetri",
+      "Country": "Italy",
+      "Lat": 43.75,
+      "Lng": 11.2,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Leonardo da Vinci",
+      "Field": "Birth",
+      "City": "Vinci",
+      "Country": "Italy",
+      "Lat": 43.79,
+      "Lng": 10.94,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Leonardo da Vinci",
+      "Field": "Death",
+      "City": "Amboise",
+      "Country": "France",
+      "Lat": 47.41,
+      "Lng": 0.98,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nikola Tesla",
+      "Field": "Birth",
+      "City": "Smiljan",
+      "Country": "Austrian Empire",
+      "Lat": 44.56,
+      "Lng": 15.3,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nikola Tesla",
+      "Field": "Death",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.75,
+      "Lng": -73.97,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thomas Edison",
+      "Field": "Birth",
+      "City": "Milan",
+      "Country": "USA",
+      "Lat": 41.28,
+      "Lng": -82.6,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thomas Edison",
+      "Field": "Death",
+      "City": "West Orange",
+      "Country": "USA",
+      "Lat": 40.79,
+      "Lng": -74.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charles Darwin",
+      "Field": "Birth",
+      "City": "Shrewsbury",
+      "Country": "England",
+      "Lat": 52.7,
+      "Lng": -2.75,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charles Darwin",
+      "Field": "Death",
+      "City": "Downe",
+      "Country": "England",
+      "Lat": 51.33,
+      "Lng": 0.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Napoleon",
+      "Field": "Birth",
+      "City": "Ajaccio",
+      "Country": "Corsica",
+      "Lat": 41.92,
+      "Lng": 8.73,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Napoleon",
+      "Field": "Death",
+      "City": "Longwood",
+      "Country": "Saint Helena",
+      "Lat": -15.92,
+      "Lng": -5.71,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Washington",
+      "Field": "Birth",
+      "City": "Westmoreland County",
+      "Country": "USA",
+      "Lat": 38.25,
+      "Lng": -76.96,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Washington",
+      "Field": "Death",
+      "City": "Mount Vernon",
+      "Country": "USA",
+      "Lat": 38.7,
+      "Lng": -77.08,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abraham Lincoln",
+      "Field": "Birth",
+      "City": "Hodgenville",
+      "Country": "USA",
+      "Lat": 37.55,
+      "Lng": -85.73,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abraham Lincoln",
+      "Field": "Death",
+      "City": "Washington, D.C.",
+      "Country": "USA",
+      "Lat": 38.89,
+      "Lng": -77.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Winston Churchill",
+      "Field": "Birth",
+      "City": "Woodstock",
+      "Country": "United Kingdom",
+      "Lat": 51.84,
+      "Lng": -1.36,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Winston Churchill",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.5,
+      "Lng": -0.17,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mahatma Gandhi",
+      "Field": "Birth",
+      "City": "Porbandar",
+      "Country": "India",
+      "Lat": 21.64,
+      "Lng": 69.6,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mahatma Gandhi",
+      "Field": "Death",
+      "City": "New Delhi",
+      "Country": "India",
+      "Lat": 28.6,
+      "Lng": 77.21,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Louis Pasteur",
+      "Field": "Birth",
+      "City": "Dole",
+      "Country": "France",
+      "Lat": 47.1,
+      "Lng": 5.49,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Louis Pasteur",
+      "Field": "Death",
+      "City": "Marnes-la-Coquette",
+      "Country": "France",
+      "Lat": 48.83,
+      "Lng": 2.18,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Simón Bolívar",
+      "Field": "Birth",
+      "City": "Caracas",
+      "Country": "Venezuela",
+      "Lat": 10.5,
+      "Lng": -66.91,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Simón Bolívar",
+      "Field": "Death",
+      "City": "Santa Marta",
+      "Country": "Colombia",
+      "Lat": 11.23,
+      "Lng": -74.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Martin Luther King",
+      "Field": "Birth",
+      "City": "Atlanta",
+      "Country": "USA",
+      "Lat": 33.75,
+      "Lng": -84.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Martin Luther King",
+      "Field": "Death",
+      "City": "Memphis",
+      "Country": "USA",
+      "Lat": 35.14,
+      "Lng": -90.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John F. Kennedy",
+      "Field": "Birth",
+      "City": "Brookline",
+      "Country": "USA",
+      "Lat": 42.29,
+      "Lng": -71.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John F. Kennedy",
+      "Field": "Death",
+      "City": "Dallas",
+      "Country": "USA",
+      "Lat": 32.77,
+      "Lng": -96.8,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander the Great",
+      "Field": "Birth",
+      "City": "Pella",
+      "Country": "Macedon",
+      "Lat": 40.53,
+      "Lng": 22.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander the Great",
+      "Field": "Death",
+      "City": "Babylon",
+      "Country": "Babylonia",
+      "Lat": 32.54197,
+      "Lng": 44.42083,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ramesses II",
+      "Field": "Birth",
+      "City": "Pi-Ramesses",
+      "Country": "Ancient Egypt",
+      "Lat": 31.05,
+      "Lng": 31.38,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ramesses II",
+      "Field": "Death",
+      "City": "Thebes",
+      "Country": "Ancient Egypt",
+      "Lat": 25.69,
+      "Lng": 32.64,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Buddha",
+      "Field": "Birth",
+      "City": "Lumbini",
+      "Country": "Nepal",
+      "Lat": 27.5,
+      "Lng": 83.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Buddha",
+      "Field": "Death",
+      "City": "Kushinagar",
+      "Country": "India",
+      "Lat": 26.73,
+      "Lng": 83.91,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Aristotle",
+      "Field": "Birth",
+      "City": "Stagira",
+      "Country": "Greece",
+      "Lat": 40.57,
+      "Lng": 23.77,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Aristotle",
+      "Field": "Death",
+      "City": "Chalcis",
+      "Country": "Greece",
+      "Lat": 38.46,
+      "Lng": 23.59,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Genghis Khan",
+      "Field": "Birth",
+      "City": "Delüün Boldog",
+      "Country": "Mongol Empire",
+      "Lat": 48.77,
+      "Lng": 110.82,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Liupanshan' vs i18n='Yinchuan'"
+    },
+    {
+      "Person": "Genghis Khan",
+      "Field": "Death",
+      "City": "Liupanshan",
+      "Country": "Mongol Empire",
+      "Lat": 35.66349,
+      "Lng": 106.28717,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Liupanshan' vs i18n='Yinchuan'"
+    },
+    {
+      "Person": "Michael Jackson",
+      "Field": "Birth",
+      "City": "Gary",
+      "Country": "USA",
+      "Lat": 41.59,
+      "Lng": -87.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Michael Jackson",
+      "Field": "Death",
+      "City": "Los Angeles",
+      "Country": "USA",
+      "Lat": 34.0522,
+      "Lng": -118.2437,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ayrton Senna",
+      "Field": "Birth",
+      "City": "São Paulo",
+      "Country": "Brazil",
+      "Lat": -23.55,
+      "Lng": -46.63,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ayrton Senna",
+      "Field": "Death",
+      "City": "Bologna",
+      "Country": "Italy",
+      "Lat": 44.49,
+      "Lng": 11.34,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Malcolm X",
+      "Field": "Birth",
+      "City": "Omaha",
+      "Country": "USA",
+      "Lat": 41.26,
+      "Lng": -95.94,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Malcolm X",
+      "Field": "Death",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mother Teresa",
+      "Field": "Birth",
+      "City": "Skopje",
+      "Country": "Ottoman Empire",
+      "Lat": 42.0,
+      "Lng": 21.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mother Teresa",
+      "Field": "Death",
+      "City": "Kolkata",
+      "Country": "India",
+      "Lat": 22.5726,
+      "Lng": 88.3639,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Che Guevara",
+      "Field": "Birth",
+      "City": "Rosario",
+      "Country": "Argentina",
+      "Lat": -32.95,
+      "Lng": -60.66,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Che Guevara",
+      "Field": "Death",
+      "City": "La Higuera",
+      "Country": "Bolivia",
+      "Lat": -20.37,
+      "Lng": -64.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Yuri Gagarin",
+      "Field": "Birth",
+      "City": "Klushino",
+      "Country": "Soviet Union",
+      "Lat": 55.59,
+      "Lng": 34.82,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Yuri Gagarin",
+      "Field": "Death",
+      "City": "Kirzhach",
+      "Country": "Soviet Union",
+      "Lat": 56.15,
+      "Lng": 38.86,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rosa Parks",
+      "Field": "Birth",
+      "City": "Tuskegee",
+      "Country": "USA",
+      "Lat": 32.37,
+      "Lng": -85.71,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rosa Parks",
+      "Field": "Death",
+      "City": "Detroit",
+      "Country": "USA",
+      "Lat": 42.33,
+      "Lng": -83.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Cyrus the Great",
+      "Field": "Birth",
+      "City": "Anshan",
+      "Country": "Persia",
+      "Lat": 30.43,
+      "Lng": 51.59,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Cyrus the Great",
+      "Field": "Death",
+      "City": "Pasargadae",
+      "Country": "Persia",
+      "Lat": 30.19,
+      "Lng": 53.17,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Constantine the Great",
+      "Field": "Birth",
+      "City": "Naissus",
+      "Country": "Roman Empire",
+      "Lat": 43.32,
+      "Lng": 21.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Constantine the Great",
+      "Field": "Death",
+      "City": "Nicomedia",
+      "Country": "Roman Empire",
+      "Lat": 40.77,
+      "Lng": 29.93,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Augustus",
+      "Field": "Birth",
+      "City": "Rome",
+      "Country": "Roman Republic",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Augustus",
+      "Field": "Death",
+      "City": "Nola",
+      "Country": "Roman Empire",
+      "Lat": 40.92,
+      "Lng": 14.53,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Hannibal Barca",
+      "Field": "Birth",
+      "City": "Carthage",
+      "Country": "Carthage",
+      "Lat": 36.85,
+      "Lng": 10.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Hannibal Barca",
+      "Field": "Death",
+      "City": "Libyssa",
+      "Country": "Bithynia",
+      "Lat": 40.77,
+      "Lng": 29.76,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Timur",
+      "Field": "Birth",
+      "City": "Kesh",
+      "Country": "Chagatai",
+      "Lat": 39.0526,
+      "Lng": 66.8279,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Timur",
+      "Field": "Death",
+      "City": "Otrar",
+      "Country": "Timurid Empire",
+      "Lat": 42.85,
+      "Lng": 68.3,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mehmed II",
+      "Field": "Birth",
+      "City": "Edirne",
+      "Country": "Ottoman Empire",
+      "Lat": 41.68,
+      "Lng": 26.56,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mehmed II",
+      "Field": "Death",
+      "City": "Hünkârçayırı",
+      "Country": "Ottoman Empire",
+      "Lat": 41.22,
+      "Lng": 27.95,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Selim I",
+      "Field": "Birth",
+      "City": "Amasya",
+      "Country": "Ottoman Empire",
+      "Lat": 40.65,
+      "Lng": 35.83,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Selim I",
+      "Field": "Death",
+      "City": "Çorlu",
+      "Country": "Ottoman Empire",
+      "Lat": 41.16,
+      "Lng": 27.8,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Peter the Great",
+      "Field": "Birth",
+      "City": "Moscow",
+      "Country": "Russia",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Peter the Great",
+      "Field": "Death",
+      "City": "Saint Petersburg",
+      "Country": "Russia",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Catherine the Great",
+      "Field": "Birth",
+      "City": "Stettin",
+      "Country": "Prussia",
+      "Lat": 53.43,
+      "Lng": 14.55,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Catherine the Great",
+      "Field": "Death",
+      "City": "Saint Petersburg",
+      "Country": "Russia",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Elizabeth I",
+      "Field": "Birth",
+      "City": "Greenwich",
+      "Country": "England",
+      "Lat": 51.48,
+      "Lng": 0.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Elizabeth I",
+      "Field": "Death",
+      "City": "Richmond",
+      "Country": "England",
+      "Lat": 51.46,
+      "Lng": -0.3,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Queen Victoria",
+      "Field": "Birth",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Queen Victoria",
+      "Field": "Death",
+      "City": "East Cowes",
+      "Country": "United Kingdom",
+      "Lat": 50.75,
+      "Lng": -1.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charlemagne",
+      "Field": "Birth",
+      "City": "Herstal",
+      "Country": "Frankish Kingdom",
+      "Lat": 50.67,
+      "Lng": 5.64,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charlemagne",
+      "Field": "Death",
+      "City": "Aachen",
+      "Country": "Frankish Kingdom",
+      "Lat": 50.78,
+      "Lng": 6.08,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Louis XIV",
+      "Field": "Birth",
+      "City": "Saint-Germain-en-Laye",
+      "Country": "France",
+      "Lat": 48.9,
+      "Lng": 2.09,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Louis XIV",
+      "Field": "Death",
+      "City": "Versailles",
+      "Country": "France",
+      "Lat": 48.8,
+      "Lng": 2.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Otto von Bismarck",
+      "Field": "Birth",
+      "City": "Schönhausen",
+      "Country": "Prussia",
+      "Lat": 52.58,
+      "Lng": 12.04,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Otto von Bismarck",
+      "Field": "Death",
+      "City": "Friedrichsruh",
+      "Country": "Germany",
+      "Lat": 53.53,
+      "Lng": 10.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Leonidas I",
+      "Field": "Birth",
+      "City": "Sparta",
+      "Country": "Greece",
+      "Lat": 37.08,
+      "Lng": 22.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Leonidas I",
+      "Field": "Death",
+      "City": "Thermopylae",
+      "Country": "Greece",
+      "Lat": 38.8,
+      "Lng": 22.54,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pyrrhus of Epirus",
+      "Field": "Birth",
+      "City": "Ambracia",
+      "Country": "Epirus",
+      "Lat": 38.3,
+      "Lng": 21.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pyrrhus of Epirus",
+      "Field": "Death",
+      "City": "Argos",
+      "Country": "Greece",
+      "Lat": 37.63,
+      "Lng": 22.73,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Scipio Africanus",
+      "Field": "Birth",
+      "City": "Rome",
+      "Country": "Roman Republic",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Scipio Africanus",
+      "Field": "Death",
+      "City": "Liternum",
+      "Country": "Roman Republic",
+      "Lat": 40.89,
+      "Lng": 14.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Trajan",
+      "Field": "Birth",
+      "City": "Italica",
+      "Country": "Roman Empire",
+      "Lat": 37.44,
+      "Lng": -6.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Trajan",
+      "Field": "Death",
+      "City": "Selinus",
+      "Country": "Roman Empire",
+      "Lat": 37.58,
+      "Lng": 12.82,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Hadrian",
+      "Field": "Birth",
+      "City": "Italica",
+      "Country": "Roman Empire",
+      "Lat": 37.44,
+      "Lng": -6.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Hadrian",
+      "Field": "Death",
+      "City": "Baiae",
+      "Country": "Roman Empire",
+      "Lat": 40.81,
+      "Lng": 14.08,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marcus Aurelius",
+      "Field": "Birth",
+      "City": "Rome",
+      "Country": "Roman Empire",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marcus Aurelius",
+      "Field": "Death",
+      "City": "Vindobona",
+      "Country": "Roman Empire",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Justinian I",
+      "Field": "Birth",
+      "City": "Tauresium",
+      "Country": "Byzantine Empire",
+      "Lat": 41.93,
+      "Lng": 21.52,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Justinian I",
+      "Field": "Death",
+      "City": "Constantinople",
+      "Country": "Byzantine Empire",
+      "Lat": 41.01,
+      "Lng": 28.98,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Frederick Barbarossa",
+      "Field": "Birth",
+      "City": "Waiblingen",
+      "Country": "Holy Roman Empire",
+      "Lat": 48.83,
+      "Lng": 9.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Frederick Barbarossa",
+      "Field": "Death",
+      "City": "Saleph River",
+      "Country": "Cilicia",
+      "Lat": 36.95,
+      "Lng": 36.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Isabella I",
+      "Field": "Birth",
+      "City": "Madrigal de las Altas Torres",
+      "Country": "Castile",
+      "Lat": 41.09,
+      "Lng": -4.99,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Isabella I",
+      "Field": "Death",
+      "City": "Medina del Campo",
+      "Country": "Castile",
+      "Lat": 41.31,
+      "Lng": -4.92,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Muhammad Ali Pasha",
+      "Field": "Birth",
+      "City": "Kavala",
+      "Country": "Ottoman Empire",
+      "Lat": 40.94,
+      "Lng": 24.41,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Muhammad Ali Pasha",
+      "Field": "Death",
+      "City": "Alexandria",
+      "Country": "Egypt",
+      "Lat": 31.2,
+      "Lng": 29.92,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abd al-Malik ibn Marwan",
+      "Field": "Birth",
+      "City": "Medina",
+      "Country": "Umayyad Caliphate",
+      "Lat": 24.47,
+      "Lng": 39.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abd al-Malik ibn Marwan",
+      "Field": "Death",
+      "City": "Damascus",
+      "Country": "Umayyad Caliphate",
+      "Lat": 33.51,
+      "Lng": 36.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Umar ibn Abd al-Aziz",
+      "Field": "Birth",
+      "City": "Medina",
+      "Country": "Umayyad Caliphate",
+      "Lat": 24.47,
+      "Lng": 39.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Umar ibn Abd al-Aziz",
+      "Field": "Death",
+      "City": "Dayr Sim'an",
+      "Country": "Umayyad Caliphate",
+      "Lat": 36.05,
+      "Lng": 36.75,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Ma'mun",
+      "Field": "Birth",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Ma'mun",
+      "Field": "Death",
+      "City": "Tarsus",
+      "Country": "Abbasid Caliphate",
+      "Lat": 36.92,
+      "Lng": 34.88,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Yusuf ibn Tashfin",
+      "Field": "Birth",
+      "City": "Sanhaja",
+      "Country": "Almoravid",
+      "Lat": 31.8,
+      "Lng": -7.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Birth city mismatch: quiz='Sanhaja' vs i18n='Sanhaja region'"
+    },
+    {
+      "Person": "Yusuf ibn Tashfin",
+      "Field": "Death",
+      "City": "Marrakesh",
+      "Country": "Almoravid",
+      "Lat": 31.63,
+      "Lng": -8.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Birth city mismatch: quiz='Sanhaja' vs i18n='Sanhaja region'"
+    },
+    {
+      "Person": "Abd al-Rahman III",
+      "Field": "Birth",
+      "City": "Cordoba",
+      "Country": "Umayyad Caliphate",
+      "Lat": 37.89,
+      "Lng": -4.78,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abd al-Rahman III",
+      "Field": "Death",
+      "City": "Medina Azahara",
+      "Country": "Umayyad Caliphate",
+      "Lat": 37.89,
+      "Lng": -4.87,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mu'izz li-Din Allah",
+      "Field": "Birth",
+      "City": "Mahdia",
+      "Country": "Fatimid Caliphate",
+      "Lat": 35.5,
+      "Lng": 11.06,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mu'izz li-Din Allah",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Fatimid Caliphate",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Qalawun",
+      "Field": "Birth",
+      "City": "Kipchak steppe",
+      "Country": "Mongol Empire",
+      "Lat": 47.0,
+      "Lng": 60.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Qalawun",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Mamluk Sultanate",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alp Arslan",
+      "Field": "Birth",
+      "City": "Khorasan",
+      "Country": "Seljuk Empire",
+      "Lat": 36.3,
+      "Lng": 59.6,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alp Arslan",
+      "Field": "Death",
+      "City": "Jafar",
+      "Country": "Seljuk Empire",
+      "Lat": 35.9,
+      "Lng": 50.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Malik-Shah I",
+      "Field": "Birth",
+      "City": "Isfahan",
+      "Country": "Seljuk Empire",
+      "Lat": 32.65,
+      "Lng": 51.67,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Malik-Shah I",
+      "Field": "Death",
+      "City": "Baghdad",
+      "Country": "Seljuk Empire",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Tughril Beg",
+      "Field": "Birth",
+      "City": "Nishapur",
+      "Country": "Seljuk Empire",
+      "Lat": 36.21,
+      "Lng": 58.8,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Tughril Beg",
+      "Field": "Death",
+      "City": "Ray",
+      "Country": "Seljuk Empire",
+      "Lat": 35.6,
+      "Lng": 51.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Farabi",
+      "Field": "Birth",
+      "City": "Farab",
+      "Country": "Samanid realm",
+      "Lat": 42.8525,
+      "Lng": 68.30278,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Farabi",
+      "Field": "Death",
+      "City": "Damascus",
+      "Country": "Syria",
+      "Lat": 33.51,
+      "Lng": 36.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Biruni",
+      "Field": "Birth",
+      "City": "Kath",
+      "Country": "Khwarezm",
+      "Lat": 42.47,
+      "Lng": 59.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Biruni",
+      "Field": "Death",
+      "City": "Ghazni",
+      "Country": "Ghaznavid Empire",
+      "Lat": 33.55,
+      "Lng": 68.42,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn al-Nafis",
+      "Field": "Birth",
+      "City": "Damascus",
+      "Country": "Ayyubid Syria",
+      "Lat": 33.51,
+      "Lng": 36.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn al-Nafis",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Mamluk Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Averroes",
+      "Field": "Birth",
+      "City": "Cordoba",
+      "Country": "Almohad Caliphate",
+      "Lat": 37.89,
+      "Lng": -4.78,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Averroes",
+      "Field": "Death",
+      "City": "Marrakesh",
+      "Country": "Almohad Caliphate",
+      "Lat": 31.63,
+      "Lng": -8.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Kindi",
+      "Field": "Birth",
+      "City": "Kufa",
+      "Country": "Abbasid Caliphate",
+      "Lat": 32.03,
+      "Lng": 44.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Kindi",
+      "Field": "Death",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thabit ibn Qurra",
+      "Field": "Birth",
+      "City": "Harran",
+      "Country": "Abbasid Caliphate",
+      "Lat": 36.86,
+      "Lng": 39.03,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thabit ibn Qurra",
+      "Field": "Death",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Battuta",
+      "Field": "Birth",
+      "City": "Tangier",
+      "Country": "Morocco",
+      "Lat": 35.76,
+      "Lng": -5.83,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Battuta",
+      "Field": "Death",
+      "City": "Marrakesh",
+      "Country": "Morocco",
+      "Lat": 31.63,
+      "Lng": -8.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Masudi",
+      "Field": "Birth",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Masudi",
+      "Field": "Death",
+      "City": "Fustat",
+      "Country": "Fatimid Egypt",
+      "Lat": 30.0,
+      "Lng": 31.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Idrisi",
+      "Field": "Birth",
+      "City": "Ceuta",
+      "Country": "Almoravid",
+      "Lat": 35.89,
+      "Lng": -5.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Idrisi",
+      "Field": "Death",
+      "City": "Palermo",
+      "Country": "Sicily",
+      "Lat": 38.12,
+      "Lng": 13.36,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Tabari",
+      "Field": "Birth",
+      "City": "Amol",
+      "Country": "Persia",
+      "Lat": 36.47,
+      "Lng": 52.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Tabari",
+      "Field": "Death",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Hazm",
+      "Field": "Birth",
+      "City": "Cordoba",
+      "Country": "Umayyad Caliphate",
+      "Lat": 37.89,
+      "Lng": -4.78,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Hazm",
+      "Field": "Death",
+      "City": "Huelva",
+      "Country": "Taifa period",
+      "Lat": 37.26,
+      "Lng": -6.95,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Arabi",
+      "Field": "Birth",
+      "City": "Murcia",
+      "Country": "Almohad Caliphate",
+      "Lat": 37.99,
+      "Lng": -1.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Arabi",
+      "Field": "Death",
+      "City": "Damascus",
+      "Country": "Ayyubid Syria",
+      "Lat": 33.51,
+      "Lng": 36.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Khansa",
+      "Field": "Birth",
+      "City": "Najd",
+      "Country": "Arabia",
+      "Lat": 24.0,
+      "Lng": 45.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Khansa",
+      "Field": "Death",
+      "City": "Medina",
+      "Country": "Rashidun Caliphate",
+      "Lat": 24.47,
+      "Lng": 39.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rifa'a al-Tahtawi",
+      "Field": "Birth",
+      "City": "Tahta",
+      "Country": "Egypt",
+      "Lat": 26.77,
+      "Lng": 31.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rifa'a al-Tahtawi",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abd al-Rahman al-Kawakibi",
+      "Field": "Birth",
+      "City": "Aleppo",
+      "Country": "Ottoman Syria",
+      "Lat": 36.2,
+      "Lng": 37.16,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abd al-Rahman al-Kawakibi",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jamal al-Din al-Afghani",
+      "Field": "Birth",
+      "City": "Asadabad",
+      "Country": "Persia",
+      "Lat": 34.87,
+      "Lng": 48.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jamal al-Din al-Afghani",
+      "Field": "Death",
+      "City": "Istanbul",
+      "Country": "Ottoman Empire",
+      "Lat": 41.0082,
+      "Lng": 28.9784,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Muhammad Abduh",
+      "Field": "Birth",
+      "City": "Mahallat Nasr",
+      "Country": "Egypt",
+      "Lat": 30.95,
+      "Lng": 30.98,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Muhammad Abduh",
+      "Field": "Death",
+      "City": "Alexandria",
+      "Country": "Egypt",
+      "Lat": 31.2,
+      "Lng": 29.92,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abbas al-Aqqad",
+      "Field": "Birth",
+      "City": "Aswan",
+      "Country": "Egypt",
+      "Lat": 24.09,
+      "Lng": 32.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abbas al-Aqqad",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "May Ziadeh",
+      "Field": "Birth",
+      "City": "Nazareth",
+      "Country": "Ottoman Palestine",
+      "Lat": 32.7,
+      "Lng": 35.3,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "May Ziadeh",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nazik al-Malaika",
+      "Field": "Birth",
+      "City": "Baghdad",
+      "Country": "Iraq",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nazik al-Malaika",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Badr Shakir al-Sayyab",
+      "Field": "Birth",
+      "City": "Jaykur",
+      "Country": "Iraq",
+      "Lat": 30.0,
+      "Lng": 47.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Badr Shakir al-Sayyab",
+      "Field": "Death",
+      "City": "Kuwait City",
+      "Country": "Kuwait",
+      "Lat": 29.38,
+      "Lng": 47.99,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Socrates",
+      "Field": "Birth",
+      "City": "Alopece",
+      "Country": "Greece",
+      "Lat": 37.97,
+      "Lng": 23.74,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Socrates",
+      "Field": "Death",
+      "City": "Athens",
+      "Country": "Greece",
+      "Lat": 37.9838,
+      "Lng": 23.7275,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pythagoras",
+      "Field": "Birth",
+      "City": "Samos",
+      "Country": "Greece",
+      "Lat": 37.75,
+      "Lng": 27.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pythagoras",
+      "Field": "Death",
+      "City": "Metapontum",
+      "Country": "Italy",
+      "Lat": 40.37,
+      "Lng": 16.82,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Diogenes",
+      "Field": "Birth",
+      "City": "Sinope",
+      "Country": "Greece",
+      "Lat": 42.02,
+      "Lng": 35.16,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Diogenes",
+      "Field": "Death",
+      "City": "Corinth",
+      "Country": "Greece",
+      "Lat": 37.94,
+      "Lng": 22.93,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Herodotus",
+      "Field": "Birth",
+      "City": "Halicarnassus",
+      "Country": "Greece",
+      "Lat": 37.04,
+      "Lng": 27.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Herodotus",
+      "Field": "Death",
+      "City": "Thurii",
+      "Country": "Greece",
+      "Lat": 39.7,
+      "Lng": 16.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thucydides",
+      "Field": "Birth",
+      "City": "Halimos",
+      "Country": "Greece",
+      "Lat": 37.92,
+      "Lng": 23.71,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thucydides",
+      "Field": "Death",
+      "City": "Athens",
+      "Country": "Greece",
+      "Lat": 37.9838,
+      "Lng": 23.7275,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sophocles",
+      "Field": "Birth",
+      "City": "Colonus",
+      "Country": "Greece",
+      "Lat": 38.02,
+      "Lng": 23.71,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sophocles",
+      "Field": "Death",
+      "City": "Athens",
+      "Country": "Greece",
+      "Lat": 37.9838,
+      "Lng": 23.7275,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Euripides",
+      "Field": "Birth",
+      "City": "Salamis",
+      "Country": "Greece",
+      "Lat": 37.94,
+      "Lng": 23.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Euripides",
+      "Field": "Death",
+      "City": "Pella",
+      "Country": "Macedon",
+      "Lat": 40.76,
+      "Lng": 22.53,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Seneca",
+      "Field": "Birth",
+      "City": "Cordoba",
+      "Country": "Roman Empire",
+      "Lat": 37.89,
+      "Lng": -4.78,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Seneca",
+      "Field": "Death",
+      "City": "Rome",
+      "Country": "Roman Empire",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Cicero",
+      "Field": "Birth",
+      "City": "Arpinum",
+      "Country": "Roman Republic",
+      "Lat": 41.61,
+      "Lng": 13.22,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Cicero",
+      "Field": "Death",
+      "City": "Formiae",
+      "Country": "Roman Republic",
+      "Lat": 41.26,
+      "Lng": 13.63,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Virgil",
+      "Field": "Birth",
+      "City": "Andes",
+      "Country": "Roman Republic",
+      "Lat": 45.1,
+      "Lng": 11.3,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Virgil",
+      "Field": "Death",
+      "City": "Brundisium",
+      "Country": "Roman Republic",
+      "Lat": 40.64,
+      "Lng": 17.95,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ovid",
+      "Field": "Birth",
+      "City": "Sulmo",
+      "Country": "Roman Republic",
+      "Lat": 42.05,
+      "Lng": 13.93,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ovid",
+      "Field": "Death",
+      "City": "Tomis",
+      "Country": "Roman Empire",
+      "Lat": 44.17,
+      "Lng": 28.65,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "René Descartes",
+      "Field": "Birth",
+      "City": "La Haye en Touraine",
+      "Country": "France",
+      "Lat": 47.1,
+      "Lng": 0.65,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "René Descartes",
+      "Field": "Death",
+      "City": "Stockholm",
+      "Country": "Sweden",
+      "Lat": 59.33,
+      "Lng": 18.07,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Friedrich Nietzsche",
+      "Field": "Birth",
+      "City": "Röcken",
+      "Country": "Prussia",
+      "Lat": 51.25,
+      "Lng": 12.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Friedrich Nietzsche",
+      "Field": "Death",
+      "City": "Weimar",
+      "Country": "Germany",
+      "Lat": 50.98,
+      "Lng": 11.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Karl Marx",
+      "Field": "Birth",
+      "City": "Trier",
+      "Country": "Prussia",
+      "Lat": 49.75,
+      "Lng": 6.64,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Karl Marx",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jean-Jacques Rousseau",
+      "Field": "Birth",
+      "City": "Geneva",
+      "Country": "Geneva",
+      "Lat": 46.2,
+      "Lng": 6.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jean-Jacques Rousseau",
+      "Field": "Death",
+      "City": "Ermenonville",
+      "Country": "France",
+      "Lat": 49.13,
+      "Lng": 2.69,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thomas Hobbes",
+      "Field": "Birth",
+      "City": "Westport",
+      "Country": "England",
+      "Lat": 51.586111,
+      "Lng": -2.101861,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thomas Hobbes",
+      "Field": "Death",
+      "City": "Hardwick",
+      "Country": "England",
+      "Lat": 52.33,
+      "Lng": -0.56,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John Locke",
+      "Field": "Birth",
+      "City": "Wrington",
+      "Country": "England",
+      "Lat": 51.36,
+      "Lng": -2.76,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John Locke",
+      "Field": "Death",
+      "City": "High Laver",
+      "Country": "England",
+      "Lat": 51.79,
+      "Lng": 0.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Francis Bacon",
+      "Field": "Birth",
+      "City": "London",
+      "Country": "England",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Francis Bacon",
+      "Field": "Death",
+      "City": "Highgate",
+      "Country": "England",
+      "Lat": 51.57,
+      "Lng": -0.15,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nicolaus Copernicus",
+      "Field": "Birth",
+      "City": "Torun",
+      "Country": "Poland",
+      "Lat": 53.01,
+      "Lng": 18.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nicolaus Copernicus",
+      "Field": "Death",
+      "City": "Frombork",
+      "Country": "Poland",
+      "Lat": 54.36,
+      "Lng": 19.68,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johannes Kepler",
+      "Field": "Birth",
+      "City": "Weil der Stadt",
+      "Country": "Holy Roman Empire",
+      "Lat": 48.75,
+      "Lng": 8.87,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johannes Kepler",
+      "Field": "Death",
+      "City": "Regensburg",
+      "Country": "Holy Roman Empire",
+      "Lat": 49.02,
+      "Lng": 12.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Michael Faraday",
+      "Field": "Birth",
+      "City": "Newington",
+      "Country": "England",
+      "Lat": 51.48,
+      "Lng": -0.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Michael Faraday",
+      "Field": "Death",
+      "City": "Hampton Court",
+      "Country": "England",
+      "Lat": 51.4,
+      "Lng": -0.34,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Watt",
+      "Field": "Birth",
+      "City": "Greenock",
+      "Country": "Scotland",
+      "Lat": 55.95,
+      "Lng": -4.76,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Watt",
+      "Field": "Death",
+      "City": "Heathfield",
+      "Country": "England",
+      "Lat": 50.97,
+      "Lng": 0.26,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Clerk Maxwell",
+      "Field": "Birth",
+      "City": "Edinburgh",
+      "Country": "Scotland",
+      "Lat": 55.95,
+      "Lng": -3.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Clerk Maxwell",
+      "Field": "Death",
+      "City": "Cambridge",
+      "Country": "England",
+      "Lat": 52.21,
+      "Lng": 0.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Graham Bell",
+      "Field": "Birth",
+      "City": "Edinburgh",
+      "Country": "Scotland",
+      "Lat": 55.95,
+      "Lng": -3.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Graham Bell",
+      "Field": "Death",
+      "City": "Baddeck",
+      "Country": "Canada",
+      "Lat": 46.1,
+      "Lng": -60.75,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alan Turing",
+      "Field": "Birth",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alan Turing",
+      "Field": "Death",
+      "City": "Wilmslow",
+      "Country": "United Kingdom",
+      "Lat": 53.32,
+      "Lng": -2.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Stephen Hawking",
+      "Field": "Birth",
+      "City": "Oxford",
+      "Country": "United Kingdom",
+      "Lat": 51.75,
+      "Lng": -1.26,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Stephen Hawking",
+      "Field": "Death",
+      "City": "Cambridge",
+      "Country": "United Kingdom",
+      "Lat": 52.21,
+      "Lng": 0.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gregor Mendel",
+      "Field": "Birth",
+      "City": "Hynčice",
+      "Country": "Austrian Empire",
+      "Lat": 50.3,
+      "Lng": 17.56,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gregor Mendel",
+      "Field": "Death",
+      "City": "Brno",
+      "Country": "Austria-Hungary",
+      "Lat": 49.2,
+      "Lng": 16.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sigmund Freud",
+      "Field": "Birth",
+      "City": "Freiberg",
+      "Country": "Austrian Empire",
+      "Lat": 50.91,
+      "Lng": 13.34,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sigmund Freud",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Robert Koch",
+      "Field": "Birth",
+      "City": "Clausthal",
+      "Country": "Kingdom of Hanover",
+      "Lat": 51.81,
+      "Lng": 10.34,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Robert Koch",
+      "Field": "Death",
+      "City": "Baden-Baden",
+      "Country": "Germany",
+      "Lat": 48.76,
+      "Lng": 8.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Fleming",
+      "Field": "Birth",
+      "City": "Lochfield",
+      "Country": "Scotland",
+      "Lat": 55.88,
+      "Lng": -4.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Fleming",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dmitri Mendeleev",
+      "Field": "Birth",
+      "City": "Tobolsk",
+      "Country": "Russia",
+      "Lat": 58.2,
+      "Lng": 68.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dmitri Mendeleev",
+      "Field": "Death",
+      "City": "Saint Petersburg",
+      "Country": "Russia",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ernest Rutherford",
+      "Field": "Birth",
+      "City": "Brightwater",
+      "Country": "New Zealand",
+      "Lat": -41.38,
+      "Lng": 173.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ernest Rutherford",
+      "Field": "Death",
+      "City": "Cambridge",
+      "Country": "United Kingdom",
+      "Lat": 52.21,
+      "Lng": 0.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Enrico Fermi",
+      "Field": "Birth",
+      "City": "Rome",
+      "Country": "Italy",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Enrico Fermi",
+      "Field": "Death",
+      "City": "Chicago",
+      "Country": "USA",
+      "Lat": 41.8781,
+      "Lng": -87.6298,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Richard Feynman",
+      "Field": "Birth",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Richard Feynman",
+      "Field": "Death",
+      "City": "Los Angeles",
+      "Country": "USA",
+      "Lat": 34.0522,
+      "Lng": -118.2437,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Edwin Hubble",
+      "Field": "Birth",
+      "City": "Marshfield",
+      "Country": "USA",
+      "Lat": 37.3386,
+      "Lng": -92.9077,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Edwin Hubble",
+      "Field": "Death",
+      "City": "San Marino",
+      "Country": "USA",
+      "Lat": 34.1214,
+      "Lng": -118.10646,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Carl Sagan",
+      "Field": "Birth",
+      "City": "Brooklyn",
+      "Country": "USA",
+      "Lat": 40.65,
+      "Lng": -73.95,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Carl Sagan",
+      "Field": "Death",
+      "City": "Seattle",
+      "Country": "USA",
+      "Lat": 47.61,
+      "Lng": -122.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John von Neumann",
+      "Field": "Birth",
+      "City": "Budapest",
+      "Country": "Hungary",
+      "Lat": 47.4979,
+      "Lng": 19.0402,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John von Neumann",
+      "Field": "Death",
+      "City": "Washington, D.C.",
+      "Country": "USA",
+      "Lat": 38.9072,
+      "Lng": -77.0369,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Michelangelo",
+      "Field": "Birth",
+      "City": "Caprese",
+      "Country": "Florence",
+      "Lat": 43.65,
+      "Lng": 12.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Michelangelo",
+      "Field": "Death",
+      "City": "Rome",
+      "Country": "Papal States",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Raphael",
+      "Field": "Birth",
+      "City": "Urbino",
+      "Country": "Duchy of Urbino",
+      "Lat": 43.73,
+      "Lng": 12.64,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Raphael",
+      "Field": "Death",
+      "City": "Rome",
+      "Country": "Papal States",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rembrandt",
+      "Field": "Birth",
+      "City": "Leiden",
+      "Country": "Dutch Republic",
+      "Lat": 52.16,
+      "Lng": 4.49,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rembrandt",
+      "Field": "Death",
+      "City": "Amsterdam",
+      "Country": "Dutch Republic",
+      "Lat": 52.37,
+      "Lng": 4.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Vincent van Gogh",
+      "Field": "Birth",
+      "City": "Zundert",
+      "Country": "Netherlands",
+      "Lat": 51.47,
+      "Lng": 4.66,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Vincent van Gogh",
+      "Field": "Death",
+      "City": "Auvers-sur-Oise",
+      "Country": "France",
+      "Lat": 49.07,
+      "Lng": 2.17,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Claude Monet",
+      "Field": "Birth",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Claude Monet",
+      "Field": "Death",
+      "City": "Giverny",
+      "Country": "France",
+      "Lat": 49.08,
+      "Lng": 1.53,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pablo Picasso",
+      "Field": "Birth",
+      "City": "Malaga",
+      "Country": "Spain",
+      "Lat": 36.72,
+      "Lng": -4.42,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pablo Picasso",
+      "Field": "Death",
+      "City": "Mougins",
+      "Country": "France",
+      "Lat": 43.6,
+      "Lng": 7.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Caravaggio",
+      "Field": "Birth",
+      "City": "Milan",
+      "Country": "Italy",
+      "Lat": 45.4642,
+      "Lng": 9.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Caravaggio",
+      "Field": "Death",
+      "City": "Porto Ercole",
+      "Country": "Italy",
+      "Lat": 42.39,
+      "Lng": 11.2,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Diego Velázquez",
+      "Field": "Birth",
+      "City": "Seville",
+      "Country": "Spain",
+      "Lat": 37.39,
+      "Lng": -5.99,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Diego Velázquez",
+      "Field": "Death",
+      "City": "Madrid",
+      "Country": "Spain",
+      "Lat": 40.4168,
+      "Lng": -3.7038,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jan van Eyck",
+      "Field": "Birth",
+      "City": "Maaseik",
+      "Country": "Holy Roman Empire",
+      "Lat": 51.1,
+      "Lng": 5.79,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jan van Eyck",
+      "Field": "Death",
+      "City": "Bruges",
+      "Country": "Burgundian Netherlands",
+      "Lat": 51.21,
+      "Lng": 3.22,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Titian",
+      "Field": "Birth",
+      "City": "Pieve di Cadore",
+      "Country": "Venetian Republic",
+      "Lat": 46.43,
+      "Lng": 12.38,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Titian",
+      "Field": "Death",
+      "City": "Venice",
+      "Country": "Venetian Republic",
+      "Lat": 45.44,
+      "Lng": 12.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "El Greco",
+      "Field": "Birth",
+      "City": "Heraklion",
+      "Country": "Crete",
+      "Lat": 35.34,
+      "Lng": 25.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "El Greco",
+      "Field": "Death",
+      "City": "Toledo",
+      "Country": "Spain",
+      "Lat": 39.86,
+      "Lng": -4.03,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Peter Paul Rubens",
+      "Field": "Birth",
+      "City": "Siegen",
+      "Country": "Holy Roman Empire",
+      "Lat": 50.87,
+      "Lng": 8.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Peter Paul Rubens",
+      "Field": "Death",
+      "City": "Antwerp",
+      "Country": "Spanish Netherlands",
+      "Lat": 51.22,
+      "Lng": 4.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Francisco Goya",
+      "Field": "Birth",
+      "City": "Fuendetodos",
+      "Country": "Spain",
+      "Lat": 41.34,
+      "Lng": -0.84,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Francisco Goya",
+      "Field": "Death",
+      "City": "Bordeaux",
+      "Country": "France",
+      "Lat": 44.84,
+      "Lng": -0.58,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Eugène Delacroix",
+      "Field": "Birth",
+      "City": "Charenton-Saint-Maurice",
+      "Country": "France",
+      "Lat": 48.82,
+      "Lng": 2.41,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Eugène Delacroix",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Paul Gauguin",
+      "Field": "Birth",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Paul Gauguin",
+      "Field": "Death",
+      "City": "Atuona",
+      "Country": "French Polynesia",
+      "Lat": -9.8,
+      "Lng": -139.03,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henri Matisse",
+      "Field": "Birth",
+      "City": "Le Cateau-Cambrésis",
+      "Country": "France",
+      "Lat": 50.1,
+      "Lng": 3.54,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henri Matisse",
+      "Field": "Death",
+      "City": "Nice",
+      "Country": "France",
+      "Lat": 43.71,
+      "Lng": 7.26,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Edvard Munch",
+      "Field": "Birth",
+      "City": "Ådalsbruk",
+      "Country": "Norway",
+      "Lat": 60.77,
+      "Lng": 11.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Edvard Munch",
+      "Field": "Death",
+      "City": "Oslo",
+      "Country": "Norway",
+      "Lat": 59.91,
+      "Lng": 10.75,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johann Sebastian Bach",
+      "Field": "Birth",
+      "City": "Eisenach",
+      "Country": "Saxe-Eisenach",
+      "Lat": 50.98,
+      "Lng": 10.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johann Sebastian Bach",
+      "Field": "Death",
+      "City": "Leipzig",
+      "Country": "Saxony",
+      "Lat": 51.34,
+      "Lng": 12.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Frédéric Chopin",
+      "Field": "Birth",
+      "City": "Warsaw",
+      "Country": "Poland",
+      "Lat": 52.2297,
+      "Lng": 21.0122,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Frédéric Chopin",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pyotr Tchaikovsky",
+      "Field": "Birth",
+      "City": "Votkinsk",
+      "Country": "Russian Empire",
+      "Lat": 57.05,
+      "Lng": 54.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pyotr Tchaikovsky",
+      "Field": "Death",
+      "City": "Saint Petersburg",
+      "Country": "Russian Empire",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Antonio Vivaldi",
+      "Field": "Birth",
+      "City": "Venice",
+      "Country": "Venetian Republic",
+      "Lat": 45.44,
+      "Lng": 12.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Antonio Vivaldi",
+      "Field": "Death",
+      "City": "Vienna",
+      "Country": "Habsburg Monarchy",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Frideric Handel",
+      "Field": "Birth",
+      "City": "Halle",
+      "Country": "Brandenburg-Prussia",
+      "Lat": 51.48,
+      "Lng": 11.97,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Frideric Handel",
+      "Field": "Death",
+      "City": "London",
+      "Country": "Great Britain",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johannes Brahms",
+      "Field": "Birth",
+      "City": "Hamburg",
+      "Country": "German Confederation",
+      "Lat": 53.5511,
+      "Lng": 9.9937,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johannes Brahms",
+      "Field": "Death",
+      "City": "Vienna",
+      "Country": "Austria-Hungary",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Richard Wagner",
+      "Field": "Birth",
+      "City": "Leipzig",
+      "Country": "Saxony",
+      "Lat": 51.34,
+      "Lng": 12.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Richard Wagner",
+      "Field": "Death",
+      "City": "Venice",
+      "Country": "Italy",
+      "Lat": 45.44,
+      "Lng": 12.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Igor Stravinsky",
+      "Field": "Birth",
+      "City": "Oranienbaum",
+      "Country": "Russian Empire",
+      "Lat": 59.91,
+      "Lng": 29.77,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Igor Stravinsky",
+      "Field": "Death",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Bob Marley",
+      "Field": "Birth",
+      "City": "Nine Mile",
+      "Country": "Jamaica",
+      "Lat": 18.31,
+      "Lng": -77.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Bob Marley",
+      "Field": "Death",
+      "City": "Miami",
+      "Country": "USA",
+      "Lat": 25.76,
+      "Lng": -80.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Wolfgang Amadeus Mozart",
+      "Field": "Birth",
+      "City": "Salzburg",
+      "Country": "Salzburg",
+      "Lat": 47.81,
+      "Lng": 13.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Wolfgang Amadeus Mozart",
+      "Field": "Death",
+      "City": "Vienna",
+      "Country": "Austria",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ludwig van Beethoven",
+      "Field": "Birth",
+      "City": "Bonn",
+      "Country": "Electorate of Cologne",
+      "Lat": 50.74,
+      "Lng": 7.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ludwig van Beethoven",
+      "Field": "Death",
+      "City": "Vienna",
+      "Country": "Austria",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joseph Haydn",
+      "Field": "Birth",
+      "City": "Rohrau",
+      "Country": "Austria",
+      "Lat": 48.06,
+      "Lng": 16.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joseph Haydn",
+      "Field": "Death",
+      "City": "Vienna",
+      "Country": "Austria",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Claudio Monteverdi",
+      "Field": "Birth",
+      "City": "Cremona",
+      "Country": "Duchy of Milan",
+      "Lat": 45.13,
+      "Lng": 10.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Claudio Monteverdi",
+      "Field": "Death",
+      "City": "Venice",
+      "Country": "Venetian Republic",
+      "Lat": 45.44,
+      "Lng": 12.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gioachino Rossini",
+      "Field": "Birth",
+      "City": "Pesaro",
+      "Country": "Papal States",
+      "Lat": 43.91,
+      "Lng": 12.91,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gioachino Rossini",
+      "Field": "Death",
+      "City": "Passy",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.28,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Giuseppe Verdi",
+      "Field": "Birth",
+      "City": "Le Roncole",
+      "Country": "Duchy of Parma",
+      "Lat": 44.91,
+      "Lng": 10.06,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Giuseppe Verdi",
+      "Field": "Death",
+      "City": "Milan",
+      "Country": "Italy",
+      "Lat": 45.4642,
+      "Lng": 9.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gustav Mahler",
+      "Field": "Birth",
+      "City": "Kaliště",
+      "Country": "Austrian Empire",
+      "Lat": 49.62,
+      "Lng": 15.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gustav Mahler",
+      "Field": "Death",
+      "City": "Vienna",
+      "Country": "Austria-Hungary",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sergei Rachmaninoff",
+      "Field": "Birth",
+      "City": "Semyonovo",
+      "Country": "Russian Empire",
+      "Lat": 56.6,
+      "Lng": 44.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sergei Rachmaninoff",
+      "Field": "Death",
+      "City": "Beverly Hills",
+      "Country": "USA",
+      "Lat": 34.07,
+      "Lng": -118.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sergei Prokofiev",
+      "Field": "Birth",
+      "City": "Sontsovka",
+      "Country": "Russian Empire",
+      "Lat": 48.08,
+      "Lng": 37.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sergei Prokofiev",
+      "Field": "Death",
+      "City": "Moscow",
+      "Country": "Soviet Union",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dmitri Shostakovich",
+      "Field": "Birth",
+      "City": "Saint Petersburg",
+      "Country": "Russian Empire",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dmitri Shostakovich",
+      "Field": "Death",
+      "City": "Moscow",
+      "Country": "Soviet Union",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Kahlil Gibran",
+      "Field": "Birth",
+      "City": "Bsharri",
+      "Country": "Ottoman Syria",
+      "Lat": 34.25,
+      "Lng": 36.01,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Kahlil Gibran",
+      "Field": "Death",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mahmoud Darwish",
+      "Field": "Birth",
+      "City": "al-Birwa",
+      "Country": "Palestine",
+      "Lat": 32.9,
+      "Lng": 35.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mahmoud Darwish",
+      "Field": "Death",
+      "City": "Houston",
+      "Country": "USA",
+      "Lat": 29.76,
+      "Lng": -95.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abu Nuwas",
+      "Field": "Birth",
+      "City": "Ahvaz",
+      "Country": "Abbasid Caliphate",
+      "Lat": 31.32,
+      "Lng": 48.67,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Abu Nuwas",
+      "Field": "Death",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dante Alighieri",
+      "Field": "Birth",
+      "City": "Florence",
+      "Country": "Florence",
+      "Lat": 43.77,
+      "Lng": 11.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dante Alighieri",
+      "Field": "Death",
+      "City": "Ravenna",
+      "Country": "Papal States",
+      "Lat": 44.42,
+      "Lng": 12.2,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Fyodor Dostoevsky",
+      "Field": "Birth",
+      "City": "Moscow",
+      "Country": "Russian Empire",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Fyodor Dostoevsky",
+      "Field": "Death",
+      "City": "Saint Petersburg",
+      "Country": "Russian Empire",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Leo Tolstoy",
+      "Field": "Birth",
+      "City": "Yasnaya Polyana",
+      "Country": "Russian Empire",
+      "Lat": 54.07,
+      "Lng": 37.52,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Leo Tolstoy",
+      "Field": "Death",
+      "City": "Astapovo",
+      "Country": "Russian Empire",
+      "Lat": 53.93,
+      "Lng": 39.18,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Anton Chekhov",
+      "Field": "Birth",
+      "City": "Taganrog",
+      "Country": "Russian Empire",
+      "Lat": 47.24,
+      "Lng": 38.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Anton Chekhov",
+      "Field": "Death",
+      "City": "Badenweiler",
+      "Country": "German Empire",
+      "Lat": 47.8,
+      "Lng": 7.67,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johann Wolfgang von Goethe",
+      "Field": "Birth",
+      "City": "Frankfurt",
+      "Country": "Holy Roman Empire",
+      "Lat": 50.1109,
+      "Lng": 8.6821,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Johann Wolfgang von Goethe",
+      "Field": "Death",
+      "City": "Weimar",
+      "Country": "Saxe-Weimar-Eisenach",
+      "Lat": 50.98,
+      "Lng": 11.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Homer",
+      "Field": "Birth",
+      "City": "Smyrna",
+      "Country": "Greece",
+      "Lat": 38.42,
+      "Lng": 27.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Homer",
+      "Field": "Death",
+      "City": "Ithaca",
+      "Country": "Greece",
+      "Lat": 38.37,
+      "Lng": 20.72,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Orwell",
+      "Field": "Birth",
+      "City": "Motihari",
+      "Country": "British India",
+      "Lat": 26.65,
+      "Lng": 84.92,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Orwell",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ernest Hemingway",
+      "Field": "Birth",
+      "City": "Oak Park",
+      "Country": "USA",
+      "Lat": 41.89,
+      "Lng": -87.79,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ernest Hemingway",
+      "Field": "Death",
+      "City": "Ketchum",
+      "Country": "USA",
+      "Lat": 43.68,
+      "Lng": -114.36,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jane Austen",
+      "Field": "Birth",
+      "City": "Steventon",
+      "Country": "England",
+      "Lat": 51.03,
+      "Lng": -1.28,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jane Austen",
+      "Field": "Death",
+      "City": "Winchester",
+      "Country": "England",
+      "Lat": 51.06,
+      "Lng": -1.31,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Victor Hugo",
+      "Field": "Birth",
+      "City": "Besançon",
+      "Country": "France",
+      "Lat": 47.24,
+      "Lng": 6.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Victor Hugo",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexandre Dumas",
+      "Field": "Birth",
+      "City": "Villers-Cotterêts",
+      "Country": "France",
+      "Lat": 49.25,
+      "Lng": 3.09,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexandre Dumas",
+      "Field": "Death",
+      "City": "Puys",
+      "Country": "France",
+      "Lat": 49.95,
+      "Lng": 1.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gustave Flaubert",
+      "Field": "Birth",
+      "City": "Rouen",
+      "Country": "France",
+      "Lat": 49.44,
+      "Lng": 1.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gustave Flaubert",
+      "Field": "Death",
+      "City": "Croisset",
+      "Country": "France",
+      "Lat": 49.43,
+      "Lng": 1.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marcel Proust",
+      "Field": "Birth",
+      "City": "Auteuil",
+      "Country": "France",
+      "Lat": 48.85,
+      "Lng": 2.27,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marcel Proust",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Franz Kafka",
+      "Field": "Birth",
+      "City": "Prague",
+      "Country": "Austria-Hungary",
+      "Lat": 50.08,
+      "Lng": 14.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Franz Kafka",
+      "Field": "Death",
+      "City": "Kierling",
+      "Country": "Austria",
+      "Lat": 48.3,
+      "Lng": 16.2,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Joyce",
+      "Field": "Birth",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "Lat": 53.3498,
+      "Lng": -6.2603,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Joyce",
+      "Field": "Death",
+      "City": "Zurich",
+      "Country": "Switzerland",
+      "Lat": 47.38,
+      "Lng": 8.54,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Virginia Woolf",
+      "Field": "Birth",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Virginia Woolf",
+      "Field": "Death",
+      "City": "Lewes",
+      "Country": "United Kingdom",
+      "Lat": 50.87,
+      "Lng": 0.01,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nur ad-Din",
+      "Field": "Birth",
+      "City": "Aleppo",
+      "Country": "Syria",
+      "Lat": 36.2,
+      "Lng": 37.16,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Nur ad-Din",
+      "Field": "Death",
+      "City": "Damascus",
+      "Country": "Syria",
+      "Lat": 33.51,
+      "Lng": 36.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Tariq ibn Ziyad",
+      "Field": "Birth",
+      "City": "Tlemcen",
+      "Country": "Maghreb",
+      "Lat": 34.88,
+      "Lng": -1.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Tariq ibn Ziyad",
+      "Field": "Death",
+      "City": "Damascus",
+      "Country": "Umayyad Caliphate",
+      "Lat": 33.51,
+      "Lng": 36.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Amr ibn al-As",
+      "Field": "Birth",
+      "City": "Mecca",
+      "Country": "Arabia",
+      "Lat": 21.42,
+      "Lng": 39.83,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Amr ibn al-As",
+      "Field": "Death",
+      "City": "Fustat",
+      "Country": "Egypt",
+      "Lat": 30.0,
+      "Lng": 31.23,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sa'd ibn Abi Waqqas",
+      "Field": "Birth",
+      "City": "Mecca",
+      "Country": "Arabia",
+      "Lat": 21.42,
+      "Lng": 39.83,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Sa'd ibn Abi Waqqas",
+      "Field": "Death",
+      "City": "Medina",
+      "Country": "Arabia",
+      "Lat": 24.47,
+      "Lng": 39.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Richard the Lionheart",
+      "Field": "Birth",
+      "City": "Oxford",
+      "Country": "England",
+      "Lat": 51.75,
+      "Lng": -1.26,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Richard the Lionheart",
+      "Field": "Death",
+      "City": "Chalus",
+      "Country": "France",
+      "Lat": 45.65,
+      "Lng": 1.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "William the Conqueror",
+      "Field": "Birth",
+      "City": "Falaise",
+      "Country": "Normandy",
+      "Lat": 48.9,
+      "Lng": -0.2,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "William the Conqueror",
+      "Field": "Death",
+      "City": "Rouen",
+      "Country": "Normandy",
+      "Lat": 49.44,
+      "Lng": 1.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Attila the Hun",
+      "Field": "Birth",
+      "City": "Pannonia",
+      "Country": "Hunnic Empire",
+      "Lat": 46.0,
+      "Lng": 18.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Attila the Hun",
+      "Field": "Death",
+      "City": "Tisza region",
+      "Country": "Hunnic Empire",
+      "Lat": 47.5,
+      "Lng": 20.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Subutai",
+      "Field": "Birth",
+      "City": "Mongolia",
+      "Country": "Mongol Empire",
+      "Lat": 47.9,
+      "Lng": 106.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Subutai",
+      "Field": "Death",
+      "City": "Tuva",
+      "Country": "Mongol Empire",
+      "Lat": 51.72,
+      "Lng": 94.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George S. Patton",
+      "Field": "Birth",
+      "City": "San Gabriel",
+      "Country": "USA",
+      "Lat": 34.1,
+      "Lng": -118.11,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George S. Patton",
+      "Field": "Death",
+      "City": "Heidelberg",
+      "Country": "Germany",
+      "Lat": 49.4,
+      "Lng": 8.67,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Erwin Rommel",
+      "Field": "Birth",
+      "City": "Heidenheim",
+      "Country": "German Empire",
+      "Lat": 48.68,
+      "Lng": 10.15,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Erwin Rommel",
+      "Field": "Death",
+      "City": "Herrlingen",
+      "Country": "Germany",
+      "Lat": 48.41,
+      "Lng": 9.88,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Suvorov",
+      "Field": "Birth",
+      "City": "Moscow",
+      "Country": "Russian Empire",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Suvorov",
+      "Field": "Death",
+      "City": "Saint Petersburg",
+      "Country": "Russian Empire",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Napoleon Bonaparte",
+      "Field": "Birth",
+      "City": "Ajaccio",
+      "Country": "Corsica",
+      "Lat": 41.92,
+      "Lng": 8.74,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Napoleon Bonaparte",
+      "Field": "Death",
+      "City": "Longwood",
+      "Country": "Saint Helena",
+      "Lat": -15.95,
+      "Lng": -5.72,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Arthur Wellesley",
+      "Field": "Birth",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "Lat": 53.3498,
+      "Lng": -6.2603,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Arthur Wellesley",
+      "Field": "Death",
+      "City": "Walmer",
+      "Country": "United Kingdom",
+      "Lat": 51.2,
+      "Lng": 1.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ulysses S. Grant",
+      "Field": "Birth",
+      "City": "Point Pleasant",
+      "Country": "USA",
+      "Lat": 39.28,
+      "Lng": -82.21,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ulysses S. Grant",
+      "Field": "Death",
+      "City": "Wilton",
+      "Country": "USA",
+      "Lat": 38.43,
+      "Lng": -77.58,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Robert E. Lee",
+      "Field": "Birth",
+      "City": "Stratford Hall",
+      "Country": "USA",
+      "Lat": 38.14,
+      "Lng": -76.84,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Robert E. Lee",
+      "Field": "Death",
+      "City": "Lexington",
+      "Country": "USA",
+      "Lat": 37.78,
+      "Lng": -79.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Douglas MacArthur",
+      "Field": "Birth",
+      "City": "Little Rock",
+      "Country": "USA",
+      "Lat": 34.75,
+      "Lng": -92.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Douglas MacArthur",
+      "Field": "Death",
+      "City": "Washington, D.C.",
+      "Country": "USA",
+      "Lat": 38.9072,
+      "Lng": -77.0369,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dwight D. Eisenhower",
+      "Field": "Birth",
+      "City": "Denison",
+      "Country": "USA",
+      "Lat": 33.76,
+      "Lng": -96.54,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dwight D. Eisenhower",
+      "Field": "Death",
+      "City": "Washington, D.C.",
+      "Country": "USA",
+      "Lat": 38.9072,
+      "Lng": -77.0369,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Georgy Zhukov",
+      "Field": "Birth",
+      "City": "Strelkovka",
+      "Country": "Russian Empire",
+      "Lat": 55.23,
+      "Lng": 36.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Georgy Zhukov",
+      "Field": "Death",
+      "City": "Moscow",
+      "Country": "Soviet Union",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joan of Arc",
+      "Field": "Birth",
+      "City": "Domrémy",
+      "Country": "France",
+      "Lat": 48.44,
+      "Lng": 5.68,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joan of Arc",
+      "Field": "Death",
+      "City": "Rouen",
+      "Country": "France",
+      "Lat": 49.44,
+      "Lng": 1.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pelé",
+      "Field": "Birth",
+      "City": "Três Corações",
+      "Country": "Brazil",
+      "Lat": -21.7,
+      "Lng": -45.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pelé",
+      "Field": "Death",
+      "City": "São Paulo",
+      "Country": "Brazil",
+      "Lat": -23.55,
+      "Lng": -46.63,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Diego Maradona",
+      "Field": "Birth",
+      "City": "Lanús",
+      "Country": "Argentina",
+      "Lat": -34.7,
+      "Lng": -58.39,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Diego Maradona",
+      "Field": "Death",
+      "City": "Tigre",
+      "Country": "Argentina",
+      "Lat": -34.43,
+      "Lng": -58.58,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Emiliano Zapata",
+      "Field": "Birth",
+      "City": "Anenecuilco",
+      "Country": "Mexico",
+      "Lat": 18.78,
+      "Lng": -98.99,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Emiliano Zapata",
+      "Field": "Death",
+      "City": "Chinameca",
+      "Country": "Mexico",
+      "Lat": 18.62,
+      "Lng": -99.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Eva Perón",
+      "Field": "Birth",
+      "City": "Los Toldos",
+      "Country": "Argentina",
+      "Lat": -35.18,
+      "Lng": -59.08,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Eva Perón",
+      "Field": "Death",
+      "City": "Buenos Aires",
+      "Country": "Argentina",
+      "Lat": -34.6037,
+      "Lng": -58.3816,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Freddie Mercury",
+      "Field": "Birth",
+      "City": "Stone Town",
+      "Country": "Zanzibar",
+      "Lat": -6.16,
+      "Lng": 39.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Freddie Mercury",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John Lennon",
+      "Field": "Birth",
+      "City": "Liverpool",
+      "Country": "United Kingdom",
+      "Lat": 53.4084,
+      "Lng": -2.9916,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "John Lennon",
+      "Field": "Death",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Elvis Presley",
+      "Field": "Birth",
+      "City": "Tupelo",
+      "Country": "USA",
+      "Lat": 34.26,
+      "Lng": -88.7,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Elvis Presley",
+      "Field": "Death",
+      "City": "Memphis",
+      "Country": "USA",
+      "Lat": 35.15,
+      "Lng": -90.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jim Morrison",
+      "Field": "Birth",
+      "City": "Melbourne",
+      "Country": "USA",
+      "Lat": 28.0836,
+      "Lng": -80.6081,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jim Morrison",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dennis Ritchie",
+      "Field": "Birth",
+      "City": "Bronxville",
+      "Country": "USA",
+      "Lat": 40.94,
+      "Lng": -73.83,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Dennis Ritchie",
+      "Field": "Death",
+      "City": "Berkeley",
+      "Country": "USA",
+      "Lat": 37.87,
+      "Lng": -122.27,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Grace Hopper",
+      "Field": "Birth",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Grace Hopper",
+      "Field": "Death",
+      "City": "Arlington",
+      "Country": "USA",
+      "Lat": 38.88,
+      "Lng": -77.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Martin Luther King Jr.",
+      "Field": "Birth",
+      "City": "Atlanta",
+      "Country": "USA",
+      "Lat": 33.75,
+      "Lng": -84.39,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Martin Luther King Jr.",
+      "Field": "Death",
+      "City": "Memphis",
+      "Country": "USA",
+      "Lat": 35.15,
+      "Lng": -90.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "José de San Martín",
+      "Field": "Birth",
+      "City": "Yapeyú",
+      "Country": "Argentina",
+      "Lat": -29.47,
+      "Lng": -56.82,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "José de San Martín",
+      "Field": "Death",
+      "City": "Boulogne-sur-Mer",
+      "Country": "France",
+      "Lat": 50.73,
+      "Lng": 1.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thomas Jefferson",
+      "Field": "Birth",
+      "City": "Shadwell",
+      "Country": "USA",
+      "Lat": 37.99,
+      "Lng": -78.43,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Thomas Jefferson",
+      "Field": "Death",
+      "City": "Charlottesville",
+      "Country": "USA",
+      "Lat": 38.03,
+      "Lng": -78.48,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Benjamin Franklin",
+      "Field": "Birth",
+      "City": "Boston",
+      "Country": "USA",
+      "Lat": 42.3601,
+      "Lng": -71.0589,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Benjamin Franklin",
+      "Field": "Death",
+      "City": "Philadelphia",
+      "Country": "USA",
+      "Lat": 39.9526,
+      "Lng": -75.1652,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Hamilton",
+      "Field": "Birth",
+      "City": "Charlestown",
+      "Country": "West Indies",
+      "Lat": 17.13,
+      "Lng": -61.85,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexander Hamilton",
+      "Field": "Death",
+      "City": "New York City",
+      "Country": "USA",
+      "Lat": 40.7128,
+      "Lng": -74.006,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marie Antoinette",
+      "Field": "Birth",
+      "City": "Vienna",
+      "Country": "Austria",
+      "Lat": 48.21,
+      "Lng": 16.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marie Antoinette",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charles V",
+      "Field": "Birth",
+      "City": "Ghent",
+      "Country": "Habsburg Netherlands",
+      "Lat": 51.05,
+      "Lng": 3.72,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charles V",
+      "Field": "Death",
+      "City": "Yuste",
+      "Country": "Spain",
+      "Lat": 40.12,
+      "Lng": -5.88,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ferdinand II",
+      "Field": "Birth",
+      "City": "Sos",
+      "Country": "Aragon",
+      "Lat": 44.01,
+      "Lng": 0.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ferdinand II",
+      "Field": "Death",
+      "City": "Madrigalejo",
+      "Country": "Spain",
+      "Lat": 39.14,
+      "Lng": -5.63,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henry VIII",
+      "Field": "Birth",
+      "City": "Greenwich",
+      "Country": "England",
+      "Lat": 51.48,
+      "Lng": 0.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henry VIII",
+      "Field": "Death",
+      "City": "London",
+      "Country": "England",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henry V",
+      "Field": "Birth",
+      "City": "Monmouth",
+      "Country": "England",
+      "Lat": 51.81,
+      "Lng": -2.72,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henry V",
+      "Field": "Death",
+      "City": "Vincennes",
+      "Country": "France",
+      "Lat": 48.85,
+      "Lng": 2.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Edward III",
+      "Field": "Birth",
+      "City": "Windsor",
+      "Country": "England",
+      "Lat": 51.48,
+      "Lng": -0.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Edward III",
+      "Field": "Death",
+      "City": "Sheen",
+      "Country": "England",
+      "Lat": 51.46,
+      "Lng": -0.27,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Louis IX",
+      "Field": "Birth",
+      "City": "Poissy",
+      "Country": "France",
+      "Lat": 48.93,
+      "Lng": 2.04,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Louis IX",
+      "Field": "Death",
+      "City": "Tunis",
+      "Country": "Ifriqiya",
+      "Lat": 36.8065,
+      "Lng": 10.1815,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Frederick II",
+      "Field": "Birth",
+      "City": "Jesi",
+      "Country": "Holy Roman Empire",
+      "Lat": 43.52,
+      "Lng": 13.24,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Castel Fiorentino' vs i18n='Fiorentino'"
+    },
+    {
+      "Person": "Frederick II",
+      "Field": "Death",
+      "City": "Castel Fiorentino",
+      "Country": "Kingdom of Sicily",
+      "Lat": 41.606406,
+      "Lng": 15.264033,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Castel Fiorentino' vs i18n='Fiorentino'"
+    },
+    {
+      "Person": "Joseph Stalin",
+      "Field": "Birth",
+      "City": "Gori",
+      "Country": "Russian Empire",
+      "Lat": 41.98,
+      "Lng": 44.11,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joseph Stalin",
+      "Field": "Death",
+      "City": "Moscow",
+      "Country": "Soviet Union",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Adolf Hitler",
+      "Field": "Birth",
+      "City": "Braunau am Inn",
+      "Country": "Austria-Hungary",
+      "Lat": 48.26,
+      "Lng": 13.03,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Adolf Hitler",
+      "Field": "Death",
+      "City": "Berlin",
+      "Country": "Germany",
+      "Lat": 52.52,
+      "Lng": 13.405,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Franklin D. Roosevelt",
+      "Field": "Birth",
+      "City": "Hyde Park",
+      "Country": "USA",
+      "Lat": 41.79,
+      "Lng": -73.93,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Franklin D. Roosevelt",
+      "Field": "Death",
+      "City": "Warm Springs",
+      "Country": "USA",
+      "Lat": 32.89,
+      "Lng": -85.18,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Harry S. Truman",
+      "Field": "Birth",
+      "City": "Lamar",
+      "Country": "USA",
+      "Lat": 39.1,
+      "Lng": -91.52,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Harry S. Truman",
+      "Field": "Death",
+      "City": "Kansas City",
+      "Country": "USA",
+      "Lat": 39.1,
+      "Lng": -94.58,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charles de Gaulle",
+      "Field": "Birth",
+      "City": "Lille",
+      "Country": "France",
+      "Lat": 50.63,
+      "Lng": 3.06,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Charles de Gaulle",
+      "Field": "Death",
+      "City": "Colombey-les-Deux-Églises",
+      "Country": "France",
+      "Lat": 48.22,
+      "Lng": 4.88,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jawaharlal Nehru",
+      "Field": "Birth",
+      "City": "Allahabad",
+      "Country": "India",
+      "Lat": 25.44,
+      "Lng": 81.85,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jawaharlal Nehru",
+      "Field": "Death",
+      "City": "New Delhi",
+      "Country": "India",
+      "Lat": 28.61,
+      "Lng": 77.21,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mustafa Kemal Atatürk",
+      "Field": "Birth",
+      "City": "Thessaloniki",
+      "Country": "Ottoman Empire",
+      "Lat": 40.64,
+      "Lng": 22.94,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Mustafa Kemal Atatürk",
+      "Field": "Death",
+      "City": "Istanbul",
+      "Country": "Turkey",
+      "Lat": 41.0082,
+      "Lng": 28.9784,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Saud",
+      "Field": "Birth",
+      "City": "Riyadh",
+      "Country": "Nejd",
+      "Lat": 24.71,
+      "Lng": 46.67,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ibn Saud",
+      "Field": "Death",
+      "City": "Taif",
+      "Country": "Saudi Arabia",
+      "Lat": 21.27,
+      "Lng": 40.42,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Omar Mukhtar",
+      "Field": "Birth",
+      "City": "Zawiyat Janzur",
+      "Country": "Ottoman Libya",
+      "Lat": 31.97067,
+      "Lng": 24.74814,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Omar Mukhtar",
+      "Field": "Death",
+      "City": "Benghazi",
+      "Country": "Libya",
+      "Lat": 32.12,
+      "Lng": 20.07,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Christopher Columbus",
+      "Field": "Birth",
+      "City": "Genoa",
+      "Country": "Genoa",
+      "Lat": 44.41,
+      "Lng": 8.93,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Christopher Columbus",
+      "Field": "Death",
+      "City": "Valladolid",
+      "Country": "Spain",
+      "Lat": 41.65,
+      "Lng": -4.72,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ferdinand Magellan",
+      "Field": "Birth",
+      "City": "Sabrosa",
+      "Country": "Portugal",
+      "Lat": 41.27,
+      "Lng": -7.58,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ferdinand Magellan",
+      "Field": "Death",
+      "City": "Mactan",
+      "Country": "Philippines",
+      "Lat": 10.31081,
+      "Lng": 124.01551,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Cook",
+      "Field": "Birth",
+      "City": "Marton",
+      "Country": "England",
+      "Lat": 54.53,
+      "Lng": -1.09,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Cook",
+      "Field": "Death",
+      "City": "Kealakekua Bay",
+      "Country": "Hawaii",
+      "Lat": 19.53,
+      "Lng": -155.92,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "David Livingstone",
+      "Field": "Birth",
+      "City": "Blantyre",
+      "Country": "Scotland",
+      "Lat": 55.8,
+      "Lng": -4.1,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "David Livingstone",
+      "Field": "Death",
+      "City": "Chief Chitambo's Village",
+      "Country": "Zambia",
+      "Lat": -12.25,
+      "Lng": 31.95,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Robert Falcon Scott",
+      "Field": "Birth",
+      "City": "Plymouth",
+      "Country": "England",
+      "Lat": 50.38,
+      "Lng": -4.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Robert Falcon Scott",
+      "Field": "Death",
+      "City": "Ross Ice Shelf",
+      "Country": "Antarctica",
+      "Lat": -79.48139,
+      "Lng": 169.36778,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ernest Shackleton",
+      "Field": "Birth",
+      "City": "Kilkea",
+      "Country": "Ireland",
+      "Lat": 53.06,
+      "Lng": -6.9,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ernest Shackleton",
+      "Field": "Death",
+      "City": "Grytviken",
+      "Country": "South Georgia",
+      "Lat": -54.28,
+      "Lng": -36.51,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Horatio Kitchener",
+      "Field": "Birth",
+      "City": "Listowel",
+      "Country": "Ireland",
+      "Lat": 52.45,
+      "Lng": -9.49,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Horatio Kitchener",
+      "Field": "Death",
+      "City": "North Sea",
+      "Country": "International waters",
+      "Lat": 56.0,
+      "Lng": 3.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "T. E. Lawrence",
+      "Field": "Birth",
+      "City": "Tremadog",
+      "Country": "United Kingdom",
+      "Lat": 52.94,
+      "Lng": -4.16,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "T. E. Lawrence",
+      "Field": "Death",
+      "City": "Dorset",
+      "Country": "United Kingdom",
+      "Lat": 50.75,
+      "Lng": -2.34,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Elizabeth Blackwell",
+      "Field": "Birth",
+      "City": "Bristol",
+      "Country": "United Kingdom",
+      "Lat": 51.4545,
+      "Lng": -2.5879,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Elizabeth Blackwell",
+      "Field": "Death",
+      "City": "Hastings",
+      "Country": "United Kingdom",
+      "Lat": 50.86,
+      "Lng": 0.57,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Florence Nightingale",
+      "Field": "Birth",
+      "City": "Florence",
+      "Country": "Grand Duchy of Tuscany",
+      "Lat": 43.77,
+      "Lng": 11.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Florence Nightingale",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Clara Barton",
+      "Field": "Birth",
+      "City": "North Oxford",
+      "Country": "USA",
+      "Lat": 42.15309,
+      "Lng": -71.89508,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Birth city mismatch: quiz='North Oxford' vs i18n='Oxford'"
+    },
+    {
+      "Person": "Clara Barton",
+      "Field": "Death",
+      "City": "Glen Echo",
+      "Country": "USA",
+      "Lat": 38.97,
+      "Lng": -77.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Birth city mismatch: quiz='North Oxford' vs i18n='Oxford'"
+    },
+    {
+      "Person": "Amedeo Modigliani",
+      "Field": "Birth",
+      "City": "Livorno",
+      "Country": "Italy",
+      "Lat": 43.55,
+      "Lng": 10.31,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Amedeo Modigliani",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Wassily Kandinsky",
+      "Field": "Birth",
+      "City": "Moscow",
+      "Country": "Russian Empire",
+      "Lat": 55.76,
+      "Lng": 37.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Wassily Kandinsky",
+      "Field": "Death",
+      "City": "Neuilly-sur-Seine",
+      "Country": "France",
+      "Lat": 48.88,
+      "Lng": 2.27,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Kazimir Malevich",
+      "Field": "Birth",
+      "City": "Kyiv",
+      "Country": "Russian Empire",
+      "Lat": 50.4501,
+      "Lng": 30.5234,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Kazimir Malevich",
+      "Field": "Death",
+      "City": "Leningrad",
+      "Country": "Soviet Union",
+      "Lat": 59.93,
+      "Lng": 30.33,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joan Miró",
+      "Field": "Birth",
+      "City": "Barcelona",
+      "Country": "Spain",
+      "Lat": 41.3874,
+      "Lng": 2.1686,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joan Miró",
+      "Field": "Death",
+      "City": "Palma de Mallorca",
+      "Country": "Spain",
+      "Lat": 39.57,
+      "Lng": 2.65,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marc Chagall",
+      "Field": "Birth",
+      "City": "Vitebsk",
+      "Country": "Russian Empire",
+      "Lat": 55.19,
+      "Lng": 30.2,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Marc Chagall",
+      "Field": "Death",
+      "City": "Saint-Paul-de-Vence",
+      "Country": "France",
+      "Lat": 43.7,
+      "Lng": 7.12,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Oscar Wilde",
+      "Field": "Birth",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "Lat": 53.3498,
+      "Lng": -6.2603,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Oscar Wilde",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Bernard Shaw",
+      "Field": "Birth",
+      "City": "Dublin",
+      "Country": "Ireland",
+      "Lat": 53.3498,
+      "Lng": -6.2603,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Bernard Shaw",
+      "Field": "Death",
+      "City": "Ayot St Lawrence",
+      "Country": "United Kingdom",
+      "Lat": 51.81,
+      "Lng": -0.28,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rudyard Kipling",
+      "Field": "Birth",
+      "City": "Bombay",
+      "Country": "British India",
+      "Lat": 19.08,
+      "Lng": 72.88,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rudyard Kipling",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "H. G. Wells",
+      "Field": "Birth",
+      "City": "Bromley",
+      "Country": "United Kingdom",
+      "Lat": 51.41,
+      "Lng": 0.02,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "H. G. Wells",
+      "Field": "Death",
+      "City": "London",
+      "Country": "United Kingdom",
+      "Lat": 51.51,
+      "Lng": -0.13,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Albert Camus",
+      "Field": "Birth",
+      "City": "Mondovi",
+      "Country": "French Algeria",
+      "Lat": 36.684825,
+      "Lng": 7.751108,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Albert Camus",
+      "Field": "Death",
+      "City": "Villeblevin",
+      "Country": "France",
+      "Lat": 48.32,
+      "Lng": 3.07,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Bertrand Russell",
+      "Field": "Birth",
+      "City": "Trellech",
+      "Country": "United Kingdom",
+      "Lat": 51.77,
+      "Lng": -2.77,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Bertrand Russell",
+      "Field": "Death",
+      "City": "Penrhyndeudraeth",
+      "Country": "United Kingdom",
+      "Lat": 52.93,
+      "Lng": -4.06,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Prescott Joule",
+      "Field": "Birth",
+      "City": "Salford",
+      "Country": "England",
+      "Lat": 53.49,
+      "Lng": -2.29,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Prescott Joule",
+      "Field": "Death",
+      "City": "Sale",
+      "Country": "England",
+      "Lat": 53.42,
+      "Lng": -2.32,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Georg Ohm",
+      "Field": "Birth",
+      "City": "Erlangen",
+      "Country": "Bavaria",
+      "Lat": 49.59,
+      "Lng": 11.0,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Georg Ohm",
+      "Field": "Death",
+      "City": "Munich",
+      "Country": "Bavaria",
+      "Lat": 48.1351,
+      "Lng": 11.582,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Auguste Comte",
+      "Field": "Birth",
+      "City": "Montpellier",
+      "Country": "France",
+      "Lat": 43.61,
+      "Lng": 3.88,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Auguste Comte",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alfred Nobel",
+      "Field": "Birth",
+      "City": "Stockholm",
+      "Country": "Sweden",
+      "Lat": 59.33,
+      "Lng": 18.07,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alfred Nobel",
+      "Field": "Death",
+      "City": "San Remo",
+      "Country": "Italy",
+      "Lat": 43.82,
+      "Lng": 7.78,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Guglielmo Marconi",
+      "Field": "Birth",
+      "City": "Bologna",
+      "Country": "Italy",
+      "Lat": 44.49,
+      "Lng": 11.34,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Guglielmo Marconi",
+      "Field": "Death",
+      "City": "Rome",
+      "Country": "Italy",
+      "Lat": 41.9,
+      "Lng": 12.5,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Stephenson",
+      "Field": "Birth",
+      "City": "Wylam",
+      "Country": "England",
+      "Lat": 54.97,
+      "Lng": -1.82,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "George Stephenson",
+      "Field": "Death",
+      "City": "Chesterfield",
+      "Country": "England",
+      "Lat": 53.24,
+      "Lng": -1.42,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joseph Lister",
+      "Field": "Birth",
+      "City": "Upton",
+      "Country": "England",
+      "Lat": 51.54,
+      "Lng": 0.05,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Joseph Lister",
+      "Field": "Death",
+      "City": "Walmer",
+      "Country": "England",
+      "Lat": 51.2,
+      "Lng": 1.4,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexis Carrel",
+      "Field": "Birth",
+      "City": "Sainte-Foy-lès-Lyon",
+      "Country": "France",
+      "Lat": 45.73,
+      "Lng": 4.8,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alexis Carrel",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Paul Ehrlich",
+      "Field": "Birth",
+      "City": "Strehlen",
+      "Country": "Prussia",
+      "Lat": 51.01,
+      "Lng": 13.8,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Paul Ehrlich",
+      "Field": "Death",
+      "City": "Bad Homburg",
+      "Country": "Germany",
+      "Lat": 50.23,
+      "Lng": 8.62,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Vasco da Gama",
+      "Field": "Birth",
+      "City": "Sines",
+      "Country": "Portugal",
+      "Lat": 37.96,
+      "Lng": -8.87,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Vasco da Gama",
+      "Field": "Death",
+      "City": "Kochi",
+      "Country": "India",
+      "Lat": 9.93,
+      "Lng": 76.27,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Amerigo Vespucci",
+      "Field": "Birth",
+      "City": "Florence",
+      "Country": "Florence",
+      "Lat": 43.77,
+      "Lng": 11.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Amerigo Vespucci",
+      "Field": "Death",
+      "City": "Seville",
+      "Country": "Spain",
+      "Lat": 37.39,
+      "Lng": -5.99,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Hargreaves",
+      "Field": "Birth",
+      "City": "Oswaldtwistle",
+      "Country": "England",
+      "Lat": 53.74,
+      "Lng": -2.39,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "James Hargreaves",
+      "Field": "Death",
+      "City": "Nottingham",
+      "Country": "England",
+      "Lat": 52.95,
+      "Lng": -1.15,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rashid Rida",
+      "Field": "Birth",
+      "City": "Qalamoun",
+      "Country": "Ottoman Syria",
+      "Lat": 34.08,
+      "Lng": 36.08,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Rashid Rida",
+      "Field": "Death",
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Lat": 30.0444,
+      "Lng": 31.2357,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Malek Bennabi",
+      "Field": "Birth",
+      "City": "Constantine",
+      "Country": "French Algeria",
+      "Lat": 36.37,
+      "Lng": 6.61,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Malek Bennabi",
+      "Field": "Death",
+      "City": "Algiers",
+      "Country": "Algeria",
+      "Lat": 36.7538,
+      "Lng": 3.0588,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gabriel García Márquez",
+      "Field": "Birth",
+      "City": "Aracataca",
+      "Country": "Colombia",
+      "Lat": 10.59,
+      "Lng": -74.19,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gabriel García Márquez",
+      "Field": "Death",
+      "City": "Mexico City",
+      "Country": "Mexico",
+      "Lat": 19.4326,
+      "Lng": -99.1332,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pablo Neruda",
+      "Field": "Birth",
+      "City": "Parral",
+      "Country": "Chile",
+      "Lat": -36.15,
+      "Lng": -72.55,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Pablo Neruda",
+      "Field": "Death",
+      "City": "Santiago",
+      "Country": "Chile",
+      "Lat": -33.4489,
+      "Lng": -70.6693,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jorge Luis Borges",
+      "Field": "Birth",
+      "City": "Buenos Aires",
+      "Country": "Argentina",
+      "Lat": -34.6037,
+      "Lng": -58.3816,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Jorge Luis Borges",
+      "Field": "Death",
+      "City": "Geneva",
+      "Country": "Switzerland",
+      "Lat": 46.2,
+      "Lng": 6.14,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gabriele D'Annunzio",
+      "Field": "Birth",
+      "City": "Pescara",
+      "Country": "Italy",
+      "Lat": 42.46,
+      "Lng": 14.21,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Gabriele D'Annunzio",
+      "Field": "Death",
+      "City": "Gardone Riviera",
+      "Country": "Italy",
+      "Lat": 45.62,
+      "Lng": 10.56,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henri Rousseau",
+      "Field": "Birth",
+      "City": "Laval",
+      "Country": "France",
+      "Lat": 48.07,
+      "Lng": -0.77,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Henri Rousseau",
+      "Field": "Death",
+      "City": "Paris",
+      "Country": "France",
+      "Lat": 48.86,
+      "Lng": 2.35,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alphonse Mucha",
+      "Field": "Birth",
+      "City": "Ivančice",
+      "Country": "Moravia",
+      "Lat": 49.1,
+      "Lng": 16.38,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Alphonse Mucha",
+      "Field": "Death",
+      "City": "Prague",
+      "Country": "Czechoslovakia",
+      "Lat": 50.08,
+      "Lng": 14.44,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Ahmad ibn Tulun",
+      "Field": "Birth",
+      "City": "Baghdad",
+      "Country": "Abbasid Caliphate",
+      "Lat": 33.31,
+      "Lng": 44.37,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Qasr Ibn Tulun' vs i18n='Al-Qata'i'"
+    },
+    {
+      "Person": "Ahmad ibn Tulun",
+      "Field": "Death",
+      "City": "Qasr Ibn Tulun",
+      "Country": "Egypt",
+      "Lat": 30.04,
+      "Lng": 31.25,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "Death city mismatch: quiz='Qasr Ibn Tulun' vs i18n='Al-Qata'i'"
+    },
+    {
+      "Person": "Al-Mu'tamid",
+      "Field": "Birth",
+      "City": "Samarra",
+      "Country": "Abbasid Caliphate",
+      "Lat": 34.2,
+      "Lng": 43.87,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    },
+    {
+      "Person": "Al-Mu'tamid",
+      "Field": "Death",
+      "City": "Samarra",
+      "Country": "Abbasid Caliphate",
+      "Lat": 34.191,
+      "Lng": 43.87414,
+      "Source File": "quiz_data.json / person_i18n.json",
+      "Mismatch": "None"
+    }
+  ]
+}

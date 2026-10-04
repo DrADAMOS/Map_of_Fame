@@ -1,0 +1,529 @@
+{
+  "audit_type": "NON_ENGLISH_TRANSLATION_EVIDENCE_SAMPLE",
+  "read_only": true,
+  "files_modified": 0,
+  "representative_people": [
+    "Ramesses II",
+    "Auguste Comte",
+    "Diego Maradona"
+  ],
+  "target_locales": [
+    "ar",
+    "ru",
+    "ja",
+    "zh",
+    "hi",
+    "fa"
+  ],
+  "byte_identical_counts": {
+    "ar": {
+      "achievements": 0,
+      "key_facts": 0,
+      "historical_significance": 0
+    },
+    "ru": {
+      "achievements": 0,
+      "key_facts": 0,
+      "historical_significance": 0
+    },
+    "ja": {
+      "achievements": 0,
+      "key_facts": 0,
+      "historical_significance": 0
+    },
+    "zh": {
+      "achievements": 0,
+      "key_facts": 0,
+      "historical_significance": 0
+    },
+    "hi": {
+      "achievements": 0,
+      "key_facts": 0,
+      "historical_significance": 0
+    },
+    "fa": {
+      "achievements": 0,
+      "key_facts": 0,
+      "historical_significance": 0
+    }
+  },
+  "locale_evidence": {
+    "ar": [
+      {
+        "person": "Ramesses II",
+        "locale": "ar",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "خاض معركة قادش ضد الحيثيين",
+              "شيّد ووسّع معابد ومنشآت ملكية كبرى، منها أبو سمبل والرامسيوم",
+              "أبرم معاهدة سلام مع الحيثيين بعد الصراع في بلاد الشام"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "حكم مصر نحو 66 عاماً",
+              "ينتمي إلى الأسرة التاسعة عشرة",
+              "ارتبط اسمه بمدينة بر-رعمسيس التي أصبحت مركزاً ملكياً مهماً"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "يُعد رعمسيس الثاني من أشهر فراعنة مصر القديمة، وتركت عهده آثار ومعالم ونقوش كثيرة جعلت سيرته من أكثر السير الملكية المصرية حضوراً في السجل التاريخي.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Auguste Comte",
+        "locale": "ar",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "صاغ فلسفة الوضعية ووضع تصوراً منظماً لدراسة المجتمع",
+              "ارتبط اسمه بتأسيس علم الاجتماع بوصفه مجالاً علمياً مستقلاً"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "تعد حلقة بارزة في عصر العصر الحديث",
+              "نشأت في مونبلييه فرنسا"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "تركت أثراً تاريخياً كـ فيلسوف في عصر العصر الحديث.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Diego Maradona",
+        "locale": "ar",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "قاد الأرجنتين إلى الفوز بكأس العالم 1986 وسجل هدفاً شهيراً ضد إنجلترا في البطولة",
+              "قاد نابولي إلى الفوز بالدوري الإيطالي مرتين وكأس الاتحاد الأوروبي عام 1989"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "تعد حلقة بارزة في عصر العصر الحديث",
+              "نشأت في لانوس الأرجنتين"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "تركت أثراً تاريخياً كـ رياضي في عصر العصر الحديث.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      }
+    ],
+    "ru": [
+      {
+        "person": "Ramesses II",
+        "locale": "ru",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "Возглавлял Египет в битве при Кадеше против хеттов.",
+              "Заключил мирный договор с Хаттусили III после египетско-хеттского конфликта.",
+              "Заказал строительство крупнейших монументов, включая храмы в Абу-Симбеле и Рамессеум."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "Рамсес II правил Египтом около 66 лет в XIII веке до н. э.",
+              "Его правление связано с битвой при Кадеше и египетско-хеттским мирным договором.",
+              "Он был похоронен в Долине царей неподалеку от древних Фив."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "Рамсес II был одним из самых могущественных фараонов Древнего Египта, правившим около 66 лет.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Auguste Comte",
+        "locale": "ru",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "Огюст Конт (19 января 1798 – 5 сентября 1857) — французский философ, сформулировавший доктрину позитивизма.",
+              "Считается первым философом науки в современном смысле термина.",
+              "Идеи Конта имели ключевое значение для развития социологии, он ввел сам этот термин."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "Огюст Конт (19 января 1798 – 5 сентября 1857) — французский философ, сформулировавший доктрину позитивизма.",
+              "Считается первым философом науки в современном смысле термина.",
+              "Идеи Конта имели ключевое значение для развития социологии, он ввел сам этот термин."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "Огюст Конт сформулировал позитивизм и утверждал, что общество можно изучать систематически, способствуя становлению социологии как самостоятельной области.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Diego Maradona",
+        "locale": "ru",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "После 15-месячной дисквалификации покинул «Наполи» в 1992 году.",
+              "Перешел в «Севилью», где отиграл один год.",
+              "В 1993 году играл за «Ньюэллс Олд Бойз», в 1995 вернулся в «Бока Хуниорс»."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "Диего Армандо Марадона (30 октября 1960 – 25 ноября 2020) — аргентинский футболист и тренер.",
+              "Чемпион мира 1986 года, признан Лучшим футболистом века по голосованию ФИФА (наряду с Пеле).",
+              "Выступал на позиции атакующего полузащитника под классическим 10-м номером."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "Запомнился тем, что оказал значительное влияние на историческое развитие в качестве спортсмена.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      }
+    ],
+    "ja": [
+      {
+        "person": "Ramesses II",
+        "locale": "ja",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "ヒッタイトに対するカデシュの戦いでエジプト軍を指揮した。",
+              "エジプト・ヒッタイト紛争の後、ハトゥシリ3世と平和条約を締結した。",
+              "アブ・シンベル神殿やラメセウムなどの主要な建造物を建設させた。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "ラムセス2世は紀元前13世紀に約66年間エジプトを統治した。",
+              "彼の治世はカデシュの戦いおよびエジプト・ヒッタイト平和条約と深く結びついて現代に知られている。",
+              "古代テーベに近い王家の谷に埋葬された。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "ラムセス2世は古代エジプトで最も強力なファラオのひとりであり、約66年間にわたって統治した。",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Auguste Comte",
+        "locale": "ja",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "イジドール・オーギュスト・マリー・フランソワ・グザヴィエ・コント（1798年1月19日 - 1857年9月5日）は、実証主義の教義を定式化したフランスの哲学者・文筆家である。",
+              "現代的な意味における最初の科学哲学者とみなされることが多い。",
+              "「社会学」という用語を創案し、この学問を諸科学の頂点に位置づけたコントの思想は、社会学の成立において根幹となった。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "オーギュスト・コント（1798年1月19日 - 1857年9月5日）は、実証主義を提唱したフランスの哲学者である。",
+              "科学哲学および社会学の創始者の一人として位置づけられている。",
+              "三段階の法則（神学的・形而上学的・実証的）を唱え、社会現象の科学的研究を体系化した。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "哲学者・社会学の創始者としての歴史的発展に大きく貢献した人物として記憶されている。",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Diego Maradona",
+        "locale": "ja",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "コカインの薬物検査陽性による15か月の出場停止処分を終えた後、マラドーナは1992年にナポリを離れた。",
+              "レアル・マドリードやマルセイユからの関心にもかかわらず、彼はセビージャと契約し、1年間プレーした。",
+              "1993年にニューウェルズ・オールドボーイズでプレーし、1995年にボカ・ジュニアーズへ復帰して2年間プレーした。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "ディエゴ・アルマンド・マラドーナ（1960年10月30日 - 2020年11月25日）は、アルゼンチンのプロサッカー選手および監督である。",
+              "史上最も偉大な選手の一人と広く評価され、ペレとともに「20世紀最優秀選手」の栄誉を二分した。",
+              "マラドーナは伝統的な背番号10番のポジションでゲームメイクを担う天才プレーメーカーであった。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "アスリートとして歴史的発展に大きく貢献した人物として記憶されている。",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      }
+    ],
+    "zh": [
+      {
+        "person": "Ramesses II",
+        "locale": "zh",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "在卡洁什战役中率领埃及军队对抗赫梯人。",
+              "在埃及与赫梯冲突后与哈图西里三世缔结了和平条约。",
+              "主持兴建了包括阿布辛贝神庙和拉美西斯神庙在内的多座重大建筑与纪念碑。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "拉美西斯二世于公元前13世纪统治古埃及长达约66年。",
+              "他的统治与著名的卡洁什战役及埃及-赫梯和平条约密切相关。",
+              "他被安葬在古底比斯附近的帝王谷。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "拉美西斯二世是古埃及最强大的法老之一，统治埃及约66年。",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Auguste Comte",
+        "locale": "zh",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "伊西多尔·奥古斯特·玛丽·弗朗索瓦·沙维尔·孔德（1798年1月19日—1857年9月5日）是提出实证主义学说的法国哲学家和作家。",
+              "他常被视为现代意义上的第一位科学哲学家。",
+              "孔德的思想对社会学的发展具有根本性意义，因为他创造了“社会学”（sociology）一词，并将这一学科视为科学发展的最高成就。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "伊西多尔·奥古斯特·玛丽·弗朗索瓦·沙维尔·孔德（1798年1月19日—1857年9月5日）是提出实证主义学说的法国哲学家和作家。",
+              "他常被视为现代意义上的第一位科学哲学家。",
+              "孔德的思想对社会学的发展具有根本性意义，因为他创造了“社会学”（sociology）一词，并将这一学科视为科学发展的最高成就。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "作为实证主义思想和现代社会学学科的奠基人，他在西方社会科学史上具有里程碑意义。",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Diego Maradona",
+        "locale": "zh",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "在因可卡因毒检呈阳性被禁赛15个月后，马拉多纳于1992年离开那不勒斯。",
+              "尽管皇家马德里和马赛表示出了兴趣，他还是签约了塞维利亚，并在那里效力了一年。",
+              "1993年，他为纽维尔老男孩效力，1995年他重返博卡青年效力了两年。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "迭戈·阿尔芒多·马拉多纳（1960年10月30日—2020年11月25日）是阿根廷职业足球运动员兼教练。",
+              "被广泛视为历史上最伟大的球员之一，他与贝利共同获得了国际足联“20世纪最佳球员”奖。",
+              "马拉多纳被视为一名打传统10号位的高级进攻组织者。"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "因作为体育运动员塑造了近代历史发展进程而被世人铭记。",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      }
+    ],
+    "hi": [
+      {
+        "person": "Ramesses II",
+        "locale": "hi",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "हित्तियों के विरुद्ध कादेश के युद्ध में मिस्र का नेतृत्व किया।",
+              "मिस्र-हित्ती संघर्ष के बाद हत्तूसिली तृतीय के साथ शांति संधि संपन्न की।",
+              "अबू सिंबेल के मंदिरों और रामेसियम सहित प्रमुख स्मारकों का निर्माण करवाया।"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "रामेसेस द्वितीय ने ईसा पूर्व 13वीं शताब्दी के दौरान लगभग 66 वर्षों तक मिस्र पर शासन किया।",
+              "उनका शासनकाल कादेश के युद्ध और मिस्र-हित्ती शांति संधि से जुड़ा हुआ है।",
+              "उन्हें प्राचीन थीब्स के पास राजाओं की घाटी में दफनाया गया था।"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "रामेसेस द्वितीय प्राचीन मिस्र के सबसे शक्तिशाली फ़िरौन में से एक थे, जिन्होंने लगभग 66 वर्षों तक शासन किया।",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Auguste Comte",
+        "locale": "hi",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "अगस्त कॉम्टे (19 जनवरी 1798 - 5 सितंबर 1857) एक फ्रांसीसी दार्शनिक और लेखक थे जिन्होंने प्रत्यक्षवाद (पॉजिटिविज्म) के सिद्धांत को तैयार किया।",
+              "उन्हें अक्सर शब्द के आधुनिक अर्थों में विज्ञान का पहला दार्शनिक माना जाता है।",
+              "कॉम्टे के विचार समाजशास्त्र के विकास के लिए मौलिक थे, क्योंकि उन्होंने इस शब्द गढ़ा और इस विषय को विज्ञान की सर्वोच्च उपलब्धि माना।"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "अगस्त कॉम्टे (19 जनवरी 1798 - 5 सितंबर 1857) एक फ्रांसीसी दार्शनिक और लेखक थे जिन्होंने प्रत्यक्षवाद के सिद्धांत को तैयार किया।",
+              "उन्हें अक्सर शब्द के आधुनिक अर्थों में विज्ञान का पहला दार्शनिक माना जाता है।",
+              "कॉम्टे के विचार समाजशास्त्र के विकास के लिए मौलिक थे, क्योंकि उन्होंने समाजशास्त्र शब्द गढ़ा।"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "समाजशास्त्र के जनक और आधुनिक वैज्ञानिक दर्शन के विचारकों में प्रमुख।",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Diego Maradona",
+        "locale": "hi",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "कोकीन के ड्रग परीक्षण में विफल रहने पर 15 महीने का प्रतिबंध झेलने के बाद, माराडोना ने 1992 में नेपोली क्लब छोड़ दिया।",
+              "रियल मैड्रिड और मार्सिले की रुचि के बावजूद, उन्होंने सेविले के साथ अनुबंध किया, जहाँ वे एक वर्ष तक रहे।",
+              "1993 में, वे नेवेल्स ओल्ड बॉयज़ के लिए खेले और 1995 में वे दो साल के लिए बोका जूनियर्स में लौट आए।"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "डिएगो अरमांडो माराडोना (30 अक्टूबर 1960 – 25 नवंबर 2020) एक अर्जेंटीनाई पेशेवर फुटबॉल खिलाड़ी और प्रबंधक थे।",
+              "इतिहास के महानतम खिलाड़ियों में से एक माने जाने वाले, वे पेले के साथ फीफा प्लेयर ऑफ द सेंचुरी पुरस्कार के दो संयुक्त विजेताओं में से एक थे।",
+              "माराडोना को एक उन्नत प्लेमेकर के रूप में देखा जाता था जो क्लासिक नंबर 10 स्थिति में खेलते थे।"
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "1986 में अर्जेंटीना को विश्व कप दिलाने और फुटबॉल इतिहास में अपनी अद्भुत प्रतिभा के लिए प्रसिद्ध।",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      }
+    ],
+    "fa": [
+      {
+        "person": "Ramesses II",
+        "locale": "fa",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "رهبری مصر در نبرد کادش در برابر حیتی‌ها.",
+              "انعقاد پیمان صلح با خاتوسیلی سوم پس از درگیری‌های مصر و حیتی‌ها.",
+              "سفارش ساخت بناهای یادبود بزرگ از جمله معابد ابو سمبل و رامسیوم."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "رامسس دوم در سده سیزدهم پیش از میلاد حدود ۶۶ سال بر مصر حکومت کرد.",
+              "دوران حکومت او با نبرد کادش و پیمان صلح مصر و حیتی شناخته می‌شود.",
+              "پیکر او در دره پادشاهان در نزدیکی تبس باستان به خاک سپرده شد."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "رامسس دوم یکی از قدرتمندترین فرعون‌های مصر باستان بود که حدود ۶۶ سال حکومت کرد.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Auguste Comte",
+        "locale": "fa",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "ایزیدور آگوست ماری فرانسوا ژاویر کنت (۱۹ ژانویه ۱۷۹۸ – ۵ سپتامبر ۱۸۵۷) فیلسوف و نویسنده فرانسوی بود که دکترین پوزیتیویسم را تدوین نمود.",
+              "او اغلب به عنوان نخستین فیلسوف علم به معنای مدرن کلمه شناخته می‌شود.",
+              "اندیشه‌های کنت برای توسعه جامعه‌شناسی بنیادی بود زیرا او این واژه را ابداع کرد و آن را تاج علوم دانست."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "ایزیدور آگوست ماری فرانسوا ژاویر کنت (۱۹ ژانویه ۱۷۹۸ – ۵ سپتامبر ۱۸۵۷) فیلسوف و نویسنده فرانسوی بود که دکترین پوزیتیویسم را تدوین نمود.",
+              "او اغلب به عنوان نخستین فیلسوف علم به معنای مدرن کلمه شناخته می‌شود.",
+              "اندیشه‌های کنت برای توسعه جامعه‌شناسی بنیادی بود زیرا او این واژه را ابداع کرد و آن را تاج علوم دانست."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "با دستاوردهای برجسته خود در پایه‌گذاری مکتب پوزیتیویسم و ابداع علم جامعه‌شناسی در یادها مانده است.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      },
+      {
+        "person": "Diego Maradona",
+        "locale": "fa",
+        "fields": {
+          "achievements": {
+            "actual_complete_value": [
+              "پس از محرومیت ۱۵ ماهه به دلیل دوپینگ کوکائین، مارادونا در سال ۱۹۹۲ ناپولی را ترک کرد.",
+              "با وجود علاقه رئال مادرید و مارسی، او با سویا قرارداد بست و یک سال در آنجا ماند.",
+              "در سال ۱۹۹۳ او برای نیوئلز اولد بویز بازی کرد و در سال ۱۹۹۵ برای دو سال به بوکا جونیورز بازگشت."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "key_facts": {
+            "actual_complete_value": [
+              "دیگو آرماندو مارادونا (۳۰ اکتبر ۱۹۶۰ – ۲۵ نوامبر ۲۰۲۰) بازیکن و مربی فوتبال حرفه‌ای آرژانتینی بود.",
+              "او به عنوان یکی از بزرگ‌ترین بازیکنان تاریخ فوتبال شناخته می‌شود و برنده مشترک جایزه بازیکن قرن فیفا همراه با پله شد.",
+              "مارادونا به عنوان یک بازیساز نابغه در پست کلاسیک شماره ۱۰ بازی می‌کرد."
+            ],
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          },
+          "historical_significance": {
+            "actual_complete_value": "با نقش‌آفرینی برجسته خود در تحولات تاریخی به عنوان اسطوره نامدار فوتبال در یادها مانده است.",
+            "classification": "CLEARLY_TARGET_LANGUAGE"
+          }
+        }
+      }
+    ]
+  },
+  "application_data_modified": false
+}

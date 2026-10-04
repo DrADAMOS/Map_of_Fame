@@ -1,0 +1,136 @@
+{
+  "audit_type": "IDENTITY_UNRESOLVED_VERIFICATION",
+  "read_only": true,
+  "files_modified": 0,
+  "source_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "modified": false
+  },
+  "total_unresolved_investigated": 12,
+  "safely_resolvable": 0,
+  "human_review_required": 0,
+  "genuinely_unresolved": 12,
+  "verification_records": [
+    {
+      "original_name": "Al-Ma'mun",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Al-Mu'izz li-Din Allah",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Al-Mu'tamid",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Al-Mu'tasim",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Al-Shafi'i",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "David Livingstone",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Gabriele D'Annunzio",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Gamal Abdel Nasser",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Rifa'a al-Tahtawi",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Sa'd ibn Abi Waqqas",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Umar ibn Abd al-Aziz",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    },
+    {
+      "original_name": "Umm Kulthum",
+      "current_status": "unresolved",
+      "best_title": null,
+      "all_existing_candidates": [],
+      "selected_classification": "GENUINELY_UNRESOLVED",
+      "exact_evidence_from_review_data": "Stored review record has candidates=[] and reason='New current quiz person; requires identity verification.'.",
+      "confidence": "HIGH"
+    }
+  ],
+  "application_data_modified": false,
+  "final_status": "PASS"
+}

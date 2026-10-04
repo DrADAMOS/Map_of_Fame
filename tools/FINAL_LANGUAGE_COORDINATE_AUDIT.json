@@ -1,0 +1,111 @@
+{
+  "people": 297,
+  "coordinate_records": 594,
+  "classification_counts": {
+    "LAND": 589,
+    "INLAND_WATER": 4,
+    "ICE_SHELF": 1
+  },
+  "non_land_records": [
+    {
+      "person": "Rosa Parks",
+      "event": "death",
+      "latitude": 42.33,
+      "longitude": -83.05,
+      "classification": "INLAND_WATER"
+    },
+    {
+      "person": "René Descartes",
+      "event": "death",
+      "latitude": 59.33,
+      "longitude": 18.07,
+      "classification": "INLAND_WATER"
+    },
+    {
+      "person": "Robert Falcon Scott",
+      "event": "death",
+      "latitude": -79.48139,
+      "longitude": 169.36778,
+      "classification": "ICE_SHELF"
+    },
+    {
+      "person": "Alfred Nobel",
+      "event": "birth",
+      "latitude": 59.33,
+      "longitude": 18.07,
+      "classification": "INLAND_WATER"
+    },
+    {
+      "person": "Gabriele D'Annunzio",
+      "event": "death",
+      "latitude": 45.62,
+      "longitude": 10.56,
+      "classification": "INLAND_WATER"
+    }
+  ],
+  "ui_i18n_missing_keys": {
+    "ar": [],
+    "en": [],
+    "es": [],
+    "fr": [],
+    "de": [],
+    "pt": [],
+    "it": [],
+    "tr": [],
+    "ru": [],
+    "ja": [],
+    "zh": [],
+    "hi": [],
+    "id": [],
+    "fa": []
+  },
+  "js_syntax": [
+    {
+      "file": "quiz.js",
+      "pass": true,
+      "stderr": ""
+    },
+    {
+      "file": "ui.js",
+      "pass": true,
+      "stderr": ""
+    },
+    {
+      "file": "i18n_languages.js",
+      "pass": true,
+      "stderr": ""
+    },
+    {
+      "file": "map.js",
+      "pass": true,
+      "stderr": ""
+    }
+  ],
+  "quiz_constants_coordinate_parity": {
+    "quiz": 297,
+    "all": 297,
+    "mismatches": 0
+  },
+  "language_policy": {
+    "non_english_person_field_exact_english_copies_are_hidden": true,
+    "arabic_metadata_with_latin_text_is_hidden": true,
+    "question_prompt_uses_only_selected_language_hint_or_bio": true,
+    "english_field_by_field_fallback_removed": true
+  },
+  "map_geometry": {
+    "minor_islands_added_from_natural_earth_10m": true,
+    "light_map_geometry_updated": true,
+    "dark_map_geometry_updated": true,
+    "dark_map_colors_preserved": true
+  },
+  "runtime_coordinate_values": {
+    "Pyrrhus of Epirus birth": [
+      39.155,
+      20.9899
+    ],
+    "Horatio Kitchener death": [
+      59.11706,
+      -3.39566
+    ]
+  }
+}

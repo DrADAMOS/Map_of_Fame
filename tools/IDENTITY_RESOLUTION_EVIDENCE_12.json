@@ -1,0 +1,187 @@
+{
+  "audit_type": "IDENTITY_RESOLUTION_EVIDENCE",
+  "read_only": true,
+  "files_modified": 0,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9"
+    },
+    "modified": false
+  },
+  "total": 12,
+  "safe_to_map": 12,
+  "human_review_required": 0,
+  "genuinely_unresolved": 0,
+  "evidence_records": [
+    {
+      "original_name": "Gamal Abdel Nasser",
+      "canonical_name": "Gamal Abdel Nasser",
+      "wikipedia_title": "Gamal Abdel Nasser",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gamal_Abdel_Nasser",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Gamal Abdel Nasser"
+      ],
+      "evidence": "Quiz metadata (name_ar: جمال عبد الناصر, dates: 1918–1970, country: Egypt, hint: 'Leader of Arab Nationalism', bio: 'Egypt\\'s second president.') uniquely matches Egypt's 2nd President Gamal Abdel Nasser.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Umm Kulthum",
+      "canonical_name": "Umm Kulthum",
+      "wikipedia_title": "Umm Kulthum",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Umm_Kulthum",
+      "is_ambiguous": true,
+      "candidate_alternatives": [
+        "Umm Kulthum (Egyptian singer, 1898–1975)",
+        "Umm Kulthum bint Muhammad",
+        "Umm Kulthum bint Ali"
+      ],
+      "evidence": "Quiz metadata (name_ar: أم كلثوم, dates: 1898–1975, category: Music, hint: 'Star of the East' / كوكب الشرق, bio: 'The greatest Arab singer.') conclusively disambiguates her as the 20th-century Egyptian singer Umm Kulthum.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Al-Shafi'i",
+      "canonical_name": "Al-Shafi'i",
+      "wikipedia_title": "Al-Shafi'i",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Shafi%27i",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Al-Shafi'i"
+      ],
+      "evidence": "Quiz metadata (name_ar: الإمام الشافعي, dates: 767–820, category: Scholars, hint: 'Founder of Shafi'i school' / صاحب المذهب الشافعي) uniquely identifies Abu 'Abdillah Muhammad ibn Idris al-Shafi'i, founder of the Shafi'i Sunni school of jurisprudence.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Al-Mu'tasim",
+      "canonical_name": "Al-Mu'tasim",
+      "wikipedia_title": "Al-Mu'tasim",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Mu%27tasim",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Al-Mu'tasim"
+      ],
+      "evidence": "Quiz metadata (name_ar: المعتصم بالله, dates: 796–842, category: Rulers, hint: 'Conqueror of Amorium' / صاحب فتح عمورية, bio: 'Abbasid caliph, built Samarra.') uniquely identifies the 8th Abbasid Caliph Al-Mu'tasim billah.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Umar ibn Abd al-Aziz",
+      "canonical_name": "Umar II",
+      "wikipedia_title": "Umar II",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Umar_II",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Umar II (Umar ibn Abd al-Aziz)"
+      ],
+      "evidence": "Quiz metadata (name_ar: عمر بن عبد العزيز, dates: 682–720, category: Rulers, era: Umayyad Caliphate, born: Medina, died: Dayr Sim'an) uniquely identifies the 8th Umayyad Caliph Umar II.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Al-Ma'mun",
+      "canonical_name": "Al-Ma'mun",
+      "wikipedia_title": "Al-Ma'mun",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Ma%27mun",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Al-Ma'mun"
+      ],
+      "evidence": "Quiz metadata (name_ar: المأمون, dates: 786–833, category: Scholars/Rulers, era: Abbasid Caliphate, born: Baghdad, died: Tarsus) uniquely identifies the 7th Abbasid Caliph Al-Ma'mun, patron of the House of Wisdom.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Al-Mu'izz li-Din Allah",
+      "canonical_name": "Al-Mu'izz li-Din Allah",
+      "wikipedia_title": "Al-Mu'izz li-Din Allah",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Mu%27izz_li-Din_Allah",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Al-Mu'izz li-Din Allah"
+      ],
+      "evidence": "Quiz metadata (name_ar: المعز لدين الله, dates: 931–975, category: Rulers, era: Fatimid Caliphate, born: Mahdia, died: Cairo) uniquely identifies the 4th Fatimid Caliph who conquered Egypt and founded Cairo.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Rifa'a al-Tahtawi",
+      "canonical_name": "Rifa'a al-Tahtawi",
+      "wikipedia_title": "Rifa'a al-Tahtawi",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rifa%27a_al-Tahtawi",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Rifa'a al-Tahtawi"
+      ],
+      "evidence": "Quiz metadata (name_ar: رفاعة الطهطاوي, dates: 1801–1873, category: Literature, country: Egypt, born: Tahta, died: Cairo) uniquely identifies Egyptian Renaissance (Nahda) writer Rifa'a Rafi' al-Tahtawi.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Sa'd ibn Abi Waqqas",
+      "canonical_name": "Sa'd ibn Abi Waqqas",
+      "wikipedia_title": "Sa'd ibn Abi Waqqas",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sa%27d_ibn_Abi_Waqqas",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Sa'd ibn Abi Waqqas"
+      ],
+      "evidence": "Quiz metadata (name_ar: سعد بن أبي وقاص, dates: 595–674, category: Military, era: Early Islamic, born: Mecca, died: Medina) uniquely identifies Sa'd ibn Abi Waqqas, Islamic military commander at the Battle of al-Qadisiyyah.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "David Livingstone",
+      "canonical_name": "David Livingstone",
+      "wikipedia_title": "David Livingstone",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/David_Livingstone",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "David Livingstone"
+      ],
+      "evidence": "Quiz metadata (name_ar: ديفيد ليفينغستون, dates: 1813–1873, category: Exploration, country: Zambia, born: Blantyre) uniquely identifies Scottish missionary and explorer David Livingstone.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Gabriele D'Annunzio",
+      "canonical_name": "Gabriele D'Annunzio",
+      "wikipedia_title": "Gabriele D'Annunzio",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gabriele_D%27Annunzio",
+      "is_ambiguous": false,
+      "candidate_alternatives": [
+        "Gabriele D'Annunzio"
+      ],
+      "evidence": "Quiz metadata (name_ar: غابرييلي دانونتسيو, dates: 1863–1938, category: Literature, country: Italy, born: Pescara) uniquely identifies Italian poet and writer Gabriele D'Annunzio.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    },
+    {
+      "original_name": "Al-Mu'tamid",
+      "canonical_name": "Al-Mu'tamid",
+      "wikipedia_title": "Al-Mu'tamid",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Al-Mu%27tamid",
+      "is_ambiguous": true,
+      "candidate_alternatives": [
+        "Al-Mu'tamid (Abbasid caliph, 842–892)",
+        "Al-Mu'tamid ibn Abbad (Ruler of Taifa of Seville, 1040–1095)"
+      ],
+      "evidence": "Quiz metadata (name_ar: المعتمد على الله, dates: 842–892, country: Abbasid Caliphate, born/died: Samarra) explicitly disambiguates him as the 15th Abbasid Caliph Al-Mu'tamid billah rather than the ruler of Seville.",
+      "confidence": "HIGH",
+      "classification": "SAFE_TO_MAP"
+    }
+  ],
+  "application_data_modified": false,
+  "final_status": "PASS"
+}

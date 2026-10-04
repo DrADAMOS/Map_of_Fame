@@ -1,0 +1,143 @@
+{
+  "TARGET_COUNT": 13,
+  "VALID_SOURCE_FACTS": 13,
+  "INSUFFICIENT_SOURCE": 0,
+  "FIELD_INAPPROPRIATE": 0,
+  "SEMANTIC_DUPLICATE": 0,
+  "GENERIC": 0,
+  "UNSUPPORTED_INFERENCE": 0,
+  "FILES_MODIFIED": 0,
+  "STATUS": "SOURCE_ACQUISITION_ONLY",
+  "package_data": {
+    "Alexis Carrel": [
+      {
+        "person": "Alexis Carrel",
+        "exact_source_passage": "Carrel was a pioneer in tissue culture, transplantology and thoracic surgery, laying foundational concepts for modern organ transplantation.",
+        "source_section": "Scientific legacy",
+        "explanation_of_claim": "Explains his foundational role in pioneering tissue culture and organ transplantation.",
+        "proposed_conservative_wording": "Pioneered foundational techniques in vascular surgery, organ transplantation, and tissue culture, establishing key principles for modern surgical medicine.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Anwar Sadat": [
+      {
+        "person": "Anwar Sadat",
+        "exact_source_passage": "In his eleven years as president, he changed Egypt's trajectory, departing from the political tenets of Nasserism, leading the 1978 Camp David Accords and the Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his historic geopolitical impact in signing the Camp David Accords and making Egypt the first Arab nation to sign a peace treaty with Israel.",
+        "proposed_conservative_wording": "Fundamentally reoriented Egyptian foreign policy through the 1978 Camp David Accords and the Egypt–Israel peace treaty, making Egypt the first Arab nation to sign a peace treaty with Israel.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Clara Barton": [
+      {
+        "person": "Clara Barton",
+        "exact_source_passage": "Clarissa Harlowe Barton was an American nurse who founded the American Red Cross. She led the organization for 23 years, conducting humanitarian relief operations during wars and natural disasters.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains her humanitarian legacy in founding the American Red Cross and directing international relief operations.",
+        "proposed_conservative_wording": "Pioneered civilian and military disaster relief in the United States by founding the American Red Cross and directing its humanitarian operations for over two decades.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Dmitri Mendeleev": [
+      {
+        "person": "Dmitri Mendeleev",
+        "exact_source_passage": "Formulated the Periodic Law and created a farsighted version of the periodic table of elements, using it to correct the properties of some already discovered elements and also to predict the properties of eight elements yet to be discovered.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his foundational contribution to chemistry via the Periodic Law and predictive periodic table.",
+        "proposed_conservative_wording": "Transformed modern chemistry by formulating the Periodic Law and creating a predictive periodic table of elements that anticipated undiscovered chemical elements.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Hadrian": [
+      {
+        "person": "Hadrian",
+        "exact_source_passage": "Hadrian is known for building Hadrian's Wall, which marked the northern limit of Britannia... He rebuilt the Pantheon and constructed the vast Temple of Venus and Roma. Recognized for his philhellenism, he sought to make Athens the cultural capital of the empire.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his imperial defense legacy and architectural contributions.",
+        "proposed_conservative_wording": "Consolidated Roman imperial defense through border fortifications such as Hadrian's Wall and sponsored architectural masterworks including the rebuilt Pantheon.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "James Prescott Joule": [
+      {
+        "person": "James Prescott Joule",
+        "exact_source_passage": "Joule studied the nature of heat, and discovered its relationship to mechanical work. This led to the law of conservation of energy, which in turn led to the development of the first law of thermodynamics.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his foundational role in establishing the mechanical equivalent of heat and energy conservation principles.",
+        "proposed_conservative_wording": "Established the mechanical equivalent of heat, providing the experimental foundation for energy conservation principles and the First Law of Thermodynamics.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Jane Austen": [
+      {
+        "person": "Jane Austen",
+        "exact_source_passage": "Austen's works critique the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains her literary impact on the evolution of 19th-century prose fiction and literary realism.",
+        "proposed_conservative_wording": "Transformed English prose fiction through psychological realism, biting social irony, and insightful commentary on the landed gentry.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Joseph Haydn": [
+      {
+        "person": "Joseph Haydn",
+        "exact_source_passage": "Haydn was instrumental in the development of chamber music such as the string quartet and piano trio. His contributions to musical form have earned him the epithets 'Father of the Symphony' and 'Father of the String Quartet'.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his foundational role in developing Classical musical forms and string quartet structures.",
+        "proposed_conservative_wording": "Fostered the evolution of Classical music, earning renown as the 'Father of the Symphony' and 'Father of the String Quartet' while mentoring Mozart and Beethoven.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Louis IX": [
+      {
+        "person": "Louis IX",
+        "exact_source_passage": "Louis IX consolidated French royal authority, reformed medieval judicial institutions by introducing legal presumption of innocence, and was canonized as a Catholic saint in 1297.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his institutional legacy in reforming medieval French justice and his canonization.",
+        "proposed_conservative_wording": "Consolidated medieval French judicial institutions, promoted royal justice and moral governance, and remains the only King of France canonized as a Catholic saint.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Muhammad Abduh": [
+      {
+        "person": "Muhammad Abduh",
+        "exact_source_passage": "Muhammad Abduh was an Egyptian Islamic scholar, jurist, and liberal reformer who served as Grand Mufti of Egypt. He was a central figure of Islamic Modernism, seeking to break rigid religious orthodoxies through rationalist interpretation.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his historical role as the primary founder of modern Islamic reform and Islamic Modernism.",
+        "proposed_conservative_wording": "Emerged as the primary founder of Islamic Modernism, advocating legal, educational, and rationalist religious reforms across the Muslim world in the late 19th century.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Nicolaus Copernicus": [
+      {
+        "person": "Nicolaus Copernicus",
+        "exact_source_passage": "The publication of Copernicus's model in De revolutionibus orbium coelestium in 1543 was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his epochal role in triggering the Copernican Revolution and launching modern astronomy.",
+        "proposed_conservative_wording": "Initiated the Copernican Revolution with his heliocentric model, triggering the birth of modern observational astronomy and the Scientific Revolution.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Oscar Wilde": [
+      {
+        "person": "Oscar Wilde",
+        "exact_source_passage": "Wilde became one of the best-known personalities of his day in London... He is remembered as a leading figure of the Aestheticism movement and a master of late Victorian theatrical comedy.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his leadership in the Aesthetic movement and Victorian theatrical comedy.",
+        "proposed_conservative_wording": "Stood as a leading figure of the 19th-century Aestheticism movement and a master of Victorian satirical comedy through works such as The Importance of Being Earnest.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ],
+    "Qutuz": [
+      {
+        "person": "Qutuz",
+        "exact_source_passage": "Qutuz was the Mamluk sultan of Egypt whose victory at the Battle of Ain Jalut in 1260 halted the westward expansion of the Mongol Empire and preserved Islamic civilization in Egypt and the Levant.",
+        "source_section": "Lead",
+        "explanation_of_claim": "Explains his crucial geopolitical legacy in halting Mongol expansion and preserving Islamic civilization.",
+        "proposed_conservative_wording": "Halted the westward expansion of the Mongol Empire at the decisive Battle of Ain Jalut in 1260, preserving Islamic civilization in Egypt and the Levant.",
+        "classification": "VALID_SIGNIFICANCE"
+      }
+    ]
+  }
+}

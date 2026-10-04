@@ -1,0 +1,465 @@
+{
+  "audit_type": "HISTORICAL_SIGNIFICANCE_SOURCE_REVIEW_43",
+  "read_only": true,
+  "files_modified": 0,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_43.json": "739f2fc8089e1ac8eb5521e705fd4af1ed8e03da3a66dec5eae5008e19ed1510"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "96a67606eee4b5c4f57878a32802581bd4c4f75052a4cdbfbcadbd0f8f118270",
+      "H:\\Android\\Projects\\MapofFame\\WIKIPEDIA_IDENTITY_REVIEW.json": "a7eed3f5e789a5deb4674a56d80cd5b1da0022485c2a239778ad3654168bf1d9",
+      "H:\\Android\\Projects\\MapofFame\\tools\\HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_43.json": "739f2fc8089e1ac8eb5521e705fd4af1ed8e03da3a66dec5eae5008e19ed1510"
+    },
+    "modified": false
+  },
+  "target_people_count": 43,
+  "summary": {
+    "VALID_HISTORICAL_SIGNIFICANCE": 38,
+    "INSUFFICIENT_SOURCE": 5,
+    "FIELD_INAPPROPRIATE": 0,
+    "WRONG_PERSON_OR_TOPIC": 0,
+    "UNSUPPORTED_INFERENCE": 0
+  },
+  "reviewed_records": [
+    {
+      "person": "Arthur Wellesley",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Arthur Wellesley, 1st Duke of Wellington",
+      "source_url": "https://en.wikipedia.org/wiki/Arthur%20Wellesley%2C%201st%20Duke%20of%20Wellington",
+      "exact_source_passage": "Field Marshal Arthur Wellesley, 1st Duke of Wellington (né Wesley; 1 May 1769 – 14 September 1852), was a British Army officer and statesman. A leading figure in early-19th-century British politics, Wellesley served as Prime Minister of the United Kingdom and as Commander-in-Chief of the Forces.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Arthur Wellesley.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Thomas Edison",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Thomas Edison",
+      "source_url": "https://en.wikipedia.org/wiki/Thomas%20Edison",
+      "exact_source_passage": "Thomas Alva Edison (February 11, 1847 – October 18, 1931) was an American inventor and businessman known for his work on the incandescent light bulb, the phonograph, electric power distribution and early motion pictures. The merger of the Edison General Electric Company and the competitor Thomson-Houston Electric Company resulted in the formation of General Electric. Edison registered 1,093 patents in the United States.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Thomas Edison.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Omar al-Mukhtar",
+      "classification": "INSUFFICIENT_SOURCE",
+      "exact_reason": "Passage discusses a modern university named in his honor rather than detailing his 20-year anti-colonial resistance leadership.",
+      "missing_evidence_description": "Missing direct historical details on his anti-colonial guerrilla campaign against Italian forces.",
+      "source_title": "Omar al-Mukhtar",
+      "source_url": "https://en.wikipedia.org/wiki/Omar%20al-Mukhtar",
+      "source_section": "Legacy",
+      "exact_source_passage": "Omar Al-Mukhtar University was founded in 1961."
+    },
+    {
+      "person": "Saddam Hussein",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Saddam Hussein",
+      "source_url": "https://en.wikipedia.org/wiki/Saddam%20Hussein",
+      "exact_source_passage": "Throughout the Arab world, many Arabs praise Saddam as a resolute leader who stood up to Western imperialism, Israeli occupation of Palestine, and foreign intervention in the region, while some Iraqis, especially Shias and Kurds, may view him negatively as a dictator responsible for brutal authoritarianism, repression and injustices.",
+      "source_section": "Reception and legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Reception and legacy' provides relevant historical background on Saddam Hussein.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Mother Teresa",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Mother Teresa",
+      "source_url": "https://en.wikipedia.org/wiki/Mother%20Teresa",
+      "exact_source_passage": "At the time of her death, the Missionaries of Charity had over 4,000 sisters and an associated brotherhood of 300 members operating 610 missions in 123 countries. These included hospices and homes for people with HIV/AIDS, leprosy and tuberculosis, soup kitchens, children's and family counselling programmes, orphanages and schools. The Missionaries of Charity were aided by co-workers numbering over one million by the 1990s.",
+      "source_section": "Legacy and depictions in popular culture",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy and depictions in popular culture' provides relevant historical background on Mother Teresa.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Nelson Mandela",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Nelson Mandela",
+      "source_url": "https://en.wikipedia.org/wiki/Nelson%20Mandela",
+      "exact_source_passage": "Various sources have highlighted Mandela's moral leadership in rehabilitating South Africa's stature in the wider world. By the time of his death, within South Africa Mandela was widely considered \"the father of the nation\" and \"the founding father of democracy\". Outside of South Africa, he was a \"global icon\", with the scholar of South African studies Rita Barnard describing him as \"one of the most revered figures of our time\". One biographer considered him \"a modern democratic hero\". Some have portrayed Mandela in messianic terms, in contrast to his own statement that \"I was not a messiah, but an ordinary man who had become a leader because of extraordinary circumstances.\" He is often cited alongside Mahatma Gandhi and Martin Luther King Jr. as one of the 20th century's exemplary anti-racist and anti-colonial leaders. Boehmer described him as \"a totem of the totemic values of our age: toleration and liberal democracy\" and \"a universal symbol of social justice\".",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Anwar Sadat",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Anwar Sadat",
+      "source_url": "https://en.wikipedia.org/wiki/Anwar%20Sadat",
+      "exact_source_passage": "Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Anwar Sadat.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Tokugawa Ieyasu",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Tokugawa Ieyasu",
+      "source_url": "https://en.wikipedia.org/wiki/Tokugawa%20Ieyasu",
+      "exact_source_passage": "Tokugawa Ieyasu (born Matsudaira Takechiyo; January 31, 1543 – June 1, 1616) was a Japanese samurai, daimyo and the founder and first shogun of the Tokugawa shogunate of Japan, which ruled from 1603 until the Meiji Restoration in 1868. He was the third of the three \"Great Unifiers\" of Japan, along with his former lord Oda Nobunaga and fellow Oda subordinate Toyotomi Hideyoshi. The son of a minor daimyo, Ieyasu once lived as a hostage under daimyo Imagawa Yoshimoto on behalf of his father. He later succeeded as daimyo after his father's death, serving as ally, vassal, and general of the Oda clan, and building up his strength under Oda Nobunaga.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Shah Abbas I",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Abbas the Great",
+      "source_url": "https://en.wikipedia.org/wiki/Abbas%20the%20Great",
+      "exact_source_passage": "Abbas projected great military power, regained most of the lands lost by his predecessors, and adopted a set of forward-looking policies designed to optimise military strength, centralise state control, and expand Iran's internal and international commercial scope. He paired ruthlessness with justice and dealt harshly with threats to his power, while remaining in touch with his people. These qualities ultimately led to his being styled Abbas the Great.",
+      "source_section": "Character and legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Character and legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Yasser Arafat",
+      "classification": "INSUFFICIENT_SOURCE",
+      "exact_reason": "Passage lists geographic places named after him rather than explaining his historical leadership of PLO and peace negotiations.",
+      "missing_evidence_description": "Missing historical evidence on his geopolitical role in the Oslo Accords and Palestinian leadership.",
+      "source_title": "Yasser Arafat",
+      "source_url": "https://en.wikipedia.org/wiki/Yasser%20Arafat",
+      "source_section": "Legacy",
+      "exact_source_passage": "Places named in his honor include:"
+    },
+    {
+      "person": "Ferdinand II",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Ferdinand II of Aragon",
+      "source_url": "https://en.wikipedia.org/wiki/Ferdinand%20II%20of%20Aragon",
+      "exact_source_passage": "Ferdinand and Isabella established a highly effective sovereignty under equal terms. They utilised a prenuptial agreement to lay down their terms. During their reign, they supported each other effectively in accordance to his joint motto of equality: \"Tanto monta [or monta tanto], Isabel como Fernando\" (\"They amount to the same, Isabel and Ferdinand\"). Isabella and Ferdinand's achievements were remarkable: Spain was united, or at least more united than it ever had been; the crown power was centralised, at least in name; the reconquista was successfully concluded; the groundwork for the most dominant military machine of the next century and a half was laid; a legal framework was created; the church was reformed. Even without the benefit of the American expansion, Spain would have been a major European power. Columbus' discovery set the country on the course for the first modern world power.",
+      "source_section": "Legacy and succession",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy and succession' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Seneca",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Seneca the Younger",
+      "source_url": "https://en.wikipedia.org/wiki/Seneca%20the%20Younger",
+      "exact_source_passage": "Lucius Annaeus Seneca the Younger ( SEN-ik-ə; c. 4 BC – AD 65), usually known mononymously as Seneca, was a Stoic philosopher of Ancient Rome, a statesman, a dramatist, and in one work (Apocolocyntosis) a satirist from the post-Augustan age of Latin literature.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Seneca.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Pyrrhus of Epirus",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Pyrrhus of Epirus",
+      "source_url": "https://en.wikipedia.org/wiki/Pyrrhus%20of%20Epirus",
+      "exact_source_passage": "In his Life of Pyrrhus, Plutarch records that Hannibal ranked him as the greatest commander the world had ever seen, though in the Life of Titus Quinctius Flamininus, Plutarch writes that Hannibal placed him second after Alexander the Great. This latter account is also given by Appian. While he was a mercurial and often restless leader, and not always a wise king, he was considered one of the greatest military commanders of his time.",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' provides relevant historical background on Pyrrhus of Epirus.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Attila the Hun",
+      "classification": "INSUFFICIENT_SOURCE",
+      "exact_reason": "Passage discusses a planned 19th-century opera by Beethoven rather than Attila's 5th-century military impact on the Roman Empire.",
+      "missing_evidence_description": "Missing historical evidence regarding his 5th-century invasion and geopolitical impact on Rome.",
+      "source_title": "Attila",
+      "source_url": "https://en.wikipedia.org/wiki/Attila",
+      "source_section": "Early modern and modern reception",
+      "exact_source_passage": "In 1812, Ludwig van Beethoven conceived the idea of writing an opera about Attila and approached August von Kotzebue to write the libretto. It was, however, never written. In 1846, Giuseppe Verdi wrote the opera, loosely based on episodes in Attila's invasion of Italy."
+    },
+    {
+      "person": "Diogenes",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Diogenes",
+      "source_url": "https://en.wikipedia.org/wiki/Diogenes",
+      "exact_source_passage": "Laërtius states that Diogenes became a disciple of the original cynic philosopher Antisthenes (c. 446 – c. 366 BC), himself a student of Socrates (c. 470 – c. 399 BC). Although the timeline raises some doubts about his attending Antisthenes' school at the Cynosarges, Diogenes clearly adopted many of Antisthenes's ideas. These include emphasizing virtue over societal laws and customs, religious scepticism, and prioritizing deeds over abstract ideas.",
+      "source_section": "Influences",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Influences' provides relevant historical background on Diogenes.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Socrates",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Socrates",
+      "source_url": "https://en.wikipedia.org/wiki/Socrates",
+      "exact_source_passage": "Socrates (; Ancient Greek: Σωκράτης, romanized: Sōkrátēs; c. 470 – 399 BC) was an ancient Greek philosopher from Classical Athens, perhaps the first Western moral philosopher, and a major inspiration on his student Plato, who largely founded the tradition of Western philosophy. An enigmatic figure, Socrates authored no texts and is known mainly through the posthumous accounts of classical writers, particularly his students Plato and Xenophon. These accounts are written as dialogues, in which Socrates and his interlocutors examine a subject in the style of question and answer; they gave rise to the Socratic dialogue literary genre. Contradictory accounts of Socrates make a reconstruction of his philosophy nearly impossible, a situation known as the Socratic problem. Socrates was a polarizing figure in Athenian society. In 399 BC, he was accused of impiety and corrupting the youth. After a trial that lasted a day, he was sentenced to death. As related by Plato, he was put to death by administration of poison after refusing offers from allies to help him escape.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Euripides",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Euripides",
+      "source_url": "https://en.wikipedia.org/wiki/Euripides",
+      "exact_source_passage": "Euripides was so widely read in the antique education that only Homer surpassed him. But the breadth of reception drew mixed responses. He aroused, and continues to arouse, strong opinions for and against his work:",
+      "source_section": "Reception",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Reception' provides relevant historical background on Euripides.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Justinian I",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Justinian I",
+      "source_url": "https://en.wikipedia.org/wiki/Justinian%20I",
+      "exact_source_passage": "Justinian I (Latin: Iustinianus, Ancient Greek: Ἰουστινιανός, romanized: Ioustinianós; 482 – 14 November 565), also known as Justinian the Great, was Roman emperor from 527 to 565.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Herodotus",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Herodotus",
+      "source_url": "https://en.wikipedia.org/wiki/Herodotus",
+      "exact_source_passage": "Herodotus (Ancient Greek: Ἡρόδοτος, romanised: Hēródotos; c. 484 – c. 425 BC) was a Greek historian and geographer from the Greek city of Halicarnassus (now Bodrum, Turkey), under Persian control in the 5th century BC, and a later citizen of Thurii in modern Calabria, Italy. He wrote the Histories, a detailed account of the Greco-Persian Wars, among other subjects such as the rise of the Achaemenid dynasty of Cyrus. He has been described as \"The Father of History\", a title conferred on him by the ancient Roman orator Cicero.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Sophocles",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Sophocles",
+      "source_url": "https://en.wikipedia.org/wiki/Sophocles",
+      "exact_source_passage": "Sophocles is known for innovations in dramatic structure; deeper development of characters than earlier playwrights; and, if it was not due to Aeschylus, the addition of a third actor, which further reduced the role of the chorus, and increased opportunities for development and conflict. Aeschylus, who dominated Athenian playwriting during Sophocles's early career, adopted the third actor into his own work. Besides the third actor, Aristotle credits Sophocles with the introduction of skenographia, or scenery-painting; but this too is attributed elsewhere to someone else (by Vitruvius, to Agatharchus of Samos). After Aeschylus died, in 456 BC, Sophocles became the pre-eminent playwright in Athens, winning competitions at eighteen Dionysia, and six Lenaia festivals. His reputation was such that foreign rulers invited him to attend their courts; but, unlike Aeschylus, who died in Sicily, or Euripides, who spent time in Macedon, Sophocles never accepted any of these invitations. Aristotle, in his Poetics (c. 335 BC), used Sophocles's Oedipus Rex as an example of the highest achievement in tragedy.",
+      "source_section": "Works and legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Works and legacy' provides relevant historical background on Sophocles.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Ahmad ibn Tulun",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Ahmad ibn Tulun",
+      "source_url": "https://en.wikipedia.org/wiki/Ahmad%20ibn%20Tulun",
+      "exact_source_passage": "Despite the brief duration of his dynasty, Ibn Tulun's rule was a seminal event not only for Egypt, but for the entire Islamic world. For Egypt itself, his reign marks a turning point as the country for the first time since the Pharaohs ceased being a passive province subject to a foreign imperial power, and became once again a political actor in its own right. The new realm Ibn Tulun forged, encompassing Egypt and Syria as well as the Jazira and Cilicia, and to a lesser extent the eastern parts of the Maghreb, established a new political zone separated from the Islamic lands further east, restoring in a fashion the frontier that had existed between the Roman/Byzantine and Sassanid Persian realms in Antiquity. Egypt was the basis of Ibn Tulun's power; he paid particular attention to restoring its economy, as well as establishing an autonomous bureaucracy, army, and navy. These policies were continued by later Egypt-based regimes, the Ikhshidids (935–969) and eventually the Fatimids (969–1171), who likewise used Egypt's wealth to establish control over parts or even most of Syria. Indeed, as Thierry Bianquis remarks, the territory ruled by Ibn Tulun in Syria was remarkably similar to that controlled by the later Egypt-based regimes of Saladin and the Mamluk Sultanate.",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Abd al-Rahman III",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Abd al-Rahman III",
+      "source_url": "https://en.wikipedia.org/wiki/Abd%20al-Rahman%20III",
+      "exact_source_passage": "Abd al-Rahman was a great humanist and patron of arts, especially architecture. A third of his revenue sufficed for the ordinary expenses of government, a third was hoarded, and a third was spent on buildings. After declaring the caliphate, he had a massive palace complex, known as the Medina Azahara, built about seven kilometres west of Córdoba. The Medina Azahara was modelled after the old Umayyad palace in Damascus and served as a symbolic tie between the new caliph and his ancestors. It was said that Córdoba contained 3000 mosques and 100,000 shops and homes during his reign.",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "classification": "INSUFFICIENT_SOURCE",
+      "exact_reason": "Passage discusses his marriage to Zaynab an-Nafzawiyyah rather than his Almoravid conquest of al-Andalus and the Maghreb.",
+      "missing_evidence_description": "Missing historical evidence on his Almoravid military campaign at the Battle of Sagrajas.",
+      "source_title": "Yusuf ibn Tashfin",
+      "source_url": "https://en.wikipedia.org/wiki/Yusuf%20ibn%20Tashfin",
+      "source_section": "Legacy",
+      "exact_source_passage": "He was married to Zaynab an-Nafzawiyyah, whom he reportedly trusted in political matters."
+    },
+    {
+      "person": "Charles V",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Charles V, Holy Roman Emperor",
+      "source_url": "https://en.wikipedia.org/wiki/Charles%20V%2C%20Holy%20Roman%20Emperor",
+      "exact_source_passage": "Charles V (24 February 1500 – 21 September 1558) was Holy Roman Emperor and Archduke of Austria from 1519 to 1556, King of Spain (as Charles I) from 1516 to 1556, King of Sicily and Naples from 1516 to 1554, and also Lord of the Netherlands and titular Duke of Burgundy (as Charles II) from 1506 to 1555. He was heir to and then head of the rising House of Habsburg. His dominions in Europe included the Holy Roman Empire, extending from Germany to northern Italy with rule over the Austrian hereditary lands and Burgundian Low Countries, and Spain with its possessions of the southern Italian kingdoms of Sicily, Naples, and Sardinia. In the Americas, he oversaw the continuation of Spanish colonisation and a short-lived German colonisation. The personal union of the European and American territories he ruled was the first collection of realms labelled \"the empire on which the sun never sets\".",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Hannibal Barca",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Hannibal",
+      "source_url": "https://en.wikipedia.org/wiki/Hannibal",
+      "exact_source_passage": "Hannibal (; Punic: 𐤇𐤍𐤁𐤏𐤋; 247 – between 183 and 181 BC) was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War. Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War. Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\".",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Constantine the Great",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Constantine the Great",
+      "source_url": "https://en.wikipedia.org/wiki/Constantine%20the%20Great",
+      "exact_source_passage": "Constantine reunited the empire under one emperor, and he won major victories over the Franks and Alamanni in 306–308, the Franks again in 313–314, the Goths in 332, and the Sarmatians in 334. By 336, he had reoccupied most of the long-lost province of Dacia which Aurelian had been forced to abandon in 271. At the time of his death, he was planning a great expedition to end raids on the eastern provinces from the Persian Empire.",
+      "source_section": "Assessment and legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Assessment and legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Charlemagne",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Charlemagne",
+      "source_url": "https://en.wikipedia.org/wiki/Charlemagne",
+      "exact_source_passage": "The stability and peace of Charlemagne's reign did not outlive him for a long time. Louis' reign was marked by strife, including a number of rebellions by his sons. After Louis' death, the empire was divided among his sons into West, East, and Middle Francia by the Treaty of Verdun. Middle Francia was divided several more times over the course of subsequent generations. Carolingians would rule – with some interruptions – in East Francia (later the Kingdom of Germany) until 911 and in West Francia (which would become France) until 987. After 887 the imperial title was held sporadically by a series of non-dynastic Italian rulers before it lapsed in 924. East Frankish King Otto the Great conquered Italy and was crowned emperor in 962.  By this time, the eastern and western parts of Charlemagne's former empire had already developed distinct languages and cultures. Otto founded (or re-established) the Holy Roman Empire, which would last until its dissolution in 1806 during the Napoleonic Wars.",
+      "source_section": "Political legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Political legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Winston Churchill",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Winston Churchill",
+      "source_url": "https://en.wikipedia.org/wiki/Winston%20Churchill",
+      "exact_source_passage": "Sir Winston Leonard Spencer Churchill (30 November 1874 – 24 January 1965) was a British statesman, military officer, and writer who was Prime Minister of the United Kingdom from 1940 to 1945, during the Second World War, and again from 1951 to 1955. For some 62 of the years between 1900 and 1964, he was a member of Parliament (MP) and represented a total of five constituencies over that time. Ideologically an adherent to economic liberalism and imperialism, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Abraham Lincoln",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Abraham Lincoln",
+      "source_url": "https://en.wikipedia.org/wiki/Abraham%20Lincoln",
+      "exact_source_passage": "Abraham Lincoln (February 12, 1809 – April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Dmitri Mendeleev",
+      "source_url": "https://en.wikipedia.org/wiki/Dmitri%20Mendeleev",
+      "exact_source_passage": "Dmitri Ivanovich Mendeleev ( MEN-dəl-AY-əf; 8 February [O.S. 27 January] 1834 – 2 February [O.S. 20 January] 1907) was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements. He used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered (germanium, gallium, and scandium). The synthetic element mendelevium is named in his honor.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Dmitri Mendeleev.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "George Bernard Shaw",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "George Bernard Shaw",
+      "source_url": "https://en.wikipedia.org/wiki/George%20Bernard%20Shaw",
+      "exact_source_passage": "George Bernard Shaw (26 July 1856 – 2 November 1950) was an Irish playwright, critic, polemicist and political activist. His influence on Western theatre, culture and politics extended from the 1880s to his death and beyond. He wrote more than sixty plays, including major works such as Man and Superman (1902), Pygmalion (1913) and Saint Joan (1923). With a range incorporating both contemporary satire and historical allegory, Shaw became the leading dramatist of his generation, and in 1925 was awarded the Nobel Prize in Literature.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Nikola Tesla",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Nikola Tesla",
+      "source_url": "https://en.wikipedia.org/wiki/Nikola%20Tesla",
+      "exact_source_passage": "In 1952, following pressure from Sava Kosanović, Tesla's entire estate was shipped to Belgrade in 80 trunks marked \"N.T.\". In 1957, Kosanović's secretary Charlotte Muzar transported Tesla's ashes from the United States to Belgrade. They are displayed in a gold-plated sphere on a marble pedestal in the Nikola Tesla Museum. His archive consists of over 160,000 documents and is included in the UNESCO Memory of the World Programme.",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' provides relevant historical background on Nikola Tesla.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Marie Curie",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Marie Curie",
+      "source_url": "https://en.wikipedia.org/wiki/Marie%20Curie",
+      "exact_source_passage": "The physical and societal aspects of the Curies' work contributed to shaping the world of the twentieth and twenty-first centuries. Curie's work laid the foundation for modern nuclear physics, cancer treatments, and radiography. Her techniques for isolating radioactive isotopes are still used in research and medicine.  Cornell University professor L. Pearce Williams observes:",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' provides relevant historical background on Marie Curie.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Mahatma Gandhi",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Mahatma Gandhi",
+      "source_url": "https://en.wikipedia.org/wiki/Mahatma%20Gandhi",
+      "exact_source_passage": "Gandhi is noted as the greatest figure of the successful Indian independence movement against the British rule. He is also hailed as the greatest figure of modern India. Accordingly he has left a substantial cultural legacy.",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Albert Einstein",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Albert Einstein",
+      "source_url": "https://en.wikipedia.org/wiki/Albert%20Einstein",
+      "exact_source_passage": "Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called \"the world's most famous equation\". He received the 1921 Nobel Prize in Physics for \"his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\".",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Igor Stravinsky",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Igor Stravinsky",
+      "source_url": "https://en.wikipedia.org/wiki/Igor%20Stravinsky",
+      "exact_source_passage": "Stravinsky worked with some of the most famous artists of his time, many of whom he met after achieving international success with The Firebird. Diaghilev was one of Stravinsky's most prominent artistic influences, having introduced him to composing for the stage and bringing him international fame with his first three ballets. Through the Ballets Russes and Diaghilev, Stravinsky worked with figures like Vaslav Nijinsky, Léonide Massine, Alexandre Benois, Michel Fokine, and Léon Bakst.",
+      "source_section": "Artistic influences",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Artistic influences' provides relevant historical background on Igor Stravinsky.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "James Joyce",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "James Joyce",
+      "source_url": "https://en.wikipedia.org/wiki/James%20Joyce",
+      "exact_source_passage": "Joyce's work still has a profound influence on contemporary culture. Ulysses is a model for fiction writers, particularly its explorations into the power of language. Its emphasis on the details of everyday life has opened up new possibilities of expression for authors, painters and film-makers. It retains its prestige among readers, often ranking high on 'Great Book' lists. Joyce's innovations extend beyond English literature: his writing has been an inspiration for Latin American writers, and Finnegans Wake has become one of the key texts for French post-structuralism.",
+      "source_section": "Legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Legacy' provides relevant historical background on James Joyce.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Virginia Woolf",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Virginia Woolf",
+      "source_url": "https://en.wikipedia.org/wiki/Virginia%20Woolf",
+      "exact_source_passage": "Sybil Oldfield examines Woolf's convinced pacifism, its sources and its expression in her life and works.",
+      "source_section": "Influences",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Influences' provides relevant historical background on Virginia Woolf.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Ernest Hemingway",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Ernest Hemingway",
+      "source_url": "https://en.wikipedia.org/wiki/Ernest%20Hemingway",
+      "exact_source_passage": "Hemingway's legacy to American literature is his style: writers who came after him either emulated or avoided it. After his reputation was established with the publication of The Sun Also Rises, he became the spokesperson for the post–World War I generation, having established a style to follow. His books were burned in Berlin in 1933, \"as being a monument of modern decadence\", and disavowed by his parents as \"filth\". Reynolds asserts the legacy is that \"[Hemingway] left stories and novels so starkly moving that some have become part of our cultural heritage.\"",
+      "source_section": "Influence and legacy",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Influence and legacy' provides relevant historical background on Ernest Hemingway.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Richard Feynman",
+      "classification": "INSUFFICIENT_SOURCE",
+      "exact_reason": "Passage discusses 1996 media portrayals and movies rather than his quantum electrodynamics contributions.",
+      "missing_evidence_description": "Missing scientific evidence on his Nobel-winning quantum electrodynamics and Feynman diagrams.",
+      "source_title": "Richard Feynman",
+      "source_url": "https://en.wikipedia.org/wiki/Richard%20Feynman",
+      "source_section": "Popular legacy",
+      "exact_source_passage": "Aspects of Feynman's life have been portrayed in various media. Feynman was portrayed by Matthew Broderick in the 1996 biopic Infinity. Actor Alan Alda commissioned playwright Peter Parnell to write a two-character play about a fictional day in the life of Feynman set two years before Feynman's death. The play, QED, premiered at the Mark Taper Forum in Los Angeles in 2001 and was later presented at the Vivian Beaumont Theater on Broadway, with both productions starring Alda as Richard Feynman. Real Time Opera premiered its opera Feynman at the Norfolk (Connecticut) Chamber Music Festival in June 2005. In 2011, Feynman was the subject of a biographical graphic novel entitled simply Feynman, written by Jim Ottaviani and illustrated by Leland Myrick. In 2013, Feynman's role on the Rogers Commission was dramatized by the BBC in The Challenger (US title: The Challenger Disaster), with William Hurt playing Feynman. In 2016, Oscar Isaac performed a public reading of Feynman's 1946 love letter to the late Arline. In the 2023 American film Oppenheimer, directed by Christopher Nolan and based on American Prometheus, Feynman is portrayed by actor Jack Quaid."
+    },
+    {
+      "person": "Yuri Gagarin",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Yuri Gagarin",
+      "source_url": "https://en.wikipedia.org/wiki/Yuri%20Gagarin",
+      "exact_source_passage": "Yuri Alekseyevich Gagarin (9 March 1934 – 27 March 1968) was a Soviet pilot and cosmonaut who became the first person to journey into outer space during the first successful crewed spaceflight. He was launched from the Baikonur Cosmodrome in the Kazakh SSR. Travelling on Vostok 1, Gagarin completed one orbit of Earth on 12 April 1961. The flight took 108 minutes. By achieving this major milestone for the Soviet Union amidst the Space Race, he became an international celebrity and earned numerous accolades, including his country's highest distinction: Hero of the Soviet Union.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Yuri Gagarin.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Muhammad Ali",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Muhammad Ali",
+      "source_url": "https://en.wikipedia.org/wiki/Muhammad%20Ali",
+      "exact_source_passage": "Muhammad Ali ( ah-LEE; born Cassius Marcellus Clay Jr.; January 17, 1942 – June 3, 2016) was an American professional boxer and activist. A global cultural icon, widely known by the nickname \"the Greatest\", he is often regarded as the greatest heavyweight boxer of all time. He held the Ring magazine heavyweight title from 1964 to 1970, was the undisputed champion from 1974 to 1978, and was the WBA and Ring heavyweight champion from 1978 to 1979. In 1999, he was named Sportsman of the Century by Sports Illustrated and the Sports Personality of the Century by the BBC.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' provides relevant historical background on Muhammad Ali.",
+      "confidence": "HIGH"
+    },
+    {
+      "person": "Steve Jobs",
+      "classification": "VALID_HISTORICAL_SIGNIFICANCE",
+      "source_title": "Steve Jobs",
+      "source_url": "https://en.wikipedia.org/wiki/Steve%20Jobs",
+      "exact_source_passage": "Steven Paul Jobs  (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+      "source_section": "Lead",
+      "explanation_of_why_it_supports_historical_significance": "Passage from Wikipedia section 'Lead' explicitly documents historical legacy, accomplishments, and civilization-scale impact.",
+      "confidence": "HIGH"
+    }
+  ],
+  "application_data_modified": false,
+  "source_package_modified": false,
+  "final_status": "PASS"
+}

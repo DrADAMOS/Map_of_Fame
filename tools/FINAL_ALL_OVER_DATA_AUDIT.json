@@ -1,0 +1,544 @@
+{
+  "audit_type": "FINAL_ALL_OVER_DATA_AUDIT",
+  "read_only": true,
+  "files_modified": 0,
+  "summary": {
+    "PEOPLE_AUDITED": 289,
+    "LANGUAGES_AUDITED": 14,
+    "TOTAL_PERSON_LANGUAGE_RECORDS": 4046,
+    "CRITICAL_ISSUES": 0,
+    "HIGH_ISSUES": 1,
+    "MEDIUM_ISSUES": 59,
+    "LOW_ISSUES": 0,
+    "INFO_ISSUES": 4,
+    "FINAL_STATUS": "FAIL"
+  },
+  "identity_integrity": {
+    "i18n_person_count": 289,
+    "quiz_person_count": 297,
+    "unresolved_identities": 0
+  },
+  "language_integrity": {
+    "expected_languages": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "tr",
+      "ru",
+      "ja",
+      "zh",
+      "hi",
+      "id",
+      "fa"
+    ],
+    "missing_language_blocks": 0
+  },
+  "field_completeness": {
+    "missing_fields": 0,
+    "insufficient_source_stubs": 0,
+    "field_completeness_by_language": {
+      "ar": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "en": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "es": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "fr": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "de": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "pt": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "it": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "tr": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "ru": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "ja": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "zh": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "hi": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "id": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      },
+      "fa": {
+        "bio": 0,
+        "achievements": 0,
+        "key_facts": 0,
+        "historical_significance": 0
+      }
+    }
+  },
+  "duplicates": {
+    "exact_duplicate_pairs": 48,
+    "cross_person_duplicates": 0
+  },
+  "semantic_duplicates": {
+    "semantic_duplicate_pairs": 48
+  },
+  "field_appropriateness": {
+    "template_suspicious": 1
+  },
+  "content_quality": {
+    "quality_issues": 11,
+    "wikipedia_heading_artifacts": [
+      "Marcus Aurelius",
+      "Hannibal Barca",
+      "Saladin",
+      "Caravaggio",
+      "Michael Faraday",
+      "Giuseppe Verdi",
+      "James Clerk Maxwell",
+      "Gustav Mahler",
+      "Sun Yat-sen",
+      "Martin Luther King",
+      "Bob Marley"
+    ]
+  },
+  "language_contamination": {
+    "contamination_detected": 4,
+    "real_contamination": 0,
+    "legitimate_foreign_names": 4
+  },
+  "cross_person_integrity": {
+    "cross_person_contamination": 0
+  },
+  "provenance_integrity": {
+    "source_packages_available": true
+  },
+  "repair_verification": {
+    "key_facts_58_status": "CLEAN",
+    "achievements_11_status": "CLEAN",
+    "historical_significance_13_status": "CLEAN",
+    "repaired_four_status": "CLEAN"
+  },
+  "quiz_integrity": {
+    "json_quiz_valid": true,
+    "quiz_person_count": 297
+  },
+  "js_mirror_integrity": {
+    "js_mirror_exists": true,
+    "status": "SYNCED_OR_STANDALONE"
+  },
+  "issues": [
+    {
+      "person": "Marcus Aurelius",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Hannibal Barca",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Pyrrhus of Epirus",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Attila the Hun",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Diogenes",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Thucydides",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Socrates",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Euripides",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Justinian I",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Herodotus",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Sophocles",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Pythagoras",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Charlemagne",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Al-Khwarizmi",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Al-Kindi",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Thabit ibn Qurra",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Ahmad ibn Tulun",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Abd al-Rahman III",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Al-Mutanabbi",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Avicenna",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Al-Idrisi",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Frederick Barbarossa",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "achievements == key_facts"
+    },
+    {
+      "person": "Saladin",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Frederick II",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "achievements == key_facts"
+    },
+    {
+      "person": "Ibn Khaldun",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Ferdinand II",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Suleiman",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Charles V",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Oda Nobunaga",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Oda Nobunaga",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "achievements == key_facts"
+    },
+    {
+      "person": "Toyotomi Hideyoshi",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "El Greco",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "achievements == key_facts"
+    },
+    {
+      "person": "Akbar",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Tokugawa Ieyasu",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Tokugawa Ieyasu",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "achievements == key_facts"
+    },
+    {
+      "person": "Shah Abbas I",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Caravaggio",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Isaac Newton",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "George Washington",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Arthur Wellesley",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Michael Faraday",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Thomas Edison",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Omar al-Mukhtar",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Gustav Mahler",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Sun Yat-sen",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Wassily Kandinsky",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "achievements == key_facts"
+    },
+    {
+      "person": "King Faisal I",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Taha Hussein",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Mother Teresa",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "John F. Kennedy",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Nelson Mandela",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Martin Luther King",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Saddam Hussein",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Qaboos bin Said",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Bob Marley",
+      "type": "QUALITY_WIKIPEDIA_HEADING",
+      "severity": "MEDIUM",
+      "description": "Contains Wikipedia heading or markup artifact"
+    },
+    {
+      "person": "Ahmed Zewail",
+      "type": "DUPLICATE_FIELD_PAIR",
+      "severity": "MEDIUM",
+      "description": "bio == historical_significance"
+    },
+    {
+      "person": "Steve Jobs",
+      "type": "GENERIC_TEMPLATE_STRING",
+      "severity": "HIGH",
+      "description": "Contains fallback template string in achievements"
+    }
+  ],
+  "final_status": "FAIL"
+}

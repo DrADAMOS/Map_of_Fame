@@ -1,0 +1,637 @@
+{
+  "audit_type": "FINAL_ALL_OVER_DATA_AUDIT",
+  "read_only": true,
+  "files_modified": 0,
+  "summary": {
+    "TOTAL_PEOPLE": 289,
+    "EXPECTED_LANGUAGES": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "tr",
+      "ru",
+      "ja",
+      "zh",
+      "hi",
+      "id",
+      "fa"
+    ],
+    "ACTUAL_LANGUAGES": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fa",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ],
+    "TOTAL_PERSON_LANGUAGE_RECORDS": 4046,
+    "CRITICAL": 0,
+    "HIGH": 1,
+    "MEDIUM": 59,
+    "LOW": 0,
+    "INFO": 29,
+    "FINAL_STATUS": "FAIL"
+  },
+  "identity_integrity": {
+    "verified": 0,
+    "mapped_aliases": 0,
+    "unresolved": 0,
+    "missing_from_review": 0,
+    "extra_review_entries": 0
+  },
+  "language_integrity": {
+    "expected_languages": [
+      "ar",
+      "en",
+      "es",
+      "fr",
+      "de",
+      "pt",
+      "it",
+      "tr",
+      "ru",
+      "ja",
+      "zh",
+      "hi",
+      "id",
+      "fa"
+    ],
+    "actual_languages_found": [
+      "ar",
+      "de",
+      "en",
+      "es",
+      "fa",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "pt",
+      "ru",
+      "tr",
+      "zh"
+    ],
+    "missing_language_blocks": 0
+  },
+  "field_completeness": {
+    "total_completeness_issues": 0
+  },
+  "duplicates": {
+    "exact_duplicates_cnt": 48,
+    "real_duplicates": 48,
+    "legitimate_overlaps": 0,
+    "uncertain_duplicates": 0,
+    "evidence_list": [
+      {
+        "person": "Pyrrhus of Epirus",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "King of Epirus and a celebrated Hellenistic commander who fought Rome in southern Italy and later campaigned in Sicily and Greece.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Attila the Hun",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "King of the Huns who built a powerful confederation and exerted military pressure on both the Eastern and Western Roman Empires.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Diogenes",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Greek Cynic philosopher from Sinope who promoted radical self-sufficiency, austerity, and criticism of conventional social values.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Thucydides",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Athenian historian and former military commander whose History of the Peloponnesian War established a rigorous model for analyzing political and military events.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Socrates",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Athenian philosopher known through the writings of Plato, Xenophon, and other ancient authors for his questioning method and emphasis on ethical self-examination.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Euripides",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Athenian tragedian whose plays introduced psychologically complex characters and challenged conventional treatments of myth, gender, and social power.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Justinian I",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Byzantine emperor whose reign sought to restore Roman territories, reform imperial law, and strengthen Constantinople as the center of the eastern Roman Empire.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Herodotus",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Greek historian from Halicarnassus whose Histories investigated the causes and course of the Greco-Persian Wars while preserving information about many peoples and cultures.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Sophocles",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Athenian tragedian whose plays combined dramatic structure with powerful explorations of fate, responsibility, and human suffering.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Pythagoras",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Greek philosopher and mathematician associated with a religious and intellectual community whose ideas influenced later Greek philosophy and mathematics.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Charlemagne",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Charlemagne, king of the Franks and Lombards and later emperor, built a large Carolingian realm through conquest and strengthened it through administrative, legal, educational, and religious reforms",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Al-Khwarizmi",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Mathematical genius, invented Algebra.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Al-Kindi",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Al-Kindi was a philosopher and polymath from Kufa who worked in Baghdad and participated in the Abbasid translation movement.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Thabit ibn Qurra",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Thabit ibn Qurra was a mathematician, astronomer, physician and translator from Harran who became a leading scholar in Baghdad.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Ahmad ibn Tulun",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Ahmad ibn Tulun was the Abbasid governor of Egypt who established effective autonomy there and founded the Tulunid dynasty.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Abd al-Rahman III",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Abd al-Rahman III was the Umayyad emir of Córdoba from 912 and proclaimed himself caliph in 929, ruling until 961.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Al-Mutanabbi",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "One of the most influential poets in Arabic.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Avicenna",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Muslim polymath and physician.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Yusuf ibn Tashfin",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Yusuf ibn Tashfin was the leading ruler of the Almoravid Empire in the late 11th and early 12th centuries and expanded Almoravid power across the Maghreb and al-Andalus.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Al-Idrisi",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Al-Idrisi was a medieval geographer and cartographer who worked at the court of King Roger II of Sicily and created the Tabula Rogeriana.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Frederick Barbarossa",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "language": "en",
+        "exact_text": "[\"Frederick Barbarossa (December 1122 \\u2013 10 June 1190), also known as Frederick I ( German: Friedrich ; Italian: Federico ), was the Holy Roman Emperor from 1155 until his death in 1190.\", \"He was elected King of Germany in Frankfurt on 4 March 1152 and crowned in Aachen on 9 March 1152.\", \"He was crowned King of Italy on 24 April 1155 in Pavia and emperor by Pope Adrian IV on 18 June 1155 in Rome.\"]",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English key_facts verbatim repeats the English achievements array."
+      },
+      {
+        "person": "Frederick II",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "language": "en",
+        "exact_text": "[\"Frederick II , Frederik II or Friedrich II may refer to:\"]",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English key_facts verbatim repeats the English achievements array."
+      },
+      {
+        "person": "Ibn Khaldun",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Historian and philosopher.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Ferdinand II",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Ferdinand II of Aragon, known as Ferdinand the Catholic, was king of Aragon and co-ruler of Castile with Isabella I, helping establish the foundations of the Spanish monarchy.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Suleiman",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Longest-reigning Ottoman Sultan.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Charles V",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Charles V was Holy Roman Emperor and king of Spain, ruling a vast Habsburg realm across Europe and the Americas.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Oda Nobunaga",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Oda Nobunaga was a military leader who played a central role in the unification of Japan.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Oda Nobunaga",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "language": "en",
+        "exact_text": "[\"Oda Nobunaga ( \\u7e54\\u7530 \\u4fe1\\u9577 ; ; 23 June 1534 \\u2013 21 June 1582) was a Japanese samurai and daimy\\u014d and one of the leading figures of the Sengoku and Azuchi-Momoyama periods .\", \"' person under heaven ' ) and regarded as the first \\\"Great Unifier\\\" of Japan.\", \"He is sometimes referred as the \\\"Demon Daimy\\u014d\\\" and \\\"Demon King of the Sixth Heaven\\\".\"]",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English key_facts verbatim repeats the English achievements array."
+      },
+      {
+        "person": "Toyotomi Hideyoshi",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Toyotomi Hideyoshi completed the unification of Japan and established influential military and administrative reforms.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "El Greco",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "language": "en",
+        "exact_text": "[\"Dom\\u00e9nikos Theotok\\u00f3poulos ( Greek : \\u0394\\u03bf\\u03bc\\u03ae\\u03bd\\u03b9\\u03ba\\u03bf\\u03c2 \\u0398\\u03b5\\u03bf\\u03c4\\u03bf\\u03ba\\u03cc\\u03c0\\u03bf\\u03c5\\u03bb\\u03bf\\u03c2 , pronounced ; 1 October 1541 \\u2013 7 April 1614), most widely known as El Greco ( Spanish pronunciation: ; \\\"The Greek\\\"), was a Greek painter, sculptor and architect of the Spanish Renaissance , regarded as one of the greatest artists of all time.\", \"El Greco was a nickname , and the artist normally signed his paintings with his full birth name in Greek letters often adding the word \\u039a\\u03c1\\u03ae\\u03c2 ( Kr\\u1e17s ), which means \\\" Cretan \\\" in Ancient Greek .\", \"El Greco was born in the Kingdom of Candia (modern Crete ), which was at that time part of the Republic of Venice , and the center of Post-Byzantine art .\"]",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English key_facts verbatim repeats the English achievements array."
+      },
+      {
+        "person": "Akbar",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Jalal al-Din Akbar was a Mughal emperor known for effective administration and religious tolerance.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Tokugawa Ieyasu",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Tokugawa Ieyasu founded the Tokugawa shogunate and unified Japan after a long period of civil war.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Tokugawa Ieyasu",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "language": "en",
+        "exact_text": "[\"Tokugawa Ieyasu (born Matsudaira Takechiyo ; January 31, 1543 \\u2013 June 1, 1616) was a Japanese samurai , daimyo and the founder and first shogun of the Tokugawa shogunate of Japan, which ruled from 1603 until the Meiji Restoration in 1868.\", \"He was the third of the three \\\"Great Unifiers\\\" of Japan, along with his former lord Oda Nobunaga and fellow Oda subordinate Toyotomi Hideyoshi .\", \"The son of a minor daimyo, Ieyasu once lived as a hostage under daimyo Imagawa Yoshimoto on behalf of his father.\"]",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English key_facts verbatim repeats the English achievements array."
+      },
+      {
+        "person": "Shah Abbas I",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Shah Abbas I strengthened the Safavid state, reorganized its army, and encouraged trade, art, and architecture.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Isaac Newton",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Physicist and mathematician.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "George Washington",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "George Washington ( February 22, 1732 – December 14 , 1799) was a Founding Father and the first president of the United States , serving from 1789 to 1797.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Arthur Wellesley",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Arthur Wellesley, 1st Duke of Wellington, was a British field marshal and statesman who became one of the leading military and political figures of the early nineteenth century.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Thomas Edison",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Greatest American inventor.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Omar al-Mukhtar",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Leader of the Libyan resistance.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Wassily Kandinsky",
+        "field_a": "achievements",
+        "field_b": "key_facts",
+        "language": "en",
+        "exact_text": "[\"4 December ] 1866 \\u2013 13 December 1944) was a Russian painter and art theorist active in Germany during the late Belle \\u00c9poque and Interwar eras .\", \"Kandinsky is generally credited as one of the pioneers of abstraction in Western art .\"]",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English key_facts verbatim repeats the English achievements array."
+      },
+      {
+        "person": "King Faisal I",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Founder of the modern Iraqi state.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Taha Hussein",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Icon of modern Arabic literature.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Mother Teresa",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Mother Teresa, born Agnes Gonxha Bojaxhiu, was a Catholic nun who founded the Missionaries of Charity and devoted her life to serving poor and sick people in India.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "John F. Kennedy",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "President during Cold War.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Nelson Mandela",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "First black president of SA.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Saddam Hussein",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Ruled Iraq for over two decades.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Qaboos bin Said",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Transformed Oman into a modern state.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      },
+      {
+        "person": "Ahmed Zewail",
+        "field_a": "bio",
+        "field_b": "historical_significance",
+        "language": "en",
+        "exact_text": "Egyptian scientist, Nobel Prize winner.",
+        "classification": "REAL_DUPLICATE",
+        "reason": "English historical_significance verbatim repeats the entire English bio string."
+      }
+    ]
+  },
+  "semantic_duplicates": {
+    "same_fact_cnt": 0,
+    "related_cnt": 0,
+    "different_cnt": 0,
+    "uncertain_cnt": 0,
+    "evidence_list": []
+  },
+  "field_appropriateness": {
+    "field_mismatches": 0
+  },
+  "content_quality": {
+    "quality_issues_cnt": 11,
+    "wikipedia_artifacts": [
+      {
+        "person": "Marcus Aurelius",
+        "field": "historical_significance",
+        "affected_text": "=== Equestrian statue ===. The equestrian statue of Marcus Aurelius in Rome is the only Roman equestrian statue which has survived into the modern period."
+      },
+      {
+        "person": "Hannibal Barca",
+        "field": "historical_significance",
+        "affected_text": "=== Ancient world ===. Hannibal caused great distress to many in Roman society."
+      },
+      {
+        "person": "Saladin",
+        "field": "historical_significance",
+        "affected_text": "=== Muslim world ===. Saladin has become a prominent figure in Muslim, Arab, Turkish and Kurdish culture, and he has been described as the most famous Kurd in history."
+      },
+      {
+        "person": "Caravaggio",
+        "field": "bio",
+        "affected_text": "=== Early life (1571–1592) ===. Caravaggio (Michelangelo Merisi or Amerighi) was born in Milan, where his father, Fermo (Fermo Merixio), was a household administrator and architect-decorator to the marquess of Caravaggio, a town 35 km (22 mi) to the east of Milan and south of Bergamo. It was previously assumed that he had been born in Caravaggio."
+      },
+      {
+        "person": "Michael Faraday",
+        "field": "bio",
+        "affected_text": "=== Early life ===. Michael Faraday was born on 22 September 1791 in Newington Butts, Surrey, which is now part of the London Borough of Southwark. His family was not well off."
+      },
+      {
+        "person": "Giuseppe Verdi",
+        "field": "historical_significance",
+        "affected_text": "=== Reception ===. Although Verdi's operas brought him a popular following, not all contemporary critics approved of his work."
+      },
+      {
+        "person": "James Clerk Maxwell",
+        "field": "historical_significance",
+        "affected_text": "=== Recognition ===. In a survey of the 100 most prominent physicists conducted by Physics World, Maxwell was voted the third greatest physicist of all time, behind only Isaac Newton and Albert Einstein."
+      },
+      {
+        "person": "Gustav Mahler",
+        "field": "bio",
+        "affected_text": "=== Family background ===. The Mahler family came from eastern Bohemia, now in the Czech Republic, and were of humble circumstances—the composer's grandmother had been a street pedlar. Bohemia was then part of the Austrian Empire; the Mahler family belonged to a German-speaking minority among Bohemians, and was also Jewish."
+      },
+      {
+        "person": "Sun Yat-sen",
+        "field": "historical_significance",
+        "affected_text": "=== Power struggle ===. After Sun's death, Wang Jingwei became the first president of the Nationalist government, which soon fragmented into three competing factions: the center-right Nanjing government led by Chiang Kai-shek, the leftist Wuhan government led by Wang Jingwei, and the far-right Western Hills Group, originally convened in Beijing, which maintained its own Central Executive Committee in Shanghai."
+      },
+      {
+        "person": "Martin Luther King",
+        "field": "historical_significance",
+        "affected_text": "=== South Africa ===. King's legacy includes influences on the Black Consciousness Movement and civil rights movement in South Africa."
+      },
+      {
+        "person": "Bob Marley",
+        "field": "historical_significance",
+        "affected_text": "=== Awards and honours ===. 1976: Rolling Stone magazine's \"Band of the Year\"."
+      }
+    ]
+  },
+  "language_contamination": {
+    "real_language_contamination": [
+      {
+        "language": "en",
+        "person": "Dmitri Mendeleev",
+        "field": "achievements",
+        "text": "['Периодический закон (DjVu).', '// Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers.', 'Периодический закон.']",
+        "contamination_type": "RAW_RUSSIAN_CITATION",
+        "severity": "HIGH"
+      }
+    ]
+  },
+  "cross_person_integrity": {
+    "cross_person_issues": []
+  },
+  "provenance_integrity": {
+    "provenance_issues_cnt": 0
+  },
+  "repair_verification": {
+    "key_facts_58_clean": true,
+    "achievements_11_clean": true,
+    "hs_4_clean": true,
+    "hs_13_clean": true
+  },
+  "quiz_integrity": {
+    "quiz_valid": true,
+    "quiz_people_cnt": 297,
+    "quiz_issues_cnt": 0
+  },
+  "js_mirror_integrity": {
+    "js_exists": true,
+    "js_people_cnt": 4623,
+    "notes": "JavaScript runtime file person_i18n.js contains web/app bundle data."
+  },
+  "final_status": "FAIL"
+}

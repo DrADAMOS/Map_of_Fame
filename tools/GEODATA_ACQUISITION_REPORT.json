@@ -1,0 +1,124 @@
+{
+  "DATA_ACQUISITION_STATUS": "PASS",
+  "LAND_DATA": "PASS",
+  "OCEAN_DATA": "PASS",
+  "LAKES_DATA": "PASS",
+  "MINOR_ISLANDS_DATA": "PASS",
+  "ICE_SHELF_DATA": "PASS",
+  "datasets_detail": {
+    "LAND_DATA": {
+      "zip_filename": "ne_10m_land.zip",
+      "zip_exists": true,
+      "zip_size": 3269070,
+      "sha256": "e547d749445eaa0964aba76738090ec88f5e63c4585122170f98c67a7ea922dc",
+      "is_valid_zip": true,
+      "shp_filename": "ne_10m_land\\ne_10m_land.shp",
+      "geopandas_success": true,
+      "feature_count": 11,
+      "geometry_types": [
+        "MultiPolygon",
+        "Polygon"
+      ],
+      "crs": "EPSG:4326",
+      "bbox": [
+        -179.99999999999991,
+        -89.99999999999994,
+        180.0,
+        83.63410065300008
+      ],
+      "source_url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/",
+      "validation_status": "PASS"
+    },
+    "OCEAN_DATA": {
+      "zip_filename": "ne_10m_ocean.zip",
+      "zip_exists": true,
+      "zip_size": 3189765,
+      "sha256": "db626fcd5d50b096b156c78a2cc95011b39f32a61b4e47d147e3f7a77b8b2719",
+      "is_valid_zip": true,
+      "shp_filename": "ne_10m_ocean\\ne_10m_ocean.shp",
+      "geopandas_success": true,
+      "feature_count": 1,
+      "geometry_types": [
+        "MultiPolygon"
+      ],
+      "crs": "EPSG:4326",
+      "bbox": [
+        -179.99999999999991,
+        -85.22193775799991,
+        180.0,
+        90.00000000000006
+      ],
+      "source_url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/",
+      "validation_status": "PASS"
+    },
+    "LAKES_DATA": {
+      "zip_filename": "ne_10m_lakes.zip",
+      "zip_exists": true,
+      "zip_size": 2349685,
+      "sha256": "0803a06f9c3cb4671d89b68c48b142aad9366ba40f665245e12a913fbc61722a",
+      "is_valid_zip": true,
+      "shp_filename": "ne_10m_lakes\\ne_10m_lakes.shp",
+      "geopandas_success": true,
+      "feature_count": 1355,
+      "geometry_types": [
+        "Polygon",
+        "MultiPolygon"
+      ],
+      "crs": "EPSG:4326",
+      "bbox": [
+        -165.96558168829336,
+        -50.66966651748362,
+        177.1543791606897,
+        81.95520786930868
+      ],
+      "source_url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/",
+      "validation_status": "PASS"
+    },
+    "MINOR_ISLANDS_DATA": {
+      "zip_filename": "ne_10m_minor_islands.zip",
+      "zip_exists": true,
+      "zip_size": 314932,
+      "sha256": "47c0b3ce26df7b4dbabdbb251023918cb2f5c83462a426288f1f253da7284db2",
+      "is_valid_zip": true,
+      "shp_filename": "ne_10m_minor_islands\\ne_10m_minor_islands.shp",
+      "geopandas_success": true,
+      "feature_count": 2795,
+      "geometry_types": [
+        "Polygon"
+      ],
+      "crs": "EPSG:4326",
+      "bbox": [
+        -179.9576309889999,
+        -76.12184010199991,
+        179.50464928500003,
+        81.34483470300006
+      ],
+      "source_url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/",
+      "validation_status": "PASS"
+    },
+    "ICE_SHELF_DATA": {
+      "zip_filename": "ne_10m_antarctic_ice_shelves_polys.zip",
+      "zip_exists": true,
+      "zip_size": 163651,
+      "sha256": "1d421d2487e2721a6e0aee8187e008c9bd8f0adbf4a5297b8503f7bf3c30b04d",
+      "is_valid_zip": true,
+      "shp_filename": "ne_10m_antarctic_ice_shelves_polys\\ne_10m_antarctic_ice_shelves_polys.shp",
+      "geopandas_success": true,
+      "feature_count": 159,
+      "geometry_types": [
+        "Polygon",
+        "MultiPolygon"
+      ],
+      "crs": "EPSG:4326",
+      "bbox": [
+        -179.99998938710374,
+        -85.22210242610454,
+        180.00000000000006,
+        -64.52483680110458
+      ],
+      "source_url": "https://www.naturalearthdata.com/downloads/10m-physical-vectors/",
+      "validation_status": "PASS"
+    }
+  },
+  "RUNTIME_MODIFIED": "NO"
+}

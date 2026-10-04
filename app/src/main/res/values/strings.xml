@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Map of Fame</string>
+    <string name="choose_age_group">Choose your age group</string>
+    <string name="age_group_desc">This helps us provide age-appropriate content.</string>
+    <string name="under_13">Under 13</string>
+    <string name="age_13_17">13–17</string>
+    <string name="age_18_plus">18+</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="toggle_theme">Toggle Theme</string>
+
+    <string name="loading_decrypting">Decrypting History…</string>
+    <string name="loading_drawing">Drawing Borders…</string>
+    <string name="loading_locating">Locating Legends…</string>
+    <string name="loading_ready">Ready to Start!</string>
+
+    <string name="error_loading_game">Unable to load game</string>
+    <string name="retry">Retry</string>
+</resources>

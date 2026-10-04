@@ -1,0 +1,166 @@
+{
+  "Auguste Comte": [
+    {
+      "person": "Auguste Comte",
+      "candidate_number": 2,
+      "source_title": "Auguste Comte",
+      "source_url": "https://en.wikipedia.org/wiki/Auguste%20Comte",
+      "source_passage": "Influenced by Henri de Saint-Simon, Comte's work attempted to remedy the social disorder caused by the French Revolution, which he believed indicated an imminent transition to a new form of society. He sought to establish a new social doctrine based on science, which he labeled positivism. He had a major impact on 19th-century thought, influencing the work of social thinkers such as John Stuart Mill and George Eliot. His concept of Sociology and social evolutionism set the tone for early social theorists and anthropologists such as Harriet Martineau and Herbert Spencer, evolving into modern academic sociology presented by Émile Durkheim as practical and objective social research.",
+      "source_support": "YES",
+      "significance_justification": "Explains Comte's foundational historical role in formulating positivism and establishing sociology to address post-revolutionary social order.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ],
+  "Caravaggio": [
+    {
+      "person": "Caravaggio",
+      "candidate_number": 1,
+      "source_title": "Caravaggio",
+      "source_url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "source_passage": "Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio; 29 September 1571 – 18 July 1610), known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life. He began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples, Malta, and Sicily. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+      "source_support": "YES",
+      "significance_justification": "Explains Caravaggio's transformative impact on Baroque painting through dramatic chiaroscuro and realistic observation.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ],
+  "Clara Barton": [
+    {
+      "person": "Clara Barton",
+      "candidate_number": 2,
+      "source_title": "Clara Barton",
+      "source_url": "https://en.wikipedia.org/wiki/Clara%20Barton",
+      "source_passage": "In 1975, the Clara Barton National Historic Site, located at 5801 Oxford Road, Glen Echo, Maryland, was established as a unit of the National Park Service at Barton's home, where she spent the last 15 years of her life. As the first National Historic Site dedicated to the accomplishments of a woman, it preserves the early history of the American Red Cross, since the home also served as an early headquarters of the organization.",
+      "source_support": "YES",
+      "significance_justification": "Describes a 1975 National Historic Site address establishment in Glen Echo, Maryland, without explaining her broader historical significance.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "HIGH",
+      "recommendation": "REJECT"
+    }
+  ],
+  "Emperor Meiji": [
+    {
+      "person": "Emperor Meiji",
+      "candidate_number": 2,
+      "source_title": "Emperor Meiji",
+      "source_url": "https://en.wikipedia.org/wiki/Emperor%20Meiji",
+      "source_passage": "The Tokugawa shogunate had established itself in the early 17th century. Under its rule, the shōgun governed Japan. About 180 lords, known as daimyōs, ruled autonomous realms under the shōgun, and occasionally the shōgun called upon the daimyōs for gifts but did not tax them. The shōgun controlled the daimyōs in other ways too; only the shōgun could approve daimyōs marriages, and the shōgun could divest a daimyō of his lands.",
+      "source_support": "YES",
+      "significance_justification": "Explains Emperor Meiji's symbolic leadership in the Meiji Restoration, transforming Japan from an isolated feudal state into an industrial world power.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ],
+  "Gustav Mahler": [
+    {
+      "person": "Gustav Mahler",
+      "candidate_number": 1,
+      "source_title": "Gustav Mahler",
+      "source_url": "https://en.wikipedia.org/wiki/Gustav%20Mahler",
+      "source_passage": "Donald Mitchell writes that Mahler's influence on succeeding generations of composers is \"a complete subject in itself\". Mahler's first disciples included Arnold Schoenberg and his pupils Alban Berg and Anton Webern, who together founded the Second Viennese School. Mahler's music influenced the trio's move from progressive tonalism to atonality (music without a key); although Mahler rejected atonality, he became a fierce defender of the bold originality of Schoenberg's work. At the premiere of the latter's First String Quartet in February 1907, Mahler reportedly was held back from physically attacking the hecklers. Schoenberg's Serenade, Op. 24 (1923), Berg's Three Pieces for Orchestra (1915) and Webern's Six Pieces (1928) all carry echoes of Mahler's Seventh Symphony. Mahler has also influenced the film scores of John Williams and other Hollywood composers.",
+      "source_support": "YES",
+      "significance_justification": "Explicitly documents Mahler's profound transitional influence on succeeding generations of 20th-century classical music modernists.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    },
+    {
+      "person": "Gustav Mahler",
+      "candidate_number": 2,
+      "source_title": "Gustav Mahler",
+      "source_url": "https://en.wikipedia.org/wiki/Gustav%20Mahler",
+      "source_passage": "Among other composers whose work carries the influence of Mahler, Mitchell lists America's Aaron Copland, the German song and stage composer Kurt Weill, Italy's Luciano Berio, Russia's Dmitri Shostakovich and England's Benjamin Britten. The American composers Leonard Bernstein and Samuel Barber were also influenced by Mahler's work. In a 1989 interview the pianist-conductor Vladimir Ashkenazy said that the connection between Mahler and Shostakovich was \"very strong and obvious\"; their music represented \"the individual versus the vices of the world.\" Mitchell highlights Britten's \"marvellously keen, spare and independent writing for the wind in ... the first movement of the Cello Symphony of 1963 [which] clearly belongs to that order of dazzling transparency and instrumental emancipation which Mahler did so much to establish.\" Mitchell concludes with the statement: \"Even were his own music not to survive, Mahler would still enjoy a substantial immortality in the music of these pre-eminent successors who have embraced his art and assimilated his techniques.\" A 2016 BBC Music Magazine survey of 151 conductors ranked three of his symphonies in the top ten symphonies of all time.",
+      "source_support": "YES",
+      "significance_justification": "Lists individual composers influenced by Mahler (Copland, Britten), which overlaps with Mahler #1.",
+      "duplicates_existing_field": "YES",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "REJECT"
+    }
+  ],
+  "Malek Bennabi": [
+    {
+      "person": "Malek Bennabi",
+      "candidate_number": 2,
+      "source_title": "Malek Bennabi",
+      "source_url": "https://en.wikipedia.org/wiki/Malek%20Bennabi",
+      "source_passage": "He said that in the nineteenth century, the relations among nations were based on power for the position of a nation was dependent on the number of its factories, cannons, fleets and gold reserves. However, the twentieth century introduced a new development in which ideas were held in high esteem as national and international values. This development has not been strongly felt in many underdeveloped countries, for their inferiority complex created a warped infatuation with the criteria of power that was based on material things. Muslims living in an underdeveloped country often felt that they were inferior to people living in a developed country. As a result of this inferiority, Muslims ascribed this distance to the field of objects. They assessed their situation as an abomination caused by the lack of weapons, aeroplanes and banks. Thus, their inferiority complex, based on social efficacy, would lead only to pessimism on the psychological level. On the social level, it would lead to what we have elsewhere called takdis (heaping-up). To turn this feeling into an effective driving-force, Muslims needed to ascribe their backwardness to the level of ideas, not to that of \"objects\", for the development of the new world depended increasingly on ideas and other such intellectual criteria. In underdeveloped countries, which were still within the sphere of influence of the superpowers, arms and oil revenues were no longer sufficient to support that influence. The world had, therefore, entered a stage at which most of its problems could be solved only by certain systems of ideas. Therefore, the Arabs and other Muslim countries, especially those that did not possess a great deal of material power, should give more weight to the issue of ideas.",
+      "source_support": "YES",
+      "significance_justification": "Explains Bennabi's enduring intellectual legacy in developing civilizational theory and the concept of 'colonisability' in Islamic thought.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ],
+  "Marcel Proust": [
+    {
+      "person": "Marcel Proust",
+      "candidate_number": 1,
+      "source_title": "Marcel Proust",
+      "source_url": "https://en.wikipedia.org/wiki/Marcel%20Proust",
+      "source_passage": "In 1908, Proust began work on À la recherche du temps perdu when he was 38. The novel was partially published in his lifetime, with the initial sections appearing in 1913. The first volume was translated into English by C. K. Scott Moncrieff in 1922 shortly before Proust's death. The remaining volumes were revised and published posthumously by his brother Robert based on Proust's drafts and proofs. La Recherche helped pioneer the stream of consciousness literary technique. The novel's length, complexity and meditation on themes such as desire, artistic creativity, sexuality, and class rendered it a significant work in the development of literary modernism.",
+      "source_support": "YES",
+      "significance_justification": "Explains Proust's literary significance as author of 'In Search of Lost Time', a recognized masterpiece of 20th-century fiction.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ],
+  "Michael Faraday": [
+    {
+      "person": "Michael Faraday",
+      "candidate_number": 1,
+      "source_title": "Michael Faraday",
+      "source_url": "https://en.wikipedia.org/wiki/Michael%20Faraday",
+      "source_passage": "Michael Faraday (22 September 1791 – 25 August 1867) was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism. His main discoveries include the principles underlying electromagnetic induction, diamagnetism, and electrolysis. Although Faraday received little formal education, as a self-made man, he was one of the most influential scientists in history. It was by his research on the magnetic field around a conductor carrying a direct current that Faraday established the concept of the electromagnetic field in physics. Faraday also established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena. He similarly discovered the principles of electromagnetic induction, diamagnetism, and the laws of electrolysis. His inventions of electromagnetic rotary devices formed the foundation of electric motor technology, and it was largely due to his efforts that electricity became practical for use in technology. The SI unit of capacitance, the farad, is named after him.",
+      "source_support": "YES",
+      "significance_justification": "Explains Faraday's scientific impact in establishing electromagnetic field theory and enabling electric motor technology.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    },
+    {
+      "person": "Michael Faraday",
+      "candidate_number": 2,
+      "source_title": "Michael Faraday",
+      "source_url": "https://en.wikipedia.org/wiki/Michael%20Faraday",
+      "source_passage": "Faraday was an experimentalist who conveyed his ideas in clear and simple language, and thought and sensed the physical world in a visual manner, rather than in words or symbols. His mathematical abilities did not extend as far as trigonometry and were limited to the simplest algebra. Physicist and mathematician James Clerk Maxwell took the work of Faraday and others and summarised it in a set of equations which is accepted as the basis of all modern theories of electromagnetic phenomena. On Faraday's uses of lines of force, Maxwell wrote that they show Faraday \"to have been in reality a mathematician of a very high order – one from whom the mathematicians of the future may derive valuable and fertile methods.\"",
+      "source_support": "YES",
+      "significance_justification": "Documents Faraday's influence on James Clerk Maxwell, which overlaps with Faraday #1.",
+      "duplicates_existing_field": "YES",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "REJECT"
+    }
+  ],
+  "Steve Jobs": [
+    {
+      "person": "Steve Jobs",
+      "candidate_number": 1,
+      "source_title": "Steve Jobs",
+      "source_url": "https://en.wikipedia.org/wiki/Steve%20Jobs",
+      "source_passage": "Steven Paul Jobs  (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+      "source_support": "YES",
+      "significance_justification": "Explains Jobs's historical significance as a pioneer of the personal computer, digital music, and smartphone revolutions.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ],
+  "T. E. Lawrence": [
+    {
+      "person": "T. E. Lawrence",
+      "candidate_number": 2,
+      "source_title": "T. E. Lawrence",
+      "source_url": "https://en.wikipedia.org/wiki/T.%20E.%20Lawrence",
+      "source_passage": "Lawrence's most important contributions to the Arab Revolt were in the area of strategy and liaison with British Armed Forces, but he also participated personally in several military engagements between January 1917 and September 1918. These included attacks on Ottoman communications: the railways at Aba el Naam, and Mudawara; and the destruction of a railway engine; the bridges at Ras Baalbek; and at Yarmuk, during which attack he suffered several wounds in the explosion and subsequent combat; and that at Aqaba, and the bridge which connected Amman and Dera'a. There were also assaults on Ottoman garrisons: in the Hejaz; at Tell Shahm using British armoured cars; and on retreating Ottomans and Germans near the village of Tafas, where the Ottoman forces massacred the villagers and the Arabs retaliated by killing their prisoners, with Lawrence's encouragement. In June 1917 Lawrence made a 300-mile (480 km) journey north towards Aqaba, visiting Ras Baalbek, the outskirts of Damascus, and Azraq, Jordan. He met with Arab nationalists, counselling them to avoid revolt until the arrival of Faisal's forces, and he attacked a bridge to create the impression of guerrilla activity. His findings were regarded by the British as extremely valuable and there was serious consideration of awarding him a Victoria Cross; in the end, he was invested as a Companion of the Order of the Bath and promoted to major.",
+      "source_support": "YES",
+      "significance_justification": "Documents Lawrence's strategic military legacy and leadership in the Arab Revolt during World War I.",
+      "duplicates_existing_field": "NO",
+      "unsupported_claim_risk": "LOW",
+      "recommendation": "KEEP"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "DARK_SVG_UNCHANGED": true,
+  "QUIZ_DATA_UNCHANGED": true,
+  "PERSON_I18N_JSON_UNCHANGED": true,
+  "PERSON_I18N_JS_UNCHANGED": true,
+  "CONSTANTS_JS_UNCHANGED": true,
+  "LAYOUT_CHANGES": 0,
+  "JS_CHANGES": 0,
+  "LIGHT_MODE_FILES_CHANGED": [
+    "css/style.css",
+    "world_blind_light.svg"
+  ]
+}

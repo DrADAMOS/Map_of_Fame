@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">خريطة العظماء</string>
+    <string name="choose_age_group">اختر فئتك العمرية</string>
+    <string name="age_group_desc">هذا يساعدنا على تقديم محتوى مناسب للعمر.</string>
+    <string name="under_13">أقل من 13 سنة</string>
+    <string name="age_13_17">13–17</string>
+    <string name="age_18_plus">18 سنة فأكثر</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="toggle_theme">تبديل المظهر</string>
+
+    <string name="loading_decrypting">فك تشفير التاريخ…</string>
+    <string name="loading_drawing">رسم الحدود…</string>
+    <string name="loading_locating">تحديد الأساطير…</string>
+    <string name="loading_ready">جاهز للبدء!</string>
+
+    <string name="error_loading_game">تعذر تحميل اللعبة</string>
+    <string name="retry">إعادة المحاولة</string>
+</resources>

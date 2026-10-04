@@ -1,0 +1,278 @@
+{
+  "locale": "es",
+  "people": {
+    "Gamal Abdel Nasser": {
+      "name": "Gamal Abdel Nasser",
+      "hint": "Segundo presidente de Egipto que lideró la revolución de 1952 y nacionalizó el canal de Suez.",
+      "bio": "Oficial militar y estadista egipcio que ocupó el cargo de segundo presidente de Egipto desde 1954 hasta su muerte en 1970. Organizó la revolución de 1952 que abolió la monarquía, nacionalizó el canal de Suez y se convirtió en una figura central del nacionalismo panárabe.",
+      "birth_city": "Alejandría",
+      "birth_country": "Egipto",
+      "death_city": "El Cairo",
+      "death_country": "Egipto",
+      "role": "Estadista",
+      "era": "Era Moderna",
+      "achievements": [
+        "Nacionalizó la Compañía del Canal Marítimo de Suez el 26 de julio de 1956.",
+        "Encargó y supervisó la construcción de la presa de Asuán para controlar las inundaciones del Nilo y generar energía hidroeléctrica.",
+        "Promulgó leyes de reforma agraria redistribuyendo tierras agrícolas a agricultores arrendatarios.",
+        "Se desempeñó como un líder clave inicial del Movimiento de Países No Alineados junto a Nehru, Tito y Sukarno."
+      ],
+      "key_facts": [
+        "Sirvió como oficial de infantería de primera línea (herido en Faluya) en la guerra árabe-israelí de 1948.",
+        "Organizó el movimiento clandestino de los Oficiales Libres que derrocó al rey Faruq en 1952.",
+        "Fue presidente de la República Árabe Unida (la unión política de Egipto y Siria, 1958-1961)."
+      ],
+      "historical_significance": "Figura central en la historia moderna de Oriente Medio cuyas políticas transformaron la sociedad egipcia, impulsaron movimientos anticoloniales en África y Asia, y definieron el nacionalismo árabe en el siglo XX."
+    },
+    "Umm Kulthum": {
+      "name": "Umm Kulthum",
+      "hint": "Icónica cantante egipcia conocida como 'Kawkab al-Sharq' (Astro de Oriente).",
+      "bio": "Emblemática cantante y actriz egipcia venerada en todo el mundo árabe como 'Kawkab al-Sharq' (Astro de Oriente). Famosa por su dominio vocal, su expresión emocional y sus conciertos de radio en vivo mensuales de gran difusión.",
+      "birth_city": "Tamay ez-Zahayra",
+      "birth_country": "Egipto",
+      "death_city": "El Cairo",
+      "death_country": "Egipto",
+      "role": "Cantante",
+      "era": "Era Moderna",
+      "achievements": [
+        "Interpretó un vasto repertorio de más de 300 canciones grabadas colaborando con destacados poetas y compositores árabes.",
+        "Popularizó la poesía árabe clásica adaptada a música orquestal para amplias audiencias internacionales.",
+        "Organizó giras de conciertos benéficos internacionales por capitales árabes después de 1967 para recaudar fondos nacionales egipcios.",
+        "Recibió importantes honores nacionales, incluida la Orden de las Virtudes (Wisam al-Kamal) y la Orden del Nilo."
+      ],
+      "key_facts": [
+        "Aprendió recitación coránica clásica desde niña en el pueblo del delta del Nilo de Tamay ez-Zahayra.",
+        "Sus transmisiones mensuales en vivo de los jueves en Radio Cairo atrajeron a grandes audiencias radiales en todo el mundo árabe.",
+        "Su funeral en 1975 en El Cairo convocó una masiva procesión pública, estimada históricamente en millones de dolientes."
+      ],
+      "historical_significance": "Embajadora cultural cuyo legado artístico definió la música vocal árabe moderna y sirvió como una poderosa fuerza unificadora de identidad cultural en todo el mundo árabe."
+    },
+    "Al-Shafi'i": {
+      "name": "Al-Shafi'i",
+      "hint": "Erudito fundador de la escuela Shafi'i de jurisprudencia sunita.",
+      "bio": "Destacado jurista y teólogo islámico que fundó la escuela (madhhab) Shafi'i de jurisprudencia sunita y sistematizó los principios de la metodología legal islámica (usul al-fiqh).",
+      "birth_city": "Gaza",
+      "birth_country": "Palestina",
+      "death_city": "El Cairo",
+      "death_country": "Egipto",
+      "role": "Jurista",
+      "era": "Era Abasí",
+      "achievements": [
+        "Escribió Al-Risala, ampliamente considerado por los historiadores legales islámicos como el primer tratado sistemático sobre usul al-fiqh.",
+        "Sintetizó la tradición legal basada en los hadices (Ahl al-Hadith) con el razonamiento legal racionalista (Ahl al-Ra'y).",
+        "Formuló una metodología legal estructurada priorizando el Corán, la Sunna, el Ijma' (consenso) y el Qiyas (analogía).",
+        "Fue autor de Kitab al-Umm, una extensa recopilación fundacional de la jurisprudencia sunita."
+      ],
+      "key_facts": [
+        "Estudió directamente con Malik ibn Anas en Medina y con eruditos de la escuela de Abu Hanifa en Bagdad.",
+        "Formuló su madura 'Nueva Escuela' (Al-Qawl al-Jadid) tras establecerse en Fustat (El Cairo), Egipto.",
+        "Su escuela de jurisprudencia se convirtió en una de las cuatro principales escuelas sunitas de jurisprudencia (madhahib), con gran cantidad de seguidores en Egipto, el Levante, África Oriental y el sudeste asiático."
+      ],
+      "historical_significance": "Figura fundacional en el pensamiento jurídico islámico cuyo marco metodológico estructuró la jurisprudencia sunita e influyó en la interpretación legal durante más de un milenio."
+    },
+    "Al-Mu'tasim": {
+      "name": "Al-Mu'tasim",
+      "hint": "Califa abasí que construyó Samarra y capturó Amorio.",
+      "bio": "Octavo califa abasí que gobernó desde 833 hasta 842 d. C. Hijo de Harun al-Rashid, fundó la capital de Samarra y estableció una guardia militar dedicada de tropas túrquicas (Ghilman/Mawali), precursores estructurales de las instituciones militares de esclavos posteriores.",
+      "birth_city": "Bagdad",
+      "birth_country": "Califato Abasí",
+      "death_city": "Samarra",
+      "death_country": "Califato Abasí",
+      "role": "Califa Abasí",
+      "era": "Era Abasí",
+      "achievements": [
+        "Fundó la ciudad de Samarra como capital administrativa y militar abasí en 836 d. C.",
+        "Lideró la campaña militar que capturó la fortaleza bizantina de Amorio en 838 d. C.",
+        "Creó una fuerza militar permanente profesional compuesta por caballería túrquica especializada (Ghilman)."
+      ],
+      "key_facts": [
+        "Hijo de Harun al-Rashid y Marida, una concubina sogdiana.",
+        "Conmemorado en la oda de victoria de Abu Tammam sobre el sitio de Amorio ('Al-Sayfu Asdaqu Inba'an min al-Kutubi').",
+        "Asociado en la tradición biográfica árabe con el número ocho ('Al-Muthamman') por gobernar 8 años y 8 meses y ser el octavo califa abasí."
+      ],
+      "historical_significance": "Reformador militar y administrativo cuyo establecimiento de Samarra y dependencia de guardias túrquicos profesionales remodeló la gobernanza abasí y las estructuras militares de Oriente Medio."
+    },
+    "Umar ibn Abd al-Aziz": {
+      "name": "Umar ibn Abd al-Aziz",
+      "hint": "Octavo califa omeya venerado por sus reformas fiscales y su piedad.",
+      "bio": "Octavo califa omeya que gobernó del 717 al 720 d. C. Venerado en la tradición islámica como 'Umar II' y considerado por muchos historiadores sunitas como el quinto califa bien guiado (Khulafa' Rashidun) debido a su piedad, reformas fiscales y justicia.",
+      "birth_city": "Medina",
+      "birth_country": "Califato Omeya",
+      "death_city": "Dayr Sim'an",
+      "death_country": "Califato Omeya",
+      "role": "Califa Omeya",
+      "era": "Era Omeya",
+      "achievements": [
+        "Reformó la administración fiscal omeya, ordenando que los conversos no árabes (mawali) estuvieran exentos del pago del impuesto per cápita jizya.",
+        "Abolió las exacciones forzosas y la discriminación fiscal contra los conversos musulmanes no árabes (mawali).",
+        "Encargó a eruditos regionales, incluido Ibn Shihab al-Zuhri, registrar y compilar oficialmente las tradiciones de los hadices.",
+        "Reformó la administración provincial, destituyendo a gobernadores opresivos y devolviendo las propiedades confiscadas a Bayt al-Mal."
+      ],
+      "key_facts": [
+        "Bisnieto del segundo califa Umar ibn al-Khattab a través de su madre Layla bint Asim.",
+        "Sirvió como gobernador de Medina (706-712 d. C.), estableciendo un consejo consultivo (shura) de diez juristas medinenses.",
+        "Suspendió la costumbre omeya de maldecir públicamente a Ali ibn Abi Talib desde el púlpito, sustituyéndola por el versículo coránico 16:90."
+      ],
+      "historical_significance": "Reformador moral y administrativo cuyo reinado ofreció un modelo de gobernanza ética, justicia financiera y reconciliación religiosa dentro de la dinastía omeya."
+    },
+    "Al-Ma'mun": {
+      "name": "Al-Ma'mun",
+      "hint": "Califa abasí que patrocinó la Casa de la Sabiduría y la investigación científica.",
+      "bio": "Séptimo califa abasí que gobernó desde 813 hasta 833 d. C. Hijo de Harun al-Rashid, fue un gran mecenas de la filosofía, las matemáticas y la traducción, bajo cuyo reinado se amplió significativamente la Casa de la Sabiduría (Bayt al-Hikma).",
+      "birth_city": "Bagdad",
+      "birth_country": "Califato Abasí",
+      "death_city": "Tarso",
+      "death_country": "Califato Abasí",
+      "role": "Califa Abasí",
+      "era": "Era Abasí",
+      "achievements": [
+        "Amplió la Casa de la Sabiduría (Bayt al-Hikma) en Bagdad como academia, oficina de traducción y biblioteca.",
+        "Encargó estudios topográficos geodésicos en el desierto de Sinjar para medir un grado de meridiano y calcular la circunferencia de la Tierra.",
+        "Patrocinó importantes observatorios astronómicos en Shammasiyya en Bagdad y en el monte Qasiyun en Damasco.",
+        "Auspició traducciones de textos científicos y filosóficos griegos, persas e indios al árabe."
+      ],
+      "key_facts": [
+        "Derrotó a su hermano Al-Amin en la guerra civil de la Cuarta Fitna (811-813 d. C.) para asegurar el califato.",
+        "Patrocinó a eruditos como el matemático Al-Khwarizmi y los traductores Hunayn ibn Ishaq y Kindi.",
+        "Instituyó la Mihna (inquisición) imponiendo la creencia en la creación del Corán, doctrina defendida por los teólogos mutazilíes."
+      ],
+      "historical_significance": "Gobernante abasí cuyo patrocinio institucional de la traducción, las matemáticas y la filosofía aceleró significativamente la investigación científica durante la Edad de Oro islámica."
+    },
+    "Al-Mu'izz li-Din Allah": {
+      "name": "Al-Mu'izz li-Din Allah",
+      "hint": "Califa fatimí que ordenó la conquista de Egipto y la fundación de El Cairo.",
+      "bio": "Cuarto califa fatimí que gobernó desde 953 hasta 975 d. C. Ordenó la conquista fatimí de Egipto y trasladó la capital califal a El Cairo, la cual fue fundada en su nombre por el general Jawhar al-Siqilli.",
+      "birth_city": "Mahdía",
+      "birth_country": "Califato Fatimí",
+      "death_city": "El Cairo",
+      "death_country": "Califato Fatimí",
+      "role": "Califa Fatimí",
+      "era": "Era Fatimí",
+      "achievements": [
+        "Envió al general Jawhar al-Siqilli a conquistar Egipto a la dinastía ijshidí en 969 d. C.",
+        "Ordenó, a través del general Jawhar al-Siqilli, la fundación de la nueva ciudad capital real de El Cairo (Al-Qahira) en 969 d. C.",
+        "Mandó construir la Mezquita de Al-Azhar (terminada en 972 d. C.) como centro de aprendizaje religioso.",
+        "Trasladó la corte imperial fatimí desde Ifriqiya (Túnez moderno) a El Cairo en 973 d. C."
+      ],
+      "key_facts": [
+        "Organizó y expandió la flota naval fatimí en el Mediterráneo antes de conquistar Egipto.",
+        "Encargó a Qadi al-Numan codificar la jurisprudencia fatimí en Da'a'im al-Islam.",
+        "Expandió la autoridad fatimí para abarcar el norte de África, Egipto, Palestina, Siria y el Hiyaz."
+      ],
+      "historical_significance": "Gobernante transformador que estableció El Cairo como sede imperial y centro intelectual, convirtiendo al Califato Fatimí en una potencia dominante del Mediterráneo."
+    },
+    "Rifa'a al-Tahtawi": {
+      "name": "Rifa'a al-Tahtawi",
+      "hint": "Pionero de la Nahda egipcia y fundador de la Escuela de Idiomas.",
+      "bio": "Escritor, profesor, traductor egipcio y pionero intelectual del Renacimiento árabe (Al-Nahda). Enviado por Muhammad Alí Pachá a París como guía espiritual de una misión estudiantil, se convirtió en un influyente defensor de la modernización educativa.",
+      "birth_city": "Tahta",
+      "birth_country": "Egipto",
+      "death_city": "El Cairo",
+      "death_country": "Egipto",
+      "role": "Educador",
+      "era": "Era Moderna",
+      "achievements": [
+        "Fundó la Escuela de Idiomas (Madrasat al-Alsun) en El Cairo en 1835.",
+        "Escribió Takhlis al-Ibriz fi Talkhis Bariz (1834), un influyente libro de viajes que describe la sociedad y las instituciones francesas.",
+        "Tradujo personalmente entre 25 y 30 obras europeas importantes y dirigió la Oficina de Traducción (Qalam al-Tarjama) y Madrasat al-Alsun en la producción de cientos de traducciones al árabe.",
+        "Editó el primer periódico oficial en árabe de Egipto, Al-Waqa'i' al-Misriyya."
+      ],
+      "key_facts": [
+        "Graduado de Al-Azhar que estudió con el erudito reformista Sheikh Hassan al-Attar.",
+        "Vivió en París durante cinco años (1826-1831) como imán de la misión educativa egipcia.",
+        "Introdujo conceptos modernos de patriotismo cívico (watan) y gobernanza constitucional en el pensamiento político árabe."
+      ],
+      "historical_significance": "Líder intelectual de la Ilustración árabe del siglo XIX cuya escuela de traducción y escritos sirvieron de puente entre la ciencia moderna occidental y la erudición árabe tradicional."
+    },
+    "Sa'd ibn Abi Waqqas": {
+      "name": "Sa'd ibn Abi Waqqas",
+      "hint": "Primer compañero y comandante en al-Qadisiyyah y Ctesifonte.",
+      "bio": "Destacado primer compañero (sahabi) del profeta Mahoma y comandante militar que condujo al ejército Rashidun a la victoria en la Batalla de al-Qadisiyyah y supervisó la conquista de la Persia sasánida.",
+      "birth_city": "La Meca",
+      "birth_country": "Arabia",
+      "death_city": "Medina",
+      "death_country": "Arabia",
+      "role": "Comandante Militar",
+      "era": "Primera Era Islámica",
+      "achievements": [
+        "Comandó al ejército Rashidun en la Batalla de al-Qadisiyyah (636 d. C.), derrotando al comandante del ejército sasánida Rostam Farrokhzad.",
+        "Capturó Ctesifonte (Al-Mada'in), la capital imperial sasánida, en 637 d. C.",
+        "Estableció la ciudad guarnición (misr) de Kufa en Irak en 638 d. C. por orden del califa Umar."
+      ],
+      "key_facts": [
+        "Uno de los primeros conversos al Islam (la séptima persona en aceptar el Islam) en La Meca.",
+        "Uno de los Diez a quienes se les prometió el Paraíso (Al-'Ashara al-Mubashsharun).",
+        "Sirvió como gobernador de Kufa bajo los califas Umar y Uthman; nombrado miembro del consejo consultivo de 6 hombres (shura) que eligió al califa Uthman."
+      ],
+      "historical_significance": "Estratega militar y administrador clave cuya victoria en al-Qadisiyyah y el establecimiento de Kufa como centro de guarnición aseguraron la temprana gobernanza islámica en Irak y Persia."
+    },
+    "David Livingstone": {
+      "name": "David Livingstone",
+      "hint": "Explorador y misionero escocés que cartografió África Central.",
+      "bio": "Médico, misionero cristiano y explorador escocés que cartografió vastas áreas de África Central y del Sur, abogó por la abolición del comercio de esclavos en África Oriental y se convirtió en una célebre figura victoriana.",
+      "birth_city": "Blantyre",
+      "birth_country": "Escocia, Reino Unido",
+      "death_city": "Aldea del Jefe Chitambo",
+      "death_country": "Zambia",
+      "role": "Explorador",
+      "era": "Era Moderna",
+      "achievements": [
+        "Renombrado explorador europeo que completó y cartografió una expedición transafricana documentada desde el Atlántico hasta el Océano Índico (de Luanda a Quelimane, 1852-1856).",
+        "Documentó y nombró las Cataratas de Victoria (Mosi-oa-Tunya) en el río Zambeze en noviembre de 1855.",
+        "Cartografió las cuencas del río Zambeze, el lago Malawi (lago Nyasa) y el lago Tanganica.",
+        "Dio a conocer el comercio de esclavos de África Oriental, uniendo a la opinión pública británica en favor de la abolición ('Comercio, Cristianismo y Civilización')."
+      ],
+      "key_facts": [
+        "Trabajó en una fábrica de algodón desde los diez años antes de estudiar medicina y teología en Glasgow.",
+        "Conoció a Henry Morton Stanley en Ujiji, a orillas del lago Tanganica, en noviembre de 1871 ('El doctor Livingstone, supongo?').",
+        "Murió en la aldea del Jefe Chitambo en Zambia en mayo de 1873; su corazón fue enterrado en Zambia por sus compañeros Chuma y Susi, mientras que su cuerpo fue sepultado en la Abadía de Westminster."
+      ],
+      "historical_significance": "Principal explorador europeo del interior de África en el siglo XIX, cuyos estudios geográficos y campañas antiesclavistas influyeron enormemente en la política británica y en la cartografía africana."
+    },
+    "Gabriele D'Annunzio": {
+      "name": "Gabriele D'Annunzio",
+      "hint": "Poeta decadente y aviador italiano que ocupó Fiume en 1919.",
+      "bio": "Poeta, novelista, dramaturgo, aviador y político nacionalista italiano que influyó en la literatura y política modernas de Italia. Lideró la ocupación de la ciudad de Fiume (Rijeka) en 1919.",
+      "birth_city": "Pescara",
+      "birth_country": "Italia",
+      "death_city": "Gardone Riviera",
+      "death_country": "Italia",
+      "role": "Poeta",
+      "era": "Era Moderna",
+      "achievements": [
+        "Fue autor de importantes obras literarias italianas, incluidas El placer (Il piacere, 1889) y Alcíone (Alcyone, 1903).",
+        "Sirvió como aviador condecorado en la Primera Guerra Mundial, llevando a cabo incursiones aéreas sobre Cattaro y Viena.",
+        "Tomó la ciudad de Fiume en septiembre de 1919, estableciendo la Regencia Italiana de Carnaro (1919-1920).",
+        "Fue coautor de la Carta de Carnaro (Carta del Carnaro), combinando corporativismo, socialismo gremial y esteticismo."
+      ],
+      "key_facts": [
+        "Líder del movimiento decadente italiano (Decadentismo).",
+        "Ejecutó el vuelo propagandístico sobre Viena (Volo su Vienna) el 9 de agosto de 1918, lanzando miles de panfletos.",
+        "Sus rituales políticos en Fiume proporcionaron precursores estilísticos y retóricos adoptados más tarde por el fascismo italiano, aunque D'Annunzio nunca fue miembro oficial del Partido Fascista."
+      ],
+      "historical_significance": "Destacado escritor decadente y agitador nacionalista cuya política estetizada y su empresa en Fiume sirvieron como precursores estilísticos del fascismo europeo del siglo XX."
+    },
+    "Al-Mu'tamid": {
+      "name": "Al-Mu'tamid",
+      "hint": "Califa abasí cuyo reinado vio la supresión de la Rebelión de Zanj.",
+      "bio": "Decimoquinto califa abasí que reinó de 870 a 892 d. C. Su reinado marcó el fin de la 'Anarquía de Samarra' y el restablecimiento de la autoridad califal, la cual fue dirigida en la práctica por su hermano Al-Muwaffaq como regente militar.",
+      "birth_city": "Samarra",
+      "birth_country": "Califato Abasí",
+      "death_city": "Samarra",
+      "death_country": "Califato Abasí",
+      "role": "Califa Abasí",
+      "era": "Era Abasí",
+      "achievements": [
+        "Restableció la estabilidad central califal tras dos décadas de conflictos militares (Anarquía de Samarra).",
+        "Sofocó la Rebelión de Zanj en el sur de Irak bajo el liderazgo militar de su hermano Al-Muwaffaq y su sobrino Al-Mu'tadid.",
+        "Trasladó su corte a Bagdad poco antes de su muerte en 892 d. C., precediendo la reubicación oficial de la capital de su sucesor Al-Mu'tadid."
+      ],
+      "key_facts": [
+        "Hijo del califa Al-Mutawakkil y de una concubina de Kufa llamada Fityan.",
+        "Ostentó una autoridad califal nominal mientras su capaz hermano Al-Muwaffaq ejercía el verdadero poder ejecutivo y militar como regente (Talha al-Muwaffaq).",
+        "Sucedido por su sobrino Al-Mu'tadid, quien completó la restauración del poder abasí."
+      ],
+      "historical_significance": "Califa abasí cuyo reinado marcó la transición política de la agitación militar interna de Samarra hacia la autoridad consolidada del califato a fines del siglo IX."
+    }
+  }
+}

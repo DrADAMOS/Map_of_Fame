@@ -1,0 +1,80 @@
+{
+  "TARGET_COUNT": 13,
+  "FIELDS_CHANGED": 13,
+  "PEOPLE_CHANGED": 13,
+  "NON_ENGLISH_CHANGES": 0,
+  "BIO_CHANGES": 0,
+  "ACHIEVEMENT_CHANGES": 0,
+  "KEY_FACT_CHANGES": 0,
+  "UNEXPECTED_PERSON_CHANGES": 0,
+  "JSON_VALID": "YES",
+  "APPROVED_VALUES_MATCH": "YES",
+  "STATUS": "WRITE_COMPLETE",
+  "entries": [
+    {
+      "person": "Alexis Carrel",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Pioneered concepts in tissue culture, transplantology, and thoracic surgery that laid foundational principles for modern organ transplantation."
+    },
+    {
+      "person": "Anwar Sadat",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Reoriented Egyptian policy by leading the 1978 Camp David Accords and Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel."
+    },
+    {
+      "person": "Clara Barton",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Founded the American Red Cross and directed its humanitarian relief operations during wars and natural disasters for twenty-three years."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Formulated the Periodic Law and created a predictive periodic table of elements used to correct known properties and anticipate undiscovered elements."
+    },
+    {
+      "person": "Hadrian",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Built Hadrian's Wall to mark the northern limit of Britannia and sponsored major Roman architectural works including the rebuilt Pantheon."
+    },
+    {
+      "person": "James Prescott Joule",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Discovered the relationship between heat and mechanical work, establishing energy principles that led to the First Law of Thermodynamics."
+    },
+    {
+      "person": "Jane Austen",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Critiqued 18th-century novels of sensibility through her fiction and formed part of the transition toward 19th-century literary realism."
+    },
+    {
+      "person": "Joseph Haydn",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Instrumental in developing classical chamber music, earning the epithets 'Father of the Symphony' and 'Father of the String Quartet'."
+    },
+    {
+      "person": "Louis IX",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Consolidated French royal authority, reformed medieval judicial institutions, and was canonized as a Catholic saint in 1297."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Served as Grand Mufti of Egypt and a central figure of Islamic Modernism, reforming religious thought through rationalist interpretation."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Published De revolutionibus orbium coelestium in 1543, triggering the Copernican Revolution and contributing fundamentally to the Scientific Revolution."
+    },
+    {
+      "person": "Oscar Wilde",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Remembered as a leading figure of the 19th-century Aestheticism movement and a master of late Victorian theatrical comedy."
+    },
+    {
+      "person": "Qutuz",
+      "old_historical_significance": "INSUFFICIENT_SOURCE",
+      "new_historical_significance": "Halted the westward expansion of the Mongol Empire at the Battle of Ain Jalut in 1260, preserving Islamic civilization in Egypt and the Levant."
+    }
+  ]
+}

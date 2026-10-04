@@ -1,0 +1,2462 @@
+{
+  "audit_type": "JS_MIRROR_FORENSIC_INVESTIGATION",
+  "read_only": true,
+  "files_modified": 0,
+  "source_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "643aa78eb3ca16c7c622bb47db3fea74336f7d5bd9a8befe7f8896797ab90dcd"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "643aa78eb3ca16c7c622bb47db3fea74336f7d5bd9a8befe7f8896797ab90dcd"
+    },
+    "modified": false
+  },
+  "canonical_json_match": false,
+  "total_json_people": 289,
+  "total_js_people": 289,
+  "total_mismatches": 276,
+  "classification_counts": {
+    "MISSING_IN_JS": 0,
+    "EXTRA_IN_JS": 0,
+    "VALUE_MISMATCH": 221,
+    "TYPE_MISMATCH": 0,
+    "KEY_MISMATCH": 0,
+    "STRUCTURAL_MISMATCH": 55,
+    "PARSER_WRAPPER_ISSUE": 0
+  },
+  "final_classification": "A_GENUINE_STALE_OR_INCORRECT_JS_MIRROR_DATA",
+  "mismatch_records": [
+    {
+      "path": "Alexis Carrel.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Carrel was a young surgeon who was deeply affected by the 1894 assassination of the French preside",
+      "js_value": "['Alexis Carrel ( French: ; 28 June 1873 – 5 November 1944) was a French surgeon and biologist who s"
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Alexis Carrel.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Carrel was a young surgeon who was deeply affected by the 1894 assassination of the French president, Sadi Carnot, who died from a severed portal vein that surgeons believed was irreparable.",
+      "js_value": "Alexis Carrel ( French: ; 28 June 1873 – 5 November 1944) was a French surgeon and biologist who spent most of his scientific career in the United States."
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Alexis Carrel.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "This tragedy inspired Carrel to develop new techniques for suturing blood vessels, such as the \"triangulation\" technique using three stay-sutures to minimize damage to the vascular wall during suturing.",
+      "js_value": "He was awarded the Nobel Prize in Physiology or Medicine in 1912 for pioneering vascular suturing techniques."
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Alexis Carrel.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Born in Sainte-Foy-lès-Lyon, Rhône, Carrel was raised in a devout Catholic family and was educated by Jesuits, though he had become an agnostic by the time he became a university student. He studied medicine at the University of Lyon. Working as an intern at a Lyon hospital, he developed a technique for suturing small blood vessels using extremely fine needles.",
+      "js_value": "Alexis Carrel was a renowned Physician born in Sainte-Foy-lès-Lyon, France and passed away in Paris, France."
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Alexis Carrel.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Pioneered concepts in tissue culture, transplantology, and thoracic surgery that laid foundational principles for modern organ transplantation.",
+      "js_value": "Remembered for shaping historical developments in physician."
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Alexis Carrel.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Carrel was elected to the American Philosophical Society in 1909 and the American Academy of Arts and Sciences in 1914.",
+      "js_value": "Alexis Carrel ( French: ; 28 June 1873 – 5 November 1944) was a French surgeon and biologist who spent most of his scientific career in the United States."
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Alexis Carrel.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Carrel was a member of learned societies in the U.S., Spain, Russia, Sweden, the Netherlands, Belgium, France, Vatican City, Germany, Italy, and Greece, and was elected twice, in 1924 and 1927, as an honorary member of the Academy of Sciences of the USSR.",
+      "js_value": "He was awarded the Nobel Prize in Physiology or Medicine in 1912 for pioneering vascular suturing techniques."
+    },
+    {
+      "person": "Alexis Carrel",
+      "language": "en",
+      "field_path": "key_facts[2]",
+      "path": "Alexis Carrel.languages.en.key_facts[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "He also received honorary doctorates from Queen's University of Belfast, Princeton University, Brown University, and Columbia University.",
+      "js_value": "He invented the first perfusion pump with Charles Lindbergh opening the way to organ transplantation ."
+    },
+    {
+      "path": "Anwar Sadat.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "['in the title role.']",
+      "js_value": "['Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and militar"
+    },
+    {
+      "person": "Anwar Sadat",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Anwar Sadat.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "in the title role.",
+      "js_value": "Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981."
+    },
+    {
+      "person": "Anwar Sadat",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Anwar Sadat.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970. In his 11 years as president, he changed Egypt's trajectory, departing from many political and economic tenets of Nasserism, reinstituting a multi-party system, and launching the Infitah economic policy.",
+      "js_value": "Led Egypt in the October War."
+    },
+    {
+      "person": "Anwar Sadat",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Anwar Sadat.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Reoriented Egyptian policy by leading the 1978 Camp David Accords and Egypt–Israel peace treaty, making Egypt the first Arab state to recognize Israel.",
+      "js_value": "Led Egypt in the October War."
+    },
+    {
+      "person": "Anwar Sadat",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Anwar Sadat.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Anwar Sadat was born on 25 December 1918 in Mit Abu El Kom, part of Monufia Governorate in what was then the Sultanate of Egypt, to a poor family.",
+      "js_value": "Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981."
+    },
+    {
+      "person": "Anwar Sadat",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Anwar Sadat.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "He had 14 siblings.",
+      "js_value": "A former member of the Free Officers movement , Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970."
+    },
+    {
+      "person": "Anwar Sadat",
+      "language": "en",
+      "field_path": "key_facts[2]",
+      "path": "Anwar Sadat.languages.en.key_facts[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "One of his brothers, Atef Sadat, later became a pilot and was killed in action in 1973 during the Yom Kippur War.",
+      "js_value": "In his 11 years as president, he changed Egypt's trajectory, departing from many political and economic tenets of Nasserism , reinstituting a multi-party system , and launching the Infitah economic policy."
+    },
+    {
+      "path": "Auguste Comte.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Comte first described the epistemological perspective of positivism in The Course in Positive Phil",
+      "js_value": "['Isidore Auguste Marie François Xavier Comte (French: ; 19 January 1798 – 5 September 1857) was a F"
+    },
+    {
+      "person": "Auguste Comte",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Auguste Comte.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Comte first described the epistemological perspective of positivism in The Course in Positive Philosophy, a series of texts published between 1830 and 1842.",
+      "js_value": "Isidore Auguste Marie François Xavier Comte (French: ; 19 January 1798 – 5 September 1857) was a French philosopher and writer who formulated the doctrine of positivism ."
+    },
+    {
+      "person": "Auguste Comte",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Auguste Comte.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "These texts were followed by the 1848 work, A General View of Positivism (published in English in 1865).",
+      "js_value": "He is often regarded as the first philosopher of science in the modern sense of the term."
+    },
+    {
+      "person": "Auguste Comte",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Auguste Comte.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Isidore Auguste Marie François Xavier Comte (; French: [oɡyst(ə) kɔ̃t] ; 19 January 1798 – 5 September 1857) was a French philosopher and writer who formulated the doctrine of positivism. He is often regarded as the first philosopher of science in the modern sense of the term. Comte's ideas were fundamental to the development of sociology, as he coined the term and treated the discipline as the crowning achievement of the sciences.",
+      "js_value": "Auguste Comte was a renowned Philosopher born in Montpellier, France and passed away in Paris, France."
+    },
+    {
+      "person": "Auguste Comte",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Auguste Comte.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Formulated the philosophical doctrine of positivism and established sociology as a systematic science, seeking to create a scientific framework for social order following the French Revolution.",
+      "js_value": "Auguste Comte formulated positivism and argued that society could be studied systematically, helping establish sociology as a distinct field of inquiry."
+    },
+    {
+      "path": "Auguste Comte.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['In August 1817 he became a student and secretary to Henri de Saint-Simon, who brought Comte into i",
+      "js_value": "['Isidore Auguste Marie François Xavier Comte (French: ; 19 January 1798 – 5 September 1857) was a F"
+    },
+    {
+      "person": "Auguste Comte",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Auguste Comte.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "In August 1817 he became a student and secretary to Henri de Saint-Simon, who brought Comte into intellectual society.",
+      "js_value": "Isidore Auguste Marie François Xavier Comte (French: ; 19 January 1798 – 5 September 1857) was a French philosopher and writer who formulated the doctrine of positivism ."
+    },
+    {
+      "person": "Auguste Comte",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Auguste Comte.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Developed the Law of Three Stages, asserting that human thought evolves through theological, metaphysical, and positive stages.",
+      "js_value": "He is often regarded as the first philosopher of science in the modern sense of the term."
+    },
+    {
+      "path": "Bob Marley.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['In February 1962, Marley recorded four songs, \"Judge Not\", \"One Cup of Coffee\", \"Do You Still Love",
+      "js_value": "['Robert Nesta Marley (6 February 1945 – 11 May 1981) was a Jamaican reggae singer, songwriter, and "
+    },
+    {
+      "person": "Bob Marley",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Bob Marley.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "In February 1962, Marley recorded four songs, \"Judge Not\", \"One Cup of Coffee\", \"Do You Still Love Me?\" and \"Terror\", at Federal Studios for local music producer Leslie Kong.",
+      "js_value": "Robert Nesta Marley (6 February 1945 – 11 May 1981) was a Jamaican reggae singer, songwriter, and guitarist."
+    },
+    {
+      "person": "Bob Marley",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Bob Marley.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Three of the songs were released on Beverley's with \"One Cup of Coffee\" being released under the pseudonym Bobby Martell.",
+      "js_value": "Considered one of the pioneers of the genre, he was renowned for his distinctive vocal and songwriting style."
+    },
+    {
+      "person": "Bob Marley",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Bob Marley.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Marley was born on 6 February 1945 at the farm of his maternal grandfather in Nine Mile, Saint Ann Parish, Colony of Jamaica, to Norval Sinclair Marley and Cedella Malcolm. Norval was a white Jamaican of Welsh ancestry born in Clarendon Parish. His cousins claimed that the Marley surname had Syrian-Jewish origins, however this is speculative and not conclusive, and was refuted by Marley's biographer.",
+      "js_value": "Bob Marley was a renowned Musician born in Nine Mile, Jamaica and passed away in Miami, USA."
+    },
+    {
+      "person": "Bob Marley",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Bob Marley.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Awards and honours ===. 1976: Rolling Stone magazine's \"Band of the Year\".",
+      "js_value": "Bob Marley left a lasting mark on music through Exodus and the international spread of reggae."
+    },
+    {
+      "path": "Bob Marley.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Formed the Wailers in 1963 with Peter Tosh and Bunny Wailer, releasing their debut studio album Th",
+      "js_value": "['Robert Nesta Marley (6 February 1945 – 11 May 1981) was a Jamaican reggae singer, songwriter, and "
+    },
+    {
+      "person": "Bob Marley",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Bob Marley.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Formed the Wailers in 1963 with Peter Tosh and Bunny Wailer, releasing their debut studio album The Wailing Wailers in 1965.",
+      "js_value": "Robert Nesta Marley (6 February 1945 – 11 May 1981) was a Jamaican reggae singer, songwriter, and guitarist."
+    },
+    {
+      "person": "Bob Marley",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Bob Marley.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Survived an assassination attempt at his home in Kingston in December 1976, two days before performing at the Smile Jamaica concert.",
+      "js_value": "Considered one of the pioneers of the genre, he was renowned for his distinctive vocal and songwriting style."
+    },
+    {
+      "path": "Caravaggio.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Decorated the Contarelli Chapel in Rome, producing 'The Calling of Saint Matthew' and 'The Martyrd",
+      "js_value": "['Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio ; 29 Septe"
+    },
+    {
+      "person": "Caravaggio",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Caravaggio.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Decorated the Contarelli Chapel in Rome, producing 'The Calling of Saint Matthew' and 'The Martyrdom of Saint Matthew' (1599–1600).",
+      "js_value": "Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio ; 29 September 1571 – 18 July 1610), known mononymously as Caravaggio , was an Italian painter active in Rome for a significant portion of his artistic life."
+    },
+    {
+      "person": "Caravaggio",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Caravaggio.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Employed a dramatic, high-contrast use of chiaroscuro lighting that became known as tenebrism.",
+      "js_value": "He began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples , Malta , and Sicily ."
+    },
+    {
+      "person": "Caravaggio",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Caravaggio.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Early life (1571–1592) ===. Caravaggio (Michelangelo Merisi or Amerighi) was born in Milan, where his father, Fermo (Fermo Merixio), was a household administrator and architect-decorator to the marquess of Caravaggio, a town 35 km (22 mi) to the east of Milan and south of Bergamo. It was previously assumed that he had been born in Caravaggio.",
+      "js_value": "Caravaggio was a renowned Artist born in Milan, Italy and passed away in Porto Ercole, Italy."
+    },
+    {
+      "person": "Caravaggio",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Caravaggio.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Revolutionized Western European painting through intense realism and a dramatic, high-contrast use of chiaroscuro and tenebrism, profoundly shaping the emergence of Baroque art.",
+      "js_value": "Caravaggio revolutionized European painting with stark chiaroscuro, naturalistic figures, and emotionally charged biblical scenes."
+    },
+    {
+      "path": "Caravaggio.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Forged important art friendships in Rome with Prospero Orsi and Cardinal Francesco Maria del Monte",
+      "js_value": "['Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio ; 29 Septe"
+    },
+    {
+      "person": "Caravaggio",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Caravaggio.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Forged important art friendships in Rome with Prospero Orsi and Cardinal Francesco Maria del Monte, who became his primary patron.",
+      "js_value": "Michelangelo Merisi da Caravaggio (also Michele Angelo Merigi or Amerighi da Caravaggio ; 29 September 1571 – 18 July 1610), known mononymously as Caravaggio , was an Italian painter active in Rome for a significant portion of his artistic life."
+    },
+    {
+      "person": "Caravaggio",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Caravaggio.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Fled Rome in 1606 after killing Ranuccio Tomassoni in a brawl, spending his remaining years in Naples, Malta, and Sicily.",
+      "js_value": "He began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples , Malta , and Sicily ."
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Clara Barton.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "On April 19, 1861, the Baltimore Riot resulted in the first bloodshed of the American Civil War.",
+      "js_value": "Clarissa Harlowe Barton (December 25, 1821 – April 12, 1912) was an American nurse who founded the American Red Cross ."
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Clara Barton.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The victims, members of the 6th Massachusetts Militia, were transported after the violence to the unfinished Capitol Building in Washington, D.C., where Barton lived at the time.",
+      "js_value": "She was a hospital nurse in the American Civil War , a teacher, and a patent clerk ."
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "achievements[2]",
+      "path": "Clara Barton.languages.en.achievements[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Wanting to serve her country, Barton went to the railroad station when the victims arrived and nursed 40 men.",
+      "js_value": "Since nursing education was not very formalized, and she did not attend nursing school, she provided self-taught nursing care."
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Clara Barton.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Barton was born in Oxford, Massachusetts, a small farming community. She was named after her father's sister, Clarissa Harlow Barton. Her father was Captain Stephen Barton, a member of the local militia and a selectman who influenced his daughter's patriotism and humanitarianism.",
+      "js_value": "Clara Barton was a renowned Physician born in Oxford, USA and passed away in Glen Echo, USA."
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Clara Barton.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Founded the American Red Cross and directed its humanitarian relief operations during wars and natural disasters for twenty-three years.",
+      "js_value": "Remembered for shaping historical developments in physician."
+    },
+    {
+      "path": "Clara Barton.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Worked as a clerk in the U.S. Patent Office in Washington, D.C. before becoming an independent bat",
+      "js_value": "['Clarissa Harlowe Barton (December 25, 1821 – April 12, 1912) was an American nurse who founded the"
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Clara Barton.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Worked as a clerk in the U.S. Patent Office in Washington, D.C. before becoming an independent battlefield nurse during the Civil War.",
+      "js_value": "Clarissa Harlowe Barton (December 25, 1821 – April 12, 1912) was an American nurse who founded the American Red Cross ."
+    },
+    {
+      "person": "Clara Barton",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Clara Barton.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Traveled to Europe in 1869 and learned about the International Red Cross during the Franco-Prussian War, inspiring her to establish the U.S. branch.",
+      "js_value": "She was a hospital nurse in the American Civil War , a teacher, and a patent clerk ."
+    },
+    {
+      "person": "Constantine the Great",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Constantine the Great.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Constantine was born on 27 February 272. While his official birthday is recorded in sources, his year of birth is not, and scholars have given several estimates between 271 and 280, with most leaning for 272 or 273. However, the evidence points to 272 being the correct year.",
+      "js_value": "Roman emperor who reunited the empire and transformed imperial policy toward Christianity during the early fourth century."
+    },
+    {
+      "person": "Constantine the Great",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Constantine the Great.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "By 336, he had reoccupied most of the long-lost province of Dacia which Aurelian had been forced to abandon in 271.",
+      "js_value": "Roman emperor who reunited the empire and transformed imperial policy toward Christianity during the early fourth century."
+    },
+    {
+      "path": "Constantine the Great.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "[\"Proclaimed emperor by his troops at Eboracum (modern York, England) in 306 CE following his father",
+      "js_value": "['He was born at Naissus and died at Nicomedia in 337.', 'He supported Christian communities while c"
+    },
+    {
+      "person": "Constantine the Great",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Constantine the Great.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Proclaimed emperor by his troops at Eboracum (modern York, England) in 306 CE following his father's death.",
+      "js_value": "He was born at Naissus and died at Nicomedia in 337."
+    },
+    {
+      "path": "Dmitri Mendeleev.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 3,
+      "js_length": 2,
+      "json_value": "['Периодический закон (DjVu).', '// Собрание сочинений в 3 томах — М.: Издательство Академии наук СС",
+      "js_value": "['27 January ] 1834 – 2 February [ O.S.', '20 January ] 1907 ) was a Russian chemist known for formu"
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Dmitri Mendeleev.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Периодический закон (DjVu).",
+      "js_value": "27 January ] 1834 – 2 February [ O.S."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Dmitri Mendeleev.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "// Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers.",
+      "js_value": "20 January ] 1907 ) was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements ."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Dmitri Mendeleev.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Mendeleev was born in the village of Verkhnie Aremzyani, near Tobolsk in Siberia, to Ivan Pavlovich Mendeleev (1783–1847) and Maria Dmitrievna Mendeleeva (née Kornilieva) (1793–1850). Ivan worked as a school principal and a teacher of fine arts, politics and philosophy at the Tambov and Saratov gymnasiums. Ivan's father, Pavel Maximovich Sokolov, was a Russian Orthodox priest from the Tver region.",
+      "js_value": "Dmitri Mendeleev was a renowned Scientist born in Tobolsk, Russia and passed away in Saint Petersburg, Russia."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Dmitri Mendeleev.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Formulated the Periodic Law and created a predictive periodic table of elements used to correct known properties and anticipate undiscovered elements.",
+      "js_value": "Dmitri Mendeleev left a lasting mark on science through the periodic table and prediction of undiscovered elements."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Dmitri Mendeleev.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Graduated from the Main Pedagogical Institute in Saint Petersburg in 1855 and earned a master's degree in chemistry in 1856.",
+      "js_value": "27 January ] 1834 – 2 February [ O.S."
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Dmitri Mendeleev.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as Director of the Bureau of Weights and Measures in Saint Petersburg from 1893 until his death.",
+      "js_value": "20 January ] 1907 ) was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements ."
+    },
+    {
+      "path": "Emperor Meiji.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['By the early 1860s, the shogunate was under several threats.', 'Representatives of foreign powers ",
+      "js_value": "['The successful revolutionaries organized themselves into a Council of State, and subsequently into"
+    },
+    {
+      "person": "Emperor Meiji",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Emperor Meiji.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "By the early 1860s, the shogunate was under several threats.",
+      "js_value": "The successful revolutionaries organized themselves into a Council of State, and subsequently into a system where three main ministers led the government."
+    },
+    {
+      "person": "Emperor Meiji",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Emperor Meiji.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Representatives of foreign powers sought to increase their influence in Japan.",
+      "js_value": "This structure would last until the establishment of a prime minister, who would lead a cabinet in a western fashion, in 1885."
+    },
+    {
+      "person": "Emperor Meiji",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Emperor Meiji.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Prince Mutsuhito was born on 3 November 1852 in a small house on his maternal grandfather's property at the north end of the Gosho. At the time, birth was culturally believed to be a source of pollution, so the imperial prince was not born in the Palace. Instead, it was common for members of the Imperial Family to be born in a structure, often temporary, near the pregnant woman's father's house.",
+      "js_value": "Emperor Meiji ruled during the transformation of Japan into a modern industrial and national state."
+    },
+    {
+      "person": "Emperor Meiji",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Emperor Meiji.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as the imperial symbol of the Meiji Restoration, presiding over Japan's rapid historic transformation from an isolated feudal shogunate into a modern, industrialized world power.",
+      "js_value": "Emperor Meiji ruled during the transformation of Japan into a modern industrial and national state."
+    },
+    {
+      "path": "Emperor Meiji.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Acceded to the Chrysanthemum Throne in 1867 at age 14 following the death of Emperor Kōmei.', 'Mov",
+      "js_value": "['Emperor Meiji (personal name ( imina ) Mutsuhito ); 3 November 1852 – 29 July 1912) was Emperor of"
+    },
+    {
+      "person": "Emperor Meiji",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Emperor Meiji.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Acceded to the Chrysanthemum Throne in 1867 at age 14 following the death of Emperor Kōmei.",
+      "js_value": "Emperor Meiji (personal name ( imina ) Mutsuhito ); 3 November 1852 – 29 July 1912) was Emperor of Japan from 30 January 1867 until his death in 1912."
+    },
+    {
+      "person": "Emperor Meiji",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Emperor Meiji.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Moved the imperial capital from Kyoto to Tokyo (formerly Edo) in 1868, taking up residence in Edo Castle.",
+      "js_value": "The Meiji Restoration proclaimed the Empire of Japan in 1868, beginning the Meiji era ."
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Francisco Goya.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The French army invaded Spain in 1808, leading to the Peninsular War of 1808–1814.",
+      "js_value": "Francisco José de Goya y Lucientes (Spanish : ; 30 March 1746 – 16 April 1828) was a Spanish romantic painter and printmaker ."
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Francisco Goya.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The extent of Goya's involvement with the court of the \"intruder king\", Joseph I, the brother of Napoleon Bonaparte, is not known; he painted works for French patrons and sympathisers, but kept neutral during the fighting.",
+      "js_value": "He is considered the most important Spanish artist of the late 18th and early 19th centuries."
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "achievements[2]",
+      "path": "Francisco Goya.languages.en.achievements[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "After the restoration of the Spanish King Ferdinand VII in 1814, Goya denied any involvement with the French.",
+      "js_value": "His paintings, drawings, and engravings reflected contemporary historical upheavals and influenced important 19th- and 20th-century painters."
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Francisco Goya.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Francisco José de Goya y Lucientes (; Spanish: [fɾanˈθisko xoˈse ðe ˈɣoʝa i luˈθjentes]; 30 March 1746 – 16 April 1828) was a Spanish romantic painter and printmaker. He is considered the most important Spanish artist of the late 18th and early 19th centuries. His paintings, drawings, and engravings reflected contemporary historical upheavals and influenced important 19th- and 20th-century painters.",
+      "js_value": "Francisco Goya was a renowned Artist born in Fuendetodos, Spain and passed away in Bordeaux, France."
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Francisco Goya.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Goya is often referred to as the last of the Old Masters and the first of the moderns. Among the 20th-century painters influenced by Goya are the Spanish masters Pablo Picasso and Salvador Dalí who drew influence from Los caprichos and the Black Paintings of Goya.",
+      "js_value": "Goya bridged the Old Masters and modern art through court portraits, The Third of May 1808, and the dark imagery of the Black Paintings."
+    },
+    {
+      "path": "Francisco Goya.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Studied painting from age 14 under José Luzán in Zaragoza and later moved to Madrid to work in the",
+      "js_value": "['Francisco José de Goya y Lucientes (Spanish : ; 30 March 1746 – 16 April 1828) was a Spanish roman"
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Francisco Goya.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Studied painting from age 14 under José Luzán in Zaragoza and later moved to Madrid to work in the studio of Francisco Bayeu.",
+      "js_value": "Francisco José de Goya y Lucientes (Spanish : ; 30 March 1746 – 16 April 1828) was a Spanish romantic painter and printmaker ."
+    },
+    {
+      "person": "Francisco Goya",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Francisco Goya.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Traveled to Rome in 1770 at his own expense and won second prize in a painting competition organized by the Academy of Parma in 1771.",
+      "js_value": "He is considered the most important Spanish artist of the late 18th and early 19th centuries."
+    },
+    {
+      "path": "Giuseppe Verdi.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Composed the grand opera 'Aida', which premiered at the Khedivial Opera House in Cairo in 1871.\", ",
+      "js_value": "['Giuseppe Fortunino Francesco Verdi (VAIR -dee ; Italian: ; 9 or 10 October 1813 – 27 January 1901)"
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Giuseppe Verdi.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Composed the grand opera 'Aida', which premiered at the Khedivial Opera House in Cairo in 1871.",
+      "js_value": "Giuseppe Fortunino Francesco Verdi (VAIR -dee ; Italian: ; 9 or 10 October 1813 – 27 January 1901) was an Italian composer best known for his operas ."
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Giuseppe Verdi.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Composed popular operatic masterworks including 'Rigoletto' (1851), 'Il trovatore' (1853), and 'La traviata' (1853).",
+      "js_value": "He was born near Busseto , a small town in the modern province of Parma , to a family of moderate means, receiving a musical education with the help of a local patron named Antonio Barezzi."
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Giuseppe Verdi.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Giuseppe Fortunino Francesco Verdi ( VAIR-dee; Italian: [dʒuˈzɛppe ˈverdi]; 9 or 10 October 1813 – 27 January 1901) was an Italian composer best known for his operas. He was born near Busseto, a small town in the modern province of Parma, to a family of moderate means, receiving a musical education with the help of a local patron named Antonio Barezzi. Verdi came to dominate the Italian opera scene after the era of Gioachino Rossini, Vincenzo Bellini, and Gaetano Donizetti, whose works significantly influenced him.",
+      "js_value": "Giuseppe Verdi was a renowned Musician born in Le Roncole, Duchy of Parma and passed away in Milan, Italy."
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Giuseppe Verdi.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Reception ===. Although Verdi's operas brought him a popular following, not all contemporary critics approved of his work.",
+      "js_value": "Giuseppe Verdi left a lasting mark on music through La traviata, Aida and Otello."
+    },
+    {
+      "path": "Giuseppe Verdi.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Studied counterpoint privately in Milan under Vincenzo Lavigna after being denied admission to the",
+      "js_value": "['Giuseppe Fortunino Francesco Verdi (VAIR -dee ; Italian: ; 9 or 10 October 1813 – 27 January 1901)"
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Giuseppe Verdi.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Studied counterpoint privately in Milan under Vincenzo Lavigna after being denied admission to the Milan Conservatory due to age limits.",
+      "js_value": "Giuseppe Fortunino Francesco Verdi (VAIR -dee ; Italian: ; 9 or 10 October 1813 – 27 January 1901) was an Italian composer best known for his operas ."
+    },
+    {
+      "person": "Giuseppe Verdi",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Giuseppe Verdi.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Elected as a member of the new Italian Parliament for Borgo San Donnino (Fidenza) in 1861 at Cavour's request.",
+      "js_value": "He was born near Busseto , a small town in the modern province of Parma , to a family of moderate means, receiving a musical education with the help of a local patron named Antonio Barezzi."
+    },
+    {
+      "path": "Grace Hopper.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Hopper tried to be commissioned in the Navy early in World War II, however she was turned down.', ",
+      "js_value": "['Grace Brewster Hopper ( née Murray ; December 9, 1906 – January 1, 1992) was an American computer "
+    },
+    {
+      "person": "Grace Hopper",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Grace Hopper.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Hopper tried to be commissioned in the Navy early in World War II, however she was turned down.",
+      "js_value": "Grace Brewster Hopper ( née Murray ; December 9, 1906 – January 1, 1992) was an American computer scientist , mathematician , and United States Navy rear admiral ."
+    },
+    {
+      "person": "Grace Hopper",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Grace Hopper.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "At age 34, she was too old to enlist and her weight-to-height ratio was too low.",
+      "js_value": "She was a pioneer of computer programming."
+    },
+    {
+      "person": "Grace Hopper",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Grace Hopper.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Grace Brewster Murray was born in New York City. She was the eldest of three children. Her parents, Walter Fletcher Murray and Mary Campbell Van Horne, were of Scottish and Dutch descent, and attended West End Collegiate Church.",
+      "js_value": "Grace Hopper was a renowned Technologist born in New York City, USA and passed away in Arlington, USA."
+    },
+    {
+      "person": "Grace Hopper",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Grace Hopper.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Grace Hopper was awarded 40 honorary degrees from universities worldwide during her lifetime. Nvidia has named their 2024 CPU generation Grace and GPU generation Hopper after Grace Hopper.",
+      "js_value": "Remembered for shaping historical developments in technologist."
+    },
+    {
+      "path": "Grace Hopper.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Earned a master's degree in 1930 and a Ph.D. in mathematics from Yale University in 1934.\", 'Serve",
+      "js_value": "['Grace Brewster Hopper ( née Murray ; December 9, 1906 – January 1, 1992) was an American computer "
+    },
+    {
+      "person": "Grace Hopper",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Grace Hopper.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Earned a master's degree in 1930 and a Ph.D. in mathematics from Yale University in 1934.",
+      "js_value": "Grace Brewster Hopper ( née Murray ; December 9, 1906 – January 1, 1992) was an American computer scientist , mathematician , and United States Navy rear admiral ."
+    },
+    {
+      "person": "Grace Hopper",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Grace Hopper.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as a professor of mathematics at Vassar College before taking a leave of absence to join the U.S. Navy Reserve in 1943.",
+      "js_value": "She was a pioneer of computer programming."
+    },
+    {
+      "path": "Gustav Mahler.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['From June to August 1880, Mahler took his first professional conducting job, in a small wooden the",
+      "js_value": "['Gustav Mahler ( German: ; 7 July 1860 – 18 May 1911) was an Austro-Bohemian Romantic composer, and"
+    },
+    {
+      "person": "Gustav Mahler",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Gustav Mahler.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "From June to August 1880, Mahler took his first professional conducting job, in a small wooden theatre in the spa town of Bad Hall, south of Linz.",
+      "js_value": "Gustav Mahler ( German: ; 7 July 1860 – 18 May 1911) was an Austro-Bohemian Romantic composer, and one of the leading conductors of his generation."
+    },
+    {
+      "person": "Gustav Mahler",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Gustav Mahler.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The repertory was exclusively operetta; it was, in Carr's words \"a dismal little job\", which Mahler accepted only after Julius Epstein told him he would soon work his way up.",
+      "js_value": "As a composer he acted as a bridge between the 19th-century tradition and the modernism of the early 20th century."
+    },
+    {
+      "person": "Gustav Mahler",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Gustav Mahler.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Family background ===. The Mahler family came from eastern Bohemia, now in the Czech Republic, and were of humble circumstances—the composer's grandmother had been a street pedlar. Bohemia was then part of the Austrian Empire; the Mahler family belonged to a German-speaking minority among Bohemians, and was also Jewish.",
+      "js_value": "Gustav Mahler was a renowned Musician born in Kaliště, Austrian Empire and passed away in Vienna, Austria-Hungary."
+    },
+    {
+      "person": "Gustav Mahler",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Gustav Mahler.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Exerted a profound and wide-ranging influence on succeeding generations of 20th-century classical composers.",
+      "js_value": "Gustav Mahler left a lasting mark on music through his large-scale symphonies and Das Lied von der Erde."
+    },
+    {
+      "path": "Gustav Mahler.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Studied piano and composition at the Vienna Conservatory under Julius Epstein from 1875 to 1878.',",
+      "js_value": "['Gustav Mahler ( German: ; 7 July 1860 – 18 May 1911) was an Austro-Bohemian Romantic composer, and"
+    },
+    {
+      "person": "Gustav Mahler",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Gustav Mahler.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Studied piano and composition at the Vienna Conservatory under Julius Epstein from 1875 to 1878.",
+      "js_value": "Gustav Mahler ( German: ; 7 July 1860 – 18 May 1911) was an Austro-Bohemian Romantic composer, and one of the leading conductors of his generation."
+    },
+    {
+      "person": "Gustav Mahler",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Gustav Mahler.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as director of the Vienna Court Opera from 1897 to 1907, reforming production standards and orchestral performances.",
+      "js_value": "As a composer he acted as a bridge between the 19th-century tradition and the modernism of the early 20th century."
+    },
+    {
+      "person": "Hadrian",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Hadrian.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Publius Aelius Hadrianus was born on 24 January 76, in Italica (modern Santiponce, near Seville), a Roman town founded by Italic settlers in the province of Hispania Baetica during the Second Punic War at the initiative of Scipio Africanus; Hadrian's branch of the Aelia gens  came from Hadria (modern Atri), an ancient town in the Picenum region of Italia, the source of the name Hadrianus. One Roman biographer claims instead that Hadrian was born in Rome, but this view is held by a minority of scholars. Hadrian's father was Publius Aelius Hadrianus Afer, a senator of praetorian rank, born and raised in Italica.",
+      "js_value": "Hadrian was Roman emperor from 117 to 138 CE and spent much of his reign traveling through the provinces. Rather than pursuing continuous expansion, he emphasized frontier consolidation, administration, and the construction of monuments across the empire."
+    },
+    {
+      "person": "Hadrian",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Hadrian.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Built Hadrian's Wall to mark the northern limit of Britannia and sponsored major Roman architectural works including the rebuilt Pantheon.",
+      "js_value": "Hadrian is important for the consolidation of the Roman Empire and for the physical landscape his building program left behind. His reign illustrates a shift from territorial expansion toward managing and defending an already vast imperial system."
+    },
+    {
+      "path": "Hadrian.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Ward of Emperor Trajan, who appointed him to military and administrative commands in Pannonia and ",
+      "js_value": "['Born in Italica in Roman Hispania in 76 CE.', 'Traveled extensively through the Roman provinces du"
+    },
+    {
+      "person": "Hadrian",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Hadrian.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Ward of Emperor Trajan, who appointed him to military and administrative commands in Pannonia and Syria.",
+      "js_value": "Born in Italica in Roman Hispania in 76 CE."
+    },
+    {
+      "person": "Hadrian",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Hadrian.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Spent over half of his 21-year reign travelling across the provinces of the Roman Empire inspecting troops and border defenses.",
+      "js_value": "Traveled extensively through the Roman provinces during his reign."
+    },
+    {
+      "path": "Hannibal Barca.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['He was most likely born in Carthage, one of many Mediterranean regions colonised by the Canaanites",
+      "js_value": "['Crossed the Alps with an army including war elephants to invade Italy in 218 BC.', 'Won major vict"
+    },
+    {
+      "person": "Hannibal Barca",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Hannibal Barca.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "He was most likely born in Carthage, one of many Mediterranean regions colonised by the Canaanites from their homeland in Phoenicia.",
+      "js_value": "Crossed the Alps with an army including war elephants to invade Italy in 218 BC."
+    },
+    {
+      "person": "Hannibal Barca",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Hannibal Barca.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "He had several sisters whose names are unknown and two brothers, Hasdrubal and Mago.",
+      "js_value": "Won major victories at Trebia, Lake Trasimene, and Cannae."
+    },
+    {
+      "person": "Hannibal Barca",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Hannibal Barca.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Hannibal (; Punic: 𐤇𐤍𐤁𐤏𐤋; 247 – between 183 and 181 BC) was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War. Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War. Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\".",
+      "js_value": "Carthaginian general and statesman who carried the Second Punic War into Italy and repeatedly defeated larger Roman armies before being defeated by Scipio at Zama."
+    },
+    {
+      "person": "Hannibal Barca",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Hannibal Barca.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Ancient world ===. Hannibal caused great distress to many in Roman society.",
+      "js_value": "Carthaginian general and statesman who carried the Second Punic War into Italy and repeatedly defeated larger Roman armies before being defeated by Scipio at Zama."
+    },
+    {
+      "path": "Hannibal Barca.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Elected chief magistrate (sufet) of Carthage after the Second Punic War, enacting anti-corruption ",
+      "js_value": "['He was the son of the Carthaginian commander Hamilcar Barca.', 'His victory at Cannae is studied a"
+    },
+    {
+      "person": "Hannibal Barca",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Hannibal Barca.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Elected chief magistrate (sufet) of Carthage after the Second Punic War, enacting anti-corruption financial and administrative reforms.",
+      "js_value": "He was the son of the Carthaginian commander Hamilcar Barca."
+    },
+    {
+      "person": "Hannibal Barca",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Hannibal Barca.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Fled Carthage into exile in 195 BCE to escape Roman arrest, serving as military advisor to King Antiochus III of the Seleucid Empire.",
+      "js_value": "His victory at Cannae is studied as a classic example of double-envelopment tactics."
+    },
+    {
+      "path": "Igor Stravinsky.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Composed landmark ballets for Diaghilev's Ballets Russes, including 'The Firebird' (1910), 'Petrus",
+      "js_value": "[\"Stravinsky's time before meeting Diaghilev was spent learning from Rimsky-Korsakov and his collabo"
+    },
+    {
+      "person": "Igor Stravinsky",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Igor Stravinsky.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Composed landmark ballets for Diaghilev's Ballets Russes, including 'The Firebird' (1910), 'Petrushka' (1911), and 'The Rite of Spring' (1913).",
+      "js_value": "Stravinsky's time before meeting Diaghilev was spent learning from Rimsky-Korsakov and his collaborators."
+    },
+    {
+      "person": "Igor Stravinsky",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Igor Stravinsky.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Composed major neoclassical works including 'Oedipus Rex' (1927), 'Apollon musagète' (1927), and 'Symphony of Psalms' (1930).",
+      "js_value": "Only three works survive from before Stravinsky met Rimsky-Korsakov in August 1902: \" Tarantella \" (1898), Scherzo in G minor (1902), and The Storm Cloud , the first two being works for piano, and the last being works for voice and piano."
+    },
+    {
+      "person": "Igor Stravinsky",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Igor Stravinsky.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Igor Fyodorovich Stravinsky (17 June [O.S. 5 June] 1882 – 6 April 1971) was a Russian composer and conductor with French (from 1934) and American citizenship (from 1945). He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
+      "js_value": "Igor Stravinsky was a renowned Musician born in Oranienbaum, Russian Empire and passed away in New York City, USA."
+    },
+    {
+      "person": "Igor Stravinsky",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Igor Stravinsky.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Stravinsky worked with some of the most famous artists of his time, many of whom he met after achieving international success with The Firebird. Diaghilev was one of Stravinsky's most prominent artistic influences, having introduced him to composing for the stage and bringing him international fame with his first three ballets.",
+      "js_value": "Igor Stravinsky left a lasting mark on music through The Firebird, Petrushka and The Rite of Spring."
+    },
+    {
+      "person": "Igor Stravinsky",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Igor Stravinsky.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Studied law at the University of Saint Petersburg while taking private composition and orchestration lessons from Nikolai Rimsky-Korsakov.",
+      "js_value": "5 June ] 1882 – 6 April 1971) was a Russian composer and conductor with French (from 1934) and American citizenship (from 1945)."
+    },
+    {
+      "person": "Igor Stravinsky",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Igor Stravinsky.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Acquired French citizenship in 1934 and later became a naturalized American citizen in 1945.",
+      "js_value": "He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music ."
+    },
+    {
+      "path": "James Clerk Maxwell.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Formulated the classical theory of electromagnetic radiation, bringing together electricity, magne",
+      "js_value": "['James Clerk Maxwell FRS FRSE (13 June 1831 – 5 November 1879) was a Scottish physicist and mathema"
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "James Clerk Maxwell.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Formulated the classical theory of electromagnetic radiation, bringing together electricity, magnetism, and light.",
+      "js_value": "James Clerk Maxwell FRS FRSE (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician who was responsible for the classical theory of electromagnetic radiation , which was the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon."
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "James Clerk Maxwell.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Presented a demonstration of colour photography in 1861 using a photograph taken by Thomas Sutton.",
+      "js_value": "Maxwell's equations for electromagnetism achieved the second great unification in physics , where the first one had been realised by Isaac Newton ."
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "language": "en",
+      "field_path": "bio",
+      "path": "James Clerk Maxwell.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "James Clerk Maxwell  (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician who was responsible for the classical theory of electromagnetic radiation, which was the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon. Maxwell's equations for electromagnetism achieved the second great unification in physics, where the first one had been realised by Isaac Newton. Maxwell was also key in the creation of statistical mechanics.",
+      "js_value": "James Clerk Maxwell was a renowned Scientist born in Edinburgh, Scotland and passed away in Cambridge, England."
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "James Clerk Maxwell.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Recognition ===. In a survey of the 100 most prominent physicists conducted by Physics World, Maxwell was voted the third greatest physicist of all time, behind only Isaac Newton and Albert Einstein.",
+      "js_value": "James Clerk Maxwell left a lasting mark on science through Maxwell's equations and the electromagnetic theory of light."
+    },
+    {
+      "path": "James Clerk Maxwell.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Graduated Second Wrangler from Trinity College, Cambridge in 1854 and won the Smith's Prize for ma",
+      "js_value": "['James Clerk Maxwell FRS FRSE (13 June 1831 – 5 November 1879) was a Scottish physicist and mathema"
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "James Clerk Maxwell.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Graduated Second Wrangler from Trinity College, Cambridge in 1854 and won the Smith's Prize for mathematical physics.",
+      "js_value": "James Clerk Maxwell FRS FRSE (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician who was responsible for the classical theory of electromagnetic radiation , which was the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon."
+    },
+    {
+      "person": "James Clerk Maxwell",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "James Clerk Maxwell.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Held professor chairs in natural philosophy at Marischal College in Aberdeen and later at King's College London.",
+      "js_value": "Maxwell's equations for electromagnetism achieved the second great unification in physics , where the first one had been realised by Isaac Newton ."
+    },
+    {
+      "path": "James Prescott Joule.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Demonstrated the mechanical equivalent of heat through precision experiments measuring temperature",
+      "js_value": "['James Prescott Joule (24 December 1818 – 11 October 1889) was an English physicist .', 'Joule stud"
+    },
+    {
+      "person": "James Prescott Joule",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "James Prescott Joule.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Demonstrated the mechanical equivalent of heat through precision experiments measuring temperature rise caused by mechanical work.",
+      "js_value": "James Prescott Joule (24 December 1818 – 11 October 1889) was an English physicist ."
+    },
+    {
+      "person": "James Prescott Joule",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "James Prescott Joule.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Discovered Joule's first law in 1841.",
+      "js_value": "Joule studied the nature of heat and discovered its relationship to mechanical work ."
+    },
+    {
+      "person": "James Prescott Joule",
+      "language": "en",
+      "field_path": "bio",
+      "path": "James Prescott Joule.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "James Prescott Joule (; 24 December 1818 –  11 October 1889) was an English physicist. Joule studied the nature of heat and discovered its relationship to mechanical work. This led to the law of conservation of energy, which in turn led to the development of the first law of thermodynamics.",
+      "js_value": "James Prescott Joule was a renowned Scientist born in Salford, England and passed away in Sale, England."
+    },
+    {
+      "person": "James Prescott Joule",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "James Prescott Joule.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Discovered the relationship between heat and mechanical work, establishing energy principles that led to the First Law of Thermodynamics.",
+      "js_value": "James Prescott Joule left a lasting mark on science through the mechanical equivalent of heat and the quantitative study of energy."
+    },
+    {
+      "path": "James Prescott Joule.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Collaborated with William Thomson (Lord Kelvin) in the 1850s, conducting joint experiments that di",
+      "js_value": "['James Prescott Joule (24 December 1818 – 11 October 1889) was an English physicist .', 'Joule stud"
+    },
+    {
+      "person": "James Prescott Joule",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "James Prescott Joule.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Collaborated with William Thomson (Lord Kelvin) in the 1850s, conducting joint experiments that discovered the Joule–Thomson effect.",
+      "js_value": "James Prescott Joule (24 December 1818 – 11 October 1889) was an English physicist ."
+    },
+    {
+      "person": "James Prescott Joule",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "James Prescott Joule.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Elected a Fellow of the Royal Society in 1850 and awarded the Copley Medal in 1870 for his experimental research.",
+      "js_value": "Joule studied the nature of heat and discovered its relationship to mechanical work ."
+    },
+    {
+      "path": "Jane Austen.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Authored and published 'Sense and Sensibility' (1811) and 'Pride and Prejudice' (1813).\", \"Authore",
+      "js_value": "['Jane Austen (OST -in, AW -stin ; 16 December 1775 – 18 July 1817) was an English writer known prim"
+    },
+    {
+      "person": "Jane Austen",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Jane Austen.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Authored and published 'Sense and Sensibility' (1811) and 'Pride and Prejudice' (1813).",
+      "js_value": "Jane Austen (OST -in, AW -stin ; 16 December 1775 – 18 July 1817) was an English writer known primarily for her six novels , which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century."
+    },
+    {
+      "person": "Jane Austen",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Jane Austen.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Authored 'Mansfield Park' (1814) and 'Emma' (1815), followed by 'Northanger Abbey' and 'Persuasion' (published posthumously in 1817).",
+      "js_value": "Austen's plots often explore the dependence of women on marriage for the pursuit of favourable social standing and economic security."
+    },
+    {
+      "person": "Jane Austen",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Jane Austen.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Jane Austen ( OST-in, AW-stin; 16 December 1775 – 18 July 1817) was an English writer known primarily for her six novels, which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century. Austen's plots often explore the dependence of women on marriage for the pursuit of favourable social standing and economic security. Her works are implicit critiques of the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism.",
+      "js_value": "Jane Austen was a renowned Writer born in Steventon, England and passed away in Winchester, England."
+    },
+    {
+      "person": "Jane Austen",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Jane Austen.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Critiqued 18th-century novels of sensibility through her fiction and formed part of the transition toward 19th-century literary realism.",
+      "js_value": "Jane Austen transformed the English novel through precise social observation, irony, and works such as Pride and Prejudice."
+    },
+    {
+      "path": "Jane Austen.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "[\"Published her novels anonymously during her lifetime, with Sense and Sensibility credited to 'By a",
+      "js_value": "['Jane Austen (OST -in, AW -stin ; 16 December 1775 – 18 July 1817) was an English writer known prim"
+    },
+    {
+      "person": "Jane Austen",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Jane Austen.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Published her novels anonymously during her lifetime, with Sense and Sensibility credited to 'By a Lady'.",
+      "js_value": "Jane Austen (OST -in, AW -stin ; 16 December 1775 – 18 July 1817) was an English writer known primarily for her six novels , which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century."
+    },
+    {
+      "path": "Joseph Haydn.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Joseph Haydn was born in Rohrau, Austria, a village that at that time stood on the border with Hun",
+      "js_value": "['Franz Joseph Haydn (HY -dən ; German: ; 31 March 1732 – 31 May 1809) was an Austrian composer of t"
+    },
+    {
+      "person": "Joseph Haydn",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Joseph Haydn.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Joseph Haydn was born in Rohrau, Austria, a village that at that time stood on the border with Hungary.",
+      "js_value": "Franz Joseph Haydn (HY -dən ; German: ; 31 March 1732 – 31 May 1809) was an Austrian composer of the Classical period ."
+    },
+    {
+      "person": "Joseph Haydn",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Joseph Haydn.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "His father was Mathias Haydn, a wheelwright who also served as \"Marktrichter\", or marketplace supervisor.",
+      "js_value": "He was pivotal in the evolution of chamber music forms such as the string quartet and piano trio ."
+    },
+    {
+      "person": "Joseph Haydn",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Joseph Haydn.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Franz Joseph Haydn ( HY-dən; German: [ˈfʁants ˈjoːzɛf ˈhaɪdn̩] ; 31 March 1732 – 31 May 1809) was an Austrian composer of the Classical period. He was pivotal in the evolution of chamber music forms such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\", \"Father of the String quartet\" and \"Father of Sonata Form\".",
+      "js_value": "Joseph Haydn was a renowned Musician born in Rohrau, Austria and passed away in Vienna, Austria."
+    },
+    {
+      "person": "Joseph Haydn",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Joseph Haydn.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Instrumental in developing classical chamber music, earning the epithets 'Father of the Symphony' and 'Father of the String Quartet'.",
+      "js_value": "Joseph Haydn left a lasting mark on music through his London Symphonies and string quartets."
+    },
+    {
+      "path": "Joseph Haydn.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Served as court Kapellmeister to the wealthy Esterházy aristocratic family for nearly thirty years",
+      "js_value": "['Franz Joseph Haydn (HY -dən ; German: ; 31 March 1732 – 31 May 1809) was an Austrian composer of t"
+    },
+    {
+      "person": "Joseph Haydn",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Joseph Haydn.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as court Kapellmeister to the wealthy Esterházy aristocratic family for nearly thirty years from 1761.",
+      "js_value": "Franz Joseph Haydn (HY -dən ; German: ; 31 March 1732 – 31 May 1809) was an Austrian composer of the Classical period ."
+    },
+    {
+      "person": "Joseph Haydn",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Joseph Haydn.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Traveled to England in the 1790s under the impresario Johann Peter Salomon, composing his twelve 'London Symphonies'.",
+      "js_value": "He was pivotal in the evolution of chamber music forms such as the string quartet and piano trio ."
+    },
+    {
+      "path": "Louis IX.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['The construction of Sainte-Chapelle was inspired by earlier Carolingian royal chapels, most notabl",
+      "js_value": "['Louis IX (25 April 1214 – 25 August 1270), also known as Saint Louis , was King of France from 122"
+    },
+    {
+      "person": "Louis IX",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Louis IX.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The construction of Sainte-Chapelle was inspired by earlier Carolingian royal chapels, most notably the Palatine Chapel of Charlemagne at Aix-la-Chapelle (modern-day Aachen).",
+      "js_value": "Louis IX (25 April 1214 – 25 August 1270), also known as Saint Louis , was King of France from 1226 until his death in 1270."
+    },
+    {
+      "person": "Louis IX",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Louis IX.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Before embarking on this ambitious project, Louis had already built a royal chapel at the Château de Saint-Germain-en-Laye in 1238.",
+      "js_value": "He is widely recognized as the most distinguished of the Direct Capetians , is the sole king of France to be canonised as a saint of the Catholic Church , and is also the direct ancestor of all subsequent French kings."
+    },
+    {
+      "person": "Louis IX",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Louis IX.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Louis was born on 25 April 1214 at Poissy, near Paris, the son of then-Prince Louis \"the Lion\" (later Louis VIII of France) and Blanche of Castile, during the reign of his paternal grandfather, Philip II \"Augustus\" of France, and was baptized in Poissy in La Collégiale Notre-Dame church. His maternal grandfather was King Alfonso VIII of Castile. Tutors of Blanche's choosing taught him Latin, public speaking, writing, military arts, and government.",
+      "js_value": "Louis IX was a renowned Ruler born in Poissy, France and passed away in Tunis, Ifriqiya."
+    },
+    {
+      "person": "Louis IX",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Louis IX.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Consolidated French royal authority, reformed medieval judicial institutions, and was canonized as a Catholic saint in 1297.",
+      "js_value": "Strengthened French royal administration and personally led two crusades, becoming the only French king canonized in the Middle Ages."
+    },
+    {
+      "path": "Louis IX.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "['Reigned for 43 years, established the Parlement of Paris, and introduced the presumption of innoce",
+      "js_value": "['Louis IX (25 April 1214 – 25 August 1270), also known as Saint Louis , was King of France from 122"
+    },
+    {
+      "person": "Louis IX",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Louis IX.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Reigned for 43 years, established the Parlement of Paris, and introduced the presumption of innocence in French judicial procedure.",
+      "js_value": "Louis IX (25 April 1214 – 25 August 1270), also known as Saint Louis , was King of France from 1226 until his death in 1270."
+    },
+    {
+      "path": "Ludwig van Beethoven.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Beethoven was the grandson of Ludwig van Beethoven, a musician from the city of Mechelen in Austri",
+      "js_value": "['Ludwig van Beethoven ( baptised 17 December 1770 – 26 March 1827) was a German composer, conductor"
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Ludwig van Beethoven.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Beethoven was the grandson of Ludwig van Beethoven, a musician from the city of Mechelen in Austrian Netherlands (now Belgium), who moved to Bonn at the age of 21.",
+      "js_value": "Ludwig van Beethoven ( baptised 17 December 1770 – 26 March 1827) was a German composer, conductor, and pianist."
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Ludwig van Beethoven.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Ludwig was employed as a bass singer at the court of Clemens August, Archbishop-Elector of Cologne, eventually rising to become, in 1761, Kapellmeister (music director) and hence a preeminent musician in Bonn.",
+      "js_value": "Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period , and his musical style was a key driver of the transition to Romantic music , and the expansion of instrumental forms such as the symphony , the piano sonata and the string quartet ."
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Ludwig van Beethoven.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) was a German composer, conductor, and pianist. Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period, and his musical style was a key driver of the transition to Romantic music, and the expansion of instrumental forms such as the symphony, the piano sonata and the string quartet. His compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world.",
+      "js_value": "Ludwig van Beethoven was a renowned Musician born in Bonn, Electorate of Cologne and passed away in Vienna, Austria."
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Ludwig van Beethoven.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Alex Ross writes \"He not only left his mark on all subsequent composers but also molded entire institutions. The professional orchestra arose, in large measure, as a vehicle for the incessant performance of Beethoven's symphonies.",
+      "js_value": "Ludwig van Beethoven left a lasting mark on music through his Fifth and Ninth Symphonies."
+    },
+    {
+      "path": "Ludwig van Beethoven.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Moved from Bonn to Vienna in 1792 to study composition under Joseph Haydn and established a reputa",
+      "js_value": "['Ludwig van Beethoven ( baptised 17 December 1770 – 26 March 1827) was a German composer, conductor"
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Ludwig van Beethoven.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Moved from Bonn to Vienna in 1792 to study composition under Joseph Haydn and established a reputation as a virtuoso pianist.",
+      "js_value": "Ludwig van Beethoven ( baptised 17 December 1770 – 26 March 1827) was a German composer, conductor, and pianist."
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Ludwig van Beethoven.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Began losing his hearing in his late 20s, becoming almost completely deaf by 1818 while continuing to compose masterworks.",
+      "js_value": "Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period , and his musical style was a key driver of the transition to Romantic music , and the expansion of instrumental forms such as the symphony , the piano sonata and the string quartet ."
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Malek Bennabi.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "From one of his works, Les Conditions de la Renaissance (1948), he defined culture as the mode of being and becoming of a people.",
+      "js_value": "Malek Bennabi (1 January 1905 – 31 October 1973) ( Arabic : مالك بن نبي , romanized : Malik ibn Nabī ) was an Algerian writer and philosopher, of Islamic, Salafist and Wahhabi inspiration who wrote about human society, particularly Muslim society with a focus on the reasons behind the fall of Muslim civilization and the keys for Renaissance."
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Malek Bennabi.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "This included aesthetic, ethical, pragmatic, and technical values.",
+      "js_value": "According to Malek Bennabi, the lack of new ideas in Islamic thought emerged what he coined civilizational bankruptcy ."
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "achievements[2]",
+      "path": "Malek Bennabi.languages.en.achievements[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "When these contents had been clearly defined, only then could various formulations of ideas be born.",
+      "js_value": "He argued that in order to recover its former magnificence, Islamic society had to become an environment in which individuals felt empowered."
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Malek Bennabi.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Malek Bennabi (1 January 1905 – 31 October 1973) (Arabic: مالك بن نبي, romanized: Malik ibn Nabī) was an Algerian writer and philosopher, of Islamic, Salafist and Wahhabi inspiration who wrote about human society, particularly Muslim society with a focus on the reasons behind the fall of Muslim civilization and the keys for Renaissance. According to Malek Bennabi, the lack of new ideas in Islamic thought emerged what he coined civilizational bankruptcy. He argued that in order to recover its former magnificence, Islamic society had to become an environment in which individuals felt empowered.",
+      "js_value": "Malek Bennabi was a renowned Philosopher born in Constantine, French Algeria and passed away in Algiers, Algeria."
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Malek Bennabi.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Developed an influential civilizational philosophy analyzing the decline and renewal of Muslim societies, introducing the key concept of 'colonisability' in post-colonial studies.",
+      "js_value": "Malek Bennabi developed a distinctive analysis of civilization, cultural renewal, and the conditions he believed were necessary for societies to overcome decline and regain creative capacity."
+    },
+    {
+      "path": "Malek Bennabi.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Studied electrical engineering in Paris in the 1930s before shifting his focus to Islamic philosop",
+      "js_value": "['Malek Bennabi (1 January 1905 – 31 October 1973) ( Arabic : مالك بن نبي , romanized : Malik ibn Na"
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Malek Bennabi.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Studied electrical engineering in Paris in the 1930s before shifting his focus to Islamic philosophy, sociology, and Islamic civilizational studies.",
+      "js_value": "Malek Bennabi (1 January 1905 – 31 October 1973) ( Arabic : مالك بن نبي , romanized : Malik ibn Nabī ) was an Algerian writer and philosopher, of Islamic, Salafist and Wahhabi inspiration who wrote about human society, particularly Muslim society with a focus on the reasons behind the fall of Muslim civilization and the keys for Renaissance."
+    },
+    {
+      "person": "Malek Bennabi",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Malek Bennabi.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Appointed Director of Higher Education in post-independence Algeria in 1963.",
+      "js_value": "According to Malek Bennabi, the lack of new ideas in Islamic thought emerged what he coined civilizational bankruptcy ."
+    },
+    {
+      "path": "Marcel Proust.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Authored 'In Search of Lost Time' ('À la recherche du temps perdu'), a seven-volume work published",
+      "js_value": "['Valentin Louis Georges Eugène Marcel Proust (PROOST ; French: ; 10 July 1871 – 18 November 1922) w"
+    },
+    {
+      "person": "Marcel Proust",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Marcel Proust.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Authored 'In Search of Lost Time' ('À la recherche du temps perdu'), a seven-volume work published between 1913 and 1927.",
+      "js_value": "Valentin Louis Georges Eugène Marcel Proust (PROOST ; French: ; 10 July 1871 – 18 November 1922) was a French novelist , literary critic , and essayist best known for his novel À la recherche du temps perdu (translated into English as In Search of Lost Time , earlier Remembrance of Things Past ), which was published in seven volumes between 1913 and 1927 and totals around 1.25 million words."
+    },
+    {
+      "person": "Marcel Proust",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Marcel Proust.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Awarded the Prix Goncourt in 1919 for the second volume of his novel, 'In the Shadow of Young Girls in Flower'.",
+      "js_value": "He is considered by critics and writers to be one of the most influential authors of the twentieth century."
+    },
+    {
+      "person": "Marcel Proust",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Marcel Proust.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Proust was born on 10 July 1871 at the home of his great-uncle in the Paris Borough of Auteuil (the south-western sector of the then-rustic 16th arrondissement), two months after the Treaty of Frankfurt formally ended the Franco-Prussian War. His birth coincided with the beginning of the French Third Republic, during the violence that surrounded the suppression of the Paris Commune, and his childhood corresponded with the consolidation of the Republic. Much of In Search of Lost Time concerns the vast changes, most particularly the decline of the aristocracy and the rise of the middle classes, that occurred in France during the fin de siècle.",
+      "js_value": "Marcel Proust was a renowned Writer born in Auteuil, France and passed away in Paris, France."
+    },
+    {
+      "person": "Marcel Proust",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Marcel Proust.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Authored the monumental seven-volume novel In Search of Lost Time, widely considered a masterpiece of 20th-century literature.",
+      "js_value": "Proust transformed modern fiction through In Search of Lost Time and its exploration of memory, time, and consciousness."
+    },
+    {
+      "path": "Marcel Proust.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "['Published his first book, Les Plaisirs et les Jours, a collection of short prose poems and stories",
+      "js_value": "['Valentin Louis Georges Eugène Marcel Proust (PROOST ; French: ; 10 July 1871 – 18 November 1922) w"
+    },
+    {
+      "person": "Marcel Proust",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Marcel Proust.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Published his first book, Les Plaisirs et les Jours, a collection of short prose poems and stories, in 1896.",
+      "js_value": "Valentin Louis Georges Eugène Marcel Proust (PROOST ; French: ; 10 July 1871 – 18 November 1922) was a French novelist , literary critic , and essayist best known for his novel À la recherche du temps perdu (translated into English as In Search of Lost Time , earlier Remembrance of Things Past ), which was published in seven volumes between 1913 and 1927 and totals around 1.25 million words."
+    },
+    {
+      "path": "Marcus Aurelius.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Authored the Stoic philosophical personal writings known as 'Meditations' while on military campai",
+      "js_value": "['Marcus Aurelius Antoninus (or- EE -lee-əs ; Latin: ; 26 April 121 – 17 March 180) was Roman empero"
+    },
+    {
+      "person": "Marcus Aurelius",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Marcus Aurelius.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Authored the Stoic philosophical personal writings known as 'Meditations' while on military campaign between 170 and 180 CE.",
+      "js_value": "Marcus Aurelius Antoninus (or- EE -lee-əs ; Latin: ; 26 April 121 – 17 March 180) was Roman emperor from 161 to 180 and a Stoic philosopher."
+    },
+    {
+      "person": "Marcus Aurelius",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Marcus Aurelius.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Defended the northern frontier of the Roman Empire against invading Germanic tribes during the Marcomannic Wars (166–180 CE).",
+      "js_value": "He was a member of the Nerva–Antonine dynasty , the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana , an age of relative peace, calm, and stability for the Roman Empire lasting from 27 BC to 180 AD."
+    },
+    {
+      "person": "Marcus Aurelius",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Marcus Aurelius.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Marcus was born in Rome on 26 April 121. His birth name is sometimes given as Marcus Annius Verus, but sources assign this name to him upon his father's death and unofficial adoption by his grandfather, upon his coming of age. He may have been known as \"Marcus Annius Catilius Severus\", at birth or some point in his youth, or \"Marcus Catilius Severus Annius Verus\".",
+      "js_value": "Marcus Aurelius was a renowned Ruler born in Rome, Roman Empire and passed away in Vindobona, Roman Empire."
+    },
+    {
+      "person": "Marcus Aurelius",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Marcus Aurelius.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Equestrian statue ===. The equestrian statue of Marcus Aurelius in Rome is the only Roman equestrian statue which has survived into the modern period.",
+      "js_value": "Combined Stoic philosophy with imperial rule during prolonged frontier wars, leaving the Meditations as a major work of ancient philosophy."
+    },
+    {
+      "path": "Marcus Aurelius.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Adopted by Emperor Antoninus Pius in 138 CE as part of Emperor Hadrian's imperial succession plan.",
+      "js_value": "['Marcus Aurelius Antoninus (or- EE -lee-əs ; Latin: ; 26 April 121 – 17 March 180) was Roman empero"
+    },
+    {
+      "person": "Marcus Aurelius",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Marcus Aurelius.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Adopted by Emperor Antoninus Pius in 138 CE as part of Emperor Hadrian's imperial succession plan.",
+      "js_value": "Marcus Aurelius Antoninus (or- EE -lee-əs ; Latin: ; 26 April 121 – 17 March 180) was Roman emperor from 161 to 180 and a Stoic philosopher."
+    },
+    {
+      "person": "Marcus Aurelius",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Marcus Aurelius.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Ruled co-equally with his adoptive brother Lucius Verus from 161 until Verus's death in 169 CE.",
+      "js_value": "He was a member of the Nerva–Antonine dynasty , the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana , an age of relative peace, calm, and stability for the Roman Empire lasting from 27 BC to 180 AD."
+    },
+    {
+      "path": "Martin Luther King.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 3,
+      "js_length": 2,
+      "json_value": "['King was awarded at least fifty honorary degrees from colleges and universities.', 'On October 14,",
+      "js_value": "['He advanced civil rights for people of color in the United States through the use of nonviolent re"
+    },
+    {
+      "person": "Martin Luther King",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Martin Luther King.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "King was awarded at least fifty honorary degrees from colleges and universities.",
+      "js_value": "He advanced civil rights for people of color in the United States through the use of nonviolent resistance and civil disobedience against Jim Crow laws and other forms of legalized discrimination , which most commonly affected African Americans ."
+    },
+    {
+      "person": "Martin Luther King",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Martin Luther King.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "On October 14, 1964, King became the youngest winner of the Nobel Peace Prize, which was awarded to him for leading nonviolent resistance to racial prejudice in the U.S.",
+      "js_value": "A Black church leader, King participated in and led marches for the right to vote , desegregation , labor rights , and other civil rights."
+    },
+    {
+      "person": "Martin Luther King",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Martin Luther King.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "was born on January 15, 1929, in Atlanta, the second of three children of Michael King and Alberta King (née Williams). Alberta's father, Adam Daniel Williams, was a minister in rural Georgia, moved to Atlanta in 1893, and became pastor of the Ebenezer Baptist Church in the following year. Williams married Jennie Celeste Parks.",
+      "js_value": "Martin Luther King Jr. (born Michael King Jr.)"
+    },
+    {
+      "person": "Martin Luther King",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Martin Luther King.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== South Africa ===. King's legacy includes influences on the Black Consciousness Movement and civil rights movement in South Africa.",
+      "js_value": "Martin Luther King Jr."
+    },
+    {
+      "person": "Martin Luther King",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Martin Luther King.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Helped found the Southern Christian Leadership Conference (SCLC) in 1957, serving as its first president.",
+      "js_value": "He advanced civil rights for people of color in the United States through the use of nonviolent resistance and civil disobedience against Jim Crow laws and other forms of legalized discrimination , which most commonly affected African Americans ."
+    },
+    {
+      "person": "Martin Luther King",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Martin Luther King.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Delivered his landmark 'I Have a Dream' speech at the March on Washington for Jobs and Freedom in August 1963.",
+      "js_value": "A Black church leader, King participated in and led marches for the right to vote , desegregation , labor rights , and other civil rights."
+    },
+    {
+      "path": "Michael Faraday.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "[\"Faraday's earliest chemical work was as an assistant to Humphry Davy.\", 'Faraday was involved in t",
+      "js_value": "['Michael Faraday (22 September 1791 – 25 August 1867) was an English chemist and physicist who cont"
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Michael Faraday.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Faraday's earliest chemical work was as an assistant to Humphry Davy.",
+      "js_value": "Michael Faraday (22 September 1791 – 25 August 1867) was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism ."
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Michael Faraday.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Faraday was involved in the study of chlorine; he discovered two new compounds of chlorine and carbon:  hexachloroethane which he made via the chlorination of ethylene and tetrachloroethylene from the decomposition of the former.",
+      "js_value": "His main discoveries include the principles underlying electromagnetic induction , diamagnetism , and electrolysis ."
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Michael Faraday.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Early life ===. Michael Faraday was born on 22 September 1791 in Newington Butts, Surrey, which is now part of the London Borough of Southwark. His family was not well off.",
+      "js_value": "Michael Faraday was a renowned Scientist born in Newington, England and passed away in Hampton Court, England."
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Michael Faraday.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Discovered electromagnetic induction, laws of electrolysis, and diamagnetism, laying the physical foundations for electromagnetic field theory and modern electrical power technology.",
+      "js_value": "Michael Faraday left a lasting mark on science through electromagnetic induction and the foundations of electric motor and generator technology."
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Michael Faraday.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "In honor and remembrance of his great scientific contributions, several institutions have created prizes and awards in his name.",
+      "js_value": "Michael Faraday (22 September 1791 – 25 August 1867) was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism ."
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Michael Faraday.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The IET Faraday Medal.",
+      "js_value": "His main discoveries include the principles underlying electromagnetic induction , diamagnetism , and electrolysis ."
+    },
+    {
+      "person": "Michael Faraday",
+      "language": "en",
+      "field_path": "key_facts[2]",
+      "path": "Michael Faraday.languages.en.key_facts[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The Royal Society of London Michael Faraday Prize.",
+      "js_value": "Although Faraday received little formal education, as a self-made man, he was one of the most influential scientists in history."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Muhammad Abduh.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Comments on Peak of Eloquence.",
+      "js_value": "Muhammad Abduh (1849 – 11 July 1905) was an Egyptian Islamic scholar and judge who served as Grand Mufti of Egypt ."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Muhammad Abduh.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Al-Urwah al-Wuthqa.",
+      "js_value": "He was a central figure of the Arab Nahḍa and Islamic Modernism in the late 19th and early 20th centuries."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "language": "en",
+      "field_path": "achievements[2]",
+      "path": "Muhammad Abduh.languages.en.achievements[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Other works by Muhammad `Abduh.",
+      "js_value": "He began teaching advanced students esoteric Islamic texts at Al-Azhar University while he was still studying there."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Muhammad Abduh.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Muḥammad ʿAbduh was born in 1849 to a father with Turkish ancestry and an Egyptian mother in the Nile Delta. His family was part of the Ottoman Egyptian elite: his father was part of the Umad, or the local ruling elite, while his mother was part of the Ashraf. He was educated in Tanta at a private school.",
+      "js_value": "Muhammad Abduh was a renowned Reformer born in Mahallat Nasr, Egypt and passed away in Alexandria, Egypt."
+    },
+    {
+      "person": "Muhammad Abduh",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Muhammad Abduh.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as Grand Mufti of Egypt and a central figure of Islamic Modernism, reforming religious thought through rationalist interpretation.",
+      "js_value": "Remembered for shaping historical developments in reformer."
+    },
+    {
+      "path": "Muhammad Abduh.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "['Appointed Grand Mufti of Egypt in 1899, initiating administrative and legal reforms at Al-Azhar Un",
+      "js_value": "['Muhammad Abduh (1849 – 11 July 1905) was an Egyptian Islamic scholar and judge who served as Grand"
+    },
+    {
+      "person": "Muhammad Abduh",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Muhammad Abduh.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Appointed Grand Mufti of Egypt in 1899, initiating administrative and legal reforms at Al-Azhar University.",
+      "js_value": "Muhammad Abduh (1849 – 11 July 1905) was an Egyptian Islamic scholar and judge who served as Grand Mufti of Egypt ."
+    },
+    {
+      "path": "Nicolaus Copernicus.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 3,
+      "js_length": 2,
+      "json_value": "['Formulated the heliocentric astronomical model placing the Sun rather than Earth at the center of ",
+      "js_value": "['Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a m"
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Nicolaus Copernicus.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Formulated the heliocentric astronomical model placing the Sun rather than Earth at the center of the solar system.",
+      "js_value": "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center ."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Nicolaus Copernicus.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Published 'De revolutionibus orbium coelestium' ('On the Revolutions of the Heavenly Spheres') in 1543.",
+      "js_value": "Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos , an ancient Greek astronomer , Copernicus likely arrived at his model independently."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Nicolaus Copernicus.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center. The publication of Copernicus's model in his book De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres), just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution. Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos, an ancient Greek astronomer, Copernicus likely arrived at his model independently.",
+      "js_value": "Nicolaus Copernicus was a renowned Scientist born in Torun, Poland and passed away in Frombork, Poland."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Nicolaus Copernicus.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Published De revolutionibus orbium coelestium in 1543, triggering the Copernican Revolution and contributing fundamentally to the Scientific Revolution.",
+      "js_value": "Nicolaus Copernicus left a lasting mark on science through the heliocentric model presented in De revolutionibus."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Nicolaus Copernicus.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Studied canon law and medicine at the Universities of Kraków, Bologna, and Padua between 1491 and 1503.",
+      "js_value": "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center ."
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Nicolaus Copernicus.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as a canon of Frombork Cathedral for most of his adult life, managing cathedral administration and medical care.",
+      "js_value": "Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos , an ancient Greek astronomer , Copernicus likely arrived at his model independently."
+    },
+    {
+      "path": "Nur ad-Din.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['After the assassination of his father in 1146, Nur ad-Din and his older brother Saif ad-Din Ghazi ",
+      "js_value": "[\"Nur al-Din ( Arabic : نور الدين , romanized : nūr ad-dīn ) is a male Arabic given name , translati"
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Nur ad-Din.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "After the assassination of his father in 1146, Nur ad-Din and his older brother Saif ad-Din Ghazi I divided the kingdom between themselves, with Nur ad-Din governing Aleppo and Saif ad-Din Ghazi establishing himself in Mosul.",
+      "js_value": "Nur al-Din ( Arabic : نور الدين , romanized : nūr ad-dīn ) is a male Arabic given name , translating to 'light of Faith', nūr meaning 'light' and dīn meaning 'religion'."
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Nur ad-Din.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The border between the two new kingdoms was formed by the Khabur River.",
+      "js_value": "More recently, the name has also been used as a surname."
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Nur ad-Din.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Al-Malik al-Adil Abu al-Qasim Nūr al-Dīn Maḥmūd  bin Imad al-Dīn Zengī (Arabic: الملكُ العادلُ أبو القاسمِ نور الدين محمود بن عمادِ الدِّين زَنْكِي; February 1118 – 15 May 1174), commonly known as Nur ad-Din or Nureddin (lit. 'Light of the Faith' in Arabic), and al-Malik al-Adil (lit. 'the Just King' in Arabic), was a Turkoman member of the Zengid dynasty, who ruled the Syrian province (Bilad al-Sham) of the Seljuk Empire.",
+      "js_value": "Nur ad-Din was a renowned Military Leader born in Aleppo, Syria and passed away in Damascus, Syria."
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Nur ad-Din.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "According to William of Tyre, although Nur ad-Din was \"a mighty persecutor of the Christian name and faith,\" he was also \"a just prince, valiant and wise, and according to the traditions of his race, a religious man.\" His sense of justice was never denied to anyone, regardless of their creed or origins. As a result of his justice, a Christian foreigner was said to have settled into Damascus, which was under Nur ad-Din's reign.",
+      "js_value": "Nur ad-Din left a lasting mark on military history through consolidation of Muslim Syria and the campaigns that preceded Saladin's rise."
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Nur ad-Din.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "During this time Nur ad-Din was busy in the north, fighting the Artuqids, and in 1170 he had to settle a dispute between his nephews when his brother Qutb ad-Din died.",
+      "js_value": "Nur al-Din ( Arabic : نور الدين , romanized : nūr ad-dīn ) is a male Arabic given name , translating to 'light of Faith', nūr meaning 'light' and dīn meaning 'religion'."
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Nur ad-Din.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "With Egypt conquered in his name, Nur ad-Din believed that he had accomplished his goal of uniting the Arab states of the Levant.",
+      "js_value": "More recently, the name has also been used as a surname."
+    },
+    {
+      "person": "Nur ad-Din",
+      "language": "en",
+      "field_path": "key_facts[2]",
+      "path": "Nur ad-Din.languages.en.key_facts[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "However, near the end of his life, especially after the death of Saladin's father Najm al-Din Ayyub, Nur ad-Din believed he could no longer trust anyone in Saladin's court to maintain the young ruler's fealty to him.",
+      "js_value": "There are many Romanized spelling variants of the name."
+    },
+    {
+      "path": "Oscar Wilde.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Not content with being better known than ever in London, though, he returned to Paris in October 1",
+      "js_value": "[\"Oscar Fingal O'Fflahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish author, po"
+    },
+    {
+      "person": "Oscar Wilde",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Oscar Wilde.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Not content with being better known than ever in London, though, he returned to Paris in October 1891, this time as a respected writer.",
+      "js_value": "Oscar Fingal O'Fflahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish author, poet and playwright."
+    },
+    {
+      "person": "Oscar Wilde",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Oscar Wilde.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "He was received at the salons littéraires, including the famous mardis of Stéphane Mallarmé, a renowned symbolist poet of the time.",
+      "js_value": "After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s."
+    },
+    {
+      "person": "Oscar Wilde",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Oscar Wilde.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Oscar Wilde was born on 16 October 1854 at 21 Westland Row, Dublin (now home of the Oscar Wilde Centre, Trinity College), the second of three children born to an Anglo-Irish couple: Jane, née Elgee, and Sir William Wilde. Oscar was two years younger than his brother, William (Willie) Wilde. Jane Wilde was a niece (by marriage) of the novelist, playwright and clergyman Charles Maturin, who may have influenced her own literary career.",
+      "js_value": "Oscar Wilde was a renowned Writer born in Dublin, Ireland and passed away in Paris, France."
+    },
+    {
+      "person": "Oscar Wilde",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Oscar Wilde.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Remembered as a leading figure of the 19th-century Aestheticism movement and a master of late Victorian theatrical comedy.",
+      "js_value": "Wilde became a major figure of aestheticism through witty drama, criticism, and The Picture of Dorian Gray."
+    },
+    {
+      "path": "Oscar Wilde.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Educated at Trinity College Dublin and Magdalen College, Oxford, winning the Newdigate Prize for h",
+      "js_value": "[\"Oscar Fingal O'Fflahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish author, po"
+    },
+    {
+      "person": "Oscar Wilde",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Oscar Wilde.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Educated at Trinity College Dublin and Magdalen College, Oxford, winning the Newdigate Prize for his poem Ravenna in 1878.",
+      "js_value": "Oscar Fingal O'Fflahertie Wills Wilde (16 October 1854 – 30 November 1900) was an Irish author, poet and playwright."
+    },
+    {
+      "person": "Oscar Wilde",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Oscar Wilde.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Conducted a nine-month lecture tour of North America in 1882 explaining Aestheticism and art theory.",
+      "js_value": "After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s."
+    },
+    {
+      "person": "Qutuz",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Qutuz.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Led Mamluk forces against the Mongols at the Battle of Ain Jalut in 1260.",
+      "js_value": "' The Victorious King , Sword of the Faith Qutuz ' ), was the Mamluk Sultan of Egypt ."
+    },
+    {
+      "person": "Qutuz",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Qutuz.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as a key Mamluk military commander in the defense of Egypt against the Seventh Crusade in 1250.",
+      "js_value": "He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades."
+    },
+    {
+      "person": "Qutuz",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Qutuz.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Sayf ad-Din Qutuz (Arabic: سيف الدين قطز; died 24 October 1260), also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz (الملك المظفر سيف الدين قطز lit. 'The Victorious King, Sword of the Faith Qutuz'), was the Mamluk Sultan of Egypt. He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades.",
+      "js_value": "Mamluk Sultan who defeated the Mongols."
+    },
+    {
+      "person": "Qutuz",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Qutuz.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Halted the westward expansion of the Mongol Empire at the Battle of Ain Jalut in 1260, preserving Islamic civilization in Egypt and the Levant.",
+      "js_value": "Mamluk Sultan who defeated the Mongols."
+    },
+    {
+      "person": "Qutuz",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Qutuz.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Seized the Mamluk throne in Cairo in November 1259, deposing the 15-year-old Sultan Al-Mansur Ali as Mongol forces approached Syria.",
+      "js_value": "' The Victorious King , Sword of the Faith Qutuz ' ), was the Mamluk Sultan of Egypt ."
+    },
+    {
+      "person": "Qutuz",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Qutuz.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Assassinated in October 1260 by fellow Mamluk commander Baibars while returning victorious to Cairo from Ain Jalut.",
+      "js_value": "He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades."
+    },
+    {
+      "path": "Rosa Parks.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Refused to surrender her bus seat on December 1, 1955, in Montgomery, Alabama, an act that became ",
+      "js_value": "['Rosa Louise McCauley Parks (February 4, 1913 – October 24, 2005) was an American civil rights acti"
+    },
+    {
+      "person": "Rosa Parks",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Rosa Parks.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Refused to surrender her bus seat on December 1, 1955, in Montgomery, Alabama, an act that became central to the Montgomery bus boycott.",
+      "js_value": "Rosa Louise McCauley Parks (February 4, 1913 – October 24, 2005) was an American civil rights activist ."
+    },
+    {
+      "person": "Rosa Parks",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Rosa Parks.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as secretary and youth leader for the Montgomery chapter of the NAACP during the 1940s and 1950s.",
+      "js_value": "She is best known for her 1955 refusal to move from her seat on a bus in Montgomery, Alabama , in defiance of Jim Crow racial segregation laws , which sparked the Montgomery bus boycott ."
+    },
+    {
+      "person": "Rosa Parks",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Rosa Parks.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Rosa Parks was born Rosa Louise McCauley on February 4, 1913, in Tuskegee, Alabama. Her mother, Leona (née Edwards), was a teacher from Pine Level, Alabama. Her father, James McCauley, was a carpenter and mason from Abbeville, Alabama.",
+      "js_value": "Rosa Parks was a renowned Politician born in Tuskegee, USA and passed away in Detroit, USA."
+    },
+    {
+      "person": "Rosa Parks",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Rosa Parks.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Parks received several awards as a result of her contributions to the civil rights movement. The SCLC established the Rosa Parks Freedom Award in 1963, though Parks herself did not receive it until 1972.",
+      "js_value": "Parks became a major symbol of the U.S. civil rights movement after her 1955 refusal to surrender her bus seat helped trigger the Montgomery Bus Boycott."
+    },
+    {
+      "path": "Rosa Parks.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Served as secretary for the Montgomery branch of the NAACP during the 1940s and 1950s, investigati",
+      "js_value": "['Rosa Louise McCauley Parks (February 4, 1913 – October 24, 2005) was an American civil rights acti"
+    },
+    {
+      "person": "Rosa Parks",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Rosa Parks.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Served as secretary for the Montgomery branch of the NAACP during the 1940s and 1950s, investigating racial violence cases.",
+      "js_value": "Rosa Louise McCauley Parks (February 4, 1913 – October 24, 2005) was an American civil rights activist ."
+    },
+    {
+      "person": "Rosa Parks",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Rosa Parks.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Attended civil rights leadership training at the Highlander Folk School in Tennessee in the summer of 1955.",
+      "js_value": "She is best known for her 1955 refusal to move from her seat on a bus in Montgomery, Alabama , in defiance of Jim Crow racial segregation laws , which sparked the Montgomery bus boycott ."
+    },
+    {
+      "path": "Saladin.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 3,
+      "js_length": 2,
+      "json_value": "['Crusader attacks provoked further responses by Saladin.', 'Raynald of Châtillon, in particular, ha",
+      "js_value": "['1137 – 4 March 1193), commonly known as Saladin , was a Kurdish commander and political leader.', "
+    },
+    {
+      "person": "Saladin",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Saladin.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Crusader attacks provoked further responses by Saladin.",
+      "js_value": "1137 – 4 March 1193), commonly known as Saladin , was a Kurdish commander and political leader."
+    },
+    {
+      "person": "Saladin",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Saladin.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Raynald of Châtillon, in particular, harassed Muslim trading and pilgrimage routes with a fleet on the Red Sea, a water route that Saladin needed to keep open.",
+      "js_value": "He was the founder of the Ayyubid dynasty and the first sultan of both Egypt and Syria ."
+    },
+    {
+      "person": "Saladin",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Saladin.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Saladin was born in Tikrit in present-day Iraq. His personal name was \"Yusuf\"; \"Salah ad-Din\" is a laqab, an honorific epithet, meaning \"Righteousness of the Faith\". His parents were of Kurdish ancestry, and had originated from the village of Ajdanakan near the city of Dvin in central Armenia.",
+      "js_value": "Founder of the Ayyubid dynasty."
+    },
+    {
+      "person": "Saladin",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Saladin.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Muslim world ===. Saladin has become a prominent figure in Muslim, Arab, Turkish and Kurdish culture, and he has been described as the most famous Kurd in history.",
+      "js_value": "Founder of the Ayyubid dynasty."
+    },
+    {
+      "path": "Saladin.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 2,
+      "json_value": "['Appointed Vizier of Fatimid Egypt in 1169 following the death of his uncle Shirkuh, subsequently a",
+      "js_value": "['1137 – 4 March 1193), commonly known as Saladin , was a Kurdish commander and political leader.', "
+    },
+    {
+      "person": "Saladin",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Saladin.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Appointed Vizier of Fatimid Egypt in 1169 following the death of his uncle Shirkuh, subsequently abolishing the Fatimid Caliphate in 1171.",
+      "js_value": "1137 – 4 March 1193), commonly known as Saladin , was a Kurdish commander and political leader."
+    },
+    {
+      "path": "Steve Jobs.languages.en.achievements",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 1,
+      "js_length": 3,
+      "json_value": "['Pioneered major historical developments in technologist.']",
+      "js_value": "['Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and "
+    },
+    {
+      "person": "Steve Jobs",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Steve Jobs.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Pioneered major historical developments in technologist.",
+      "js_value": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor."
+    },
+    {
+      "person": "Steve Jobs",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Steve Jobs.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Steven Paul Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Dr. Abdulfattah \"John\" Jandali (Arabic: عبد الفتاح الجندلي). Abdulfattah Jandali was born in a Muslim household to wealthy Syrian parents, the youngest of nine siblings.",
+      "js_value": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc."
+    },
+    {
+      "person": "Steve Jobs",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Steve Jobs.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Pioneered the personal computer revolution of the 1970s and 1980s as a leading inventor and entrepreneur.",
+      "js_value": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor."
+    },
+    {
+      "person": "Steve Jobs",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Steve Jobs.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Born in San Francisco, USA",
+      "js_value": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor."
+    },
+    {
+      "person": "Steve Jobs",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Steve Jobs.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Active during the Digital Age period.",
+      "js_value": "A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc."
+    },
+    {
+      "person": "Steve Jobs",
+      "language": "en",
+      "field_path": "key_facts[2]",
+      "path": "Steve Jobs.languages.en.key_facts[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Lived from 1955 to 2011 CE.",
+      "js_value": "with his early business partner Steve Wozniak as Apple Computer Company in 1976."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "achievements[0]",
+      "path": "Sun Yat-sen.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Kidnapped in London (1897).",
+      "js_value": "In 1891, Sun met revolutionary friends in Hong Kong including Yeung Ku-wan who was the leader and founder of the Furen Literary Society ."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "achievements[1]",
+      "path": "Sun Yat-sen.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The Outline of National Reconstruction/Chien Kuo Ta Kang (1918).",
+      "js_value": "The group was spreading the idea of overthrowing the Qing."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "achievements[2]",
+      "path": "Sun Yat-sen.languages.en.achievements[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "The Fundamentals of National Reconstruction/Chien Kuo Fang Lueh (1924).",
+      "js_value": "In 1894, Sun wrote an 8,000-character petition to Qing Viceroy Li Hongzhang presenting his ideas for modernizing China."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "bio",
+      "path": "Sun Yat-sen.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Sun Yat-sen (; 12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary and political philosopher who founded the Republic of China (ROC) and the Kuomintang (KMT). Sun is credited with leading the 1911 Revolution and overthrowing the Qing dynasty. He served as the first president of the Provisional Government of the Republic of China (1912) and as the inaugural premier of the Kuomintang.",
+      "js_value": "Sun Yat-sen was a Chinese revolutionary and political leader widely regarded as a founder of republican China."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "historical_significance",
+      "path": "Sun Yat-sen.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "=== Power struggle ===. After Sun's death, Wang Jingwei became the first president of the Nationalist government, which soon fragmented into three competing factions: the center-right Nanjing government led by Chiang Kai-shek, the leftist Wuhan government led by Wang Jingwei, and the far-right Western Hills Group, originally convened in Beijing, which maintained its own Central Executive Committee in Shanghai.",
+      "js_value": "Sun Yat-sen was a Chinese revolutionary and political leader widely regarded as a founder of republican China."
+    },
+    {
+      "path": "Sun Yat-sen.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Graduated as a physician from the Hong Kong College of Medicine for Chinese in 1892 before enterin",
+      "js_value": "['Sun Yat-sen (12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary and politica"
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "key_facts[0]",
+      "path": "Sun Yat-sen.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Graduated as a physician from the Hong Kong College of Medicine for Chinese in 1892 before entering political activism.",
+      "js_value": "Sun Yat-sen (12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary and political philosopher who founded the Republic of China (ROC) and the Kuomintang (KMT)."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "language": "en",
+      "field_path": "key_facts[1]",
+      "path": "Sun Yat-sen.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Co-founded the Revive China Society in Honolulu in 1894 and the Tongmenghui in Tokyo in 1905.",
+      "js_value": "Sun is credited with leading the 1911 Revolution and overthrowing the Qing dynasty ."
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.achievements[0]",
+      "path": "T. E. Lawrence.languages.en.achievements[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Lawrence returned to the United Kingdom as a full colonel.",
+      "js_value": "Thomas Edward Lawrence (16 August 1888 – 19 May 1935) was a British Army officer, archaeologist, diplomat and writer known for his role during the Arab Revolt and Sinai and Palestine campaign against the Ottoman Empire in the First World War ."
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.achievements[1]",
+      "path": "T. E. Lawrence.languages.en.achievements[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Immediately after the war, he worked for the Foreign Office, attending the Paris Peace Conference between January and May as a member of Faisal's delegation.",
+      "js_value": "The breadth and variety of his activities and associations, and Lawrence's ability to describe them vividly in writing, earned him international fame as Lawrence of Arabia , a title used for the 1962 film based on his wartime activities."
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.achievements[2]",
+      "path": "T. E. Lawrence.languages.en.achievements[2]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "On 17 May 1919, a Handley Page Type O/400 taking Lawrence to Egypt crashed at the airport of Roma-Centocelle.",
+      "js_value": "Lawrence was born in Tremadog , Carnarvonshire, Wales, the illegitimate son of Sir Thomas Chapman , an Anglo-Irish landowner, and Sarah Lawrence (née Junner), a governess in the employ of Chapman."
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.bio",
+      "path": "T. E. Lawrence.languages.en.bio",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Thomas Edward Lawrence was born on 16 August 1888 in Tremadog, Carnarvonshire, in a house named Gorphwysfa, now known as Snowdon Lodge. His Anglo-Irish father Thomas Chapman had left his wife Edith, after he fathered his first son with Lawrence's mother Sarah Junner, who had been governess to Chapman's daughters. Sarah was herself an illegitimate child, born in Sunderland to Elizabeth Junner, a servant employed by a family named Lawrence.",
+      "js_value": "T. E. Lawrence was a renowned Military Leader born in Tremadog, United Kingdom and passed away in Dorset, United Kingdom."
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.historical_significance",
+      "path": "T. E. Lawrence.languages.en.historical_significance",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Played a key historical role in the Arab Revolt through his military strategy and liaison with British Armed Forces.",
+      "js_value": "T. E. Lawrence left a lasting mark on military history through his role in the Arab Revolt and guerrilla strategy during the First World War."
+    },
+    {
+      "path": "T. E. Lawrence.languages.en.key_facts",
+      "classification": "STRUCTURAL_MISMATCH",
+      "json_length": 2,
+      "js_length": 3,
+      "json_value": "['Worked as an archaeologist at Carchemish from 1910 to 1914 under David George Hogarth and Leonard ",
+      "js_value": "['Thomas Edward Lawrence (16 August 1888 – 19 May 1935) was a British Army officer, archaeologist, d"
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.key_facts[0]",
+      "path": "T. E. Lawrence.languages.en.key_facts[0]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Worked as an archaeologist at Carchemish from 1910 to 1914 under David George Hogarth and Leonard Woolley.",
+      "js_value": "Thomas Edward Lawrence (16 August 1888 – 19 May 1935) was a British Army officer, archaeologist, diplomat and writer known for his role during the Arab Revolt and Sinai and Palestine campaign against the Ottoman Empire in the First World War ."
+    },
+    {
+      "person": "T",
+      "language": " Lawrence",
+      "field_path": "languages.en.key_facts[1]",
+      "path": "T. E. Lawrence.languages.en.key_facts[1]",
+      "classification": "VALUE_MISMATCH",
+      "json_value": "Joined the British Army's Arab Bureau in Cairo in 1914 as an intelligence officer during World War I.",
+      "js_value": "The breadth and variety of his activities and associations, and Lawrence's ability to describe them vividly in writing, earned him international fame as Lawrence of Arabia , a title used for the 1962 film based on his wartime activities."
+    }
+  ],
+  "application_data_modified": false
+}

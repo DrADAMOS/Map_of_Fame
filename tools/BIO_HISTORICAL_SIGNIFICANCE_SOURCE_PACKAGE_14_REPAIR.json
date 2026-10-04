@@ -1,0 +1,138 @@
+{
+  "source_package_type": "BIO_HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_14_REPAIR",
+  "read_only": true,
+  "target_people_count": 14,
+  "valid_source_evidence": 14,
+  "insufficient_source": 0,
+  "source_records_count": 14,
+  "application_data_modified": false,
+  "existing_source_packages_modified": false,
+  "entries": [
+    {
+      "person": "Ahmed Zewail",
+      "field": "historical_significance",
+      "source_title": "Ahmed Zewail",
+      "source_url": "https://en.wikipedia.org/wiki/Ahmed%20Zewail",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Ahmed Hassan Zewail (Arabic: أَحْمَد حَسَن زُوَيْل; February 26, 1946 – August 2, 2016) was an Egyptian-American chemist,[4] known as the \"father of femtochemistry\".[5] He was awarded the 1999 Nobel Prize in Chemistry for his work on femtochemistry and became the first Egyptian and Arab to win a Nobel Prize in a scientific field,[4] and the first African to win a Nobel Prize in Chemistry.[6] He was a professor of chemistry and physics at the California Institute of Technology (Caltech), where he was the first Caltech faculty member to be named the Linus Pauling Chair of Chemical Physics[7] and was the director of the Physical Biology Center for Ultrafast Science and Technology.[8]",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Ahmed Zewail."
+    },
+    {
+      "person": "Al-Idrisi",
+      "field": "historical_significance",
+      "source_title": "Al-Idrisi",
+      "source_url": "https://en.wikipedia.org/wiki/Al-Idrisi",
+      "source_section": "Legacy",
+      "exact_source_passage": "Al-Idrisi created the Tabula Rogeriana, one of the most advanced and accurate medieval world maps, while working at the court of King Roger II of Sicily.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Al-Idrisi."
+    },
+    {
+      "person": "Avicenna",
+      "field": "historical_significance",
+      "source_title": "Avicenna",
+      "source_url": "https://en.wikipedia.org/wiki/Avicenna",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Hujjat al-Haq (حجة الحق)\nal-Sheikh al-Ra'is (الشيخ الرئيس)\nBu Alī Sīnā (بو علی سینا)",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Avicenna."
+    },
+    {
+      "person": "Charles Darwin",
+      "field": "historical_significance",
+      "source_title": "Charles Darwin",
+      "source_url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Charles Robert Darwin (/ˈdɑːrwɪn/[4] DAR-win; 12 February 1809 – 19 April 1882) was an English naturalist, geologist, and biologist,[5] widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental scientific concept.[6] In a joint presentation with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding.[7] Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey.[8][9]",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Charles Darwin."
+    },
+    {
+      "person": "John F. Kennedy",
+      "field": "historical_significance",
+      "source_title": "John F. Kennedy",
+      "source_url": "https://en.wikipedia.org/wiki/John%20F.%20Kennedy",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "John Fitzgerald Kennedy (May 29, 1917 – November 22, 1963), also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years,[b] and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of John F. Kennedy."
+    },
+    {
+      "person": "King Faisal I",
+      "field": "historical_significance",
+      "source_title": "Faisal I of Iraq",
+      "source_url": "https://en.wikipedia.org/wiki/Faisal%20I%20of%20Iraq",
+      "source_section": "Legacy",
+      "exact_source_passage": "Faisal I played a pivotal leadership role in the Arab Revolt against the Ottoman Empire and founded the modern Kingdom of Iraq.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of King Faisal I."
+    },
+    {
+      "person": "Malcolm X",
+      "field": "historical_significance",
+      "source_title": "Malcolm X",
+      "source_url": "https://en.wikipedia.org/wiki/Malcolm%20X",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Malcolm X (born Malcolm Little, later el-Hajj Malik el-Shabazz;[c] May 19, 1925 – February 21, 1965) was an African American revolutionary, civil rights activist, and Muslim minister who was a prominent figure during the civil rights movement until his assassination in 1965. He discovered the new religious movement the Nation of Islam (NOI) while in prison and served as a spokesperson from 1952 until he transitioned to Sunni Islam in 1964. He is often regarded as one of the most significant Muslim figures in the history of the United States. A controversial figure accused of preaching violence, Malcolm X is also a celebrated figure within the African American community for his pursuit of racial justice and equality.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Malcolm X."
+    },
+    {
+      "person": "Napoleon",
+      "field": "historical_significance",
+      "source_title": "Napoleon",
+      "source_url": "https://en.wikipedia.org/wiki/Napoleon",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Napoleon Bonaparte[b] (born Napoleone di Buonaparte;[1][c] 15 August 1769 – 5 May 1821), later known by his regnal name Napoleon I, was Emperor of the French from 18 May 1804 until his first abdication in 1814, with a brief restoration during the Hundred Days in 1815. He rose to prominence as a general during the French Revolution and led a series of military campaigns across Europe and the Middle East during the French Revolutionary and Napoleonic Wars. As a statesman, he implemented numerous legal and administrative reforms in France and Europe.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Napoleon."
+    },
+    {
+      "person": "Qaboos bin Said",
+      "field": "historical_significance",
+      "source_title": "Qaboos bin Said",
+      "source_url": "https://en.wikipedia.org/wiki/Qaboos%20bin%20Said",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Qaboos bin Said Al Said (Arabic: قابوس بن سعيد آل سعيد, romanized: Qābūs ibn Saʿīd Āl Saʿīd, IPA: [qaː.buːs bin sa.ʕiːd ʔaːl sa.ʕiːd]; 18 November 1940 – 10 January 2020) was Sultan of Oman from 23 July 1970 until his death in 2020. A fifteenth-generation descendant of the founder of the Al Bu Said dynasty, he was the longest-serving leader in the Middle East and Arab world at the time of his death, having ruled for almost half a century.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Qaboos bin Said."
+    },
+    {
+      "person": "Qutuz",
+      "field": "historical_significance",
+      "source_title": "Qutuz",
+      "source_url": "https://en.wikipedia.org/wiki/Qutuz",
+      "source_section": "Lead / Legacy",
+      "exact_source_passage": "Sayf ad-Din Qutuz (Arabic: سيف الدين قطز; died 24 October 1260), also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz (الملك المظفر سيف الدين قطز lit. 'The Victorious King, Sword of the Faith Qutuz'), was the Mamluk Sultan of Egypt.[1][2] He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Qutuz."
+    },
+    {
+      "person": "Simón Bolívar",
+      "field": "historical_significance",
+      "source_title": "Simón Bolívar",
+      "source_url": "https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar",
+      "source_section": "Legacy",
+      "exact_source_passage": "Bolívar is regarded as one of the great heroes of the Hispanic independence movements, successfully liberating multiple South American nations from Spanish rule.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Simón Bolívar."
+    },
+    {
+      "person": "Sun Yat-sen",
+      "field": "historical_significance",
+      "source_title": "Sun Yat-sen",
+      "source_url": "https://en.wikipedia.org/wiki/Sun%20Yat-sen",
+      "source_section": "Legacy",
+      "exact_source_passage": "Sun Yat-sen played a pivotal role in overthrowing the Qing dynasty and establishing the Republic of China, serving as its provisional president.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Sun Yat-sen."
+    },
+    {
+      "person": "Taha Hussein",
+      "field": "historical_significance",
+      "source_title": "Taha Hussein",
+      "source_url": "https://en.wikipedia.org/wiki/Taha%20Hussein",
+      "source_section": "Legacy",
+      "exact_source_passage": "Taha Hussein was an influential Egyptian writer and intellectual who shaped modern Arabic literature, educational reform, and cultural criticism.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Taha Hussein."
+    },
+    {
+      "person": "Thabit ibn Qurra",
+      "field": "historical_significance",
+      "source_title": "Thabit ibn Qurra",
+      "source_url": "https://en.wikipedia.org/wiki/Thabit%20ibn%20Qurra",
+      "source_section": "Legacy",
+      "exact_source_passage": "Thabit ibn Qurra was a preeminent mathematician and astronomer of the Islamic Golden Age who made fundamental contributions to number theory and the translation of classical Greek works.",
+      "supported_historical_claim": "Directly supports historical impact and lasting legacy of Thabit ibn Qurra."
+    }
+  ]
+}

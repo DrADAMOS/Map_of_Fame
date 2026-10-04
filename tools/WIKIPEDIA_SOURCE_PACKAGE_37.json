@@ -1,0 +1,1275 @@
+{
+  "schema": 1,
+  "generation_timestamp": "2026-09-04T22:57:59.757879+00:00",
+  "source": "Wikipedia API (REST v1 + Action API Extracts)",
+  "total_people": 37,
+  "people": {
+    "Alexis Carrel": {
+      "identity": {
+        "requested_name": "Alexis Carrel",
+        "wikipedia_title": "Alexis Carrel",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Carrel",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Alexis Carrel': 'French surgeon and biologist (1873–1944)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Born in Sainte-Foy-lès-Lyon, Rhône, Carrel was raised in a devout Catholic family and was educated by Jesuits, though he had become an agnostic by the time he became a university student.",
+          "He studied medicine at the University of Lyon.",
+          "Working as an intern at a Lyon hospital, he developed a technique for suturing small blood vessels using extremely fine needles."
+        ],
+        "achievement_facts": [
+          "Carrel was a young surgeon who was deeply affected by the 1894 assassination of the French president, Sadi Carnot, who died from a severed portal vein that surgeons believed was irreparable.",
+          "This tragedy inspired Carrel to develop new techniques for suturing blood vessels, such as the \"triangulation\" technique using three stay-sutures to minimize damage to the vascular wall during suturing."
+        ],
+        "key_facts": [
+          "Carrel was elected to the American Philosophical Society in 1909 and the American Academy of Arts and Sciences in 1914.",
+          "Carrel was a member of learned societies in the U.S., Spain, Russia, Sweden, the Netherlands, Belgium, France, Vatican City, Germany, Italy, and Greece, and was elected twice, in 1924 and 1927, as an honorary member of the Academy of Sciences of the USSR.",
+          "He also received honorary doctorates from Queen's University of Belfast, Princeton University, Brown University, and Columbia University."
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Anwar Sadat": {
+      "identity": {
+        "requested_name": "Anwar Sadat",
+        "wikipedia_title": "Anwar Sadat",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Anwar Sadat': 'President of Egypt from 1970 to 1981'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Muhammad Anwar es-Sadat (25 December 1918 – 6 October 1981) was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981.",
+          "A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970.",
+          "In his 11 years as president, he changed Egypt's trajectory, departing from many political and economic tenets of Nasserism, reinstituting a multi-party system, and launching the Infitah economic policy."
+        ],
+        "achievement_facts": [
+          "in the title role."
+        ],
+        "key_facts": [
+          "Anwar Sadat was born on 25 December 1918 in Mit Abu El Kom, part of Monufia Governorate in what was then the Sultanate of Egypt, to a poor family.",
+          "He had 14 siblings.",
+          "One of his brothers, Atef Sadat, later became a pilot and was killed in action in 1973 during the Yom Kippur War."
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Auguste Comte": {
+      "identity": {
+        "requested_name": "Auguste Comte",
+        "wikipedia_title": "Auguste Comte",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_Comte",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Auguste Comte': 'French philosopher, mathematician and sociologist (1798–1857)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Isidore Auguste Marie François Xavier Comte (; French: [oɡyst(ə) kɔ̃t] ; 19 January 1798 – 5 September 1857) was a French philosopher and writer who formulated the doctrine of positivism.",
+          "He is often regarded as the first philosopher of science in the modern sense of the term.",
+          "Comte's ideas were fundamental to the development of sociology, as he coined the term and treated the discipline as the crowning achievement of the sciences."
+        ],
+        "achievement_facts": [
+          "Comte first described the epistemological perspective of positivism in The Course in Positive Philosophy, a series of texts published between 1830 and 1842.",
+          "These texts were followed by the 1848 work, A General View of Positivism (published in English in 1865)."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Bob Marley": {
+      "identity": {
+        "requested_name": "Bob Marley",
+        "wikipedia_title": "Bob Marley",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Marley",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Bob Marley': 'Jamaican reggae musician (1945–1981)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Marley was born on 6 February 1945 at the farm of his maternal grandfather in Nine Mile, Saint Ann Parish, Colony of Jamaica, to Norval Sinclair Marley and Cedella Malcolm.",
+          "Norval was a white Jamaican of Welsh ancestry born in Clarendon Parish.",
+          "His cousins claimed that the Marley surname had Syrian-Jewish origins, however this is speculative and not conclusive, and was refuted by Marley's biographer."
+        ],
+        "achievement_facts": [
+          "In February 1962, Marley recorded four songs, \"Judge Not\", \"One Cup of Coffee\", \"Do You Still Love Me?\" and \"Terror\", at Federal Studios for local music producer Leslie Kong.",
+          "Three of the songs were released on Beverley's with \"One Cup of Coffee\" being released under the pseudonym Bobby Martell."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Awards and honours ===.",
+          "1976: Rolling Stone magazine's \"Band of the Year\"."
+        ]
+      }
+    },
+    "Caravaggio": {
+      "identity": {
+        "requested_name": "Caravaggio",
+        "wikipedia_title": "Caravaggio",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Caravaggio",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Caravaggio': 'Italian painter (1571–1610)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "=== Early life (1571–1592) ===.",
+          "Caravaggio (Michelangelo Merisi or Amerighi) was born in Milan, where his father, Fermo (Fermo Merixio), was a household administrator and architect-decorator to the marquess of Caravaggio, a town 35 km (22 mi) to the east of Milan and south of Bergamo.",
+          "It was previously assumed that he had been born in Caravaggio."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Clara Barton": {
+      "identity": {
+        "requested_name": "Clara Barton",
+        "wikipedia_title": "Clara Barton",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Clara_Barton",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Clara Barton': 'American Civil War nurse and founder of the American Red Cross (1821–1912)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Barton was born in Oxford, Massachusetts, a small farming community.",
+          "She was named after her father's sister, Clarissa Harlow Barton.",
+          "Her father was Captain Stephen Barton, a member of the local militia and a selectman who influenced his daughter's patriotism and humanitarianism."
+        ],
+        "achievement_facts": [
+          "On April 19, 1861, the Baltimore Riot resulted in the first bloodshed of the American Civil War.",
+          "The victims, members of the 6th Massachusetts Militia, were transported after the violence to the unfinished Capitol Building in Washington, D.C., where Barton lived at the time.",
+          "Wanting to serve her country, Barton went to the railroad station when the victims arrived and nursed 40 men."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Constantine the Great": {
+      "identity": {
+        "requested_name": "Constantine the Great",
+        "wikipedia_title": "Constantine the Great",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Constantine the Great': 'Roman emperor from 306 to 337'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Constantine was born on 27 February 272.",
+          "While his official birthday is recorded in sources, his year of birth is not, and scholars have given several estimates between 271 and 280, with most leaning for 272 or 273.",
+          "However, the evidence points to 272 being the correct year."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "By 336, he had reoccupied most of the long-lost province of Dacia which Aurelian had been forced to abandon in 271."
+        ]
+      }
+    },
+    "Dmitri Mendeleev": {
+      "identity": {
+        "requested_name": "Dmitri Mendeleev",
+        "wikipedia_title": "Dmitri Mendeleev",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Dmitri Mendeleev': 'Russian chemist (1834–1907)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Mendeleev was born in the village of Verkhnie Aremzyani, near Tobolsk in Siberia, to Ivan Pavlovich Mendeleev (1783–1847) and Maria Dmitrievna Mendeleeva (née Kornilieva) (1793–1850).",
+          "Ivan worked as a school principal and a teacher of fine arts, politics and philosophy at the Tambov and Saratov gymnasiums.",
+          "Ivan's father, Pavel Maximovich Sokolov, was a Russian Orthodox priest from the Tver region."
+        ],
+        "achievement_facts": [
+          "Периодический закон (DjVu).",
+          "// Собрание сочинений в 3 томах — М.: Издательство Академии наук СССР — via Runivers.",
+          "Периодический закон."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Emperor Meiji": {
+      "identity": {
+        "requested_name": "Emperor Meiji",
+        "wikipedia_title": "Emperor Meiji",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Meiji",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Emperor Meiji': 'Emperor of Japan from 1867 to 1912'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Prince Mutsuhito was born on 3 November 1852 in a small house on his maternal grandfather's property at the north end of the Gosho.",
+          "At the time, birth was culturally believed to be a source of pollution, so the imperial prince was not born in the Palace.",
+          "Instead, it was common for members of the Imperial Family to be born in a structure, often temporary, near the pregnant woman's father's house."
+        ],
+        "achievement_facts": [
+          "By the early 1860s, the shogunate was under several threats.",
+          "Representatives of foreign powers sought to increase their influence in Japan."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Francisco Goya": {
+      "identity": {
+        "requested_name": "Francisco Goya",
+        "wikipedia_title": "Francisco Goya",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Francisco Goya': 'Spanish painter and printmaker (1746–1828)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Francisco José de Goya y Lucientes (; Spanish: [fɾanˈθisko xoˈse ðe ˈɣoʝa i luˈθjentes]; 30 March 1746 – 16 April 1828) was a Spanish romantic painter and printmaker.",
+          "He is considered the most important Spanish artist of the late 18th and early 19th centuries.",
+          "His paintings, drawings, and engravings reflected contemporary historical upheavals and influenced important 19th- and 20th-century painters."
+        ],
+        "achievement_facts": [
+          "The French army invaded Spain in 1808, leading to the Peninsular War of 1808–1814.",
+          "The extent of Goya's involvement with the court of the \"intruder king\", Joseph I, the brother of Napoleon Bonaparte, is not known; he painted works for French patrons and sympathisers, but kept neutral during the fighting.",
+          "After the restoration of the Spanish King Ferdinand VII in 1814, Goya denied any involvement with the French."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "Goya is often referred to as the last of the Old Masters and the first of the moderns.",
+          "Among the 20th-century painters influenced by Goya are the Spanish masters Pablo Picasso and Salvador Dalí who drew influence from Los caprichos and the Black Paintings of Goya."
+        ]
+      }
+    },
+    "Giuseppe Verdi": {
+      "identity": {
+        "requested_name": "Giuseppe Verdi",
+        "wikipedia_title": "Giuseppe Verdi",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Giuseppe Verdi': 'Italian opera composer (1813–1901)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Giuseppe Fortunino Francesco Verdi ( VAIR-dee; Italian: [dʒuˈzɛppe ˈverdi]; 9 or 10 October 1813 – 27 January 1901) was an Italian composer best known for his operas.",
+          "He was born near Busseto, a small town in the modern province of Parma, to a family of moderate means, receiving a musical education with the help of a local patron named Antonio Barezzi.",
+          "Verdi came to dominate the Italian opera scene after the era of Gioachino Rossini, Vincenzo Bellini, and Gaetano Donizetti, whose works significantly influenced him."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Reception ===.",
+          "Although Verdi's operas brought him a popular following, not all contemporary critics approved of his work."
+        ]
+      }
+    },
+    "Grace Hopper": {
+      "identity": {
+        "requested_name": "Grace Hopper",
+        "wikipedia_title": "Grace Hopper",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Grace_Hopper",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Grace Hopper': 'U.S. naval officer and computer scientist (1906–1992)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Grace Brewster Murray was born in New York City.",
+          "She was the eldest of three children.",
+          "Her parents, Walter Fletcher Murray and Mary Campbell Van Horne, were of Scottish and Dutch descent, and attended West End Collegiate Church."
+        ],
+        "achievement_facts": [
+          "Hopper tried to be commissioned in the Navy early in World War II, however she was turned down.",
+          "At age 34, she was too old to enlist and her weight-to-height ratio was too low."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "Grace Hopper was awarded 40 honorary degrees from universities worldwide during her lifetime.",
+          "Nvidia has named their 2024 CPU generation Grace and GPU generation Hopper after Grace Hopper."
+        ]
+      }
+    },
+    "Gustav Mahler": {
+      "identity": {
+        "requested_name": "Gustav Mahler",
+        "wikipedia_title": "Gustav Mahler",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Gustav Mahler': 'Austro-Bohemian composer and conductor (1860–1911)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "=== Family background ===.",
+          "The Mahler family came from eastern Bohemia, now in the Czech Republic, and were of humble circumstances—the composer's grandmother had been a street pedlar.",
+          "Bohemia was then part of the Austrian Empire; the Mahler family belonged to a German-speaking minority among Bohemians, and was also Jewish."
+        ],
+        "achievement_facts": [
+          "From June to August 1880, Mahler took his first professional conducting job, in a small wooden theatre in the spa town of Bad Hall, south of Linz.",
+          "The repertory was exclusively operetta; it was, in Carr's words \"a dismal little job\", which Mahler accepted only after Julius Epstein told him he would soon work his way up."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Hadrian": {
+      "identity": {
+        "requested_name": "Hadrian",
+        "wikipedia_title": "Hadrian",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Hadrian': 'Roman emperor from 117 to 138'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Publius Aelius Hadrianus was born on 24 January 76, in Italica (modern Santiponce, near Seville), a Roman town founded by Italic settlers in the province of Hispania Baetica during the Second Punic War at the initiative of Scipio Africanus; Hadrian's branch of the Aelia gens  came from Hadria (modern Atri), an ancient town in the Picenum region of Italia, the source of the name Hadrianus.",
+          "One Roman biographer claims instead that Hadrian was born in Rome, but this view is held by a minority of scholars.",
+          "Hadrian's father was Publius Aelius Hadrianus Afer, a senator of praetorian rank, born and raised in Italica."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Hannibal Barca": {
+      "identity": {
+        "requested_name": "Hannibal Barca",
+        "wikipedia_title": "Hannibal",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Hannibal Barca': 'Carthaginian general and statesman (247–183/181 BC)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Hannibal (; Punic: 𐤇𐤍𐤁𐤏𐤋; 247 – between 183 and 181 BC) was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War.",
+          "Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War.",
+          "Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\"."
+        ],
+        "achievement_facts": [
+          "He was most likely born in Carthage, one of many Mediterranean regions colonised by the Canaanites from their homeland in Phoenicia.",
+          "He had several sisters whose names are unknown and two brothers, Hasdrubal and Mago."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Ancient world ===.",
+          "Hannibal caused great distress to many in Roman society."
+        ]
+      }
+    },
+    "Igor Stravinsky": {
+      "identity": {
+        "requested_name": "Igor Stravinsky",
+        "wikipedia_title": "Igor Stravinsky",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Igor Stravinsky': 'Russian composer (1882–1971)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Igor Fyodorovich Stravinsky (17 June [O.S.",
+          "5 June] 1882 – 6 April 1971) was a Russian composer and conductor with French (from 1934) and American citizenship (from 1945).",
+          "He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "Stravinsky worked with some of the most famous artists of his time, many of whom he met after achieving international success with The Firebird.",
+          "Diaghilev was one of Stravinsky's most prominent artistic influences, having introduced him to composing for the stage and bringing him international fame with his first three ballets."
+        ]
+      }
+    },
+    "James Clerk Maxwell": {
+      "identity": {
+        "requested_name": "James Clerk Maxwell",
+        "wikipedia_title": "James Clerk Maxwell",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'James Clerk Maxwell': 'Scottish physicist and mathematician (1831–1879)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "James Clerk Maxwell  (13 June 1831 – 5 November 1879) was a Scottish physicist and mathematician who was responsible for the classical theory of electromagnetic radiation, which was the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon.",
+          "Maxwell's equations for electromagnetism achieved the second great unification in physics, where the first one had been realised by Isaac Newton.",
+          "Maxwell was also key in the creation of statistical mechanics."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Recognition ===.",
+          "In a survey of the 100 most prominent physicists conducted by Physics World, Maxwell was voted the third greatest physicist of all time, behind only Isaac Newton and Albert Einstein."
+        ]
+      }
+    },
+    "James Prescott Joule": {
+      "identity": {
+        "requested_name": "James Prescott Joule",
+        "wikipedia_title": "James Prescott Joule",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/James_Prescott_Joule",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'James Prescott Joule': 'English physicist (1818–1889)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "James Prescott Joule (; 24 December 1818 –  11 October 1889) was an English physicist.",
+          "Joule studied the nature of heat and discovered its relationship to mechanical work.",
+          "This led to the law of conservation of energy, which in turn led to the development of the first law of thermodynamics."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Jane Austen": {
+      "identity": {
+        "requested_name": "Jane Austen",
+        "wikipedia_title": "Jane Austen",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Austen",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Jane Austen': 'English novelist (1775–1817)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Jane Austen ( OST-in, AW-stin; 16 December 1775 – 18 July 1817) was an English writer known primarily for her six novels, which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century.",
+          "Austen's plots often explore the dependence of women on marriage for the pursuit of favourable social standing and economic security.",
+          "Her works are implicit critiques of the novels of sensibility of the second half of the 18th century and are part of the transition to 19th-century literary realism."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Joseph Haydn": {
+      "identity": {
+        "requested_name": "Joseph Haydn",
+        "wikipedia_title": "Joseph Haydn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Joseph Haydn': 'Austrian composer (1732–1809)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Franz Joseph Haydn ( HY-dən; German: [ˈfʁants ˈjoːzɛf ˈhaɪdn̩] ; 31 March 1732 – 31 May 1809) was an Austrian composer of the Classical period.",
+          "He was pivotal in the evolution of chamber music forms such as the string quartet and piano trio.",
+          "His contributions to musical form have led him to be called \"Father of the Symphony\", \"Father of the String quartet\" and \"Father of Sonata Form\"."
+        ],
+        "achievement_facts": [
+          "Joseph Haydn was born in Rohrau, Austria, a village that at that time stood on the border with Hungary.",
+          "His father was Mathias Haydn, a wheelwright who also served as \"Marktrichter\", or marketplace supervisor."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Louis IX": {
+      "identity": {
+        "requested_name": "Louis IX",
+        "wikipedia_title": "Louis IX of France",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Louis IX': 'King of France from 1226 to 1270'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Louis was born on 25 April 1214 at Poissy, near Paris, the son of then-Prince Louis \"the Lion\" (later Louis VIII of France) and Blanche of Castile, during the reign of his paternal grandfather, Philip II \"Augustus\" of France, and was baptized in Poissy in La Collégiale Notre-Dame church.",
+          "His maternal grandfather was King Alfonso VIII of Castile.",
+          "Tutors of Blanche's choosing taught him Latin, public speaking, writing, military arts, and government."
+        ],
+        "achievement_facts": [
+          "The construction of Sainte-Chapelle was inspired by earlier Carolingian royal chapels, most notably the Palatine Chapel of Charlemagne at Aix-la-Chapelle (modern-day Aachen).",
+          "Before embarking on this ambitious project, Louis had already built a royal chapel at the Château de Saint-Germain-en-Laye in 1238."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Ludwig van Beethoven": {
+      "identity": {
+        "requested_name": "Ludwig van Beethoven",
+        "wikipedia_title": "Ludwig van Beethoven",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Ludwig van Beethoven': 'German composer (1770–1827)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) was a German composer, conductor, and pianist.",
+          "Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period, and his musical style was a key driver of the transition to Romantic music, and the expansion of instrumental forms such as the symphony, the piano sonata and the string quartet.",
+          "His compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world."
+        ],
+        "achievement_facts": [
+          "Beethoven was the grandson of Ludwig van Beethoven, a musician from the city of Mechelen in Austrian Netherlands (now Belgium), who moved to Bonn at the age of 21.",
+          "Ludwig was employed as a bass singer at the court of Clemens August, Archbishop-Elector of Cologne, eventually rising to become, in 1761, Kapellmeister (music director) and hence a preeminent musician in Bonn."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "Alex Ross writes \"He not only left his mark on all subsequent composers but also molded entire institutions.",
+          "The professional orchestra arose, in large measure, as a vehicle for the incessant performance of Beethoven's symphonies."
+        ]
+      }
+    },
+    "Malek Bennabi": {
+      "identity": {
+        "requested_name": "Malek Bennabi",
+        "wikipedia_title": "Malek Bennabi",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Malek_Bennabi",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Malek Bennabi': 'Algerian philosopher'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Malek Bennabi (1 January 1905 – 31 October 1973) (Arabic: مالك بن نبي, romanized: Malik ibn Nabī) was an Algerian writer and philosopher, of Islamic, Salafist and Wahhabi inspiration who wrote about human society, particularly Muslim society with a focus on the reasons behind the fall of Muslim civilization and the keys for Renaissance.",
+          "According to Malek Bennabi, the lack of new ideas in Islamic thought emerged what he coined civilizational bankruptcy.",
+          "He argued that in order to recover its former magnificence, Islamic society had to become an environment in which individuals felt empowered."
+        ],
+        "achievement_facts": [
+          "From one of his works, Les Conditions de la Renaissance (1948), he defined culture as the mode of being and becoming of a people.",
+          "This included aesthetic, ethical, pragmatic, and technical values.",
+          "When these contents had been clearly defined, only then could various formulations of ideas be born."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Marcel Proust": {
+      "identity": {
+        "requested_name": "Marcel Proust",
+        "wikipedia_title": "Marcel Proust",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Proust",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Marcel Proust': 'French novelist, literary critic, and essayist (1871–1922)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Proust was born on 10 July 1871 at the home of his great-uncle in the Paris Borough of Auteuil (the south-western sector of the then-rustic 16th arrondissement), two months after the Treaty of Frankfurt formally ended the Franco-Prussian War.",
+          "His birth coincided with the beginning of the French Third Republic, during the violence that surrounded the suppression of the Paris Commune, and his childhood corresponded with the consolidation of the Republic.",
+          "Much of In Search of Lost Time concerns the vast changes, most particularly the decline of the aristocracy and the rise of the middle classes, that occurred in France during the fin de siècle."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Marcus Aurelius": {
+      "identity": {
+        "requested_name": "Marcus Aurelius",
+        "wikipedia_title": "Marcus Aurelius",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Marcus Aurelius': 'Stoic philosopher, Roman emperor from 161 to 180'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Marcus was born in Rome on 26 April 121.",
+          "His birth name is sometimes given as Marcus Annius Verus, but sources assign this name to him upon his father's death and unofficial adoption by his grandfather, upon his coming of age.",
+          "He may have been known as \"Marcus Annius Catilius Severus\", at birth or some point in his youth, or \"Marcus Catilius Severus Annius Verus\"."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Equestrian statue ===.",
+          "The equestrian statue of Marcus Aurelius in Rome is the only Roman equestrian statue which has survived into the modern period."
+        ]
+      }
+    },
+    "Martin Luther King": {
+      "identity": {
+        "requested_name": "Martin Luther King",
+        "wikipedia_title": "Martin Luther King Jr.",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Martin Luther King': 'American minister and civil rights activist (1929–1968)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "was born on January 15, 1929, in Atlanta, the second of three children of Michael King and Alberta King (née Williams).",
+          "Alberta's father, Adam Daniel Williams, was a minister in rural Georgia, moved to Atlanta in 1893, and became pastor of the Ebenezer Baptist Church in the following year.",
+          "Williams married Jennie Celeste Parks."
+        ],
+        "achievement_facts": [
+          "King was awarded at least fifty honorary degrees from colleges and universities.",
+          "On October 14, 1964, King became the youngest winner of the Nobel Peace Prize, which was awarded to him for leading nonviolent resistance to racial prejudice in the U.S.",
+          "In 1965, he was awarded the American Liberties Medallion by the American Jewish Committee for his \"exceptional advancement of the principles of human liberty.\" In his acceptance remarks, King said, \"Freedom is one thing."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== South Africa ===.",
+          "King's legacy includes influences on the Black Consciousness Movement and civil rights movement in South Africa."
+        ]
+      }
+    },
+    "Michael Faraday": {
+      "identity": {
+        "requested_name": "Michael Faraday",
+        "wikipedia_title": "Michael Faraday",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Michael Faraday': 'English chemist and physicist (1791–1867)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "=== Early life ===.",
+          "Michael Faraday was born on 22 September 1791 in Newington Butts, Surrey, which is now part of the London Borough of Southwark.",
+          "His family was not well off."
+        ],
+        "achievement_facts": [
+          "Faraday's earliest chemical work was as an assistant to Humphry Davy.",
+          "Faraday was involved in the study of chlorine; he discovered two new compounds of chlorine and carbon:  hexachloroethane which he made via the chlorination of ethylene and tetrachloroethylene from the decomposition of the former."
+        ],
+        "key_facts": [
+          "In honor and remembrance of his great scientific contributions, several institutions have created prizes and awards in his name.",
+          "The IET Faraday Medal.",
+          "The Royal Society of London Michael Faraday Prize."
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Muhammad Abduh": {
+      "identity": {
+        "requested_name": "Muhammad Abduh",
+        "wikipedia_title": "Muhammad Abduh",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Abduh",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Muhammad Abduh': 'Egyptian jurist and theologian (1849–1905)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Muḥammad ʿAbduh was born in 1849 to a father with Turkish ancestry and an Egyptian mother in the Nile Delta.",
+          "His family was part of the Ottoman Egyptian elite: his father was part of the Umad, or the local ruling elite, while his mother was part of the Ashraf.",
+          "He was educated in Tanta at a private school."
+        ],
+        "achievement_facts": [
+          "Comments on Peak of Eloquence.",
+          "Al-Urwah al-Wuthqa.",
+          "Other works by Muhammad `Abduh."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Nicolaus Copernicus": {
+      "identity": {
+        "requested_name": "Nicolaus Copernicus",
+        "wikipedia_title": "Nicolaus Copernicus",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Nicolaus Copernicus': 'Mathematician and astronomer (1473–1543)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Nicolaus Copernicus (19 February 1473 – 24 May 1543) was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center.",
+          "The publication of Copernicus's model in his book De revolutionibus orbium coelestium (On the Revolutions of the Celestial Spheres), just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution.",
+          "Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos, an ancient Greek astronomer, Copernicus likely arrived at his model independently."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Nur ad-Din": {
+      "identity": {
+        "requested_name": "Nur ad-Din",
+        "wikipedia_title": "Nur al-Din Zengi",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nur_al-Din_Zengi",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Nur ad-Din': 'Emir of Aleppo (1146–1174) and Damascus (1154–1174)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Al-Malik al-Adil Abu al-Qasim Nūr al-Dīn Maḥmūd  bin Imad al-Dīn Zengī (Arabic: الملكُ العادلُ أبو القاسمِ نور الدين محمود بن عمادِ الدِّين زَنْكِي; February 1118 – 15 May 1174), commonly known as Nur ad-Din or Nureddin (lit.",
+          "'Light of the Faith' in Arabic), and al-Malik al-Adil (lit.",
+          "'the Just King' in Arabic), was a Turkoman member of the Zengid dynasty, who ruled the Syrian province (Bilad al-Sham) of the Seljuk Empire."
+        ],
+        "achievement_facts": [
+          "After the assassination of his father in 1146, Nur ad-Din and his older brother Saif ad-Din Ghazi I divided the kingdom between themselves, with Nur ad-Din governing Aleppo and Saif ad-Din Ghazi establishing himself in Mosul.",
+          "The border between the two new kingdoms was formed by the Khabur River."
+        ],
+        "key_facts": [
+          "During this time Nur ad-Din was busy in the north, fighting the Artuqids, and in 1170 he had to settle a dispute between his nephews when his brother Qutb ad-Din died.",
+          "With Egypt conquered in his name, Nur ad-Din believed that he had accomplished his goal of uniting the Arab states of the Levant.",
+          "However, near the end of his life, especially after the death of Saladin's father Najm al-Din Ayyub, Nur ad-Din believed he could no longer trust anyone in Saladin's court to maintain the young ruler's fealty to him."
+        ],
+        "significance_facts": [
+          "According to William of Tyre, although Nur ad-Din was \"a mighty persecutor of the Christian name and faith,\" he was also \"a just prince, valiant and wise, and according to the traditions of his race, a religious man.\" His sense of justice was never denied to anyone, regardless of their creed or origins.",
+          "As a result of his justice, a Christian foreigner was said to have settled into Damascus, which was under Nur ad-Din's reign."
+        ]
+      }
+    },
+    "Oscar Wilde": {
+      "identity": {
+        "requested_name": "Oscar Wilde",
+        "wikipedia_title": "Oscar Wilde",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Oscar Wilde': 'Irish writer (1854–1900)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Oscar Wilde was born on 16 October 1854 at 21 Westland Row, Dublin (now home of the Oscar Wilde Centre, Trinity College), the second of three children born to an Anglo-Irish couple: Jane, née Elgee, and Sir William Wilde.",
+          "Oscar was two years younger than his brother, William (Willie) Wilde.",
+          "Jane Wilde was a niece (by marriage) of the novelist, playwright and clergyman Charles Maturin, who may have influenced her own literary career."
+        ],
+        "achievement_facts": [
+          "Not content with being better known than ever in London, though, he returned to Paris in October 1891, this time as a respected writer.",
+          "He was received at the salons littéraires, including the famous mardis of Stéphane Mallarmé, a renowned symbolist poet of the time."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Qutuz": {
+      "identity": {
+        "requested_name": "Qutuz",
+        "wikipedia_title": "Qutuz",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Qutuz",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Qutuz': 'Sultan of Egypt from 1259 to 1260'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Sayf ad-Din Qutuz (Arabic: سيف الدين قطز; died 24 October 1260), also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz (الملك المظفر سيف الدين قطز lit.",
+          "'The Victorious King, Sword of the Faith Qutuz'), was the Mamluk Sultan of Egypt.",
+          "He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Rosa Parks": {
+      "identity": {
+        "requested_name": "Rosa Parks",
+        "wikipedia_title": "Rosa Parks",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Rosa_Parks",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Rosa Parks': 'American civil rights activist (1913–2005)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Rosa Parks was born Rosa Louise McCauley on February 4, 1913, in Tuskegee, Alabama.",
+          "Her mother, Leona (née Edwards), was a teacher from Pine Level, Alabama.",
+          "Her father, James McCauley, was a carpenter and mason from Abbeville, Alabama."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "Parks received several awards as a result of her contributions to the civil rights movement.",
+          "The SCLC established the Rosa Parks Freedom Award in 1963, though Parks herself did not receive it until 1972."
+        ]
+      }
+    },
+    "Saladin": {
+      "identity": {
+        "requested_name": "Saladin",
+        "wikipedia_title": "Saladin",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Saladin",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Saladin': 'Founder of the Ayyubid dynasty (c. 1137 – 1193)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Saladin was born in Tikrit in present-day Iraq.",
+          "His personal name was \"Yusuf\"; \"Salah ad-Din\" is a laqab, an honorific epithet, meaning \"Righteousness of the Faith\".",
+          "His parents were of Kurdish ancestry, and had originated from the village of Ajdanakan near the city of Dvin in central Armenia."
+        ],
+        "achievement_facts": [
+          "Crusader attacks provoked further responses by Saladin.",
+          "Raynald of Châtillon, in particular, harassed Muslim trading and pilgrimage routes with a fleet on the Red Sea, a water route that Saladin needed to keep open.",
+          "Raynald threatened to attack the holy cities of Mecca and Medina."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Muslim world ===.",
+          "Saladin has become a prominent figure in Muslim, Arab, Turkish and Kurdish culture, and he has been described as the most famous Kurd in history."
+        ]
+      }
+    },
+    "Steve Jobs": {
+      "identity": {
+        "requested_name": "Steve Jobs",
+        "wikipedia_title": "Steve Jobs",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Steve Jobs': 'American businessman and inventor (1955–2011)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Steven Paul Jobs was born in San Francisco, California, on February 24, 1955, to Joanne Carole Schieble and Dr.",
+          "Abdulfattah \"John\" Jandali (Arabic: عبد الفتاح الجندلي).",
+          "Abdulfattah Jandali was born in a Muslim household to wealthy Syrian parents, the youngest of nine siblings."
+        ],
+        "achievement_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    },
+    "Sun Yat-sen": {
+      "identity": {
+        "requested_name": "Sun Yat-sen",
+        "wikipedia_title": "Sun Yat-sen",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'Sun Yat-sen': 'Chinese revolutionary and statesman (1866–1925)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Sun Yat-sen (; 12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary and political philosopher who founded the Republic of China (ROC) and the Kuomintang (KMT).",
+          "Sun is credited with leading the 1911 Revolution and overthrowing the Qing dynasty.",
+          "He served as the first president of the Provisional Government of the Republic of China (1912) and as the inaugural premier of the Kuomintang."
+        ],
+        "achievement_facts": [
+          "Kidnapped in London (1897).",
+          "The Outline of National Reconstruction/Chien Kuo Ta Kang (1918).",
+          "The Fundamentals of National Reconstruction/Chien Kuo Fang Lueh (1924)."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "=== Power struggle ===.",
+          "After Sun's death, Wang Jingwei became the first president of the Nationalist government, which soon fragmented into three competing factions: the center-right Nanjing government led by Chiang Kai-shek, the leftist Wuhan government led by Wang Jingwei, and the far-right Western Hills Group, originally convened in Beijing, which maintained its own Central Executive Committee in Shanghai."
+        ]
+      }
+    },
+    "T. E. Lawrence": {
+      "identity": {
+        "requested_name": "T. E. Lawrence",
+        "wikipedia_title": "T. E. Lawrence",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/T._E._Lawrence",
+        "identity_status": "VERIFIED_SOURCE",
+        "identity_evidence": "Verified Wikipedia article for 'T. E. Lawrence': 'British Army officer, diplomat and writer (1888–1935)'."
+      },
+      "source_facts": {
+        "biography_facts": [
+          "Thomas Edward Lawrence was born on 16 August 1888 in Tremadog, Carnarvonshire, in a house named Gorphwysfa, now known as Snowdon Lodge.",
+          "His Anglo-Irish father Thomas Chapman had left his wife Edith, after he fathered his first son with Lawrence's mother Sarah Junner, who had been governess to Chapman's daughters.",
+          "Sarah was herself an illegitimate child, born in Sunderland to Elizabeth Junner, a servant employed by a family named Lawrence."
+        ],
+        "achievement_facts": [
+          "Lawrence returned to the United Kingdom as a full colonel.",
+          "Immediately after the war, he worked for the Foreign Office, attending the Paris Peace Conference between January and May as a member of Faisal's delegation.",
+          "On 17 May 1919, a Handley Page Type O/400 taking Lawrence to Egypt crashed at the airport of Roma-Centocelle."
+        ],
+        "key_facts": [
+          "INSUFFICIENT_SOURCE"
+        ],
+        "significance_facts": [
+          "INSUFFICIENT_SOURCE"
+        ]
+      }
+    }
+  },
+  "field_cleanup_audit": [
+    {
+      "person": "Alexis Carrel",
+      "field": "achievements",
+      "fact": "=== Vascular suture ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Alexis Carrel",
+      "field": "historical_significance",
+      "fact": "French surgeon and biologist (1873–1944)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Anwar Sadat",
+      "field": "achievements",
+      "fact": "In 1983, Sadat, a miniseries based on the life of Anwar Sadat, aired on US television with Oscar-winning actor Louis Gossett Jr.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Anwar Sadat",
+      "field": "achievements",
+      "fact": "The film was promptly banned by the Egyptian government, as were all other movies produced and distributed by Columbia Pictures, over allegations of historical inaccuracies.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Anwar Sadat",
+      "field": "historical_significance",
+      "fact": "President of Egypt from 1970 to 1981",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Auguste Comte",
+      "field": "achievements",
+      "fact": "=== Comte's positivism ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Auguste Comte",
+      "field": "historical_significance",
+      "fact": "French philosopher, mathematician and sociologist (1798–1857)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Bob Marley",
+      "field": "achievements",
+      "fact": "=== 1962–1972: Early years ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Caravaggio",
+      "field": "historical_significance",
+      "fact": "Italian painter (1571–1610)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Clara Barton",
+      "field": "historical_significance",
+      "fact": "American Civil War nurse and founder of the American Red Cross (1821–1912)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Constantine the Great",
+      "field": "historical_significance",
+      "fact": "Constantine reunited the empire under one emperor, and he won major victories over the Franks and Alamanni in 306–308, the Franks again in 313–314, the Goths in 332, and the Sarmatians in 334.",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Dmitri Mendeleev",
+      "field": "historical_significance",
+      "fact": "Russian chemist (1834–1907)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Emperor Meiji",
+      "field": "achievements",
+      "fact": "=== Unrest and Accession ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Emperor Meiji",
+      "field": "historical_significance",
+      "fact": "Emperor of Japan from 1867 to 1912",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Grace Hopper",
+      "field": "achievements",
+      "fact": "=== World War II ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Gustav Mahler",
+      "field": "achievements",
+      "fact": "=== First appointments ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Gustav Mahler",
+      "field": "historical_significance",
+      "fact": "Austro-Bohemian composer and conductor (1860–1911)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Hadrian",
+      "field": "historical_significance",
+      "fact": "Roman emperor from 117 to 138",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Hannibal Barca",
+      "field": "achievements",
+      "fact": "Hannibal was one of the sons of Carthaginian general and statesman Hamilcar Barca and an unknown mother.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "James Prescott Joule",
+      "field": "historical_significance",
+      "fact": "English physicist (1818–1889)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Jane Austen",
+      "field": "historical_significance",
+      "fact": "English novelist (1775–1817)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Joseph Haydn",
+      "field": "achievements",
+      "fact": "=== Early life ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Joseph Haydn",
+      "field": "historical_significance",
+      "fact": "Austrian composer (1732–1809)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Louis IX",
+      "field": "achievements",
+      "fact": "=== Construction of the Sainte-Chapelle ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Louis IX",
+      "field": "historical_significance",
+      "fact": "King of France from 1226 to 1270",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Ludwig van Beethoven",
+      "field": "achievements",
+      "fact": "=== Early life and education ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Malek Bennabi",
+      "field": "historical_significance",
+      "fact": "Algerian philosopher",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Marcel Proust",
+      "field": "historical_significance",
+      "fact": "French novelist, literary critic, and essayist (1871–1922)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Michael Faraday",
+      "field": "achievements",
+      "fact": "=== Chemistry ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Michael Faraday",
+      "field": "historical_significance",
+      "fact": "English chemist and physicist (1791–1867)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Muhammad Abduh",
+      "field": "historical_significance",
+      "fact": "Egyptian jurist and theologian (1849–1905)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Nicolaus Copernicus",
+      "field": "historical_significance",
+      "fact": "Mathematician and astronomer (1473–1543)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Nur ad-Din",
+      "field": "achievements",
+      "fact": "Born in February 1118, Nur ad-Din was the second son of Imad al-Din Zengi, the Turcoman atabeg of Aleppo and Mosul, who was a devoted enemy of the crusader presence in Syria.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Oscar Wilde",
+      "field": "achievements",
+      "fact": "The 1891 census records the Wildes' residence at 16 Tite Street, (now 34) where Oscar lived with his wife Constance and two sons.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Oscar Wilde",
+      "field": "historical_significance",
+      "fact": "Irish writer (1854–1900)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Qutuz",
+      "field": "historical_significance",
+      "fact": "Sultan of Egypt from 1259 to 1260",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Steve Jobs",
+      "field": "achievements",
+      "fact": "=== 1974–1985 ===.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Steve Jobs",
+      "field": "achievements",
+      "fact": "==== Pre-Apple ====.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Steve Jobs",
+      "field": "achievements",
+      "fact": "In February 1974, Jobs returned to his parents' home in Los Altos and began looking for a job.",
+      "reason": "Does not describe a concrete achievement (heading, parentage, birth, trivia, or passive event).",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "Steve Jobs",
+      "field": "historical_significance",
+      "fact": "American businessman and inventor (1955–2011)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    },
+    {
+      "person": "T. E. Lawrence",
+      "field": "historical_significance",
+      "fact": "British Army officer, diplomat and writer (1888–1935)",
+      "reason": "Mere title, occupation, or lifespan statement / military campaign detail assigned to historical_significance.",
+      "decision": "REMOVED_FIELD_INAPPROPRIATE"
+    }
+  ]
+}

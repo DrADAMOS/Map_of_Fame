@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "language": "en",
+  "people": {
+    "Ramesses II": {
+      "hint": "Egyptian pharaoh who fought the Hittites at Kadesh and later concluded a peace treaty with Hatti.",
+      "bio": "Ramesses II ruled Egypt during the 13th century BCE and became one of the best-known pharaohs of the New Kingdom. He led campaigns in the Levant, including the Battle of Kadesh against the Hittite king Muwatalli II, and later pursued diplomacy with the Hittite Empire.",
+      "achievements": [
+        "Led the Egyptian campaign that culminated in the Battle of Kadesh against the Hittites.",
+        "Concluded a peace treaty with Hattusili III in the 21st year of his reign.",
+        "Commissioned major building projects including the Ramesseum and extensive additions at Karnak and Luxor."
+      ],
+      "key_facts": [
+        "Reigned approximately 1279–1213 BCE under the conventional chronology.",
+        "His surviving monuments include the Ramesseum and the temples at Abu Simbel.",
+        "The Egyptian and Hittite versions of his peace treaty survive."
+      ],
+      "wars": [
+        "Battle of Kadesh",
+        "Egyptian-Hittite conflicts in the Levant"
+      ],
+      "historical_significance": "Ramesses II is important for both the military history of New Kingdom Egypt and the diplomatic history of the ancient Near East. His treaty with Hattusili III is the oldest known surviving peace treaty for which versions from both parties survive."
+    },
+    "Buddha": {
+      "hint": "Teacher traditionally identified as Siddhartha Gautama, associated with the origins of Buddhism.",
+      "bio": "The Buddha, traditionally identified as Siddhartha Gautama, was a spiritual teacher in ancient northern India whose teachings became the foundation of Buddhism. Buddhist tradition describes his awakening after a period of ascetic practice and his subsequent teaching of a path intended to end suffering.",
+      "achievements": [
+        "Formulated and taught the Four Noble Truths.",
+        "Taught the Noble Eightfold Path as a practical route toward liberation.",
+        "Established a community of monks and disciples that became the early Buddhist sangha."
+      ],
+      "key_facts": [
+        "His traditional name is Siddhartha Gautama.",
+        "He is associated with the region of ancient northern India and Nepal.",
+        "His teachings were transmitted orally before being recorded in Buddhist textual traditions."
+      ],
+      "wars": [],
+      "historical_significance": "The Buddha's teachings became the foundation of one of the world's major religious and philosophical traditions. Buddhist ideas about suffering, ethics, meditation, and liberation have influenced Asian intellectual and cultural history for more than two millennia."
+    },
+    "Aristotle": {
+      "hint": "Greek philosopher who taught Alexander the Great and wrote on logic, nature, politics, and ethics.",
+      "bio": "Aristotle was a Greek philosopher and polymath whose writings addressed logic, natural philosophy, biology, ethics, politics, rhetoric, and metaphysics. He studied at Plato's Academy in Athens and later became tutor to the young Alexander of Macedon.",
+      "achievements": [
+        "Developed a systematic treatment of formal logic that shaped later Western philosophy.",
+        "Produced influential works on ethics and politics, including the Nicomachean Ethics and Politics.",
+        "Made extensive observations and classifications in biology and natural philosophy."
+      ],
+      "key_facts": [
+        "Born in Stagira around 384 BCE.",
+        "Studied at Plato's Academy in Athens for about twenty years.",
+        "Served as tutor to Alexander the Great before founding his own school, the Lyceum, in Athens."
+      ],
+      "wars": [],
+      "historical_significance": "Aristotle became one of the most influential thinkers in the history of philosophy and science. His methods of classification, argument, and inquiry shaped intellectual traditions in Europe and the Islamic world for centuries."
+    },
+    "Alexander the Great": {
+      "hint": "Macedonian king who conquered the Persian Empire and reached the Indus Valley.",
+      "bio": "Alexander III of Macedon became king in 336 BCE and rapidly built an empire stretching from Greece and Egypt through the former Persian territories to parts of Central and South Asia. His campaigns combined military conquest with the establishment of cities and long-lasting cultural contacts across the Hellenistic world.",
+      "achievements": [
+        "Defeated the Persian Empire and captured its principal imperial centers.",
+        "Founded or established numerous settlements that carried Greek institutions and culture across his empire.",
+        "Extended Macedonian power through Egypt, Mesopotamia, Persia, Central Asia, and into the Indian subcontinent."
+      ],
+      "key_facts": [
+        "Born in 356 BCE at Pella in Macedon.",
+        "Was taught by Aristotle during his youth.",
+        "Died in Babylon in 323 BCE after returning from his Indian campaign."
+      ],
+      "wars": [
+        "Battle of Granicus",
+        "Battle of Issus",
+        "Siege of Tyre",
+        "Battle of Gaugamela",
+        "Indian campaign"
+      ],
+      "historical_significance": "Alexander's conquests destroyed the Achaemenid Persian Empire and created a political landscape in which Greek and local cultures interacted across a vast area. The Hellenistic kingdoms that emerged after his death shaped Mediterranean and Near Eastern history for generations."
+    },
+    "Seneca": {
+      "hint": "Roman Stoic philosopher, playwright, and adviser to Emperor Nero.",
+      "bio": "Lucius Annaeus Seneca was a Roman Stoic philosopher, dramatist, and statesman. He became an adviser to the young Nero but later fell from favor and was ordered to die after being implicated in the Pisonian conspiracy.",
+      "achievements": [
+        "Wrote major Stoic works including Letters to Lucilius and several philosophical essays.",
+        "Produced tragedies such as Medea and Thyestes that became important examples of Roman drama.",
+        "Served as a leading adviser during the early years of Nero's reign."
+      ],
+      "key_facts": [
+        "Born at Corduba in Roman Hispania around 4 BCE.",
+        "His philosophy emphasized self-control, virtue, and the management of destructive emotions.",
+        "Died by forced suicide in 65 CE after Nero's regime linked him to the Pisonian conspiracy."
+      ],
+      "wars": [],
+      "historical_significance": "Seneca is a central figure in Roman Stoicism and one of the most influential Latin prose writers of antiquity. His philosophical letters and essays became major sources for later European discussions of ethics, resilience, and self-discipline."
+    },
+    "Ovid": {
+      "hint": "Roman poet best known for the Metamorphoses and his exile under Augustus.",
+      "bio": "Publius Ovidius Naso was a Roman poet whose works include the Metamorphoses, Amores, and Fasti. In 8 CE Emperor Augustus banished him from Rome to Tomis on the Black Sea, and Ovid spent the rest of his life in exile writing about his separation from Rome.",
+      "achievements": [
+        "Composed the Metamorphoses, a vast mythological poem linking stories through transformations.",
+        "Wrote influential elegiac works including Amores and Ars Amatoria.",
+        "Produced the Fasti, a poetic treatment of the Roman calendar and religious festivals."
+      ],
+      "key_facts": [
+        "Born in Sulmo in 43 BCE.",
+        "Was exiled to Tomis in 8 CE by order of Augustus.",
+        "His exile poetry includes the Tristia and Epistulae ex Ponto."
+      ],
+      "wars": [],
+      "historical_significance": "Ovid's treatment of myth, love, transformation, and Roman culture became a major source for European literature and art. The Metamorphoses in particular has had an enduring influence on later writers, painters, and composers."
+    },
+    "Trajan": {
+      "hint": "Roman emperor who conquered Dacia and presided over the empire at its greatest territorial extent.",
+      "bio": "Trajan was Roman emperor from 98 to 117 CE and is remembered for military expansion, public construction, and administrative activity. His reign included the conquest of Dacia and campaigns against the Parthian Empire, while Rome's infrastructure and monumental architecture expanded.",
+      "achievements": [
+        "Conquered the Dacian kingdom in two major wars and incorporated Dacia into the Roman Empire.",
+        "Commissioned Trajan's Column in Rome to commemorate the Dacian campaigns.",
+        "Expanded and improved public infrastructure, including roads, bridges, and the imperial harbor complex at Portus."
+      ],
+      "key_facts": [
+        "Born in Italica in Roman Hispania around 53 CE.",
+        "Reigned from 98 to 117 CE.",
+        "His reign is traditionally associated with Rome's greatest territorial extent."
+      ],
+      "wars": [
+        "First Dacian War",
+        "Second Dacian War",
+        "Roman-Parthian War"
+      ],
+      "historical_significance": "Trajan represents the high point of Roman imperial expansion and monumental state building. His conquest of Dacia permanently altered Rome's Danubian frontier and left one of the ancient world's most important surviving narrative monuments in Trajan's Column."
+    },
+    "Augustus": {
+      "hint": "Rome's first emperor who transformed the Republic's political system after the civil wars.",
+      "bio": "Gaius Octavius, later known as Augustus, emerged as the principal victor of Rome's civil wars and became the first Roman emperor. He reorganized the state and army, established a long period of relative political stability, and promoted a broad program of public building and cultural patronage.",
+      "achievements": [
+        "Defeated Mark Antony and Cleopatra at the Battle of Actium in 31 BCE.",
+        "Established the Principate and reorganized Roman government after decades of civil war.",
+        "Sponsored extensive building and restoration projects in Rome."
+      ],
+      "key_facts": [
+        "Born in 63 BCE and adopted by Julius Caesar in his will.",
+        "Received the name Augustus from the Senate in 27 BCE.",
+        "His reign lasted until his death in 14 CE."
+      ],
+      "wars": [
+        "Battle of Philippi",
+        "Battle of Actium",
+        "Roman campaigns in Germany"
+      ],
+      "historical_significance": "Augustus created the political framework of the Roman Empire while preserving many republican institutions in outward form. His settlement ended a prolonged era of civil conflict and shaped Roman government for centuries."
+    },
+    "Virgil": {
+      "hint": "Roman poet whose Aeneid became a foundational epic of Latin literature.",
+      "bio": "Publius Vergilius Maro was a Roman poet best known for the Eclogues, Georgics, and Aeneid. The Aeneid follows the Trojan hero Aeneas and connects his journey to the legendary origins of Rome.",
+      "achievements": [
+        "Composed the Aeneid, Rome's most influential Latin epic.",
+        "Wrote the Georgics, a major didactic poem on agriculture and rural life.",
+        "Produced the Eclogues, which helped establish the pastoral tradition in Latin poetry."
+      ],
+      "key_facts": [
+        "Born near Mantua in 70 BCE.",
+        "Worked on the Aeneid during the final years of his life.",
+        "Died in Brundisium in 19 BCE before completing his final revision of the Aeneid."
+      ],
+      "wars": [],
+      "historical_significance": "Virgil became a central literary voice of Augustan Rome and a model for later epic poetry. The Aeneid profoundly influenced medieval and early modern European literature and ideas about Rome, empire, duty, and identity."
+    },
+    "Hadrian": {
+      "hint": "Roman emperor known for consolidating the empire and for the frontier wall named after him in Britain.",
+      "bio": "Hadrian was Roman emperor from 117 to 138 CE and spent much of his reign traveling through the provinces. Rather than pursuing continuous expansion, he emphasized frontier consolidation, administration, and the construction of monuments across the empire.",
+      "achievements": [
+        "Consolidated Roman frontiers and strengthened defensive installations across the empire.",
+        "Ordered the construction of Hadrian's Wall in Britain.",
+        "Sponsored major architectural projects, including the rebuilding of the Pantheon and his vast villa at Tivoli."
+      ],
+      "key_facts": [
+        "Born in Italica in Roman Hispania in 76 CE.",
+        "Traveled extensively through the Roman provinces during his reign.",
+        "Died in 138 CE and was succeeded by Antoninus Pius."
+      ],
+      "wars": [
+        "Bar Kokhba revolt"
+      ],
+      "historical_significance": "Hadrian is important for the consolidation of the Roman Empire and for the physical landscape his building program left behind. His reign illustrates a shift from territorial expansion toward managing and defending an already vast imperial system."
+    }
+  }
+}

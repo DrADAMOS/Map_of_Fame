@@ -1,0 +1,5 @@
+{
+  "STATUS": "GEOGRAPHIC_VERIFICATION_UNAVAILABLE",
+  "RUNTIME_MODIFIED": "NO",
+  "REASON": "Environment lacks required geospatial libraries (GeoPandas, Shapely) and Natural Earth land/water polygon shapefiles or live geospatial geocoding API access to perform a real, non-faked evidence-based coordinate verification for 594 records."
+}

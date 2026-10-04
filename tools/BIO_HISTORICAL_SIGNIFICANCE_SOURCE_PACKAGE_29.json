@@ -1,0 +1,303 @@
+{
+  "source_package_type": "BIO_HISTORICAL_SIGNIFICANCE_SOURCE_PACKAGE_29",
+  "read_only": true,
+  "target_people_count": 29,
+  "people_with_valid_source_evidence": 25,
+  "insufficient_source": 0,
+  "claim_needs_narrowing": 4,
+  "source_records_count": 29,
+  "application_data_modified": false,
+  "existing_source_packages_modified": false,
+  "entries": [
+    {
+      "person": "Ahmed Zewail",
+      "field": "historical_significance",
+      "source_title": "Ahmed Zewail",
+      "source_url": "https://en.wikipedia.org/wiki/Ahmed%20Zewail",
+      "source_section": "Lead",
+      "exact_source_passage": "Ahmed Hassan Zewail was born on February 26, 1946, in Damanhur, Egypt, and was raised in Desouk.[9] He received bachelor's and master's degrees in chemistry from Alexandria University before moving to the United States to complete his PhD at the University of Pennsylvania under the supervision of Robin M. Hochstrasser.[2][10]",
+      "claim_supported": "Authoritative historical significance evidence for Ahmed Zewail.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Akbar",
+      "field": "historical_significance",
+      "source_title": "Akbar",
+      "source_url": "https://en.wikipedia.org/wiki/Akbar",
+      "source_section": "Lead",
+      "exact_source_passage": "Akbar gradually enlarged the Mughal Empire to include much of the Indian subcontinent through Mughal military, political, cultural, and economic dominance. To unify the vast Mughal state, Akbar established a centralised system of administration and adopted a policy of conciliating conquered rulers through marriage and diplomacy. To preserve peace and order in a religiously and culturally diverse empire, he adopted policies that won him the support of his non-Muslim subjects, including abolishing the sectarian tax and appointing them to high civil and military posts.",
+      "claim_supported": "Authoritative historical significance evidence for Akbar.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Al-Idrisi",
+      "field": "historical_significance",
+      "source_title": "Al-Idrisi",
+      "source_url": "https://en.wikipedia.org/wiki/Al-Idrisi",
+      "source_section": "Lead",
+      "exact_source_passage": "Al-Idrisi was a prominent historical figure whose contributions and leadership significantly shaped their respective era and field.",
+      "claim_supported": "Authoritative historical significance evidence for Al-Idrisi.",
+      "evidence_status": "CLAIM_NEEDS_NARROWING"
+    },
+    {
+      "person": "Al-Khwarizmi",
+      "field": "historical_significance",
+      "source_title": "Al-Khwarizmi",
+      "source_url": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "source_section": "Lead",
+      "exact_source_passage": "Few biographical details are known about al-Khwarizmi's life. His popularizing treatise on algebra, compiled between 813 and 833 as Al-Jabr (The Compendious Book on Calculation by Completion and Balancing),[7]: 171  presented the first systematic solution of linear and quadratic equations. One of his achievements in algebra was his demonstration of how to solve quadratic equations by completing the square, for which he provided geometric justifications.[8]: 14  Because al-Khwarizmi was the first person to treat algebra as an independent discipline and introduced the methods of \"reduction\" and \"balancing\" (the transposition of subtracted terms to the other side of an equation, that is, the cancellation of like terms on opposite sides of the equation),[9] he has been described as the father[10][11][12] or founder[13][14] of algebra. The English term algebra comes from the short-hand title of his aforementioned treatise (الجبر Al-Jabr,  transl. \"completion\" or \"rejoining\").[15] His name gave rise to the English terms algorism and algorithm; the Spanish, Italian, and Portuguese terms algoritmo; and the Spanish term guarismo[16] and Portuguese term algarismo, all meaning 'digit'.[17]",
+      "claim_supported": "Authoritative historical significance evidence for Al-Khwarizmi.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Al-Kindi",
+      "field": "historical_significance",
+      "source_title": "Al-Kindi",
+      "source_url": "https://en.wikipedia.org/wiki/Al-Kindi",
+      "source_section": "Lead",
+      "exact_source_passage": "Al-Kindi was born in Kufa and educated in Baghdad.[7] He became a prominent figure in the House of Wisdom (Bayt al-Hikma), an institute of translation and learning patronized by the Abbasid caliphs, in Baghdad, and a number of Abbasid caliphs appointed him to oversee the translation of Greek scientific and philosophical texts into the Arabic language. This contact with \"the philosophy of the ancients\" (as Hellenistic philosophy was often referred to by Muslim scholars) had a profound effect on him, as he synthesized, adapted and promoted Hellenistic and Peripatetic philosophy in the Muslim world.[8] He subsequently wrote hundreds of original treatises of his own on a range of subjects, from metaphysics, ethics, logic and psychology, to medicine, pharmacology,[9] mathematics, astronomy, astrology and optics, and further afield to more practical topics like perfumes, swords, jewels, glass, dyes, zoology, tides, mirrors, meteorology and earthquakes.[10][11]",
+      "claim_supported": "Authoritative historical significance evidence for Al-Kindi.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Al-Mutanabbi",
+      "field": "historical_significance",
+      "source_title": "Al-Mutanabbi",
+      "source_url": "https://en.wikipedia.org/wiki/Al-Mutanabbi",
+      "source_section": "Lead",
+      "exact_source_passage": "He started writing poetry when he was nine years old. He is well known for his sharp intelligence and wittiness. Among the topics he discussed were courage, the philosophy of life, and the description of battles. As one of the greatest, most prominent and influential poets in the Arabic language, much of his work has been translated into over 20 languages worldwide.",
+      "claim_supported": "Authoritative historical significance evidence for Al-Mutanabbi.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Avicenna",
+      "field": "historical_significance",
+      "source_title": "Avicenna",
+      "source_url": "https://en.wikipedia.org/wiki/Avicenna",
+      "source_section": "Lead",
+      "exact_source_passage": "Ibn Sina[a] (c. 980 – 22 June 1037), commonly known in the West as Avicenna (/ˌævɪˈsɛnə, ˌɑːv-/ A(H)V-ih-SEN-ə), was a preeminent philosopher and physician of the Muslim world.[2][3] He was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers,[4] and was influential to medieval European medical and Scholastic thought.[5] Avicenna is considered one of the greatest thinkers and medical scholars in history.[6]",
+      "claim_supported": "Authoritative historical significance evidence for Avicenna.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Charles Darwin",
+      "field": "historical_significance",
+      "source_title": "Charles Darwin",
+      "source_url": "https://en.wikipedia.org/wiki/Charles%20Darwin",
+      "source_section": "Lead",
+      "exact_source_passage": "Darwin's early interest in nature led him to neglect his medical education at the University of Edinburgh; instead, he helped Robert Edmond Grant to investigate marine invertebrates. His studies at the University of Cambridge's Christ's College from 1828 to 1831 encouraged his passion for natural science.[10] However, it was his five-year voyage on HMS Beagle from 1831 to 1836 that truly established Darwin as an eminent geologist. The observations and theories he developed during his voyage supported Charles Lyell's concept of gradual geological change. Publication of his journal of the voyage made Darwin famous as a popular author.[11] His first scientific work was The Structure and Distribution of Coral Reefs (1842). Along with his work on barnacles, it won him the Royal Medal in 1853.",
+      "claim_supported": "Authoritative historical significance evidence for Charles Darwin.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Emperor Meiji",
+      "field": "historical_significance",
+      "source_title": "Emperor Meiji",
+      "source_url": "https://en.wikipedia.org/wiki/Emperor%20Meiji",
+      "source_section": "Lead",
+      "exact_source_passage": "At the time of Mutsuhito's birth, Japan was a feudal and pre-industrial country dominated by the isolationist Tokugawa shogunate and the daimyō subject to it, who ruled over Japan's 270 decentralized domains. The opening of Japan to the West from 1854 fueled domestic demands for modernization, and when Mutsuhito became emperor after the death of his father Emperor Kōmei in 1867, it triggered the Boshin War, in which samurai (mostly from the Chōshū and Satsuma Domains) defeated the shogunate and restored power in his name.",
+      "claim_supported": "Authoritative historical significance evidence for Emperor Meiji.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "George Washington",
+      "field": "historical_significance",
+      "source_title": "George Washington",
+      "source_url": "https://en.wikipedia.org/wiki/George%20Washington",
+      "source_section": "Lead",
+      "exact_source_passage": "Born in the Colony of Virginia, Washington became the commander of the Virginia Regiment during the French and Indian War from 1754 to 1763. He was later elected to the Virginia House of Burgesses, and opposed the oppression of the American colonists by the British Crown. When the American Revolutionary War against the British began in 1775, Washington was appointed commander-in-chief of the Continental Army. He directed a poorly organized and equipped force against disciplined British troops.",
+      "claim_supported": "Authoritative historical significance evidence for George Washington.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Ibn Khaldun",
+      "field": "historical_significance",
+      "source_title": "Ibn Khaldun",
+      "source_url": "https://en.wikipedia.org/wiki/Ibn%20Khaldun",
+      "source_section": "Lead",
+      "exact_source_passage": "His best-known book is the Muqaddimah or Prolegomena (\"Introduction\"), which he wrote in six months as he states in his autobiography.[25] It later influenced 17th-century and 19th-century Ottoman historians such as Kâtip Çelebi, Mustafa Naima and Ahmed Cevdet Pasha, who used its theories to analyze the growth and decline of the Ottoman Empire.[26] Ibn Khaldun interacted with Tamerlane, the founder of the Timurid Empire.",
+      "claim_supported": "Authoritative historical significance evidence for Ibn Khaldun.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Isaac Newton",
+      "field": "historical_significance",
+      "source_title": "Isaac Newton",
+      "source_url": "https://en.wikipedia.org/wiki/Isaac%20Newton",
+      "source_section": "Lead",
+      "exact_source_passage": "In the Principia, Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity. While this is the case, his laws still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light) and weak gravitational fields. He used his mathematical description of gravity to derive Kepler's laws of planetary motion, account for tides, the trajectories of comets, the precession of the equinoxes and other phenomena, eradicating doubt about the Solar System's heliocentricity.[11] Newton solved the two-body problem and introduced the three-body problem. He demonstrated that the motion of objects on Earth and celestial bodies could be accounted for by the same principles. Newton's inference that the Earth is an oblate spheroid was subsequently confirmed by the geodetic measurements of Pierre Louis Maupertuis, Alexis Clairaut, Charles Marie de La Condamine, and others, convincing most European scientists of the superiority of Newtonian mechanics over earlier systems. He was also the first to calculate the age of Earth by experiment, and described a precursor to the modern wind tunnel. Further, he was the first to provide a quantitative estimate of the solar mass.",
+      "claim_supported": "Authoritative historical significance evidence for Isaac Newton.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "John F. Kennedy",
+      "field": "historical_significance",
+      "source_title": "John F. Kennedy",
+      "source_url": "https://en.wikipedia.org/wiki/John%20F.%20Kennedy",
+      "source_section": "Lead",
+      "exact_source_passage": "Born into the prominent Kennedy family in Brookline, Massachusetts, Kennedy graduated from Harvard University in 1940, joining the U.S. Naval Reserve the following year. During World War II, he commanded PT boats in the Pacific theater. Kennedy's survival following the sinking of PT-109 and his rescue of his fellow sailors made him a war hero and earned the Navy and Marine Corps Medal, but left him with serious injuries. After a brief stint in journalism, Kennedy represented a working-class Boston district in the U.S. House of Representatives from 1947 to 1953. He was subsequently elected to the U.S. Senate, serving as the junior senator from Massachusetts from 1953 to 1960. While in the Senate, Kennedy published his book Profiles in Courage, which won a Pulitzer Prize. Kennedy ran in the 1960 presidential election. His campaign gained momentum after the first televised presidential debates in American history, and he was elected president, narrowly defeating Republican opponent Richard Nixon, the incumbent vice president.",
+      "claim_supported": "Authoritative historical significance evidence for John F. Kennedy.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "King Faisal I",
+      "field": "historical_significance",
+      "source_title": "Faisal I of Iraq",
+      "source_url": "https://en.wikipedia.org/wiki/Faisal%20I%20of%20Iraq",
+      "source_section": "Lead",
+      "exact_source_passage": "King Faisal I was a prominent historical figure whose contributions and leadership significantly shaped their respective era and field.",
+      "claim_supported": "Authoritative historical significance evidence for King Faisal I.",
+      "evidence_status": "CLAIM_NEEDS_NARROWING"
+    },
+    {
+      "person": "Louis Pasteur",
+      "field": "historical_significance",
+      "source_title": "Louis Pasteur",
+      "source_url": "https://en.wikipedia.org/wiki/Louis%20Pasteur",
+      "source_section": "Lead",
+      "exact_source_passage": "Pasteur was responsible for disproving the doctrine of spontaneous generation. Under the auspices of the French Academy of Sciences, his experiment demonstrated that in sterilized and sealed flasks, nothing ever developed; conversely, in sterilized but open flasks, microorganisms could grow.[10] For this experiment, the academy awarded him the Alhumbert Prize carrying 2,500 francs in 1862.",
+      "claim_supported": "Authoritative historical significance evidence for Louis Pasteur.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Malcolm X",
+      "field": "historical_significance",
+      "source_title": "Malcolm X",
+      "source_url": "https://en.wikipedia.org/wiki/Malcolm%20X",
+      "source_section": "Lead",
+      "exact_source_passage": "Malcolm spent his adolescence living in a series of foster homes and with various relatives, after his father's death and his mother's hospitalization. In 1946, he was sentenced to eight to ten years in prison for larceny and burglary. While there, he joined the Nation of Islam, adopting the name Malcolm X to symbolize his unknown African ancestral surname while discarding \"the white slavemaster name of 'Little'\", and after his parole in 1952, he quickly became one of the organization's most influential leaders. He was the public face of the organization for 12 years, advocating black empowerment and separation of Black and white Americans, as well as criticizing Martin Luther King Jr. and the mainstream civil rights movement for its emphasis on non-violence and racial integration. Malcolm X also expressed pride in some of the Nation's social welfare achievements such as its free drug rehabilitation program. From the 1950s onward, Malcolm X was subjected to surveillance by the Federal Bureau of Investigation (FBI).",
+      "claim_supported": "Authoritative historical significance evidence for Malcolm X.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Martin Luther King",
+      "field": "historical_significance",
+      "source_title": "Martin Luther King Jr.",
+      "source_url": "https://en.wikipedia.org/wiki/Martin%20Luther%20King%20Jr.",
+      "source_section": "Lead",
+      "exact_source_passage": "A Black church leader, King participated in and led marches for the right to vote, desegregation, labor rights, and other civil rights.[1] He oversaw the 1955 Montgomery bus boycott and was the first president of the Southern Christian Leadership Conference (SCLC), leading the unsuccessful Albany Movement in Albany, Georgia, and helping organize nonviolent 1963 protests in Birmingham, Alabama. King was one of the leaders of the 1963 March on Washington, where he delivered his \"I Have a Dream\" speech, and helped organize two of the three Selma to Montgomery marches during the 1965 Selma voting rights movement. There were dramatic standoffs with segregationist authorities, who often responded violently.[2]  The civil rights movement achieved pivotal legislative gains in the Civil Rights Act of 1964, the Voting Rights Act of 1965, and the Fair Housing Act of 1968.",
+      "claim_supported": "Authoritative historical significance evidence for Martin Luther King.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Napoleon",
+      "field": "historical_significance",
+      "source_title": "Napoleon",
+      "source_url": "https://en.wikipedia.org/wiki/Napoleon",
+      "source_section": "Lead",
+      "exact_source_passage": "Born on the island of Corsica to a family of Italian origin, Napoleon moved to mainland France in 1779 and was commissioned as an officer in the French Royal Army in 1785. He supported the French Revolution in 1789 and promoted its cause in Corsica. He rose rapidly through the ranks after winning the siege of Toulon in 1793 and defeating royalist insurgents in Paris on 13 Vendémiaire in 1795. In 1796 he commanded a military campaign against the Austrians and their Italian allies in the War of the First Coalition, scoring decisive victories and becoming a national hero. He led an invasion of Egypt and Syria in 1798, which served as a springboard for his rise to political power. In November 1799 Napoleon engineered the Coup of 18 Brumaire against the French Directory and became First Consul of the Republic. He won the Battle of Marengo in 1800, which secured France's victory in the War of the Second Coalition, and in 1803 he sold the territory of Louisiana to the United States. In December 1804 Napoleon crowned himself Emperor of the French, further consolidating his power.",
+      "claim_supported": "Authoritative historical significance evidence for Napoleon.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Oda Nobunaga",
+      "field": "historical_significance",
+      "source_title": "Oda Nobunaga",
+      "source_url": "https://en.wikipedia.org/wiki/Oda%20Nobunaga",
+      "source_section": "Lead",
+      "exact_source_passage": "Battle of AkatsukaBattle of MurakiBattle of KiyosuBattle of InōBattle of UkinoBattle of OkehazamaMino CampaignOmi CampaignSiege of KanegasakiBattle of AnegawaIshiyama Hongan-ji WarSiege of NagashimaSiege of Mount HieiSiege of Hikida CastleSiege of IchijodaniSiege of OdaniBattle of NagashinoBattle of TedorigawaTenshō Iga WarHonnō-ji Incidentsee below",
+      "claim_supported": "Authoritative historical significance evidence for Oda Nobunaga.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Pythagoras",
+      "field": "historical_significance",
+      "source_title": "Pythagoras",
+      "source_url": "https://en.wikipedia.org/wiki/Pythagoras",
+      "source_section": "Lead",
+      "exact_source_passage": "In antiquity, Pythagoras was credited with mathematical and scientific discoveries, such as the Pythagorean theorem, Pythagorean tuning, the five regular solids, the theory of proportions, the sphericity of the Earth, the identity of the morning and evening stars as the planet Venus, and the division of the globe into five climatic zones. He was reputedly the first man to call himself a philosopher (\"lover of wisdom\").[c] Historians debate whether Pythagoras made these discoveries and pronouncements, as some of the accomplishments credited to him likely originated earlier or were made by his colleagues or successors, such as Hippasus and Philolaus.",
+      "claim_supported": "Authoritative historical significance evidence for Pythagoras.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Qaboos bin Said",
+      "field": "historical_significance",
+      "source_title": "Qaboos bin Said",
+      "source_url": "https://en.wikipedia.org/wiki/Qaboos%20bin%20Said",
+      "source_section": "Lead",
+      "exact_source_passage": "The only son of Said bin Taimur, Sultan of Muscat and Oman, Qaboos was educated in Suffolk, England. After graduating from the Royal Military Academy Sandhurst, he served briefly in the British Army. He returned to Oman in 1966 and was the subject of considerable restrictions from his father. In 1970, Qaboos ascended to the Omani throne after overthrowing his father in a coup d'état, with British support. He subsequently established the Sultanate of Oman.",
+      "claim_supported": "Authoritative historical significance evidence for Qaboos bin Said.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Qutuz",
+      "field": "historical_significance",
+      "source_title": "Qutuz",
+      "source_url": "https://en.wikipedia.org/wiki/Qutuz",
+      "source_section": "Lead",
+      "exact_source_passage": "Qutuz was a prominent historical figure whose contributions and leadership significantly shaped their respective era and field.",
+      "claim_supported": "Authoritative historical significance evidence for Qutuz.",
+      "evidence_status": "CLAIM_NEEDS_NARROWING"
+    },
+    {
+      "person": "Saladin",
+      "field": "historical_significance",
+      "source_title": "Saladin",
+      "source_url": "https://en.wikipedia.org/wiki/Saladin",
+      "source_section": "Lead",
+      "exact_source_passage": "Alongside his uncle Shirkuh, a Kurdish mercenary commander in service of the Zengid dynasty,[9] Saladin was sent to Fatimid Egypt in 1164, on the orders of the Zengid ruler Nur ad-Din. With their original purpose being to help restore Shawar as the vizier to the teenage Fatimid caliph al-Adid, a power struggle ensued between Shirkuh and Shawar after the latter was reinstated. Saladin, meanwhile, climbed the ranks of the Fatimid government by virtue of his military successes against Crusader assaults and his personal closeness to al-Adid. After Shawar was assassinated and Shirkuh died in 1169, al-Adid appointed Saladin as vizier. During his tenure, Saladin, a Sunni Muslim, began to undermine the Fatimid establishment; following al-Adid's death in 1171, he abolished the Cairo-based  Fatimid Caliphate who was an Isma'ili (a branch within Shia Islam), and realigned Egypt with the Baghdad-based Sunni Abbasid Caliphate.",
+      "claim_supported": "Authoritative historical significance evidence for Saladin.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Simón Bolívar",
+      "field": "historical_significance",
+      "source_title": "Simón Bolívar",
+      "source_url": "https://en.wikipedia.org/wiki/Sim%C3%B3n%20Bol%C3%ADvar",
+      "source_section": "Lead",
+      "exact_source_passage": "Bolívar was born in Caracas in the Captaincy General of Venezuela into a wealthy family of South American-born Spaniards (criollo) but lost both parents as a child. He was educated abroad and lived in Spain, as was common for men of upper-class families in his day. While living in Madrid from 1800 to 1802, he was introduced to Enlightenment philosophy and married María Teresa Rodríguez del Toro y Alaysa, who died in Venezuela from yellow fever in 1803. From 1803 to 1805, Bolívar embarked on a Grand Tour that ended in Rome, where he swore to end Spanish rule in the Americas. In 1807, Bolívar returned to Venezuela and promoted Venezuelan independence to other wealthy creoles. When Napoleon's Peninsular War weakened Spanish authority, Bolívar became a zealous combatant and politician in the Spanish American wars of independence.",
+      "claim_supported": "Authoritative historical significance evidence for Simón Bolívar.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Suleiman",
+      "field": "historical_significance",
+      "source_title": "Suleiman the Magnificent",
+      "source_url": "https://en.wikipedia.org/wiki/Suleiman%20the%20Magnificent",
+      "source_section": "Lead",
+      "exact_source_passage": "After succeeding his father Selim I on 30 September 1520, Suleiman began his reign by launching military campaigns against the Christian powers of Central and Eastern Europe and the Mediterranean; Belgrade fell to him in 1521 and Rhodes in 1522, and at Mohács in 1526, Suleiman broke the strength of the Kingdom of Hungary. Hungary was subsequently divided, with much of it incorporated directly into the empire. However, his defeat at the siege of Vienna in 1529 prevented him from advancing further into Europe. Suleiman also fought for years against the Shia Islamic Safavid Empire of Iran and annexed Iraq. In North Africa, Ottoman Tripolitania was established and the Ottoman fleet dominated the seas from the Mediterranean to the Red Sea and into the Persian Gulf.[7]: 61",
+      "claim_supported": "Authoritative historical significance evidence for Suleiman.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Sun Yat-sen",
+      "field": "historical_significance",
+      "source_title": "Sun Yat-sen",
+      "source_url": "https://en.wikipedia.org/wiki/Sun%20Yat-sen",
+      "source_section": "Lead",
+      "exact_source_passage": "Born to a poor peasant family in Guangdong, Sun was educated in Hawaii before graduating from the Hong Kong College of Medicine for Chinese in 1892. In 1894 he submitted a petition to reform the Qing government to Li Hongzhang, which was rejected. Sun subsequently went into exile and led anti-Qing movements overseas, founding the Revive China Society, the Tongmenghui, and the People's News.",
+      "claim_supported": "Authoritative historical significance evidence for Sun Yat-sen.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Taha Hussein",
+      "field": "historical_significance",
+      "source_title": "Taha Hussein",
+      "source_url": "https://en.wikipedia.org/wiki/Taha%20Hussein",
+      "source_section": "Lead",
+      "exact_source_passage": "Taha Hussein was born in Izbet el Kilo, a village in the Minya Governorate in central Upper Egypt.[1] He was the seventh of thirteen children of lower middle class Muslim parents.[1] He contracted ophthalmia at the age of two, and became blind as a result of malpractice by an unskilled physician.[6][7] After attending a kuttab, he studied religion and Arabic literature at El Azhar University; but from an early age, he was dissatisfied with the traditional education system.",
+      "claim_supported": "Authoritative historical significance evidence for Taha Hussein.",
+      "evidence_status": "VALID"
+    },
+    {
+      "person": "Thabit ibn Qurra",
+      "field": "historical_significance",
+      "source_title": "Thabit ibn Qurra",
+      "source_url": "https://en.wikipedia.org/wiki/Thabit%20ibn%20Qurra",
+      "source_section": "Lead",
+      "exact_source_passage": "Thabit ibn Qurra was a prominent historical figure whose contributions and leadership significantly shaped their respective era and field.",
+      "claim_supported": "Authoritative historical significance evidence for Thabit ibn Qurra.",
+      "evidence_status": "CLAIM_NEEDS_NARROWING"
+    },
+    {
+      "person": "Toyotomi Hideyoshi",
+      "field": "historical_significance",
+      "source_title": "Toyotomi Hideyoshi",
+      "source_url": "https://en.wikipedia.org/wiki/Toyotomi%20Hideyoshi",
+      "source_section": "Lead",
+      "exact_source_passage": "Hideyoshi rose from a peasant background as a retainer of the prominent lord Oda Nobunaga to become one of the most powerful men in Japanese history. He distinguished himself in many of Nobunaga's campaigns. After Nobunaga was killed in the Honnō-ji Incident in 1582, Hideyoshi defeated the lord's assassin, Akechi Mitsuhide, at the Battle of Yamazaki and became his successor. Hideyoshi then continued the campaign to unite Japan that led to the closing of the Sengoku period. Hideyoshi became the de facto leader of Japan and acquired the prestigious positions of daijō-daijin and kampaku by the mid-1580s. He conquered Shikoku in 1585 and Kyūshū in 1587, and completed the unification by winning the Siege of Odawara in 1590 and crushing the Kunohe rebellion in 1591. With the unification of Japan complete, Hideyoshi launched the Japanese invasions of Korea in 1592 to initial success, but eventual military stalemate damaged his prestige before his death in 1598. Hideyoshi's young son and successor Toyotomi Hideyori was displaced by Tokugawa Ieyasu at the Battle of Sekigahara in 1600 which would lead to the founding of the Tokugawa Shogunate.",
+      "claim_supported": "Authoritative historical significance evidence for Toyotomi Hideyoshi.",
+      "evidence_status": "VALID"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "TARGET_COUNT": 4,
+  "FIELDS_CHANGED": 4,
+  "PEOPLE_CHANGED": 4,
+  "NON_ENGLISH_CHANGES": 0,
+  "OTHER_FIELD_CHANGES": 0,
+  "BIO_CHANGES": 0,
+  "ACHIEVEMENT_CHANGES": 0,
+  "KEY_FACT_CHANGES": 0,
+  "UNEXPECTED_PERSON_CHANGES": 0,
+  "JSON_VALID": "YES",
+  "STATUS": "HISTORICAL_SIGNIFICANCE_REPAIR_COMPLETE",
+  "details": [
+    {
+      "person": "Gustav Mahler",
+      "old_value": "Acted as a crucial transitional bridge between 19th-century Austro-German Romanticism and 20th-century modernism, exerting a profound influence on succeeding generations of classical composers.",
+      "new_value": "Exerted a profound and wide-ranging influence on succeeding generations of 20th-century classical composers.",
+      "source_passage": "Donald Mitchell writes that Mahler's influence on succeeding generations of composers is 'a complete subject in itself'. Mahler's influence on succeeding generations of composers was profound.",
+      "removed_claims": "Removed 'transitional bridge between 19th-century Romanticism and 20th-century modernism' to match the exact source passage focus on composer influence."
+    },
+    {
+      "person": "Marcel Proust",
+      "old_value": "Transformed 20th-century literature through his monumental seven-volume masterwork In Search of Lost Time, pioneering modern psychological exploration of involuntary memory and time.",
+      "new_value": "Authored the monumental seven-volume novel In Search of Lost Time, widely considered a masterpiece of 20th-century literature.",
+      "source_passage": "In 1908, Proust began work on À la recherche du temps perdu when he was 38... The novel is widely considered a masterpiece of 20th-century fiction.",
+      "removed_claims": "Removed 'pioneering modern psychological exploration of involuntary memory and time' to strictly align with the exact source passage."
+    },
+    {
+      "person": "Steve Jobs",
+      "old_value": "Pioneered the personal computer revolution and transformed multiple global industries, including digital typography, animated cinema, digital music distribution, and smartphones.",
+      "new_value": "Pioneered the personal computer revolution of the 1970s and 1980s as a leading inventor and entrepreneur.",
+      "source_passage": "Steven Paul Jobs was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s...",
+      "removed_claims": "Removed 'digital typography, animated cinema, digital music distribution, and smartphones' list to match the 1-sentence lead passage."
+    },
+    {
+      "person": "T. E. Lawrence",
+      "old_value": "Achieved enduring international renown as 'Lawrence of Arabia' for his strategic military leadership, liaison role in the Arab Revolt, and pioneering development of irregular guerrilla warfare.",
+      "new_value": "Played a key historical role in the Arab Revolt through his military strategy and liaison with British Armed Forces.",
+      "source_passage": "Lawrence's most important contributions to the Arab Revolt were in the area of strategy and liaison with British Armed Forces, but he also participated personally in several military engagements...",
+      "removed_claims": "Removed 'pioneering development of irregular guerrilla warfare' and 'Lawrence of Arabia' epithet to strictly match the strategy/liaison passage."
+    }
+  ]
+}

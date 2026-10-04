@@ -1,0 +1,563 @@
+{
+  "schema": 2,
+  "generation_timestamp": "2026-09-04T22:48:55.844814+00:00",
+  "source": "Wikipedia REST API v1 Summary",
+  "total_people": 37,
+  "people": {
+    "Alexis Carrel": {
+      "person_name": "Alexis Carrel",
+      "verified_wikipedia_title": "Alexis Carrel",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alexis_Carrel",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Alexis Carrel'.",
+      "description": "French surgeon and biologist (1873–1944)",
+      "source_facts": {
+        "biography_source": "Alexis Carrel was a French surgeon and biologist who spent most of his scientific career in the United States. He was awarded the Nobel Prize in Physiology or Medicine in 1912 for pioneering vascular suturing techniques. He invented the first perfusion pump with Charles Lindbergh opening the way to organ transplantation. In later time however, it was acknowledged that Carrel and Lindbergh's version of the perfusion pump, which initially had media prominence, was impractical and difficult to use, and would lose influence by the 1940s. Carrel was also a pioneer in tissue culture, transplantology and thoracic surgery. He is known for his leading role in implementing eugenic policies in Vichy France.",
+        "historical_contributions_source": "French surgeon and biologist (1873–1944)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Anwar Sadat": {
+      "person_name": "Anwar Sadat",
+      "verified_wikipedia_title": "Anwar Sadat",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Anwar Sadat'.",
+      "description": "President of Egypt from 1970 to 1981",
+      "source_facts": {
+        "biography_source": "Muhammad Anwar es-Sadat was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970.",
+        "historical_contributions_source": "President of Egypt from 1970 to 1981",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Auguste Comte": {
+      "person_name": "Auguste Comte",
+      "verified_wikipedia_title": "Auguste Comte",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_Comte",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Auguste Comte'.",
+      "description": "French philosopher, mathematician and sociologist (1798–1857)",
+      "source_facts": {
+        "biography_source": "Isidore Auguste Marie François Xavier Comte was a French philosopher and writer who formulated the doctrine of positivism. He is often regarded as the first philosopher of science in the modern sense of the term. Comte's ideas were fundamental to the development of sociology, as he coined the term and treated the discipline as the crowning achievement of the sciences.",
+        "historical_contributions_source": "French philosopher, mathematician and sociologist (1798–1857)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Bob Marley": {
+      "person_name": "Bob Marley",
+      "verified_wikipedia_title": "Bob Marley",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Marley",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Bob Marley'.",
+      "description": "Jamaican reggae musician (1945–1981)",
+      "source_facts": {
+        "biography_source": "Robert Nesta Marley was a Jamaican reggae singer, songwriter, and guitarist. Considered one of the pioneers of the genre, he was renowned for his distinctive vocal and songwriting style. Marley increased the visibility of Jamaican music worldwide and became a global figure in popular culture. He became known as a Rastafarian icon, and he infused his music with a sense of spirituality. Marley is also considered a global symbol of Jamaican music, culture and identity and was controversial in his outspoken support for democratic social reforms. Marley also supported the legalisation of cannabis and advocated for pan-Africanism.",
+        "historical_contributions_source": "Jamaican reggae musician (1945–1981)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Caravaggio": {
+      "person_name": "Caravaggio",
+      "verified_wikipedia_title": "Caravaggio",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Caravaggio",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Caravaggio'.",
+      "description": "Italian painter (1571–1610)",
+      "source_facts": {
+        "biography_source": "Michelangelo Merisi da Caravaggio, known mononymously as Caravaggio, was an Italian painter active in Rome for a significant portion of his artistic life. He began his apprenticeship in Milan in 1584, and during the final four years of his life, he moved between Naples, Malta, and Sicily. His paintings have been characterized by art critics as combining a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.",
+        "historical_contributions_source": "Italian painter (1571–1610)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Clara Barton": {
+      "person_name": "Clara Barton",
+      "verified_wikipedia_title": "Clara Barton",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Clara_Barton",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Clara Barton'.",
+      "description": "American Civil War nurse and founder of the American Red Cross (1821–1912)",
+      "source_facts": {
+        "biography_source": "Clarissa Harlowe Barton was an American nurse who founded the American Red Cross. She was a hospital nurse in the American Civil War, a teacher, and a patent clerk. Since nursing education was not very formalized, and she did not attend nursing school, she provided self-taught nursing care. Barton is noteworthy for doing humanitarian work and civil rights advocacy at a time before women had the right to vote. She was inducted into the National Women's Hall of Fame in 1973.",
+        "historical_contributions_source": "American Civil War nurse and founder of the American Red Cross (1821–1912)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Constantine the Great": {
+      "person_name": "Constantine the Great",
+      "verified_wikipedia_title": "Constantine the Great",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Constantine the Great'.",
+      "description": "Roman emperor from 306 to 337",
+      "source_facts": {
+        "biography_source": "Constantine I, also known as Constantine the Great, was Roman emperor from AD 306 to 337 and the first Roman emperor to convert to Christianity. He played a pivotal role in elevating the status of Christianity in the Roman Empire, the Edict of Milan decriminalising Christian practice and ceasing Christian persecution. This was a turning point in the Christianisation of the Roman Empire. He founded the city of Constantinople and made it the capital of the Empire, which it remained for over a millennium.",
+        "historical_contributions_source": "Roman emperor from 306 to 337",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Dmitri Mendeleev": {
+      "person_name": "Dmitri Mendeleev",
+      "verified_wikipedia_title": "Dmitri Mendeleev",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Dmitri Mendeleev'.",
+      "description": "Russian chemist (1834–1907)",
+      "source_facts": {
+        "biography_source": "Dmitri Ivanovich Mendeleev was a Russian chemist known for formulating the periodic law and creating a version of the periodic table of elements. He used the periodic law not only to correct the then-accepted properties of some known elements, such as the valence and atomic weight of uranium, but also to predict the properties of three elements that were yet to be discovered. The synthetic element mendelevium is named in his honor.",
+        "historical_contributions_source": "Russian chemist (1834–1907)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Emperor Meiji": {
+      "person_name": "Emperor Meiji",
+      "verified_wikipedia_title": "Emperor Meiji",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Emperor_Meiji",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Emperor Meiji'.",
+      "description": "Emperor of Japan from 1867 to 1912",
+      "source_facts": {
+        "biography_source": "Emperor Meiji ; 3 November 1852 – 29 July 1912) was Emperor of Japan from 30 January 1867 until his death in 1912. The Meiji Restoration proclaimed the Empire of Japan in 1868, beginning the Meiji era. During his reign, Japan transformed from a feudal state under the Tokugawa shogunate into a major imperial power.",
+        "historical_contributions_source": "Emperor of Japan from 1867 to 1912",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Francisco Goya": {
+      "person_name": "Francisco Goya",
+      "verified_wikipedia_title": "Francisco Goya",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Francisco Goya'.",
+      "description": "Spanish painter and printmaker (1746–1828)",
+      "source_facts": {
+        "biography_source": "Francisco José de Goya y Lucientes was a Spanish romantic painter and printmaker. He is considered the most important Spanish artist of the late 18th and early 19th centuries. His paintings, drawings, and engravings reflected contemporary historical upheavals and influenced important 19th- and 20th-century painters. Goya is often referred to as the last of the Old Masters and the first of the moderns. He is widely regarded as one of the most influential figures in the history of Western art.",
+        "historical_contributions_source": "Spanish painter and printmaker (1746–1828)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Giuseppe Verdi": {
+      "person_name": "Giuseppe Verdi",
+      "verified_wikipedia_title": "Giuseppe Verdi",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Giuseppe_Verdi",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Giuseppe Verdi'.",
+      "description": "Italian opera composer (1813–1901)",
+      "source_facts": {
+        "biography_source": "Giuseppe Fortunino Francesco Verdi was an Italian composer best known for his operas. He was born near Busseto, a small town in the modern province of Parma, to a family of moderate means, receiving a musical education with the help of a local patron named Antonio Barezzi.",
+        "historical_contributions_source": "Italian opera composer (1813–1901)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Grace Hopper": {
+      "person_name": "Grace Hopper",
+      "verified_wikipedia_title": "Grace Hopper",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Grace_Hopper",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Grace Hopper'.",
+      "description": "U.S. naval officer and computer scientist (1906–1992)",
+      "source_facts": {
+        "biography_source": "Grace Brewster Hopper was an American computer scientist, mathematician, and United States Navy rear admiral. She was a pioneer of computer programming. Hopper was the first to devise the theory of machine-independent programming languages, and used this theory to develop the FLOW-MATIC programming language and COBOL, an early high-level programming language still in use today. She was also one of the first programmers on the Harvard Mark I computer. She is credited with writing the first computer manual, \"A Manual of Operation for the Automatic Sequence Controlled Calculator.\"",
+        "historical_contributions_source": "U.S. naval officer and computer scientist (1906–1992)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Gustav Mahler": {
+      "person_name": "Gustav Mahler",
+      "verified_wikipedia_title": "Gustav Mahler",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Gustav Mahler'.",
+      "description": "Austro-Bohemian composer and conductor (1860–1911)",
+      "source_facts": {
+        "biography_source": "Gustav Mahler was an Austro-Bohemian Romantic composer, and one of the leading conductors of his generation. As a composer he acted as a bridge between the 19th-century tradition and the modernism of the early 20th century. While in his lifetime his status as a conductor was established beyond question, his own music gained wide popularity only after periods of relative neglect, which included a ban on its performance in much of Europe during the Nazi era. After 1945 his compositions were rediscovered by a new generation of listeners; Mahler then became one of the most frequently performed and recorded of all composers, a position he has sustained into the 21st century.",
+        "historical_contributions_source": "Austro-Bohemian composer and conductor (1860–1911)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Hadrian": {
+      "person_name": "Hadrian",
+      "verified_wikipedia_title": "Hadrian",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hadrian",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Hadrian'.",
+      "description": "Roman emperor from 117 to 138",
+      "source_facts": {
+        "biography_source": "Hadrian was Roman emperor from 117 to 138. His form of address as Roman emperor was Imperator Caesar Traianus Hadrianus Augustus. Hadrian was born in Italica, in the present-day Andalusian province of Seville in southern Spain, an Italic settlement in Hispania Baetica; his gens Aelia came from the town of Hadria in central Italy. He was a member of the Nerva–Antonine dynasty.",
+        "historical_contributions_source": "Roman emperor from 117 to 138",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Hannibal Barca": {
+      "person_name": "Hannibal Barca",
+      "verified_wikipedia_title": "Hannibal",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Hannibal",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Hannibal'.",
+      "description": "Carthaginian general and statesman (247–183/181 BC)",
+      "source_facts": {
+        "biography_source": "Hannibal was a Carthaginian general and statesman who commanded the forces of Carthage in their battle against the Roman Republic during the Second Punic War. Hannibal lived during a period of great tension in the Mediterranean Basin, triggered by the emergence of the Roman Republic as a great power with its defeat of Carthage in the First Punic War. Revanchism prevailed in Carthage, symbolized by the pledge that Hannibal made to his father to \"never be a friend of Rome\".",
+        "historical_contributions_source": "Carthaginian general and statesman (247–183/181 BC)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Igor Stravinsky": {
+      "person_name": "Igor Stravinsky",
+      "verified_wikipedia_title": "Igor Stravinsky",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Igor_Stravinsky",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Igor Stravinsky'.",
+      "description": "Russian composer (1882–1971)",
+      "source_facts": {
+        "biography_source": "Igor Fyodorovich Stravinsky was a Russian composer and conductor with French and American citizenship. He is widely considered one of the most important and influential composers of the 20th century and a pivotal figure in modernist music.",
+        "historical_contributions_source": "Russian composer (1882–1971)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "James Clerk Maxwell": {
+      "person_name": "James Clerk Maxwell",
+      "verified_wikipedia_title": "James Clerk Maxwell",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'James Clerk Maxwell'.",
+      "description": "Scottish physicist and mathematician (1831–1879)",
+      "source_facts": {
+        "biography_source": "James Clerk Maxwell was a Scottish physicist and mathematician who was responsible for the classical theory of electromagnetic radiation, which was the first theory to describe electricity, magnetism and light as different manifestations of the same phenomenon. Maxwell's equations for electromagnetism achieved the second great unification in physics, where the first one had been realised by Isaac Newton. Maxwell was also key in the creation of statistical mechanics.",
+        "historical_contributions_source": "Scottish physicist and mathematician (1831–1879)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "James Prescott Joule": {
+      "person_name": "James Prescott Joule",
+      "verified_wikipedia_title": "James Prescott Joule",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/James_Prescott_Joule",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'James Prescott Joule'.",
+      "description": "English physicist (1818–1889)",
+      "source_facts": {
+        "biography_source": "James Prescott Joule was an English physicist. Joule studied the nature of heat and discovered its relationship to mechanical work. This led to the law of conservation of energy, which in turn led to the development of the first law of thermodynamics. The SI unit of energy, the joule (J), is named after him.",
+        "historical_contributions_source": "English physicist (1818–1889)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Jane Austen": {
+      "person_name": "Jane Austen",
+      "verified_wikipedia_title": "Jane Austen",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Austen",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Jane Austen'.",
+      "description": "English novelist (1775–1817)",
+      "source_facts": {
+        "biography_source": "Jane Austen was an English writer known primarily for her six novels, which implicitly interpret, critique, and comment on the English landed gentry at the end of the 18th century.",
+        "historical_contributions_source": "English novelist (1775–1817)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Joseph Haydn": {
+      "person_name": "Joseph Haydn",
+      "verified_wikipedia_title": "Joseph Haydn",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Joseph Haydn'.",
+      "description": "Austrian composer (1732–1809)",
+      "source_facts": {
+        "biography_source": "Franz Joseph Haydn was an Austrian composer of the Classical period. He was pivotal in the evolution of chamber music forms such as the string quartet and piano trio. His contributions to musical form have led him to be called \"Father of the Symphony\", \"Father of the String quartet\" and \"Father of Sonata form\".",
+        "historical_contributions_source": "Austrian composer (1732–1809)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Louis IX": {
+      "person_name": "Louis IX",
+      "verified_wikipedia_title": "Louis IX of France",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Louis IX of France'.",
+      "description": "King of France from 1226 to 1270",
+      "source_facts": {
+        "biography_source": "Louis IX, also known as Saint Louis, was King of France from 1226 until his death in 1270. He is widely recognized as the most distinguished of the Direct Capetians, is the sole king of France to be canonised as a saint of the Catholic Church, and is also the direct ancestor of all subsequent French kings. Following the death of his father, Louis VIII, he was crowned in Reims at the age of 12. His mother, Blanche of Castile, effectively ruled the kingdom as regent until he came of age, and continued to serve as his trusted adviser until her death.",
+        "historical_contributions_source": "King of France from 1226 to 1270",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Ludwig van Beethoven": {
+      "person_name": "Ludwig van Beethoven",
+      "verified_wikipedia_title": "Ludwig van Beethoven",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Ludwig van Beethoven'.",
+      "description": "German composer (1770–1827)",
+      "source_facts": {
+        "biography_source": "Ludwig van Beethoven was a German composer, conductor, and pianist. Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period, and his musical style was a key driver of the transition to Romantic music, and the expansion of instrumental forms such as the symphony, the piano sonata and the string quartet. His compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world.",
+        "historical_contributions_source": "German composer (1770–1827)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Malek Bennabi": {
+      "person_name": "Malek Bennabi",
+      "verified_wikipedia_title": "Malek Bennabi",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Malek_Bennabi",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Malek Bennabi'.",
+      "description": "Algerian philosopher",
+      "source_facts": {
+        "biography_source": "Malek Bennabi was an Algerian writer and philosopher, of Islamic, Salafist and Wahhabi inspiration who wrote about human society, particularly Muslim society with a focus on the reasons behind the fall of Muslim civilization and the keys for Renaissance.",
+        "historical_contributions_source": "Algerian philosopher",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Marcel Proust": {
+      "person_name": "Marcel Proust",
+      "verified_wikipedia_title": "Marcel Proust",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Proust",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Marcel Proust'.",
+      "description": "French novelist, literary critic, and essayist (1871–1922)",
+      "source_facts": {
+        "biography_source": "Valentin Louis Georges Eugène Marcel Proust was a French novelist, literary critic, and essayist best known for his novel À la recherche du temps perdu, which was published in seven volumes between 1913 and 1927 and totals around 1.25 million words. He is considered by critics and writers to be one of the most influential authors of the twentieth century.",
+        "historical_contributions_source": "French novelist, literary critic, and essayist (1871–1922)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Marcus Aurelius": {
+      "person_name": "Marcus Aurelius",
+      "verified_wikipedia_title": "Marcus Aurelius",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Marcus Aurelius'.",
+      "description": "Stoic philosopher, Roman emperor from 161 to 180",
+      "source_facts": {
+        "biography_source": "Marcus Aurelius Antoninus was Roman emperor from 161 to 180 and a Stoic philosopher. He was a member of the Nerva–Antonine dynasty, the last of the rulers later known as the Five Good Emperors and the last emperor of the Pax Romana, an age of relative peace, calm, and stability for the Roman Empire lasting from 27 BC to 180 AD. He served as Roman consul in 140, 145, and 161.",
+        "historical_contributions_source": "Stoic philosopher, Roman emperor from 161 to 180",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Martin Luther King": {
+      "person_name": "Martin Luther King",
+      "verified_wikipedia_title": "Martin Luther King Jr.",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Martin Luther King Jr.'.",
+      "description": "American minister and civil rights activist (1929–1968)",
+      "source_facts": {
+        "biography_source": "Martin Luther King Jr. was an American civil rights activist and Baptist minister who was a prominent leader of the civil rights movement from 1955 until his assassination in 1968. He advanced civil rights for people of color in the United States through the use of nonviolent resistance and civil disobedience against Jim Crow laws and other forms of legalized discrimination, which most commonly affected African Americans.",
+        "historical_contributions_source": "American minister and civil rights activist (1929–1968)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Michael Faraday": {
+      "person_name": "Michael Faraday",
+      "verified_wikipedia_title": "Michael Faraday",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Michael Faraday'.",
+      "description": "English chemist and physicist (1791–1867)",
+      "source_facts": {
+        "biography_source": "Michael Faraday was an English chemist and physicist who contributed vastly to the study of electrochemistry and electromagnetism. His main discoveries include the principles underlying electromagnetic induction, diamagnetism, and electrolysis. Although Faraday received little formal education, as a self-made man, he was one of the most influential scientists in history. It was by his research on the magnetic field around a conductor carrying a direct current that Faraday established the concept of the electromagnetic field in physics. Faraday also established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena. He similarly discovered the principles of electromagnetic induction, diamagnetism, and the laws of electrolysis. His inventions of electromagnetic rotary devices formed the foundation of electric motor technology, and it was largely due to his efforts that electricity became practical for use in technology. The SI unit of capacitance, the farad, is named after him.",
+        "historical_contributions_source": "English chemist and physicist (1791–1867)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Muhammad Abduh": {
+      "person_name": "Muhammad Abduh",
+      "verified_wikipedia_title": "Muhammad Abduh",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Muhammad_Abduh",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Muhammad Abduh'.",
+      "description": "Egyptian jurist and theologian (1849–1905)",
+      "source_facts": {
+        "biography_source": "Muhammad Abduh was an Egyptian Islamic scholar and judge who served as Grand Mufti of Egypt. He was a central figure of the Arab Nahḍa and Islamic Modernism in the late 19th and early 20th centuries.",
+        "historical_contributions_source": "Egyptian jurist and theologian (1849–1905)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Nicolaus Copernicus": {
+      "person_name": "Nicolaus Copernicus",
+      "verified_wikipedia_title": "Nicolaus Copernicus",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Nicolaus Copernicus'.",
+      "description": "Mathematician and astronomer (1473–1543)",
+      "source_facts": {
+        "biography_source": "Nicolaus Copernicus was a Renaissance polymath who formulated a model of the universe that placed the Sun rather than Earth at its center. The publication of Copernicus's model in his book De revolutionibus orbium coelestium, just before his death in 1543, was a major event in the history of science, triggering the Copernican Revolution and making a pioneering contribution to the Scientific Revolution. Though a similar heliocentric model had been developed eighteen centuries earlier by Aristarchus of Samos, an ancient Greek astronomer, Copernicus likely arrived at his model independently.",
+        "historical_contributions_source": "Mathematician and astronomer (1473–1543)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Nur ad-Din": {
+      "person_name": "Nur ad-Din",
+      "verified_wikipedia_title": "Nur al-Din Zengi",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Nur_al-Din_Zengi",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Nur al-Din Zengi'.",
+      "description": "Emir of Aleppo (1146–1174) and Damascus (1154–1174)",
+      "source_facts": {
+        "biography_source": "Al-Malik al-Adil Abu al-Qasim Nūr al-Dīn Maḥmūd bin Imad al-Dīn Zengī, commonly known as Nur ad-Din or Nureddin, and al-Malik al-Adil, was a Turkoman member of the Zengid dynasty, who ruled the Syrian province of the Seljuk Empire. He reigned from 1146 to 1174. He is regarded as an important figure of the Second Crusade.",
+        "historical_contributions_source": "Emir of Aleppo (1146–1174) and Damascus (1154–1174)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Oscar Wilde": {
+      "person_name": "Oscar Wilde",
+      "verified_wikipedia_title": "Oscar Wilde",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Oscar Wilde'.",
+      "description": "Irish writer (1854–1900)",
+      "source_facts": {
+        "biography_source": "Oscar Fingal O'Fflahertie Wills Wilde was an Irish author, poet and playwright. After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s. He was a key figure in the emerging Aestheticism movement of the late 19th century and is widely regarded as the greatest playwright of the Victorian era. Wilde is best known for his Gothic novel The Picture of Dorian Gray (1890), his epigrams, plays and bedtime stories for children, as well as his criminal conviction in 1895 for gross indecency and for practicing homosexual acts.",
+        "historical_contributions_source": "Irish writer (1854–1900)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Qutuz": {
+      "person_name": "Qutuz",
+      "verified_wikipedia_title": "Qutuz",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Qutuz",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Qutuz'.",
+      "description": "Sultan of Egypt from 1259 to 1260",
+      "source_facts": {
+        "biography_source": "Sayf ad-Din Qutuz, also romanized as Kutuz or Kotuz and fully al-Malik al-Muẓaffar Sayf ad-Dīn Quṭuz, was the Mamluk Sultan of Egypt. He reigned as Sultan for less than a year, from 1259 until his assassination in 1260, but served as the de facto ruler for two decades.",
+        "historical_contributions_source": "Sultan of Egypt from 1259 to 1260",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Rosa Parks": {
+      "person_name": "Rosa Parks",
+      "verified_wikipedia_title": "Rosa Parks",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Rosa_Parks",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Rosa Parks'.",
+      "description": "American civil rights activist (1913–2005)",
+      "source_facts": {
+        "biography_source": "Rosa Louise McCauley Parks was an American civil rights activist. She is best known for her 1955 refusal to move from her seat on a bus in Montgomery, Alabama, in defiance of Jim Crow racial segregation laws, which sparked the Montgomery bus boycott. She is sometimes known as the \"mother of the civil rights movement\".",
+        "historical_contributions_source": "American civil rights activist (1913–2005)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Saladin": {
+      "person_name": "Saladin",
+      "verified_wikipedia_title": "Saladin",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Saladin",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Saladin'.",
+      "description": "Founder of the Ayyubid dynasty (c. 1137 – 1193)",
+      "source_facts": {
+        "biography_source": "Salah ad-Din Yusuf ibn Ayyub, commonly known as Saladin, was a Kurdish commander and political leader. He was the founder of the Ayyubid dynasty and the first sultan of both Egypt and Syria. An important figure of the Third Crusade, he spearheaded the Muslim military effort against the Crusader states in the Levant. At the height of his power, the Ayyubid realm spanned Egypt, Syria, Upper Mesopotamia, the Hejaz, Yemen, and Nubia.",
+        "historical_contributions_source": "Founder of the Ayyubid dynasty (c. 1137 – 1193)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Steve Jobs": {
+      "person_name": "Steve Jobs",
+      "verified_wikipedia_title": "Steve Jobs",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Jobs",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Steve Jobs'.",
+      "description": "American businessman and inventor (1955–2011)",
+      "source_facts": {
+        "biography_source": "Steven Paul Jobs was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+        "historical_contributions_source": "American businessman and inventor (1955–2011)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "Sun Yat-sen": {
+      "person_name": "Sun Yat-sen",
+      "verified_wikipedia_title": "Sun Yat-sen",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Yat-sen",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'Sun Yat-sen'.",
+      "description": "Chinese revolutionary and statesman (1866–1925)",
+      "source_facts": {
+        "biography_source": "Sun Yat-sen was a Chinese physician, revolutionary and political philosopher who founded the Republic of China (ROC) and the Kuomintang (KMT). Sun is credited with leading the 1911 Revolution and overthrowing the Qing dynasty. He served as the first president of the Provisional Government of the Republic of China (1912) and as the inaugural premier of the Kuomintang.",
+        "historical_contributions_source": "Chinese revolutionary and statesman (1866–1925)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    },
+    "T. E. Lawrence": {
+      "person_name": "T. E. Lawrence",
+      "verified_wikipedia_title": "T. E. Lawrence",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/T._E._Lawrence",
+      "source_status": "VERIFIED_SOURCE",
+      "identity_confidence": "HIGH",
+      "source_notes": "Verified Wikipedia historical person article 'T. E. Lawrence'.",
+      "description": "British Army officer, diplomat and writer (1888–1935)",
+      "source_facts": {
+        "biography_source": "Thomas Edward Lawrence was a British Army officer, archaeologist, diplomat and writer known for his role during the Arab Revolt and Sinai and Palestine campaign against the Ottoman Empire in the First World War. The breadth and variety of his activities and associations, and Lawrence's ability to describe them vividly in writing, earned him international fame as Lawrence of Arabia, a title used for the 1962 film based on his wartime activities.",
+        "historical_contributions_source": "British Army officer, diplomat and writer (1888–1935)",
+        "achievements_source": "INSUFFICIENT_FOR_FIELD",
+        "significance_source": "INSUFFICIENT_FOR_FIELD"
+      }
+    }
+  }
+}

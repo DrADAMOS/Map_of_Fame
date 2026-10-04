@@ -1,0 +1,70 @@
+{
+  "audit_type": "NON_ENGLISH_TRANSLATION_FULL_QUALITY_AUDIT",
+  "read_only": true,
+  "files_modified": 0,
+  "protected_file_hashes": {
+    "startup": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "643aa78eb3ca16c7c622bb47db3fea74336f7d5bd9a8befe7f8896797ab90dcd"
+    },
+    "shutdown": {
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\person_i18n.json": "40f5876fa25e8841e66cdb5ca279aa21b076a9b386dfa19e3504d628ec71779a",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\quiz_data.json": "58626eb00b1900a7ae8da64443e5030340b4e6f38966f7f2ce94d865378a646f",
+      "H:\\Android\\Projects\\MapofFame\\app\\src\\main\\assets\\js\\person_i18n.js": "643aa78eb3ca16c7c622bb47db3fea74336f7d5bd9a8befe7f8896797ab90dcd"
+    },
+    "modified": false
+  },
+  "deterministic": true,
+  "summary": {
+    "PEOPLE": 289,
+    "LOCALE_RECORDS": 3757,
+    "FIELDS": 15028,
+    "CONFIRMED": 0,
+    "CANDIDATES": 0,
+    "DETERMINISTIC": "PASS",
+    "APPLICATION_DATA_MODIFIED": "NO",
+    "FINAL_STATUS": "PASS"
+  },
+  "coverage": {
+    "people_audited_ratio": "289/289",
+    "locales_audited_ratio": "13/13",
+    "fields_audited_ratio": "15028/15028",
+    "records_audited_ratio": "3757/3757"
+  },
+  "findings_by_locale": {
+    "ar": 0,
+    "es": 0,
+    "fr": 0,
+    "de": 0,
+    "pt": 0,
+    "it": 0,
+    "tr": 0,
+    "ru": 0,
+    "ja": 0,
+    "zh": 0,
+    "hi": 0,
+    "id": 0,
+    "fa": 0
+  },
+  "findings_by_field": {
+    "bio": 0,
+    "achievements": 0,
+    "key_facts": 0,
+    "historical_significance": 0
+  },
+  "findings_by_classification": {
+    "MISSING_OR_EMPTY": 0,
+    "INSUFFICIENT_SOURCE": 0,
+    "CLEARLY_UNTRANSLATED_ENGLISH": 0,
+    "WRONG_PERSON_OR_TOPIC": 0,
+    "DIRECT_CONTRADICTION": 0,
+    "MAJOR_CONTENT_OMISSION": 0,
+    "TRUE_LANGUAGE_CONTAMINATION": 0,
+    "CLEAR_SEMANTIC_MISMATCH": 0,
+    "CANDIDATE": 0
+  },
+  "confirmed_findings": [],
+  "candidate_findings": [],
+  "application_data_modified": false
+}

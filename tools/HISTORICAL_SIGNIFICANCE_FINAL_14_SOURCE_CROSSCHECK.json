@@ -1,0 +1,104 @@
+{
+  "audit_type": "HISTORICAL_SIGNIFICANCE_FINAL_14_SOURCE_CROSSCHECK",
+  "read_only": true,
+  "entries": [
+    {
+      "person": "Omar al-Mukhtar",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports desert warfare strategies, local geography knowledge, and ambushes against Italian forces."
+    },
+    {
+      "person": "Saddam Hussein",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports the polarized legacy view across the Arab world (supporters vs. detractors)."
+    },
+    {
+      "person": "Mother Teresa",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports the global operational footprint and mission scale across multiple countries."
+    },
+    {
+      "person": "Nelson Mandela",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports global icon status, universal symbol of social justice, and anti-racist/anti-colonial leadership."
+    },
+    {
+      "person": "Yasser Arafat",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports secret talks and negotiations with the Israeli government leading to the 1993 Oslo Accords and Palestinian self-rule."
+    },
+    {
+      "person": "Pyrrhus of Epirus",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports Plutarch's record of Hannibal ranking him as a top military commander."
+    },
+    {
+      "person": "Attila the Hun",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source repair passage explicitly supports fifth-century Hunnic Empire rule and military campaigns against Roman Empires."
+    },
+    {
+      "person": "Socrates",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports his polarizing status in Athens, trial, and execution."
+    },
+    {
+      "person": "Euripides",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports antique educational readership and enduring reception."
+    },
+    {
+      "person": "Ahmad ibn Tulun",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports Egypt becoming an autonomous political actor independent of imperial power."
+    },
+    {
+      "person": "Abd al-Rahman III",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports architectural patronage and construction of the Medina Azahara palace complex."
+    },
+    {
+      "person": "Yusuf ibn Tashfin",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source repair passage explicitly supports Maghreb empire expansion, establishing Marrakech as capital, and checking the Reconquista at Sagrajas."
+    },
+    {
+      "person": "Constantine the Great",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports empire reunification under a single emperor and major military victories against external tribes."
+    },
+    {
+      "person": "Abraham Lincoln",
+      "classification": "FULLY_SUPPORTED",
+      "distinct_from_existing_fields": true,
+      "decision": "WRITE_APPROVED",
+      "reason": "Exact source passage explicitly supports leading the U.S. through the American Civil War, preserving the Union, and abolition of slavery."
+    }
+  ]
+}

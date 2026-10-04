@@ -1,0 +1,11 @@
+{
+  "target_people": 33,
+  "people_with_written_facts": 32,
+  "approved_facts": 58,
+  "rejected_facts": 8,
+  "files_modified": 1,
+  "modified_file": "app/src/main/assets/person_i18n.json",
+  "modified_fields": "English key_facts only",
+  "unexpected_changes": 0,
+  "status": "PASS"
+}

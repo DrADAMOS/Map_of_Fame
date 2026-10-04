@@ -1,0 +1,27 @@
+# IDE / OS
+*.iml
+.DS_Store
+.idea/
+
+# Gradle local state and caches
+.gradle/
+**/.gradle/
+**/.gradle/**/*.lock
+
+# Build outputs
+/build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# Local Android configuration
+local.properties
+
+# Local signing credentials / keystores — NEVER commit these
+keystore.properties
+**/keystore.properties
+*.jks
+*.keystore
+**/*.jks
+**/*.keystore
