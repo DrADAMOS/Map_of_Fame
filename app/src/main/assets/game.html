@@ -301,24 +301,6 @@
 
             <!-- Settings Capsule Buttons & Rows -->
             <div class="w-full max-w-xs space-y-4 flex flex-col items-center">
-                <!-- 0. Dark Mode / Light Mode Toggle Row -->
-                <div onclick="toggleThemeJS()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all cursor-pointer">
-                    <span class="flex items-center gap-3">
-                        <i id="settingsThemeIcon" class="fa-solid fa-moon text-yellow-500 text-sm"></i>
-                        <span id="lblThemeToggle" class="text-sm">الوضع الداكن / الفاتح</span>
-                    </span>
-                    <i class="fa-solid fa-arrow-rotate-right text-gray-400 text-xs"></i>
-                </div>
-
-                <!-- 1. About the App -->
-                <button onclick="openAboutApp()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
-                    <span class="flex items-center gap-3">
-                        <i class="fa-solid fa-circle-info text-yellow-500 text-sm"></i>
-                        <span id="lblAboutApp" class="text-sm">عن التطبيق</span>
-                    </span>
-                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
-                </button>
-
                 <!-- 2. Privacy Policy -->
                 <button onclick="openPrivacyPolicy()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
                     <span class="flex items-center gap-3">
@@ -344,18 +326,7 @@
                         <span id="lblShareApp" class="text-sm">مشاركة التطبيق</span>
                     </span>
                     <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
-                </button>
-
-                <!-- 5. Terms of Use -->
-                <button onclick="openTermsOfUse()" class="w-full py-4 px-6 rounded-full settings-bar text-white font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
-                    <span class="flex items-center gap-3">
-                        <i class="fa-solid fa-file-contract text-yellow-500 text-sm"></i>
-                        <span id="lblTermsOfUse" class="text-sm">شروط الاستخدام</span>
-                    </span>
-                    <i class="fa-solid fa-chevron-right rtl:rotate-180 text-gray-400 text-xs"></i>
-                </button>
-
-                <!-- 6. Reset App -->
+                </button><!-- 6. Reset App -->
                 <button onclick="openResetApp()" class="w-full py-4 px-6 rounded-full bg-red-500/10 border border-red-500/30 text-red-400 font-black flex items-center justify-between shadow-lg active:scale-95 transition-all">
                     <span class="flex items-center gap-3">
                         <i class="fa-solid fa-rotate-left text-red-400 text-sm"></i>
